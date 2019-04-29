@@ -61,9 +61,8 @@ async function parseReport() {
                 console.error(err);
                 translationResult = await tryTranslation(value);
               }
-              counter += 1;
               console.log(
-                `Translated ${((counter / places.length / missingTranslationPath.length) * 100).toFixed(
+                `Translated ${((counter++ / places.length / missingTranslationPath.length) * 100).toFixed(
                   3,
                 )}% file#${fileIndex} patch#${index}`,
               );
