@@ -1,0 +1,11 @@
+{
+  "name": "starbound-rpg-growth-chinese",
+  "description": "Starbound Mod RPG Growth 汉化",
+  "version": "0.1.0",
+  "author": "linonetwo",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "rescripts build",
+    "unpack:mac": "~/Library/Application Support/Steam/SteamApps/common/Starbound/osx/asset_unpacker ~/Desktop/RPGGrowthChinese.pak ~/Desktop/translation"
+  }
+}
