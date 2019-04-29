@@ -9,19 +9,19 @@
     "path": "/paneLayout/windowtitle/subtitle",
     "op": "replace",
     "source": " ^#b9b5b2;Only experienced Miners know what to do with this!",
-    "value": "^#B9B5B2；只有经验丰富的矿工才知道该怎么做！"
+    "value": "^#b9b5b2;只有经验丰富的矿工才知道该怎么做！"
   },
   {
     "path": "/paneLayout/lblSchematics/value",
     "op": "replace",
     "source": "^#b9b5b2;BLUEPRINT",
-    "value": "^#B9B5B2；蓝图"
+    "value": "^#b9b5b2;蓝图"
   },
   {
     "path": "/paneLayout/lblProducttitle/value",
     "op": "replace",
     "source": "^#b9b5b2;PRODUCT",
-    "value": "^#B9B5B2；产品"
+    "value": "^#b9b5b2;产品"
   },
   {
     "path": "/paneLayout/btnCraft/caption",

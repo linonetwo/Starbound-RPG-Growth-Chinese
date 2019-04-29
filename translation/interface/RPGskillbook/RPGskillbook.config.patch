@@ -648,7 +648,7 @@
     "path": "/gui/professionslayout/children/subtitle/value",
     "op": "replace",
     "source": "Professions are a valuable asset and can be selected for ^yellow;1000 Pixels.\n^red;You can quit your Profession at any time, but must pay again to re-select!",
-    "value": "职业是一项宝贵的资产，可以选择^黄色；1000像素。"
+    "value": "职业是一项宝贵的资产，可以选择^yellow;1000像素。"
   },
   {
     "path": "/gui/professionslayout/children/professiondescription/value",

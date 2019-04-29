@@ -27,7 +27,7 @@
     "path": "/rogue/text",
     "op": "replace",
     "source": "The Rogue: Mixed-Range CC. Does better with One-Handed Weapons. The Rogue's skills mostly improve offensive capabilities, though also increase Physical, Poison, and Knockback Resistance. The Rogue can randomly Poison enemies, and is more Resistant to Poison while Food is near full.",
-    "value": "流氓：混频CC。单手武器效果更好。盗贼的技能主要是提高进攻能力，但也增加了身体、毒素和击退抵抗力。这个流氓可以随意毒害敌人，而且在食物快满的时候更能抵抗毒害。"
+    "value": "盗贼：混频CC。单手武器效果更好。盗贼的技能主要是提高进攻能力，但也增加了身体、毒素和击退抵抗力。这个盗贼可以随意毒害敌人，而且在食物快满的时候更能抵抗毒害。"
   },
   {
     "path": "/explorer/text",

@@ -3,6 +3,6 @@
     "path": "/description",
     "op": "replace",
     "source": "^red;NOW THAT'S A LOT OF DAMAGE!\n^orange;Weapon Designed by Banny!",
-    "value": "^红色；现在这是很大的伤害！"
+    "value": "^red;现在这可以造成成吨的伤害！\n^orange;武器由 Banny 设计！"
   }
 ]

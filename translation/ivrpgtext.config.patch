@@ -549,7 +549,7 @@
     "path": "/lore/children/universe/title",
     "op": "replace",
     "source": "^magenta;Universe",
-    "value": "^洋红；宇宙"
+    "value": "^magenta;宇宙"
   },
   {
     "path": "/lore/children/universe/children/truth/title",
@@ -567,7 +567,7 @@
     "path": "/lore/children/people/children/winter/title",
     "op": "replace",
     "source": "^#ffaafa;Winter",
-    "value": "冬季FFAAFA"
+    "value": "^#ffaafa;冬季"
   },
   {
     "path": "/lore/children/people/children/winter/children/comprehension/title",
@@ -585,7 +585,7 @@
     "path": "/lore/children/people/title",
     "op": "replace",
     "source": "^orange;People",
-    "value": "橙色；人"
+    "value": "^orange;人"
   },
   {
     "path": "/lore/children/people/children/winter/children/whoareyoureally/title",
@@ -597,7 +597,7 @@
     "path": "/lore/children/people/children/zia/title",
     "op": "replace",
     "source": "^#c16bff;Zia",
-    "value": "齐亚C16BFF"
+    "value": "^#c16bff;齐亚"
   },
   {
     "path": "/lore/children/people/children/zia/children/apprenticesfolly/title",
@@ -610,12 +610,6 @@
     "op": "replace",
     "source": "Force of Nature",
     "value": "自然力"
-  },
-  {
-    "path": "/lore/children/people/children/egoen/title",
-    "op": "replace",
-    "source": "^#6d577c;Egoen",
-    "value": "Egoen 6D579C"
   },
   {
     "path": "/lore/children/people/children/egoen/children/expectation/title",
@@ -651,7 +645,7 @@
     "path": "/lore/children/people/children/soliste/title",
     "op": "replace",
     "source": "^#75ff75;Soliste",
-    "value": "^#75ff75；索利斯特"
+    "value": "^#75ff75;索利斯特"
   },
   {
     "path": "/lore/children/people/children/soliste/children/partners/title",
@@ -669,13 +663,13 @@
     "path": "/lore/children/class/title",
     "op": "replace",
     "source": "^gray;Class",
-    "value": "灰色类"
+    "value": "^gray;职业"
   },
   {
     "path": "/lore/children/class/children/knight/title",
     "op": "replace",
     "source": "^blue;Knight",
-    "value": "蓝色；Knight"
+    "value": "^blue;Knight"
   },
   {
     "path": "/lore/children/class/children/knight/children/basicknight1/title",
@@ -693,7 +687,7 @@
     "path": "/lore/children/class/children/wizard/title",
     "op": "replace",
     "source": "^magenta;Wizard",
-    "value": "品红；巫师"
+    "value": "^magenta;巫师"
   },
   {
     "path": "/lore/children/class/children/wizard/children/basicwizard1/title",
@@ -711,7 +705,7 @@
     "path": "/lore/children/class/children/ninja/title",
     "op": "replace",
     "source": "^red;Ninja",
-    "value": "红色；忍者"
+    "value": "red;忍者"
   },
   {
     "path": "/lore/children/class/children/ninja/children/basicninja1/title",
@@ -729,7 +723,7 @@
     "path": "/lore/children/class/children/soldier/title",
     "op": "replace",
     "source": "^orange;Soldier",
-    "value": "士兵；橙色"
+    "value": "^orange;士兵"
   },
   {
     "path": "/lore/children/class/children/soldier/children/basicsoldier1/title",
@@ -747,25 +741,25 @@
     "path": "/lore/children/class/children/rogue/title",
     "op": "replace",
     "source": "^green;Rogue",
-    "value": "绿色；流氓"
+    "value": "^green;盗贼"
   },
   {
     "path": "/lore/children/class/children/rogue/children/basicrogue1/title",
     "op": "replace",
     "source": "The Rogue",
-    "value": "流氓"
+    "value": "盗贼"
   },
   {
     "path": "/lore/children/class/children/rogue/children/aroguesway/title",
     "op": "replace",
     "source": "A Rogue's Way",
-    "value": "流氓之道"
+    "value": "盗贼之道"
   },
   {
     "path": "/lore/children/class/children/explorer/title",
     "op": "replace",
     "source": "^yellow;Explorer",
-    "value": "^黄色；资源管理器"
+    "value": "^yellow;探险家"
   },
   {
     "path": "/lore/children/class/children/explorer/children/basicexplorer1/title",
