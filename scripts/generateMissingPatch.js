@@ -42,7 +42,7 @@ async function parseReport() {
   // 创建 patch JSON
   let counter = 0;
   await Promise.all(
-    missingTranslationPath.map(aPath =>
+    missingTranslationPath.map((aPath, fileIndex) =>
       readAsync(`source/${aPath}`, 'json')
         .then(fileJSON => keyPathInObject(fileJSON, keysNeedTranslation))
         .then(places =>
@@ -58,7 +58,11 @@ async function parseReport() {
                 translationResult = await tryTranslation(value);
               }
               counter += 1;
-              console.log(`Translated ${((counter / places.length) * 100).toFixed(3)}% #${index}`);
+              console.log(
+                `Translated ${((counter / places.length / missingTranslationPath.length) * 100).toFixed(
+                  3,
+                )}% file#${fileIndex} patch#${index}`,
+              );
 
               return { path, op: 'replace', source: value, value: translationResult };
             }),
