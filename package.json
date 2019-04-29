@@ -12,9 +12,13 @@
   },
   "dependencies": {
     "codegen.macro": "^3.0.0",
+    "flow-runtime": "^0.17.0",
+    "franc": "^4.0.0",
+    "fs-jetpack": "^2.2.2",
     "lodash": "^4.17.11",
     "node-fetch": "^2.4.1",
-    "param.macro": "^3.2.0"
+    "param.macro": "^3.2.0",
+    "strip-json-comments": "^2.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
