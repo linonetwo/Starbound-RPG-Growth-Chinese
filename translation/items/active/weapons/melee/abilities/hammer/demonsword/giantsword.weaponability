@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "Demon Sword",
-    "value": "恶魔之剑"
-  }
-]

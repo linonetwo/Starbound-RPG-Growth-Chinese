@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "A firing mechanism that allows guns to fire different kinds of bullets.",
-    "value": "允许枪发射不同种类子弹的发射装置。"
-  }
-]

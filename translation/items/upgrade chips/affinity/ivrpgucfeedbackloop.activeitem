@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Shock and Arc Affinity Upgrade.\nGain Rage after inflicting Overload.",
-    "value": "冲击和电弧亲和力升级。"
-  }
-]

@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Armor Sphere Upgrade.\nUse energy to stun nearby enemies while transformed.",
-    "value": "装甲球升级。"
-  }
-]

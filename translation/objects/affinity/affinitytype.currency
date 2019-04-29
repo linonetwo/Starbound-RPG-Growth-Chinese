@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Points that change your Affinity.",
-    "value": "改变你亲和力的点。"
-  }
-]

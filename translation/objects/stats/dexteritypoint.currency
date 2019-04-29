@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Dexterity",
-    "value": "灵巧性"
-  }
-]

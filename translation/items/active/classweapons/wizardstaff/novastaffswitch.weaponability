@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "Element Switch",
-    "value": "元件开关"
-  }
-]

@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Sometimes you need to kill enemies behind you, too.",
-    "value": "有时候你也需要杀死身后的敌人。"
-  }
-]

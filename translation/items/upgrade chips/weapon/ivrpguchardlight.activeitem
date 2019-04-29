@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Versa Ricochet Upgrade.\nBullets bounce towards nearby enemies.",
-    "value": "反之亦然。"
-  }
-]

@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "Combo Slash",
-    "value": "拯救公主"
-  }
-]

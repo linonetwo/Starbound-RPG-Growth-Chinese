@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "Darkmatter Orb",
-    "value": "暗物质球"
-  }
-]

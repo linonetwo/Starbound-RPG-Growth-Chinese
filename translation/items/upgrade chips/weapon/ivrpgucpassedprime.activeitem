@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Primed Nova Upgrade.\nPrimed Nova can be charged for longer. Status Procs upgraded.",
-    "value": "启动Nova升级。"
-  }
-]

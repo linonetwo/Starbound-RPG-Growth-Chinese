@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Endurance",
-    "value": "耐力"
-  }
-]

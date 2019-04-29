@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Odin's gift to you.",
-    "value": "奥丁给你的礼物。"
-  }
-]

@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "Noxious Fumes",
-    "value": "有害烟雾"
-  }
-]

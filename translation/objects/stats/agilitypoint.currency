@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Agility",
-    "value": "敏捷性"
-  }
-]

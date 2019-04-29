@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Careful. It's sharp.",
-    "value": "小心。它很锋利。"
-  }
-]

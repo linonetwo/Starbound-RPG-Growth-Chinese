@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Stat Point",
-    "value": "升级获得的点数"
-  }
-]

@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Enhanced Movement Upgrade.\nDashing lasts longer, and Sprinting is faster.",
-    "value": "增强移动升级。"
-  }
-]

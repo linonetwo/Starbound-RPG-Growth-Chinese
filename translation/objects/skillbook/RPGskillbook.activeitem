@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "A mystical book that seems to emanate power. Perhaps it can be used somehow.",
-    "value": "一本似乎散发着力量的神秘书。也许它可以被某种方式使用。"
-  }
-]

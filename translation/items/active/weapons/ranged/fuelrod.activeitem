@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Fires super-heated plasma rods.",
-    "value": "发射超热等离子体棒。"
-  }
-]

@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Energize Upgrade.\nEnergize's passive bonus and active jump count are improved when energy is full.",
-    "value": "激发升级。"
-  }
-]

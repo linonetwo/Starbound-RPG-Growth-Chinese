@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Watch your step.",
-    "value": "小心脚下。"
-  }
-]

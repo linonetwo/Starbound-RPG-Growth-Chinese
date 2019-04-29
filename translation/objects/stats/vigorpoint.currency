@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Vigor",
-    "value": "活力"
-  }
-]

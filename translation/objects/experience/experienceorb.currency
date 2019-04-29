@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Experience orbs used to level up.",
-    "value": "经验球用来升级。"
-  }
-]

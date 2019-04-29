@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "A powerful Stygian weapon. Increased damage at the cost of speed.",
-    "value": "强大的冥河武器。以牺牲速度增加伤害。"
-  }
-]
