@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "强光",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "DGN战斗步枪跳弹升级.\n子弹击中墙壁时会向附近的敌人弹射.^red;\n子弹每次反弹后的伤害都会降低.",
     "path": "/description"
   }

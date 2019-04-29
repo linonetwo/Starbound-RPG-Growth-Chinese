@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "大量的专业知识.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "专业知识",
-    "path": "/shortdescription"
   }
 ]

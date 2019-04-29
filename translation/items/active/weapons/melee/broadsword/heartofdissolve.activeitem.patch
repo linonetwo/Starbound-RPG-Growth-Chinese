@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "^#32CD32;毁灭之心^white;",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "一柄来自地狱的强大武器,以速度为代价增加伤害.",
     "path": "/description"
   }

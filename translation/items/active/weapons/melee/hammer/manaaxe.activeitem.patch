@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "结晶冲击武器.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "^#00FFFF;仲裁者巨斧^white;",
-    "path": "/shortdescription"
   }
 ]

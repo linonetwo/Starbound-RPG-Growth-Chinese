@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "保家卫国. 生灵庇护.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "生灵庇护者",
-    "path": "/shortdescription"
   }
 ]

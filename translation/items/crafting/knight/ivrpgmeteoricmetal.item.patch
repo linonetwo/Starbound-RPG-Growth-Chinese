@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一块坚硬无比的流星金属碎片.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "流星金属",
-    "path": "/shortdescription"
   }
 ]

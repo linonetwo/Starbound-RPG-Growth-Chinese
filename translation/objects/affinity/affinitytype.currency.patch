@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "亲和力类型",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "选择亲和力.",
     "path": "/description"
   }

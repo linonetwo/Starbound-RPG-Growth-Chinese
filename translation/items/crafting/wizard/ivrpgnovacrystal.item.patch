@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一块散发着神秘力量的水晶.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "新星水晶",
-    "path": "/shortdescription"
   }
 ]

@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "力量",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "力量.",
     "path": "/description"
   }

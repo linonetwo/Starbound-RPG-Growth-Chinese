@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "亲和力重置卷轴",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "一枚可以重置亲和力的卷轴!也许你想试试新的元素?",
     "path": "/description"
   }

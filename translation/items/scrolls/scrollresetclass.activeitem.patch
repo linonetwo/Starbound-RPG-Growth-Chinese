@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "职业重置卷轴",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "真是个鼓舞人心的传奇英雄故事,也许是时候换个新工作了.",
     "path": "/description"
   }

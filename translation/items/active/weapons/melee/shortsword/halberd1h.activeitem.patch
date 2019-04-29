@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一柄强大的武器, 牺牲了速度作为代价.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "^#77acc3;冥河巨斧^white;",
-    "path": "/shortdescription"
   }
 ]

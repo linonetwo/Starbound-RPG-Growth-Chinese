@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "看起来这个卷轴里包含着各种有用的信息.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "卷轴: +1 属性点",
-    "path": "/shortdescription"
   }
 ]

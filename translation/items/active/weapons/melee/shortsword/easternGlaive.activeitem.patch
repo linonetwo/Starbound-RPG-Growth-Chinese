@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "这把武器使用东方的设计风格.也许受到传统鲛人武器的启发,它在战斗中非常有效.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "^#77acc3;华丽的战刃^white;",
-    "path": "/shortdescription"
   }
 ]

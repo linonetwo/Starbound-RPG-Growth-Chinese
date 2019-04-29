@@ -6,11 +6,6 @@
   },
   {
     "op": "replace",
-    "value": "这些非法的枪支部件可以用来制造武器.您需要制作一个独特的枪机组件,但是我已经为您制作了一个. 一旦你制造出第二个枪机组件,前往铁砧上制造DGN战斗步枪!",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
     "value": "^green;专业化武器",
     "path": "/title"
   }

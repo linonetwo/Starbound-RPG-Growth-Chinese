@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "令人恶心的完美. ",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "虹吸爪:孢子",
-    "path": "/shortdescription"
   }
 ]

@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "你现在更聪明了! 我改进了你的新星. 你现在可以在高级铁砧上制作超新星.",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
     "value": "^green;武器升级",
     "path": "/title"
   },

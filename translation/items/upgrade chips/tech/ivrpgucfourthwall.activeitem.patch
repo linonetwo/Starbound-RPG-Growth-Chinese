@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "第四堵墙",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "传送升级.\n传送现在可以无视墙壁, 即使当前处于副本世界.",
     "path": "/description"
   }

@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "等级.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "等级.",
-    "path": "/shortdescription"
   }
 ]

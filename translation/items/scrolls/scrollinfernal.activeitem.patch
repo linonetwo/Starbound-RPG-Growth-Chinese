@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "卷轴: 炼狱",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "一个刻着恶魔铭文的卷轴. 有部分被火烧毁了.",
     "path": "/description"
   }

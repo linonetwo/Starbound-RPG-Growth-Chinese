@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "铁人",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "增强运动升级提高移动速度与跳跃高度.\n疾跑持续时间更长.\n冲刺速度更快.",
     "path": "/description"
   }

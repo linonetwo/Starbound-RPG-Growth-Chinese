@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "转速超载",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "RPT探索者钻头升级.\n对敌人造成双倍伤害. 能够进行短距离钻探.\n^red;能量消耗速度也是双倍.",
     "path": "/description"
   }

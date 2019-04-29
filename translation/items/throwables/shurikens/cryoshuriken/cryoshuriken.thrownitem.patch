@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一个冰冷的飞镖,可以冻僵敌人.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "寒冰飞镖",
-    "path": "/shortdescription"
   }
 ]

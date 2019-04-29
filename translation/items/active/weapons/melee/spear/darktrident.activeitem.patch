@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "尖锐的矛.比长矛慢,但会造成更多的伤害.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "^#00FFFF;暗物质矛^white;",
-    "path": "/shortdescription"
   }
 ]

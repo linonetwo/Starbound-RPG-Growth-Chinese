@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一块精炼过的流星金属锭,坚不可摧.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "流星金属锭",
-    "path": "/shortdescription"
   }
 ]

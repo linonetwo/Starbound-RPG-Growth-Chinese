@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "维京人的葬礼",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "火焰&地狱火亲和力升级.\n燃烧持续时间*2.",
     "path": "/description"
   }

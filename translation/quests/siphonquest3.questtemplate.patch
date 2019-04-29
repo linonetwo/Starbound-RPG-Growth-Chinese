@@ -8,10 +8,5 @@
     "op": "replace",
     "value": "训练时间! 你的技巧越来越熟练, 我会尝试改进你的武器使它能够跟上你的步伐!^white;",
     "path": "/text"
-  },
-  {
-    "op": "replace",
-    "value": "和你一样致命! 我改进了你的武器. 你现在可以在高级铁砧上制作武器类型升级了.",
-    "path": "/completionText"
   }
 ]

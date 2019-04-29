@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "^#77acc3;奥里泰星-劈刀^white;",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "一柄优雅的利刃,既致命又迅速.",
     "path": "/description"
   }

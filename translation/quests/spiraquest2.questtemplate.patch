@@ -8,10 +8,5 @@
     "op": "replace",
     "value": "现在你有了一个改进的升级蓝图,你可以对RPT钻头原型进行改造.当你准备好的时候我会告诉你的^white;",
     "path": "/text"
-  },
-  {
-    "op": "replace",
-    "value": "你的技巧越来越熟练! 我改进了你的工具. 你现在可以在高级铁砧上制作RPT开拓者钻头了.",
-    "path": "/completionText"
   }
 ]

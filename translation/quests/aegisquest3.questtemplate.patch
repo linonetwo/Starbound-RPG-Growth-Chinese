@@ -6,11 +6,6 @@
   },
   {
     "op": "replace",
-    "value": "你在变强的道路上飞驰! 我升级了你的武器. 你现在可以在高级铁砧上制作生灵庇护者了.",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
     "value": "^green;武器升级",
     "path": "/title"
   }

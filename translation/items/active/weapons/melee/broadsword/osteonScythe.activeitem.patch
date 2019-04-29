@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "骨钢镰刀",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "优雅,无情,令人生畏.锯齿般的刀锋能轻易切断肉体.",
     "path": "/description"
   }

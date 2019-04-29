@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "充电器",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "虹吸升级.\n连击技能释放时，将吸取的能量引导至附近的盟友.",
     "path": "/description"
   }

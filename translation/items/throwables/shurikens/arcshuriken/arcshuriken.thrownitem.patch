@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一个嗡嗡作响的飞镖,可以使敌人触电.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "电弧飞镖",
-    "path": "/shortdescription"
   }
 ]

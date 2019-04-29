@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一柄来自地狱的强大武器.以速度为代价增加伤害.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "^#77acc3;冥河战斧",
-    "path": "/shortdescription"
   }
 ]

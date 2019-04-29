@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "虹吸爪",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "三寸寒芒.",
     "path": "/description"
   }

@@ -6,11 +6,6 @@
   },
   {
     "op": "replace",
-    "value": "你的技巧越来越熟练! 我改进了你的武器. 你现在可以在高级铁砧上制作猩红虚灵镖了.",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
     "value": "^green;武器升级",
     "path": "/title"
   }

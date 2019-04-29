@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "灵巧",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "灵巧.",
     "path": "/description"
   }

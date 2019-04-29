@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一个灼热的飞镖,可以使敌人燃烧.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "灼热飞镖",
-    "path": "/shortdescription"
   }
 ]

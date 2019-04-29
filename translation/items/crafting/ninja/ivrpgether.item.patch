@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "一团近乎无形的相位物质...",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "虚灵物质",
-    "path": "/shortdescription"
   }
 ]

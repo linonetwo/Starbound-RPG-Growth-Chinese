@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "英勇先魂",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "骑士冲锋升级.\n空中跳跃增加到3.\n冲撞击退增加.\n^red;冲撞伤害减少.",
     "path": "/description"
   }

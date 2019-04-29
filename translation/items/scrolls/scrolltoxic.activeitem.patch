@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "卷轴: 剧毒",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "一枚记载着有关神经毒素的可以卷轴,上面沾着黏黏糊糊的东西,天知道是什么..",
     "path": "/description"
   }

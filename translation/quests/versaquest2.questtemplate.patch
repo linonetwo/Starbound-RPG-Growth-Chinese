@@ -8,10 +8,5 @@
     "op": "replace",
     "value": "现在你有了一个改进的升级蓝图,你可以对DGN战斗步枪进行改造.当你准备好的时候我会告诉你的.^white;",
     "path": "/text"
-  },
-  {
-    "op": "replace",
-    "value": "你现在更强壮了! 我改进了你的DGN战斗步枪. 你现在可以在高级铁砧上制作DGN战斗步枪MKII了.",
-    "path": "/completionText"
   }
 ]

@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "电荷冲击",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "给你的敌人充电... 免费.",
     "path": "/description"
   }

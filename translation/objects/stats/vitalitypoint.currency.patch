@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "生命力",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "生命力.",
     "path": "/description"
   }

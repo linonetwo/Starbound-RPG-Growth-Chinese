@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "丝卡蒂的祝福",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "寒冰&深寒亲和力升级.\n+50%弓箭伤害. 遭受箭头攻击造成3秒的脆化.\n不适用于弩.",
     "path": "/description"
   }

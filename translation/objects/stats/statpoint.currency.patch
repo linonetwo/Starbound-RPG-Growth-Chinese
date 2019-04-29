@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "属性点",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "属性点",
-    "path": "/shortdescription"
   }
 ]

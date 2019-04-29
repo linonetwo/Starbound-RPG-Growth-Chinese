@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "枪械零件",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "非法的武器零件,也许你可以把它组装起来,搞点事情.",
     "path": "/description"
   }

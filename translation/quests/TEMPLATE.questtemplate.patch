@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "完成.",
-    "path": "/completionText"
-  },
-  {
-    "op": "replace",
     "value": "简介.^white;",
     "path": "/text"
   },

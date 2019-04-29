@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "等离子核心",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "电击&电弧亲和力升级.\n亲和力弱点不再影响你.",
     "path": "/description"
   }

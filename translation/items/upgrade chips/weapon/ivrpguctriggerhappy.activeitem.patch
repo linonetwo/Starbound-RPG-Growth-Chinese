@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "扳机快乐",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "DGN战斗步枪升级.\n多功能制式步枪在再充能完毕后可以立即开火, 并且减少充能时间.",
     "path": "/description"
   }

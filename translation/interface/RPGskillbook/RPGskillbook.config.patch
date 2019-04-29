@@ -371,16 +371,6 @@
   },
   {
     "op": "replace",
-    "value": "尚未实装!",
-    "path": "/gui/professionslayout/children/locked/value"
-  },
-  {
-    "op": "replace",
-    "value": "尚未实装!\n但你还是被骗到了这里~不是吗?",
-    "path": "/gui/professionlayout/children/locked/value"
-  },
-  {
-    "op": "replace",
     "value": "概述",
     "path": "/gui/tabLabel/value"
   },
@@ -593,11 +583,6 @@
     "op": "replace",
     "value": "武器增益:",
     "path": "/gui/classlayout/children/weapontitle/value"
-  },
-  {
-    "op": "replace",
-    "value": "即将实装!",
-    "path": "/gui/specializationlayout/children/locked/value"
   },
   {
     "op": "replace",

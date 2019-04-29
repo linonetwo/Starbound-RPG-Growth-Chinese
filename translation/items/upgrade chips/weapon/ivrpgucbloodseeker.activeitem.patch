@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "血引",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "猩红虚灵镖升级.\n可以进一步感知10个方块外的敌人.\n另外, 被猩红虚灵镖击中的敌人将会受到更多伤害.",
     "path": "/description"
   }

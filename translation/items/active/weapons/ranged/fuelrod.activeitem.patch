@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "value": "等离子大炮",
-    "path": "/shortdescription"
-  },
-  {
-    "op": "replace",
     "value": "发射超高温等离子能量.",
     "path": "/description"
   }

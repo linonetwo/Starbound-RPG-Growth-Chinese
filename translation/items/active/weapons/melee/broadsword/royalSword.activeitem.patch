@@ -3,10 +3,5 @@
     "op": "replace",
     "value": "为皇室量身打造的剑.锋利,平衡,迅速,这把剑可以将把它的主人带到胜利的宝座.",
     "path": "/description"
-  },
-  {
-    "op": "replace",
-    "value": "胜利之剑",
-    "path": "/shortdescription"
   }
 ]
