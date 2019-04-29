@@ -90,37 +90,56 @@ async function appendMissingTranslationItem(report: string[], outputDir: string)
     }));
 
   const memorizedReadAsync = memoize(readAsync);
-  missingTranslationPaths.map(async ({ keyPath, sourceFilePath, translationFilePath }, index) => {
-    const sourceJSON = await memorizedReadAsync(sourceFilePath, 'json');
-    const dotBasedKeyPath = keyPath.substring(1).replace(/\//g, '.');
-    const source = get(sourceJSON, dotBasedKeyPath);
-    await delay(50 * index);
-    let value = '';
-    try {
-      value = await tryTranslation(source);
-    } catch (err) {
-      console.error(err);
-      value = await tryTranslation(source);
-    }
-    const patch = {
-      path: keyPath,
-      op: 'replace',
-      source,
-      value,
-    };
-    // 小心数据竞争，此处不用 async
-    const previousFile = read(translationFilePath);
-    let parsedArray: Object[] = [];
-    try {
-      parsedArray = JSON.parse(previousFile);
-    } catch (error) {
-      console.warn(`奇怪， ${translationFilePath} 没有被创建过，为什么扫描器把它误报为「翻译条目缺失」而不是文件缺失?`);
-    }
-    parsedArray.push(patch);
-    await writeAsync(translationFilePath, parsedArray, { atomic: true }).catch(aaa =>
-      console.log('writeAsync Error: ', aaa),
-    );
-  });
+  const translationFileContents = {};
+  await Promise.all(
+    missingTranslationPaths.map(async ({ keyPath, sourceFilePath, translationFilePath }, index) => {
+      const sourceJSON = await memorizedReadAsync(sourceFilePath, 'json');
+      const dotBasedKeyPath = keyPath.substring(1).split('/');
+      const source = get(sourceJSON, dotBasedKeyPath);
+
+      await delay(50 * index);
+      if (!source) {
+        console.warn(source, keyPath, sourceFilePath, translationFilePath);
+      }
+      let value = '';
+      try {
+        value = await tryTranslation(source);
+      } catch (err) {
+        console.error(err);
+        value = await tryTranslation(source);
+      }
+      const patch = {
+        path: keyPath,
+        op: 'replace',
+        source,
+        value,
+      };
+
+      // 可能得搞个锁……
+      if (translationFileContents[translationFilePath]) {
+        translationFileContents[translationFilePath].push(patch);
+      } else {
+        const previousFile = read(translationFilePath);
+        let parsedArray: Object[] = [];
+        try {
+          parsedArray = JSON.parse(previousFile);
+        } catch (error) {
+          console.warn(
+            `奇怪， ${translationFilePath} 没有被创建过，为什么扫描器把它误报为「翻译条目缺失」而不是文件缺失?`,
+          );
+        }
+        parsedArray.push(patch);
+        translationFileContents[translationFilePath] = parsedArray;
+      }
+    }),
+  );
+  await Promise.all(
+    Object.keys(translationFileContents).map((translationFilePath: string) => {
+      return writeAsync(translationFilePath, translationFileContents[translationFilePath]).catch(aaa =>
+        console.log('writeAsync Error: ', aaa),
+      );
+    }),
+  );
 }
 
 async function parseReport() {
@@ -129,7 +148,7 @@ async function parseReport() {
 
   const report: string[] = await readAsync('./report.log', 'json');
 
-  // generateMissingTranslationFiles(report, outputDir);
+  generateMissingTranslationFiles(report, outputDir);
   appendMissingTranslationItem(report, outputDir);
 }
 
