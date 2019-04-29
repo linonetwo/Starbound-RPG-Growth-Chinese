@@ -161,10 +161,11 @@ async function removeMissingSourceItem(report: string[], outputDir: string) {
   });
   const readFileTask = [];
   translationFiles.forEach(translationFilePath => {
-    readFileTask.push(async () => {
-      const fileJSON = await readAsync(translationFilePath, 'json');
-      translationFileContents[translationFilePath] = fileJSON;
-    });
+    readFileTask.push(
+      readAsync(translationFilePath, 'json').then(fileJSON => {
+        translationFileContents[translationFilePath] = fileJSON;
+      }),
+    );
   });
   await Promise.all(readFileTask);
 
