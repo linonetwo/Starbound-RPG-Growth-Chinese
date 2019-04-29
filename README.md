@@ -68,6 +68,6 @@
 
 ## Contributor
 
-感谢 @993499094 在 https://tieba.baidu.com/p/5581918647 分享了初始版本的汉化
+感谢 [Runningsky](http://www.runningsky.top/localization/sdb/1115920474.html) 在 https://tieba.baidu.com/p/5581918647 分享了初始版本的汉化
 
 目录结构参考了 https://github.com/ProjectSky/FrackinUniverse-sChinese-Project

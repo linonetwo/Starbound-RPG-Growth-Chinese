@@ -1,9 +1,9 @@
 {
-  "version" : "1.36b",
-  "author" : "Runningsky",
-  "description" : "RPG Growth 简体中文本地化mod,感谢@Júnior的本地化模板.",
-  "name" : "RPG_Growth_ZH-CN",
+  "version" : "1.42c",
+  "author" : "Lin Onetwo",
+  "description" : "Starbound Mod RPG Growth 简体中文汉化（不包含源 MOD 本体）",
+  "name" : "RPGGrowthChinese",
   "friendlyName" : "RPG Growth 汉化补丁",
   "priority" : 1002,
-  "link" : "http://www.runningsky.top/localization/sdb/1115920474.html"
+  "link" : "https://github.com/linonetwo/Starbound-RPG-Growth-Chinese"
 }
