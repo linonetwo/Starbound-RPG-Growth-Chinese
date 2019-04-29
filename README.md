@@ -56,6 +56,16 @@
 
 其实没什么用，主要是我总是忘记怎么手动解压，就保存在 script 里备忘吧。
 
+### `npm run generate:overwrite-missing` 自动生成缺失的翻译
+
+使用谷歌翻译 API，注意这会把一大堆文件写入到 `translation` 文件夹里，和已有的翻译混在一起。
+
+注意当前 git 工作区状态，随时准备回滚。
+
+### `npm run generate:test` 测试自动生成功能
+
+把文件写入到 `translation-test` 文件夹里，比较方便删除生成的文件。
+
 ## Contributor
 
 感谢 @993499094 在 https://tieba.baidu.com/p/5581918647 分享了初始版本的汉化

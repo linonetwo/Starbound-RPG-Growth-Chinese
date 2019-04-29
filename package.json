@@ -7,8 +7,9 @@
   "scripts": {
     "build": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_packer ./translation ./RPGGrowthChinese.pak",
     "scan": "node ./scripts/index.js --scan",
-    "generate": "node ./scripts/index.js --generate",
+    "generate:test": "node ./scripts/index.js --generate test",
     "download:source": "rm -rf ./source && curl -LOk https://github.com/IcyVines/Starbound-RPG-Growth/archive/master.zip  && unzip ./master.zip && mv ./Starbound-RPG-Growth-master ./source && rm ./master.zip",
+    "generate:overwrite-missing": "node ./scripts/index.js --generate overwrite-missing",
     "unpack:mac": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_unpacker ./RPGGrowthChinese.pak ./translation.from.pak"
   },
   "dependencies": {
