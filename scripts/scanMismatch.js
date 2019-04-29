@@ -9,6 +9,7 @@ type Place = {
   path: string,
   patches: {
     value: any,
+    /** 源文件中去掉了 source/ 的中间的部分，可以用来搜索翻译文件 */
     path: string,
   }[],
 };
@@ -40,10 +41,11 @@ async function checkMissingTranslation(places: Place[]) {
   // 先检查有没有什么翻译补丁文件没有对应的源文件，如果有就说明源 MOD 结构发生改变了
   const allPatchPath = await findAsync('./translation', { matching: ['*.patch'] });
   const task1 = allPatchPath.map(async pathName => {
+    /** 去掉了 .patch 和  translation/ 的中间的部分，可以用来搜索源文件 */
     const sourcePathName = pathName.replace('translation/', '').replace('.patch', '');
     let sourceExists = false;
     for (const place of places) {
-      if (place.path === sourceExists) {
+      if (place.path === sourcePathName) {
         sourceExists = true;
       }
     }
@@ -53,7 +55,8 @@ async function checkMissingTranslation(places: Place[]) {
   });
   // 还有检查是不是有新的翻译，或者改动的文件结构
   const task2 = places.map(async place => {
-    const translationFilePath = `translation/${place.path}`;
+    /** 源文件中去掉了 source/ 的中间的部分，再接上了 translation/ 和 .patch，可以用来搜索翻译文件 */
+    const translationFilePath = `translation/${place.path}.patch`;
     const patchExists = await existsAsync(translationFilePath);
     if (patchExists) {
       const patchJSON: Patch[] = await readAsync(translationFilePath, 'json');

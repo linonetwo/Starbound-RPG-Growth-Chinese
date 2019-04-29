@@ -72,7 +72,7 @@ async function parseReport() {
             }),
           ),
         )
-        .then(patchesForAFile => writeAsync(`${outputDir}/${aPath}`, patchesForAFile)),
+        .then(patchesForAFile => writeAsync(`${outputDir}/${aPath}.patch`, patchesForAFile)),
     ),
   );
 }
