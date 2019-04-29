@@ -111,3 +111,11 @@ https://github.com/IcyVines/Starbound-RPG-Growth/issues/6
 -   "value": "职业是一项宝贵的资产，可以选择^黄色；1000像素。"
 +   "value": "职业是一项宝贵的资产，可以选择^yellow;1000像素。"
 ```
+
+### 如何上传 Mod 到 Steam？
+
+修改 `RPG_Growth_Chinese.vdf` 里的 `<PATH_TO_THIS_REPO>` 为实际绝对路径，然后进入 steamcmd （没有就下一个），`login 账号 密码`，然后输入 `workshop_build_item <PATH_TO_THIS_REPO>/Starbound-RPG-Growth-Chinese/RPG_Growth_Chinese.vdf` 即可。
+
+详见：
+- https://community.playstarbound.com/threads/manually-uploading-to-steam-workshop-with-linux-and-mac-and-windows.118872/
+- https://community.playstarbound.com/threads/uploading-a-mod-onto-the-steam-workshop-step-by-step-how-to.118399/
