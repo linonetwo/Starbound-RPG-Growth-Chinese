@@ -3,6 +3,8 @@ import { readAsync, writeAsync } from 'fs-jetpack';
 import { isPlainObject, replace } from 'lodash';
 import stripJsonComments from 'strip-json-comments';
 
+export const delay = (ms: number) => new Promise<any>(resolve => setTimeout(resolve, ms));
+
 export function keyPathInObject(obj: Object, keys: string[], parentPath: string = '') {
   let keyPaths: { value: any, path: string }[] = [];
   for (const key in obj) {

@@ -2,10 +2,10 @@
 import { readAsync, writeAsync, dirAsync } from 'fs-jetpack';
 import { dirname } from 'path';
 import { it, _ } from 'param.macro';
-import { assign } from 'lodash';
+import translate from 'baidu-translate-api';
 
 import { keysNeedTranslation } from './constants';
-import { keyPathInObject } from './utils';
+import { keyPathInObject, delay } from './utils';
 
 async function parseReport() {
   const { argv } = require('yargs');
@@ -22,7 +22,29 @@ async function parseReport() {
     missingTranslationPath.map(aPath =>
       readAsync(`source/${aPath}`, 'json')
         .then(fileJSON => keyPathInObject(fileJSON, keysNeedTranslation))
-        .then(places => places.map(place => assign(place, { op: 'replace', source: place.value })))
+        .then(places =>
+          Promise.all(
+            places.map(async ({ value, path }) => {
+              let translationResult;
+              try {
+                // 自动翻译
+                await delay(Math.ceil(Math.random() * 100));
+                translationResult = await translate(value, { from: 'en', to: 'zh' }).then(
+                  ({ trans_result: { dst } }) => dst,
+                );
+              } catch (error) {
+                // 再试一遍，我就不信不成功
+                console.error('Translation Error: ', error);
+                await delay(Math.ceil(Math.random() * 1000));
+                translationResult = await translate(value, { from: 'en', to: 'zh' }).then(
+                  ({ trans_result: { dst } }) => dst,
+                );
+              }
+
+              return { path, op: 'replace', source: value, value: translationResult };
+            }),
+          ),
+        )
         .then(patchesForAFile => writeAsync(`${outputDir}/${aPath}`, patchesForAFile)),
     ),
   );
