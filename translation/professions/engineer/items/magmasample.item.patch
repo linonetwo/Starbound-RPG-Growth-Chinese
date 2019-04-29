@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "A sample of magma used to melt ingredients.",
-    "value": "用来融化成分的岩浆样本。"
-  }
-]

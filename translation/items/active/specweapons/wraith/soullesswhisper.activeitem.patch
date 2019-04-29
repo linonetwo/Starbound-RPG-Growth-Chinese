@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/description",
-    "op": "replace",
-    "source": "Do you hear that?",
-    "value": "你听到了吗？"
-  }
-]
