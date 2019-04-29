@@ -4,7 +4,7 @@ import { dirname } from 'path';
 import { it, _ } from 'param.macro';
 import BaiduTranslate from 'baidu-translate';
 import promiseRetry from 'promise-retry';
-import { get, memoize } from 'lodash';
+import { get, memoize, remove } from 'lodash';
 import dotenv from 'dotenv';
 
 import { keysNeedTranslation } from './constants';
@@ -142,6 +142,41 @@ async function appendMissingTranslationItem(report: string[], outputDir: string)
   );
 }
 
+/** 解决原文条目缺失 */
+async function removeMissingSourceItem(report: string[], outputDir: string) {
+  // 创建不存在的文件夹
+  const missingTranslationPaths: { keyPath: string, translationFilePath: string }[] = report
+    .filter(it.startsWith('原文条目缺失'))
+    .map(it.replace('原文条目缺失 ', ''))
+    .map(it.split(' in '))
+    .map(([keyPath, filePath]) => ({
+      keyPath,
+      translationFilePath: `${outputDir}/${filePath}.patch`,
+    }));
+
+  const translationFiles = new Set<string>();
+  const translationFileContents: { [path: string]: { path: string, op: String, value: string }[] } = {};
+  missingTranslationPaths.forEach(({ translationFilePath }) => {
+    translationFiles.add(translationFilePath);
+  });
+  translationFiles.forEach(async translationFilePath => {
+    const fileJSON = await readAsync(translationFilePath, 'json');
+    translationFileContents[translationFilePath] = fileJSON;
+  });
+  // 移出没用的 Patch Item
+  missingTranslationPaths.forEach(({ translationFilePath, keyPath }) => {
+    remove(translationFileContents[translationFilePath], ({ path }) => path === keyPath);
+  });
+
+  await Promise.all(
+    Object.keys(translationFileContents).map((translationFilePath: string) => {
+      return writeAsync(translationFilePath, translationFileContents[translationFilePath]).catch(aaa =>
+        console.log('writeAsync Error: ', aaa),
+      );
+    }),
+  );
+}
+
 async function parseReport() {
   const { argv } = require('yargs');
   const outputDir = argv.generate === 'overwrite-missing' ? 'translation' : 'translation-test';
@@ -149,6 +184,7 @@ async function parseReport() {
   const report: string[] = await readAsync('./report.log', 'json');
 
   generateMissingTranslationFiles(report, outputDir);
+  appendMissingTranslationItem(report, outputDir);
   appendMissingTranslationItem(report, outputDir);
 }
 
