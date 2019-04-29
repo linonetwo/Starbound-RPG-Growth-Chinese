@@ -5,7 +5,7 @@
   "author": "linonetwo",
   "license": "UNLICENSED",
   "scripts": {
-    "build": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_packer ./translation ./RPGGrowthChinese.pak",
+    "pack:mac": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_packer ./translation ./RPGGrowthChinese.pak",
     "scan": "node ./scripts/index.js --scan",
     "generate:test": "node ./scripts/index.js --generate test",
     "try": "node ./scripts/index.js --try",
