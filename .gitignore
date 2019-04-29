@@ -3,3 +3,4 @@ node_modules
 report.log
 *.pak
 translation-test/
+.env

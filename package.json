@@ -8,19 +8,23 @@
     "build": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_packer ./translation ./RPGGrowthChinese.pak",
     "scan": "node ./scripts/index.js --scan",
     "generate:test": "node ./scripts/index.js --generate test",
+    "try": "node ./scripts/index.js --try",
     "download:source": "rm -rf ./source && curl -LOk https://github.com/IcyVines/Starbound-RPG-Growth/archive/master.zip  && unzip ./master.zip && mv ./Starbound-RPG-Growth-master ./source && rm ./master.zip",
     "generate:overwrite-missing": "node ./scripts/index.js --generate overwrite-missing",
     "unpack:mac": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_unpacker ./RPGGrowthChinese.pak ./translation.from.pak"
   },
   "dependencies": {
+    "baidu-translate": "^1.0.9",
     "baidu-translate-api": "^0.3.1",
     "codegen.macro": "^3.0.0",
+    "dotenv": "^7.0.0",
     "flow-runtime": "^0.17.0",
     "franc": "^4.0.0",
     "fs-jetpack": "^2.2.2",
     "lodash": "^4.17.11",
     "node-fetch": "^2.4.1",
     "param.macro": "^3.2.0",
+    "promise-retry": "^1.1.1",
     "strip-json-comments": "^2.0.1",
     "yargs": "^13.2.2"
   },

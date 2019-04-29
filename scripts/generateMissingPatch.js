@@ -2,10 +2,15 @@
 import { readAsync, writeAsync, dirAsync } from 'fs-jetpack';
 import { dirname } from 'path';
 import { it, _ } from 'param.macro';
-import translate from 'baidu-translate-api';
+import BaiduTranslate from 'baidu-translate';
+import promiseRetry from 'promise-retry';
+import dotenv from 'dotenv';
 
 import { keysNeedTranslation } from './constants';
 import { keyPathInObject, delay } from './utils';
+
+dotenv.config();
+const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env.TRANSLATION_SECRET, 'zh', 'en');
 
 async function parseReport() {
   const { argv } = require('yargs');
@@ -24,22 +29,33 @@ async function parseReport() {
         .then(fileJSON => keyPathInObject(fileJSON, keysNeedTranslation))
         .then(places =>
           Promise.all(
-            places.map(async ({ value, path }) => {
-              let translationResult;
+            places.map(async ({ value, path }, index) => {
+              // 自动翻译
+              await delay(100 * index);
+              let translationResult = '';
               try {
-                // 自动翻译
-                await delay(Math.ceil(Math.random() * 100));
-                translationResult = await translate(value, { from: 'en', to: 'zh' }).then(
-                  ({ trans_result: { dst } }) => dst,
+                translationResult = await promiseRetry((retry, number) =>
+                  translate(value, 'zh').then(
+                    ({ trans_result: [{ dst }] }) => dst,
+                    error => {
+                      console.error('Translation Error: ', error, 'Retry: ', number);
+                      retry();
+                    },
+                  ),
                 );
-              } catch (error) {
-                // 再试一遍，我就不信不成功
-                console.error('Translation Error: ', error);
-                await delay(Math.ceil(Math.random() * 1000));
-                translationResult = await translate(value, { from: 'en', to: 'zh' }).then(
-                  ({ trans_result: { dst } }) => dst,
+              } catch (err) {
+                console.error(err);
+                translationResult = await promiseRetry((retry, number) =>
+                  translate(value, 'zh').then(
+                    ({ trans_result: [{ dst }] }) => dst,
+                    error => {
+                      console.error('Translation Error: ', error, 'Retry: ', number);
+                      retry();
+                    },
+                  ),
                 );
               }
+              console.log(`Translated ${(index / places.length).toFixed(2)}%`);
 
               return { path, op: 'replace', source: value, value: translationResult };
             }),

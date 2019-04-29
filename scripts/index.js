@@ -34,6 +34,8 @@ if (argv.scan) {
   require('./scanMismatch.js');
 } else if (argv.generate) {
   require('./generateMissingPatch.js');
+} else if (argv.try) {
+  require('./try.js');
 } else {
   console.log('look at ./scripts/index.js');
 }
