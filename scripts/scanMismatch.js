@@ -34,6 +34,7 @@ type Patch = {
   op: string,
   value: string,
   path: string,
+  source?: string,
 };
 async function checkMissingTranslation(places: Place[]) {
   const report: string[] = [];
@@ -86,6 +87,11 @@ async function checkMissingTranslation(places: Place[]) {
         }
         if (!hasTranslation) {
           report.push(`原文条目缺失 ${patch.path} in ${place.path}`);
+        }
+
+        // 检查原文和译文是不是相同的
+        if ('source' in patch && patch.source === patch.value) {
+          report.push(`译文内容无效 ${patch.path} in ${place.path}`);
         }
       }
     } else {
