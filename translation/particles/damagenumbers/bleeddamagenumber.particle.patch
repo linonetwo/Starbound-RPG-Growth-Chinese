@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/definition/text",
-    "op": "replace",
-    "source": "^shadow;$dmg$",
-    "value": "影子：$dmg"
-  }
-]

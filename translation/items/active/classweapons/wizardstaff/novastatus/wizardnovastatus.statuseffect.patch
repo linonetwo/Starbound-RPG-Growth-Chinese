@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/name",
-    "op": "replace",
-    "source": "wizardnovastatus",
-    "value": "奇幻新星状态"
-  }
-]

@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "Phase Shift",
-    "value": "相移"
-  }
-]

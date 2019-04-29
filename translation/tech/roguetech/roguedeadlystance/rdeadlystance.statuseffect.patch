@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/name",
-    "op": "replace",
-    "source": "rdeadlystance",
-    "value": "死灵状态"
-  }
-]
