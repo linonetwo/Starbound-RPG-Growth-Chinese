@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Drill Sphere Upgrade.\nGain a double jump and glide while transformed. In-air momentum is improved.",
+    "value": "钻头球体升级。"
+  }
+]

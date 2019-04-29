@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ninjavanishsphereghost",
+    "value": "忍者魔界幽灵"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Ghost",
+    "value": "幽灵"
+  }
+]

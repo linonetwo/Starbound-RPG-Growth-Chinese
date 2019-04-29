@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Ouch. Even sharper!",
+    "value": "哎哟。甚至更锋利！"
+  }
+]

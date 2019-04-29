@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "knightspikes",
+    "value": "骑士钉"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cause Contact Damage",
+    "value": "造成接触损伤"
+  }
+]

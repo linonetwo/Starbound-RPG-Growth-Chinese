@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "knightcharge!",
+    "value": "骑士团！"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Charge Cost: 125eps.",
+    "value": "收费成本：125每股。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Charge!",
+    "value": "冲锋！"
+  }
+]

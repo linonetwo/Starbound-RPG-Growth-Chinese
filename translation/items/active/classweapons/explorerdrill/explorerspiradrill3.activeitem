@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Pierce the Heavens!",
+    "value": "穿透天堂！"
+  }
+]

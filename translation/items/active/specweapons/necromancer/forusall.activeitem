@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "They say life is important... Well, so is taking it away.",
+    "value": "他们说生活很重要…好吧，把它拿走了。"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Combo Slash",
+    "value": "拯救公主"
+  }
+]

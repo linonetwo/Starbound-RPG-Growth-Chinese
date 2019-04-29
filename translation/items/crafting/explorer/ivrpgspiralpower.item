@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "We've somehow made the energy even manlier. And spinnier!",
+    "value": "我们已经让能量变得更具男子气概了。和纺纱机！"
+  }
+]

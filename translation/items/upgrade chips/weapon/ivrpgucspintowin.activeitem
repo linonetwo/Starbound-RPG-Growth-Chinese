@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Ravenous Spira Upgrade.\nSpira is more effective but uses more energy.",
+    "value": "贪婪的尖塔升级。"
+  }
+]

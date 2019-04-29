@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Caltrops infused with phase matter, making them more effective against flying enemies.",
+    "value": "火山口充满了相物质，使它们对飞行的敌人更有效。"
+  }
+]

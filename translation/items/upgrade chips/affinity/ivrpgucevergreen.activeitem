@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Frost and Cryo Affinity Upgrade.\nNegates all Affinity Weaknesses.",
+    "value": "霜冻和低温亲和力升级。"
+  }
+]

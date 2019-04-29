@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A mystic blade of razor sharp obsidian.",
+    "value": "神秘锋利的黑曜石刀片。"
+  }
+]

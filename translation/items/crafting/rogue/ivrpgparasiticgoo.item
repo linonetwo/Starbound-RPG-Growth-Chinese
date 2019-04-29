@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A disgusting, sticky pile of goo that feels like it's climbing up your arm when you hold it.",
+    "value": "一堆恶心的粘糊糊的黏糊糊的东西，当你握住它的时候，感觉就像是在爬上你的手臂。"
+  }
+]

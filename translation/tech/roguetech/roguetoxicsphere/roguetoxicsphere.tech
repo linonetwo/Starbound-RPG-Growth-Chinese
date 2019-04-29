@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "roguetoxicsphere",
+    "value": "流氓毒气圈"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Transformation Cost: 50e. Attack Cost: 10e.",
+    "value": "改造成本：50E，攻击成本：10E。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Toxic Sphere",
+    "value": "毒球"
+  }
+]

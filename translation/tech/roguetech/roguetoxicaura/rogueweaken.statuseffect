@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "rogueweaken",
+    "value": "流氓弱化"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Weakened!",
+    "value": "削弱！"
+  }
+]

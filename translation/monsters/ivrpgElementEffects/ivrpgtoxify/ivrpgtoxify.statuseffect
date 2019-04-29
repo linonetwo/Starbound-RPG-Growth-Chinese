@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgtoxify",
+    "value": "IVRP中毒"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Poisoned",
+    "value": "毒死"
+  }
+]

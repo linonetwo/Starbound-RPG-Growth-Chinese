@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "What doesn't kill you makes you vulnerable.",
+    "value": "不杀你的东西会让你变得脆弱。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "explorerdrill",
+    "value": "探险钻机"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Cost: 10eps.",
+    "value": "成本：10EPS。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Drill",
+    "value": "钻头"
+  }
+]

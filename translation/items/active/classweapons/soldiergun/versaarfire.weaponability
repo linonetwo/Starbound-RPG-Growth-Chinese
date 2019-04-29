@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "Gatling Gun",
+    "value": "转管枪"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "This Capture Pod automatically seeks enemies until it hits a block.",
+    "value": "这个捕获吊舱自动寻找敌人，直到它击中一个街区。"
+  }
+]

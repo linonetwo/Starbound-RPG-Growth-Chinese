@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^green;Weapon Upgrade",
+    "value": "^绿色；武器升级"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "Time to train! When you have perfected your abilities, I will attempt to make Spira strong enough to match!^white;",
+    "value": "训练时间到了！当你完善了你的能力，我会努力使斯皮拉强大到足以匹配！白色；"
+  }
+]

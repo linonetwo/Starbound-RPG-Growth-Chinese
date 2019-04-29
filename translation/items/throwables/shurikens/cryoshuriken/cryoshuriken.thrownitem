@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A freezing shuriken, sure to stop enemies in their tracks.",
+    "value": "一个冰冻的树妖，一定能阻止敌人的踪迹。"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Shocks your enemies... for a price.",
+    "value": "打击你的敌人…为了一个价格。"
+  }
+]

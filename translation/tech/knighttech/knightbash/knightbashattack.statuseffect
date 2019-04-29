@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "knightbashattack",
+    "value": "攻击骑士"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cause Contact Damage",
+    "value": "造成接触损伤"
+  }
+]

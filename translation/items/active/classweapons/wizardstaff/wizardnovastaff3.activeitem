@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Explosions. Explosions everywhere.",
+    "value": "爆炸。到处都是爆炸。"
+  }
+]

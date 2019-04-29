@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^orange;One for All",
+    "value": "^橙色；一个代表所有人"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "Welcome to Update 1.31 of RPG Growth!\n\nThis quest is an indicator that nearby players will gain the same amount of XP you do, and vice versa. Now those pesky Melee-Only Classes won't steal all of it from you.",
+    "value": "欢迎更新RPG增长1.31！"
+  }
+]

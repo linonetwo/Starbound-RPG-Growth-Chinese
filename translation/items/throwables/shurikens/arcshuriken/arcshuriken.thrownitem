@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A humming shuriken, sure to shock enemies.",
+    "value": "嗡嗡作响的树妖，一定会震慑敌人。"
+  }
+]

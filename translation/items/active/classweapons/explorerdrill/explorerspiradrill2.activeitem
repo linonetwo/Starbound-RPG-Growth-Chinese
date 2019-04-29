@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Spins like a hurricane.",
+    "value": "像飓风一样旋转。"
+  }
+]

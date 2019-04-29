@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A uniquely forged weapon of basalt. Also quite heavy.",
+    "value": "独一无二的玄武岩锻造武器。也很重。"
+  }
+]

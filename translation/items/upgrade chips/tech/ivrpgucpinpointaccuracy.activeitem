@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Tank Sphere Upgrade.\nTank Sphere gains targeting missiles.",
+    "value": "坦克球体升级。"
+  }
+]

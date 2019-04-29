@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Don't let this blade fool you. Despite it's transparency, it's sharper than a squeaky clarinet.",
+    "value": "别让这把剑骗了你。尽管它是透明的，但它比吱吱作响的单簧管更锋利。"
+  }
+]

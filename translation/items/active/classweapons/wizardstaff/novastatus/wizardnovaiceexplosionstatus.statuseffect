@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "wizardnovaiceexplosionstatus",
+    "value": "奇幻新星爆炸状态"
+  }
+]

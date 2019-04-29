@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A bar of metal so tough, it makes you feel weak just looking at it.",
+    "value": "一根金属棒很硬，看着它会让你感到虚弱。"
+  }
+]

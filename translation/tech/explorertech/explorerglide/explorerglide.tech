@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "explorerglide",
+    "value": "探险家"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Glide Cost: 5eps.",
+    "value": "下滑成本：5每股。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Glide",
+    "value": "滑翔"
+  }
+]

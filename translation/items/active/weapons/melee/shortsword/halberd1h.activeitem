@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "This halberd is incredibly strong, but in exchange for speed.",
+    "value": "这把戟非常结实，但可以换来速度。"
+  }
+]

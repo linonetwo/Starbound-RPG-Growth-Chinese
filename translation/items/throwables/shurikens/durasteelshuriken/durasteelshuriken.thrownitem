@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A shuriken, pocket-sized and deadly.",
+    "value": "一个口袋大小致命的树精。"
+  }
+]

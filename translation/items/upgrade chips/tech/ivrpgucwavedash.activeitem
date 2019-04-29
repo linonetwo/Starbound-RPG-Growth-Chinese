@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Escape! Upgrade.\nImproves aerial stopping power, ground usage, and negates fall damage.",
+    "value": "逃走！升级。"
+  }
+]

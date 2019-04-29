@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "soldierfocus",
+    "value": "士兵焦点"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Extra Damage With Firearms",
+    "value": "火器额外伤害"
+  }
+]

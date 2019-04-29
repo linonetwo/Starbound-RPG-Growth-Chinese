@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Sharper still...",
+    "value": "更清晰…"
+  }
+]

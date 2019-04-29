@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Mastery Points. Used to attain peak strength!",
+    "value": "掌握要点。用于达到峰值强度！"
+  }
+]

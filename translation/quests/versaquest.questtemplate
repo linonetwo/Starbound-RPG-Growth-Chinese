@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^green;Weapons Worth Wielding",
+    "value": "^绿色；值得使用的武器"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "I don't mean to interrupt your training regimen, but I have noticed the weapons you employ could be made more versatile. I have calculated that reverse engineering illegal weapons may yield much needed results. Thus, you should go fight Bandits and Space-Faring Robots for these parts.^white;",
+    "value": "我不是想打断你的训练计划，但我注意到你使用的武器可以变得更通用。我计算过，逆向工程非法武器可能会产生很多需要的结果。因此，你应该为这些零件去与土匪和太空机器人作战。^怀特；"
+  }
+]

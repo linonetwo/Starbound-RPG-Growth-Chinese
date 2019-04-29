@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgbombsaway",
+    "value": "IVRPGMBOBSAWAY"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Cannoneer Only",
+    "value": "炮手只"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Bombs Away",
+    "value": "投弹完毕"
+  }
+]

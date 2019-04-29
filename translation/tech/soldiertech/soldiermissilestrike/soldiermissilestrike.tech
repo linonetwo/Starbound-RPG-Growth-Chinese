@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "soldiermissilestrike",
+    "value": "士兵突击"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Cost: 50e. Cooldown: 30s.",
+    "value": "成本：50E。冷却时间：30S。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Missile Strike",
+    "value": "导弹打击"
+  }
+]

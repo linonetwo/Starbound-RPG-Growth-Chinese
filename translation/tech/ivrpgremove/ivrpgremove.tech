@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgremove",
+    "value": "IVRPGRePosits"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Press [F] and then quit.",
+    "value": "按[F]然后退出。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Character Fix",
+    "value": "字符修复"
+  }
+]

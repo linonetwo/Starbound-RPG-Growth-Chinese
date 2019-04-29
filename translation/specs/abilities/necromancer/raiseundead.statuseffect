@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgraiseundead",
+    "value": "静脉曲张"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Raise Undead",
+    "value": "抚养亡灵"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgoverload",
+    "value": "IVRP-政府负荷"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Electrified",
+    "value": "带电的"
+  }
+]

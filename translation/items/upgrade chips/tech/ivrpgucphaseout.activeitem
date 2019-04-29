@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Shadow Step Upgrade.\nShadow Step through walls, regardless of world.",
+    "value": "阴影步骤升级。"
+  }
+]

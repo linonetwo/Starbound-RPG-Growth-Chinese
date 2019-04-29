@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Slam Upgrade.\nJump thrice while in mid-air. Larger Slam explosion knockback but less damage.",
+    "value": "大满贯升级。"
+  }
+]

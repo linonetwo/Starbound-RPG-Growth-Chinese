@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "wizardhover",
+    "value": "巫术"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Cost: 75eps.",
+    "value": "成本：75个EPS。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Controlled Hover",
+    "value": "受控悬停"
+  }
+]

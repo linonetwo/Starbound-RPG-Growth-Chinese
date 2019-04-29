@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "They say diamonds are the hardest. Well, not anymore.\n^blue;Attack Combo by Ribs.",
+    "value": "他们说钻石是最硬的。好吧，现在不行了。"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Combo Slash",
+    "value": "拯救公主"
+  }
+]

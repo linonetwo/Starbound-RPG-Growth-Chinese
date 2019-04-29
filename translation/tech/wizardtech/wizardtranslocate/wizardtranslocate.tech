@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "wizardtranslocate",
+    "value": "向导转移"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Cost: 20-100% Max Energy. Cooldown: 2s.",
+    "value": "成本：20-100%最大能量。冷却时间：2s。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Translocate",
+    "value": "易位"
+  }
+]

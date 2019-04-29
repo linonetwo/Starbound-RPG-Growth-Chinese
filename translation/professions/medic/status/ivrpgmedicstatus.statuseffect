@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgmedicstatus",
+    "value": "IVRPG医疗状态"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Medic",
+    "value": "医学博士"
+  }
+]

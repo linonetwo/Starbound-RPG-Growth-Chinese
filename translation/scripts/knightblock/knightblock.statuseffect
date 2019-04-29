@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "knightblock",
+    "value": "骑士街区"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Knight's Shield",
+    "value": "骑士盾"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "The light reflecting off the blade feels welcoming.\n^blue;Attack Combo by Ribs.",
+    "value": "从刀刃上反射出来的光让人感到亲切。"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Combo Slash",
+    "value": "拯救公主"
+  }
+]

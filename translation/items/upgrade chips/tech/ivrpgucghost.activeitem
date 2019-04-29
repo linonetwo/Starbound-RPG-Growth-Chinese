@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Vanish Sphere Upgrade.\nWhile transformed, replace invulnerability with traversal through walls.",
+    "value": "消失球体升级。"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Looks like this scroll contains information on all sorts of interesting stuff.",
+    "value": "看起来这个卷轴包含了各种有趣的东西的信息。"
+  }
+]

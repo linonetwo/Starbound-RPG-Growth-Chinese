@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgtamermonsterregen",
+    "value": "IVRPG温度传感器"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Tamer",
+    "value": "驯兽师"
+  }
+]

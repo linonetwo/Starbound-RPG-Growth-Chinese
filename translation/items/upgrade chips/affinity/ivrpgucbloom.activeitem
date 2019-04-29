@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Flame and Infernal Affinity Upgrade.\nEnemies on fire explode when you kill them.",
+    "value": "火焰与地狱的亲和力升级。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "soldiermre",
+    "value": "士兵"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Food Gain: 5%. Cooldown: 90s",
+    "value": "食物收益：5%。冷却时间：90年代"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "MRE",
+    "value": "MRE"
+  }
+]

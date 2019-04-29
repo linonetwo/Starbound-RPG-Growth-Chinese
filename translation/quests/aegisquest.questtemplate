@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^green;Meteoric Metal",
+    "value": "^绿色；流星金属"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "My databanks show that your physical strength is nearly unmatched! I have run a diagnostic and it suggests you would be unrivaled using a normally unwieldable, incredibly heavy metal as the base for a sword. Looking for meteoric rock from ^green;living meteorites^reset; may be the best place to start.^white;",
+    "value": "我的数据库显示你的体力几乎无与伦比！我已经做了一个诊断，它显示你将是无与伦比的使用一个通常不可征服，难以置信的重金属作为一把剑的基础。从^绿色；活陨石^重置；寻找陨石可能是最好的开始。^白色；"
+  }
+]

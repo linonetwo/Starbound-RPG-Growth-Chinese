@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Primed Nova Upgrade.\nCharge Time decreased.",
+    "value": "启动Nova升级。"
+  }
+]

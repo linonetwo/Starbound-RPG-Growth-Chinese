@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "What blocks?",
+    "value": "什么街区？"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "soldierenergypack",
+    "value": "士兵背负"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Dash Duration: 0.20s.",
+    "value": "破折号持续时间：0.20秒。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Energize",
+    "value": "激励"
+  }
+]

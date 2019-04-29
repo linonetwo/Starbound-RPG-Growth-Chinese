@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "The demon trapped withing this blade seeks only to obliterate.",
+    "value": "被这把剑困住的恶魔只想毁灭。"
+  }
+]

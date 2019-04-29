@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgeinherjar",
+    "value": "IVRPGGEngEngJAR"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Einherjar",
+    "value": "埃因贾尔"
+  }
+]

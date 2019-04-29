@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "wizardmagicshieldcooldown",
+    "value": "向导magicshieldcoldown"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Magic Shield Cooldown",
+    "value": "魔法盾冷却时间"
+  }
+]

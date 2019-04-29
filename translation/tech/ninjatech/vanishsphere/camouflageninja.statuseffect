@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "camouflageninja",
+    "value": "迷幻药"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Camouflage",
+    "value": "伪装"
+  }
+]

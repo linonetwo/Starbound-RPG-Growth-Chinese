@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "knightchargeattack",
+    "value": "骑士冲锋"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cause Contact Damage",
+    "value": "造成接触损伤"
+  }
+]

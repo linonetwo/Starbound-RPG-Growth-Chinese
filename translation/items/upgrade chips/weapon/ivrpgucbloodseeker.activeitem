@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Blood Aether Upgrade.\nEnergy Kunai leave behind disorienting smoke.",
+    "value": "血以太升级。"
+  }
+]

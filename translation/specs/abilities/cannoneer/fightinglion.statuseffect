@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgfightinglion",
+    "value": "静脉点灯狮子"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Fighting Lion",
+    "value": "战斗狮子"
+  }
+]

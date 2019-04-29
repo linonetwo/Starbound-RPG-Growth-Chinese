@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "roguetoxicsphereconsume",
+    "value": "流氓毒素球"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Consume",
+    "value": "消费"
+  }
+]

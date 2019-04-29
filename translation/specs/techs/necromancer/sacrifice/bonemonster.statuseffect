@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgbonemonster",
+    "value": "长臂猿"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Undead",
+    "value": "不死生物"
+  }
+]

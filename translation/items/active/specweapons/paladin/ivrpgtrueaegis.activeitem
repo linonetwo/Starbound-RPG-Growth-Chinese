@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "The Protectorate has fallen. But us? We will never fall.",
+    "value": "保护国已经垮台了。但是我们呢？我们永远不会跌倒。"
+  }
+]

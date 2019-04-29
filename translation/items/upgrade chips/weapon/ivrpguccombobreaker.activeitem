@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Siphon Razor Upgrade.\nCritical Slice Combo Finisher activates earlier.",
+    "value": "虹吸剃刀升级。"
+  }
+]

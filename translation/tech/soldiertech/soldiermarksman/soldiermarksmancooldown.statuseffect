@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "soldiermarksmancooldown",
+    "value": "士兵马尔克斯镇"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Marksman Cooldown",
+    "value": "射手冷却时间"
+  }
+]

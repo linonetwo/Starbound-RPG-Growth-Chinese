@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "rtoxicaura",
+    "value": "火毒光环"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Weakens Nearby Enemies",
+    "value": "削弱附近的敌人"
+  }
+]

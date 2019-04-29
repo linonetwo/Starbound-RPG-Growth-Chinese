@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "explorermovementdash",
+    "value": "探索移动仪表盘"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Enhanced Dash",
+    "value": "强化短跑"
+  }
+]

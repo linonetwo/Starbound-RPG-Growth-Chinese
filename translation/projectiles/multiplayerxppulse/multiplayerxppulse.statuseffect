@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "multiplayerxppulse",
+    "value": "多层脉冲"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "XP Pulse",
+    "value": "XP脉冲"
+  }
+]

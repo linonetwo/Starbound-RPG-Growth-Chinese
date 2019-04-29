@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Venom and Toxic Affinity Upgrade.\nNegates all Affinity Weaknesses.",
+    "value": "毒液和毒性亲和力升级。"
+  }
+]

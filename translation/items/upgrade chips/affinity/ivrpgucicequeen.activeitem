@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Frost and Cryo Affinity Upgrade.\nImproves potential with Whips, Claws, and Daggers. ^red;Female Only^reset;.",
+    "value": "霜冻和低温亲和力升级。"
+  }
+]

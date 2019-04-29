@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgstatboosts",
+    "value": "IVRPGSTATP"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "soldierenergypackcooldown",
+    "value": "士兵能量背包冷却"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Energy Pack Cooldown",
+    "value": "能量包冷却"
+  }
+]

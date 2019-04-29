@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Siphon Flux Upgrade.\nEnergetic Slice grants Energy to nearby allies.",
+    "value": "虹吸通量升级。"
+  }
+]

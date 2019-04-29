@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "An infested shuriken, sure to poison enemies.",
+    "value": "一个受感染的树精，一定会毒死敌人。"
+  }
+]

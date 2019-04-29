@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A fiery shuriken, sure to burn enemies.",
+    "value": "一个火热的树妖，一定会烧死敌人。"
+  }
+]

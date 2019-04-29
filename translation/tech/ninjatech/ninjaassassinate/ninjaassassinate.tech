@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ninjaassassinate",
+    "value": "忍者刺杀"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Cost: 20-100% Max Energy. Vanish Time: 2s. Cooldown: 3s.",
+    "value": "成本：20-100%最大能量。消失时间：2秒。冷却时间：3秒。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Shadow Step",
+    "value": "影子步"
+  }
+]

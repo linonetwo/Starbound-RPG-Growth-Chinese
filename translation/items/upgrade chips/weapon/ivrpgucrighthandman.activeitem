@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Ravenous Spira Upgrade.\nSpira can now mine background blocks.",
+    "value": "贪婪的尖塔升级。"
+  }
+]

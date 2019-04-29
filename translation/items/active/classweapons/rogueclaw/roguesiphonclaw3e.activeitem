@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Crackling with energy!",
+    "value": "精力充沛！"
+  }
+]

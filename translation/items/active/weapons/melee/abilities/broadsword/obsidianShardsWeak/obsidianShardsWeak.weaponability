@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "Obsidian Shards",
+    "value": "黑曜石碎片"
+  }
+]

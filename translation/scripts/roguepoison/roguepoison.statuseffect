@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "roguepoison",
+    "value": "罗吉波森"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Rogue's Experience",
+    "value": "流氓的经历"
+  }
+]

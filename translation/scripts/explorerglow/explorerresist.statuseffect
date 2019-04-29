@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "explorerresist",
+    "value": "探险家抵抗"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Explorer's Discovery",
+    "value": "探险家的发现"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "The more dying stars you add, the harder this hits.",
+    "value": "你添加的垂死的星星越多，这个打击就越大。"
+  }
+]

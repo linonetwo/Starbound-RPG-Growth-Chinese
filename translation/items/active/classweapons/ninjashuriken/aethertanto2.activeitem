@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Something lurks within the shadows.",
+    "value": "一些东西潜伏在阴影中。"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Kunai Slash",
+    "value": "库奈斜杠"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Siphon Spore Upgrade.\nDeal more damage when health is low.",
+    "value": "虹吸孢子升级。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "explorerdrillsphere",
+    "value": "探险家钻井圈"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Transformation Cost: 25e. Active Cost: 5eps.",
+    "value": "转化成本：25E，有效成本：5EPS。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Drill Sphere",
+    "value": "钻球"
+  }
+]

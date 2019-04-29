@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgtamermonsterregendamage",
+    "value": "IVRPGTamerMonsterregandImage（IVRPGTamerMonsterregandImage）"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Tamer",
+    "value": "驯兽师"
+  }
+]

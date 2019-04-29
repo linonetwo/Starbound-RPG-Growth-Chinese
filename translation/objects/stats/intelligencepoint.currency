@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Intelligence",
+    "value": "智力"
+  }
+]

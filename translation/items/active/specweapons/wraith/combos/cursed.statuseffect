@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgcursed",
+    "value": "IVRPGC咒诅"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cursed",
+    "value": "诅咒的"
+  }
+]

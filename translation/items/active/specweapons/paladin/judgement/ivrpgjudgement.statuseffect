@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgjudgement",
+    "value": "IVRP判断"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Divine Judgement",
+    "value": "神圣的审判"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Vital Aegis, a sword made of tempered steel and embedded with diamond and gold that can absorb heavy blows. It seems to... vitalize... competent wielders.",
+    "value": "重要的宙斯盾，一把钢剑，镶嵌着钻石和黄金，可以承受重击。似乎…振兴…合格的焊接工。"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Combo Slash",
+    "value": "拯救公主"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Prevents the Skill Book from being opened multiple times.",
+    "value": "禁止多次打开技能书。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgbetweenworlds",
+    "value": "IvrPgBetweenwords公司"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Between Worlds",
+    "value": "世界之间"
+  }
+]

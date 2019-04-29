@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "What is this strange, manly energy?",
+    "value": "这是什么奇怪的，男人的能量？"
+  }
+]

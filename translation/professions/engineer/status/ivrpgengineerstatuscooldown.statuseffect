@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgengineerstatuscooldown",
+    "value": "IVRP发电机状态冷却"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Engineer's Battery Cooldown",
+    "value": "工程师电池冷却"
+  }
+]

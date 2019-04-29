@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Translocate Upgrade.\nTranslocate through walls in any world.",
+    "value": "迁移升级。"
+  }
+]

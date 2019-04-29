@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A shotgun and an assault rifle? Count me in.",
+    "value": "一支猎枪和一支突击步枪？算我一个。"
+  }
+]

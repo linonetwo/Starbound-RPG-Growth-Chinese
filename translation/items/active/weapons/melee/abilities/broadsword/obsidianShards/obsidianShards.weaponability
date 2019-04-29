@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "Rain of Gashes",
+    "value": "血雨"
+  }
+]

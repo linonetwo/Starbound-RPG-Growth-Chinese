@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgtamerstatus",
+    "value": "IVRPG状态"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Tamer",
+    "value": "驯兽师"
+  }
+]

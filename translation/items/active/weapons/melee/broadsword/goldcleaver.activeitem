@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "An elegant blade that is as deadly as it is quick.",
+    "value": "一个优雅的刀刃，它是致命的，因为它是快速的。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "soldiertanksphereimmune",
+    "value": "可溶性球蛋白免疫"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Tank",
+    "value": "坦克"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Blood Aether Upgrade.\nGain Regenaration upon killing an enemy.",
+    "value": "血以太升级。"
+  }
+]

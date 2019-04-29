@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Warning! Releases disorienting and toxic gas.",
+    "value": "警告！释放迷茫和有毒气体。"
+  }
+]

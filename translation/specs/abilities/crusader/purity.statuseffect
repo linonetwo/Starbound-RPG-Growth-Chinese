@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgpurity",
+    "value": "IVRPG纯度"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Purity",
+    "value": "纯度"
+  }
+]

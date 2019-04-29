@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Looks like enticing descriptions of awesome elements! Maybe you want to try out a new one?",
+    "value": "看起来像是对精彩元素的迷人描述！也许你想试试新的？"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ninjawallcling",
+    "value": "忍者恋"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Jump Cost: 15e.",
+    "value": "跳跃成本：15E。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Wall Cling",
+    "value": "壁挂"
+  }
+]

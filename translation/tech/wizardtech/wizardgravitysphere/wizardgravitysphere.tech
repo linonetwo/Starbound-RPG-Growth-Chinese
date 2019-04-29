@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "wizardgravitysphere",
+    "value": "向导重力球"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Transformation Cost: 30e. Regen: 1%hps. Zone Cost: 15eps.",
+    "value": "转化成本：30E。再生：1%hps。区域成本：15每股。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Gravity Sphere",
+    "value": "重力球"
+  }
+]

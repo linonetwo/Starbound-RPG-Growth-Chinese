@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Gravity Sphere Upgrade.\nJump while transformed to hover towards your cursor at the expense of energy.",
+    "value": "重力球升级。"
+  }
+]

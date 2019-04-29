@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "soldiermissilestrikecooldown",
+    "value": "士兵三级冷却"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Missile Strike Cooldown",
+    "value": "导弹打击冷却"
+  }
+]
