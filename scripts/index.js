@@ -17,6 +17,7 @@ require('@babel/register')({
     '@babel/plugin-proposal-optional-chaining',
     '@babel/plugin-syntax-flow',
     '@babel/plugin-transform-flow-strip-types',
+    'babel-plugin-array-last-index',
     [
       'flow-runtime',
       {
