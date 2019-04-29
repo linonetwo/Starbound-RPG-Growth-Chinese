@@ -11,7 +11,7 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
   let keyPaths: { value: string, path: string }[] = [];
   for (const key in obj) {
     // 如果是要翻译的字段
-    if (keys.includes(key) && typeof obj[key] === 'string') {
+    if (keys.includes(key) && typeof obj[key] === 'string' && obj[key].length > 0) {
       // 有的字段在 JSON 的最顶层的时候是作为数据库 id 使用的，所以仅当不是顶级字段的时候才翻译它
       if (!keyOnlyTranslateIfItIsChild.includes(key) || parentPath.length !== 0) {
         keyPaths.push({ value: obj[key], path: `${parentPath}/${key}` });
