@@ -83,3 +83,19 @@
 感谢 [Runningsky](http://www.runningsky.top/localization/sdb/1115920474.html) 在 https://tieba.baidu.com/p/5581918647 分享了初始版本的汉化
 
 目录结构参考了 https://github.com/ProjectSky/FrackinUniverse-sChinese-Project
+
+## 常见问题
+
+### 动态列表无法 Patch
+
+https://github.com/IcyVines/Starbound-RPG-Growth/issues/6
+
+```log
+[Error] Could not apply patch from file /interface/RPGskillbook/RPGskillbook.config.patch in source: ../mods/translation.  Caused by: (JsonPatchException) Could not apply patch to base. (JsonPatchException) Could not apply operation to base. (TraversalException) No such key 'list' in pathApply("/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/title/value")
+```
+
+有一个 list 的 key 在静态文件里存在，在要 patch 的时候就不存在了（刚载入的时候没问题，一打开书就报两个错）。
+
+虽然不知道具体原因，不过我猜测是因为 List 在运行时被 Lua 改变了，毕竟它是一个要滚动的 List 嘛，怎么能不变呢（。
+
+请尽量不要去招惹带 `/list/` 的字段。

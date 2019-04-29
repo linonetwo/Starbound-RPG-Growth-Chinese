@@ -997,11 +997,5 @@
     "op": "replace",
     "source": "Lore",
     "value": "学识"
-  },
-  {
-    "path": "/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/title/value",
-    "op": "replace",
-    "source": "Title",
-    "value": "书名"
   }
 ]
