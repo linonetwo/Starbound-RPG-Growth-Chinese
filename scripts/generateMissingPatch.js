@@ -10,21 +10,23 @@ import { keyPathInObject } from './utils';
 async function parseReport() {
   const report: string[] = await readAsync('./report.log', 'json');
   // 创建不存在的文件夹
-  const missingTranslationPath = report.filter(it.startsWith('翻译文件缺失')).map(it.replace('翻译文件缺失 ', ''));
-  await Promise.all(
-    missingTranslationPath
-      .map(itt => `${dirname(itt)}`)
-      // .map(itt => `translation/${dirname(itt)}`)
-      .map(dirAsync(_)),
-  );
+  const missingTranslationPath: string[] = report
+    .filter(it.startsWith('翻译文件缺失'))
+    .map(it.replace('翻译文件缺失 ', ''));
+  await Promise.all(missingTranslationPath.map(itt => `translation/${dirname(itt)}`).map(dirAsync(_)));
   // 创建 patch JSON
-  missingTranslationPath
-    .map(readAsync(it, 'json'))
-    .map(fileJSON => keyPathInObject(fileJSON, keysNeedTranslation))
-    .map(places => places.map(place => assign(place, { op: 'replace', source: place.value })))
-    .map(patchesForAFile => {
-      return writeAsync(`${patchesForAFile[0].path}`, patchesForAFile);
-    });
+  await Promise.all(
+    missingTranslationPath.map(aPath =>
+      readAsync(`source/${aPath}`, 'json')
+        .then(fileJSON => keyPathInObject(fileJSON, keysNeedTranslation))
+        .then(places => places.map(place => assign(place, { op: 'replace', source: place.value })))
+        .then(patchesForAFile => {
+          console.log(patchesForAFile);
+
+          return writeAsync(`translation/${aPath}`, patchesForAFile);
+        }),
+    ),
+  );
 }
 
 parseReport();

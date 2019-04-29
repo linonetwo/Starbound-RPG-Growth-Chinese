@@ -53,7 +53,7 @@ async function checkMissingTranslation(places: Place[]) {
   });
   // 还有检查是不是有新的翻译，或者改动的文件结构
   const task2 = places.map(async place => {
-    const translationFilePath = `translation${place.path}`;
+    const translationFilePath = `translation/${place.path}`;
     const patchExists = await existsAsync(translationFilePath);
     if (patchExists) {
       const patchJSON: Patch[] = await readAsync(translationFilePath, 'json');
@@ -68,7 +68,7 @@ async function checkMissingTranslation(places: Place[]) {
           }
         }
         if (!hasTranslation) {
-          report.push(`翻译条目缺失 ${sourcePatchObj.path} in ${translationFilePath}`);
+          report.push(`翻译条目缺失 ${sourcePatchObj.path} in ${place.path}`);
         }
       }
 
@@ -82,11 +82,11 @@ async function checkMissingTranslation(places: Place[]) {
           }
         }
         if (!hasTranslation) {
-          report.push(`原文条目缺失 ${patch.path} in ${translationFilePath}`);
+          report.push(`原文条目缺失 ${patch.path} in ${place.path}`);
         }
       }
     } else {
-      report.push(`翻译文件缺失 ${translationFilePath}`);
+      report.push(`翻译文件缺失 ${place.path}`);
     }
   });
 
