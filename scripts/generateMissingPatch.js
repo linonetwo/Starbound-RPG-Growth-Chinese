@@ -159,10 +159,15 @@ async function removeMissingSourceItem(report: string[], outputDir: string) {
   missingTranslationPaths.forEach(({ translationFilePath }) => {
     translationFiles.add(translationFilePath);
   });
-  translationFiles.forEach(async translationFilePath => {
-    const fileJSON = await readAsync(translationFilePath, 'json');
-    translationFileContents[translationFilePath] = fileJSON;
+  const readFileTask = [];
+  translationFiles.forEach(translationFilePath => {
+    readFileTask.push(async () => {
+      const fileJSON = await readAsync(translationFilePath, 'json');
+      translationFileContents[translationFilePath] = fileJSON;
+    });
   });
+  await Promise.all(readFileTask);
+
   // 移出没用的 Patch Item
   missingTranslationPaths.forEach(({ translationFilePath, keyPath }) => {
     remove(translationFileContents[translationFilePath], ({ path }) => path === keyPath);
