@@ -6,6 +6,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "build": "rescripts build",
+    "download:source": "rm -rf ./source && curl -LOk https://github.com/IcyVines/Starbound-RPG-Growth/archive/master.zip  && unzip ./master.zip && mv ./Starbound-RPG-Growth-master ./source && rm ./master.zip",
     "unpack:mac": "~/Library/Application Support/Steam/SteamApps/common/Starbound/osx/asset_unpacker ~/Desktop/RPGGrowthChinese.pak ~/Desktop/translation"
   }
 }
