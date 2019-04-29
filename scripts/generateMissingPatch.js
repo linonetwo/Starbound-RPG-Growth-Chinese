@@ -13,22 +13,21 @@ dotenv.config();
 const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env.TRANSLATION_SECRET, 'zh', 'en');
 function tryTranslation(value: string) {
   if (!value) return '';
-  return promiseRetry((retry, number) =>
-    translate(value, 'zh').then(
-      ({ trans_result: result }) => {
+  return promiseRetry((retry, number) => {
+    translate(value, 'zh')
+      .then(({ trans_result: result }) => {
         if (result && result.length > 0) {
           const [{ dst }] = result;
           return dst;
         }
         console.log('Translation Error: ', result, 'From: ', value.substring(0, 15));
         retry();
-      },
-      error => {
+      })
+      .catch(error => {
         console.error('Translation Error: ', error, 'Retry: ', number);
         retry();
-      },
-    ),
-  );
+      });
+  });
 }
 async function parseReport() {
   const { argv } = require('yargs');
@@ -41,6 +40,7 @@ async function parseReport() {
     .map(it.replace('翻译文件缺失 ', ''));
   await Promise.all(missingTranslationPath.map(itt => `${outputDir}/${dirname(itt)}`).map(dirAsync(_)));
   // 创建 patch JSON
+  let counter = 0;
   await Promise.all(
     missingTranslationPath.map(aPath =>
       readAsync(`source/${aPath}`, 'json')
@@ -49,7 +49,7 @@ async function parseReport() {
           Promise.all(
             places.map(async ({ value, path }, index) => {
               // 自动翻译
-              await delay(200 * index);
+              await delay(250 * index);
               let translationResult = '';
               try {
                 translationResult = await tryTranslation(value);
@@ -57,7 +57,8 @@ async function parseReport() {
                 console.error(err);
                 translationResult = await tryTranslation(value);
               }
-              console.log(`Translated ${((index / places.length) * 100).toFixed(2)}%`);
+              counter += 1;
+              console.log(`Translated ${((counter / places.length) * 100).toFixed(3)}% #${index}`);
 
               return { path, op: 'replace', source: value, value: translationResult };
             }),
