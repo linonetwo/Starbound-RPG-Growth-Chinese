@@ -6,12 +6,6 @@
     "value": "狂暴者"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgRAGE MEATHEAD RAGE",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgberserk",
     "value": "IVRPGBRSercel"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

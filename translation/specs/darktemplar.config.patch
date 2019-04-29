@@ -6,12 +6,6 @@
     "value": "黑暗圣堂"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgCorruption",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgaboundingdarkness",
     "value": "ivrpgaboundingdarkness（黑暗）"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

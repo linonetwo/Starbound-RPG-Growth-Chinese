@@ -6,12 +6,6 @@
     "value": "维内特"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgOne With Nature",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgpeacefulaura",
     "value": "静脉肾盂出血"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

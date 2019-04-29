@@ -1003,11 +1003,5 @@
     "op": "replace",
     "source": "Title",
     "value": "书名"
-  },
-  {
-    "path": "/gui/lorelayout/children/scrollArea/children/text/value",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   }
 ]

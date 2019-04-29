@@ -6,12 +6,6 @@
     "value": "潜行者"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgPredator",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgentrapment",
     "value": "IVRP捕获"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

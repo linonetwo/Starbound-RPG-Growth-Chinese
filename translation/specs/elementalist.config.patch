@@ -6,12 +6,6 @@
     "value": "要素论者"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgElemental Weave",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgattune",
     "value": "IVRPGATTUNE"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

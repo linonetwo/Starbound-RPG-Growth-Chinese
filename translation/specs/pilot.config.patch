@@ -6,12 +6,6 @@
     "value": "飞行员"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgNONE",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgnanobotovercharge",
     "value": "静脉注射过量"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

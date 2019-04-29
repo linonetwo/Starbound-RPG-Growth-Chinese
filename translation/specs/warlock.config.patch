@@ -6,12 +6,6 @@
     "value": "术士"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgBeyond the Stars",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgnovstep",
     "value": "IVRPG-诺瓦步"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

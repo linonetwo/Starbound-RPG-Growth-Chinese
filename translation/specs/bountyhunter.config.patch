@@ -6,12 +6,6 @@
     "value": "为领取悬赏而情愿充当杀手的人"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgCapture Card",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgdeadoralive",
     "value": "静脉滴注口服液"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

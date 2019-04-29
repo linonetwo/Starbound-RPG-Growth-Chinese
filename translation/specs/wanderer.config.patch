@@ -6,12 +6,6 @@
     "value": "流浪者"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgThe Stranger",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgsoliloquy",
     "value": "IVRPGLoLooQuy"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

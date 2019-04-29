@@ -6,12 +6,6 @@
     "value": "童子军"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgNew Frontiers",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgheartbeatsensor",
     "value": "IVR重力传感器"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

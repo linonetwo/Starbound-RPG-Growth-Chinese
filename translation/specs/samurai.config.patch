@@ -6,12 +6,6 @@
     "value": "武士"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgSword’s Will",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgiaijutsu",
     "value": "伊夫尔皮亚吉苏图"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

@@ -6,12 +6,6 @@
     "value": "手术的"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgGuerrillTactics",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgempsphere",
     "value": "IVRPGGPON"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",

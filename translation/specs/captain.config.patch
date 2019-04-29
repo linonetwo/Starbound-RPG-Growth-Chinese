@@ -30,12 +30,6 @@
     "value": "IVR拉伸"
   },
   {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/weapon/title",
     "op": "replace",
     "source": "Leader’s Rally",

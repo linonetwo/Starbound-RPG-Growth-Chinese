@@ -6,12 +6,6 @@
     "value": "技术员"
   },
   {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgNONE",
@@ -28,12 +22,6 @@
     "op": "replace",
     "source": "ivrpgelementalovercharge",
     "value": "静脉输液过量"
-  },
-  {
-    "path": "/tech/text",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/weapon/title",
