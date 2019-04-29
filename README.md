@@ -10,6 +10,8 @@
 
 ![create new file](doc/images/createnewfile.png)
 
+[Contributors](https://github.com/linonetwo/Starbound-RPG-Growth-Chinese#contributor)
+
 ### 文件名（文件路径）格式
 
 以 `translation` 开头，我们的翻译都放在这个文件夹里。中间的部分就看[待翻译列表](https://pastebin.com/2yQcm0Qv)，一般是 `tech/roguetech/roguetoxicsphere/roguetoxicsphere.tech` 这样。然后我们在最后面补上一个 `.patch`，这样 Starbound 就会用你创建的这个文件来修改源文件了。
