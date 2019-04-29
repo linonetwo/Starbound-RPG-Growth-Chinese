@@ -12,7 +12,7 @@ import { keyPathInObject, delay } from './utils';
 dotenv.config();
 const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env.TRANSLATION_SECRET, 'zh', 'en');
 function tryTranslation(value: string): Promise<string> {
-  if (!value) return '';
+  if (!value) return Promise.resolve('');
   return promiseRetry((retry, number) =>
     translate(value)
       .then(({ trans_result: result }) => {
