@@ -987,12 +987,6 @@
     "value": "技能选项卡。目前不可用！"
   },
   {
-    "path": "/gui/lorelayout/children/title/value",
-    "op": "replace",
-    "source": "",
-    "value": ""
-  },
-  {
     "path": "/gui/lorelayout/children/changelogbutton/caption",
     "op": "replace",
     "source": "Changelog",
@@ -1003,12 +997,6 @@
     "op": "replace",
     "source": "Lore",
     "value": "学识"
-  },
-  {
-    "path": "/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/subtext/value",
-    "op": "replace",
-    "source": "",
-    "value": ""
   },
   {
     "path": "/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/title/value",

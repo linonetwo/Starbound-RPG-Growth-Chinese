@@ -4,29 +4,5 @@
     "op": "replace",
     "source": "No Profession",
     "value": "没有职业"
-  },
-  {
-    "path": "/ability/text",
-    "op": "replace",
-    "source": "",
-    "value": ""
-  },
-  {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "",
-    "value": ""
-  },
-  {
-    "path": "/weapon/title",
-    "op": "replace",
-    "source": "",
-    "value": ""
-  },
-  {
-    "path": "/weapon/name",
-    "op": "replace",
-    "source": "",
-    "value": ""
   }
 ]
