@@ -11,7 +11,23 @@ import { keyPathInObject, delay } from './utils';
 
 dotenv.config();
 const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env.TRANSLATION_SECRET, 'zh', 'en');
-
+function tryTranslation(value: string) {
+  return promiseRetry((retry, number) =>
+    translate(value, 'zh').then(
+      ({ trans_result: result }) => {
+        if (result && result.length > 0) {
+          const [{ dst }] = result;
+          return dst;
+        }
+        retry();
+      },
+      error => {
+        console.error('Translation Error: ', error, 'Retry: ', number);
+        retry();
+      },
+    ),
+  );
+}
 async function parseReport() {
   const { argv } = require('yargs');
   const outputDir = argv.generate === 'overwrite-missing' ? 'translation' : 'translation-test';
@@ -34,32 +50,10 @@ async function parseReport() {
               await delay(100 * index);
               let translationResult = '';
               try {
-                translationResult = await promiseRetry((retry, number) =>
-                  translate(value, 'zh').then(
-                    ({ trans_result: [{ dst }] }) => dst,
-                    error => {
-                      console.error('Translation Error: ', error, 'Retry: ', number);
-                      retry();
-                    },
-                  ),
-                );
+                translationResult = await tryTranslation(value);
               } catch (err) {
                 console.error(err);
-                translationResult = await promiseRetry((retry, number) =>
-                  translate(value, 'zh').then(
-                    ({ trans_result: result }) => {
-                      if (result && result.length > 0) {
-                        const [{ dst }] = result;
-                        return dst;
-                      }
-                      retry();
-                    },
-                    error => {
-                      console.error('Translation Error: ', error, 'Retry: ', number);
-                      retry();
-                    },
-                  ),
-                );
+                translationResult = await tryTranslation(value);
               }
               console.log(`Translated ${((index / places.length) * 100).toFixed(2)}%`);
 

@@ -6,10 +6,10 @@ import stripJsonComments from 'strip-json-comments';
 export const delay = (ms: number) => new Promise<any>(resolve => setTimeout(resolve, ms));
 
 export function keyPathInObject(obj: Object, keys: string[], parentPath: string = '') {
-  let keyPaths: { value: any, path: string }[] = [];
+  let keyPaths: { value: string, path: string }[] = [];
   for (const key in obj) {
     // 如果是要翻译的字段
-    if (keys.includes(key)) {
+    if (keys.includes(key) && typeof obj[key] === 'string') {
       keyPaths.push({ value: obj[key], path: `${parentPath}/${key}` });
     }
     // 检查这个字段是不是有子字段
