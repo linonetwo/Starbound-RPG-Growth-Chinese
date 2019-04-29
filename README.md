@@ -33,7 +33,7 @@
 ```
 
 - op 是 Starbound 的 API，我们全都用 replace
-- source 是我加的，用于追踪对应的原文
+- source **是我加的**，用于追踪对应的原文，**不存在于 Starbound 标准 API 中！**
 - value 是翻译
 - path 是原文在 JSON 中的字段的路径，MOD 里的原文都放在一个个 JSON 里，可能位于比较深的位置，用这个路径就能找到它，可以到 [Starbound Mod RPG Growth](https://github.com/IcyVines/Starbound-RPG-Growth) 找个例子看看
 

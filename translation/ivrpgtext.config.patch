@@ -669,7 +669,7 @@
     "path": "/lore/children/class/children/knight/title",
     "op": "replace",
     "source": "^blue;Knight",
-    "value": "^blue;Knight"
+    "value": "^blue;骑士"
   },
   {
     "path": "/lore/children/class/children/knight/children/basicknight1/title",
