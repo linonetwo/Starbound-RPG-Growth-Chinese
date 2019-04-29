@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Tamer's Feeding Cooldown",
+    "value": "驯服者的喂食冷却时间"
+  }
+]

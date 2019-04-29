@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Dragoon Only",
+    "value": "龙骑兵"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Dragon's Leap",
+    "value": "龙跃进"
+  }
+]

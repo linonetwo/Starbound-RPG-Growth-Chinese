@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Feed me.",
+    "value": "喂我。"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Kunai Slash",
+    "value": "库奈斜杠"
+  }
+]

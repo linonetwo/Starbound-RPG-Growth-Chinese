@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "No Affinity",
+    "value": "无亲和力"
+  }
+]

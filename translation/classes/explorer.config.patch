@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Explorer",
+    "value": "探险家"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "While Health is greater than half, provide a bright yellow Glow.",
+    "value": "当健康度超过一半时，提供明亮的黄色光芒。"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "explorerglow",
+    "value": "探索辉光"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Spira",
+    "value": "斯皮拉"
+  },
+  {
+    "path": "/weapon/name",
+    "op": "replace",
+    "source": "explorerspiradrill",
+    "value": "探险家皮拉迪尔"
+  }
+]

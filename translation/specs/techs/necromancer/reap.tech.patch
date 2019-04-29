@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Necromancer Only.",
+    "value": "仅限于巫师。"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Reap",
+    "value": "收获"
+  }
+]

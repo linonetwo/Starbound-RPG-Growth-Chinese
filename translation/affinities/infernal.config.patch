@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Infernal",
+    "value": "地狱般的"
+  }
+]

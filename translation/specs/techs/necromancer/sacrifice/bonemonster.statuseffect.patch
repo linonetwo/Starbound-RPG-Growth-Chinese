@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Undead",
+    "value": "不死生物"
+  }
+]

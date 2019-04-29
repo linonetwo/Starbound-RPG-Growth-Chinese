@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Deadshot",
+    "value": "死枪"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "ivrpgDeadly Patience",
+    "value": "四、耐心"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Ideal Shot",
+    "value": "理想射门"
+  },
+  {
+    "path": "/tech/name",
+    "op": "replace",
+    "source": "ivrpgidealshot",
+    "value": "长枪"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Lotus",
+    "value": "莲花"
+  }
+]

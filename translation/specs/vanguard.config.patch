@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Vanguard",
+    "value": "先锋"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Increased Physical Resistance, Energy, and Speed while near enemies. Decreased Power and Energy while far from enemies.",
+    "value": "在接近敌人时增加物理阻力、能量和速度。在远离敌人的情况下降低了力量和能量。"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "ivrpginthefray",
+    "value": "伊夫里普金斯菲"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Rush",
+    "value": "冲"
+  },
+  {
+    "path": "/tech/name",
+    "op": "replace",
+    "source": "ivrpgrush",
+    "value": "伊夫拉普格鲁什"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Pressing [G] while your cursor points near an enemy allows you to near-instantly travel towards that enemy. While traveling, you are immune to damage and can phase through walls. Upon reappearing, create a large electrical explosion that stuns, and regenerates 20% Max Energy upon landing a killing blow. Explosion Damage scales with Agility and Dexterity. Energy Cost is 150. ^red;You cannot use Rush on enemies inside blocks.",
+    "value": "当你的光标指向敌人附近时，按下[G]键，你就可以立即接近敌人。当你旅行时，你对伤害免疫，并且可以穿墙而出。当它再次出现时，会产生一个巨大的电爆炸，使其晕眩，并在致命一击落地时恢复20%的最大能量。爆炸伤害等级灵活灵活。能源成本是150。^红色；你不能在街区内对敌人使用冲锋。"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Danger Close",
+    "value": "很危险"
+  }
+]

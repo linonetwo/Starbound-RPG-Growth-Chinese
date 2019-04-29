@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Crusader Only",
+    "value": "十字军战士"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Resurgence",
+    "value": "死灰复燃"
+  }
+]

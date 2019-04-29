@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Wraith Only",
+    "value": "幽灵只"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Dark Phase",
+    "value": "暗相"
+  }
+]

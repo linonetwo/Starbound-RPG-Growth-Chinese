@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Vanguard Only",
+    "value": "先锋队"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Rush",
+    "value": "冲"
+  }
+]

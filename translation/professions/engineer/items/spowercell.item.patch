@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Electrically charged cell matter made to function like a battery.",
+    "value": "像电池一样工作的带电的电池物质。"
+  }
+]

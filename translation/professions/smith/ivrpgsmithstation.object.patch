@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "The perfect surface to hammer away.\nDesigned by JM401!",
+    "value": "完美的锤击表面。"
+  },
+  {
+    "path": "/subtitle",
+    "op": "replace",
+    "source": "Upgrades",
+    "value": "升级"
+  }
+]

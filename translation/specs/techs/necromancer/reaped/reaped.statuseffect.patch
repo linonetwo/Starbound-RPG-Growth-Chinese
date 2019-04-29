@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Reaped!",
+    "value": "收获！"
+  }
+]

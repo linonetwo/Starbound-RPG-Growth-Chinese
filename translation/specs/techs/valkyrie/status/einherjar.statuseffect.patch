@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Einherjar",
+    "value": "埃因贾尔"
+  }
+]

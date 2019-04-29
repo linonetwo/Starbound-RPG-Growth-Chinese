@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Medic",
+    "value": "医学博士"
+  },
+  {
+    "path": "/passive/text",
+    "op": "replace",
+    "source": "Salves, Bandages, Medpacks, and Nanowrap Bandages in your inventory are instantly used when Health falls below 25% Max Health. If you have some of each, the stronger, faster ones are used first. The cooldown before this effect can happen again lasts as long as the duration of the healing item that was used, and the effect does not occur if you are already under the effect of a healing consumable.",
+    "value": "当健康降至25%以下时，库存中的药膏、绷带、药包和纳米包扎绷带会立即使用。如果你每种都有一些，首先使用的是更强壮、更快的。此效果再次发生之前的冷却时间与使用的治疗物品的持续时间相同，并且如果您已经在治疗消耗品的作用下，效果不会发生。"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "When your own Health is above 50% Max Health, nearby friendly Players and NPCs, up to 10 blocks away, gain slight Health Regeneration.",
+    "value": "当你自己的健康超过50%的最大健康，附近的友好玩家和NPC，最多10个街区远，获得轻微的健康再生。"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "ivrpgmedicstatus",
+    "value": "IVRPG医疗状态"
+  },
+  {
+    "path": "/crafting/text",
+    "op": "replace",
+    "source": "The Medic Station allows you to craft healing consumables using fewer materials.",
+    "value": "医疗站允许你用更少的材料制作治疗消耗品。"
+  }
+]

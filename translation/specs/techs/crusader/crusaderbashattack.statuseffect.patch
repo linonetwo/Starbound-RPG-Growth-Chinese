@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cause Contact Damage",
+    "value": "造成接触损伤"
+  }
+]

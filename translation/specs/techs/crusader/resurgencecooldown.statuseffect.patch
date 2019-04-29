@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Resurgence Cooldown",
+    "value": "复活冷却"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Phase Regeneration",
+    "value": "相再生"
+  }
+]

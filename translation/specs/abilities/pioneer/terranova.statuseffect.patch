@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Terra Nova",
+    "value": "特拉诺瓦"
+  }
+]

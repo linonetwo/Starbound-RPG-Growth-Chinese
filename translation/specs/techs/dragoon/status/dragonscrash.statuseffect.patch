@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Dragon's Crash",
+    "value": "龙之坠毁"
+  }
+]

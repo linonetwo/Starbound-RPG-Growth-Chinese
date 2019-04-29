@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Colonize Cooldown",
+    "value": "殖民冷却"
+  }
+]

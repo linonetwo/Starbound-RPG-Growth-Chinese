@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Crusader",
+    "value": "十字军战士"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "After killing an enemy, Power and Armor increase, and hits cause Judgement. Receiving Contact Damage decreases your Speed.",
+    "value": "杀死敌人后，力量和盔甲会增加，命中会引起判断。受到接触伤害会降低你的速度。"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "ivrpgpurity",
+    "value": "IVRPG纯度"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Resurgence",
+    "value": "死灰复燃"
+  },
+  {
+    "path": "/tech/name",
+    "op": "replace",
+    "source": "ivrpgresurgence",
+    "value": "静脉回流术"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "An upgrade to Knight's Bash. Cause Judgement while sprinting. Bash damage is doubled while wielding a Broadsword instead of a rasied Shield. When taking fatal damage, create a holy explosion and immediately regenerate all Health and Energy. Speed increases for 2 seconds afterwards. Has a cooldown of 180 seconds. Explosion damage scales with Vigor.",
+    "value": "升级到骑士的重击。冲刺时引起判断。使用大刀而不是粗暴的盾牌时，重击伤害加倍。当受到致命伤害时，创造一个神圣的爆炸，并立即恢复所有的健康和能量。之后速度增加2秒。冷却时间为180秒。爆炸损伤程度剧烈。"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Oathkeeper",
+    "value": "誓言"
+  }
+]

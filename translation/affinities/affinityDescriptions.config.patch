@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/fire/text",
+    "op": "replace",
+    "source": "Flame, the Powerful Affinity. This Affinity grants Fire based Immunities and Resistances, and a Medium Vigor Stat Boost. Provides better Immunities and a Large Strength Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Poison.",
+    "value": "火焰，强大的亲和力。这种亲和力给予火力免疫和抵抗力，以及中等强度的持续提升。升级后提供更好的免疫力和更大的强度状态提升。小心点，因为选择这种亲和力会削弱你潜入水中的能力，使你虚弱到中毒。"
+  },
+  {
+    "path": "/poison/text",
+    "op": "replace",
+    "source": "Venom, the Proficient Affinity. This Affinity grants Poison based Immunities and Resistances, and a Small Vigor, Dexterity, and Agility Stat Boost. Provides better Immunities and a Large Dexterity Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Max Health and makes you weak to Electricity.",
+    "value": "毒液，熟练的亲和力。这种亲和力给予基于毒素的免疫力和抵抗力，以及一个小的活力、敏捷和敏捷的状态提升。在升级时提供更好的免疫性和更大的敏捷状态提升。小心点，因为选择这种亲和力会降低你的最大健康水平，使你对电很弱。"
+  },
+  {
+    "path": "/ice/text",
+    "op": "replace",
+    "source": "Frost, the Protective Affinity. This Affinity grants Ice based Immunities and Resistances, and a Medium Vitality Stat Boost. Provides better Immunities and a Large Endurance Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Speed and Jump Height, and makes you weak to Fire.",
+    "value": "霜冻，保护亲和力。这种亲和力给予冰基免疫和抵抗力，以及中等活力状态增强。升级后提供更好的免疫力和更大的耐力。小心点，因为选择这种亲和力会降低你的速度和跳跃高度，并使你无力开火。"
+  },
+  {
+    "path": "/electric/text",
+    "op": "replace",
+    "source": "Shock, the Perceptive Affinity. This Affinity grants Electric based Immunities and Resistances, and a Medium Agility Stat Boost. Provides better Immunities and a Large Intelligence Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Frost.",
+    "value": "震惊，敏锐的亲和力。这种亲和力可以给予电免疫和电阻，以及中等敏捷度的持续提升。升级后提供更好的免疫力和更大的情报统计提升。小心点，因为选择这种亲和力会削弱你在水下的能力，使你虚弱到结霜。"
+  },
+  {
+    "path": "/default/text",
+    "op": "replace",
+    "source": "Click an Affinity's icon to see what that Affinity does.",
+    "value": "单击关联的图标查看该关联的作用。"
+  }
+]

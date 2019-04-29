@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Pioneer Only",
+    "value": "先驱"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Colonize",
+    "value": "殖民地"
+  }
+]

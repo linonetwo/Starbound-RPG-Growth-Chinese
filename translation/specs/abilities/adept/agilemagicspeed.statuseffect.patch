@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Agile Magic",
+    "value": "敏捷魔术"
+  }
+]

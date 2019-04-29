@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Raise Undead",
+    "value": "抚养亡灵"
+  }
+]

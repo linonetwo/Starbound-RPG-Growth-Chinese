@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Immaculate Shield",
+    "value": "无暇盾牌"
+  }
+]

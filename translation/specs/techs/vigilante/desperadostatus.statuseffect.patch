@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Desperado",
+    "value": "亡命之徒"
+  }
+]

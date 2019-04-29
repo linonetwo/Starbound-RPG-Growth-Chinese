@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Kunoichi Only",
+    "value": "Kunoichi只"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Swirling Petal",
+    "value": "旋涡花瓣"
+  }
+]

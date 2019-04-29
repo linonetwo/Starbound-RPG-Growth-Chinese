@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Ally Promethean Tactics",
+    "value": "联盟普罗米修斯战术"
+  }
+]

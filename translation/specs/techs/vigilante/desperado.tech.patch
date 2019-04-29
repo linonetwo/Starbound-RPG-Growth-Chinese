@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Vigilante Only",
+    "value": "唯唯诺诺"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Desperado",
+    "value": "亡命之徒"
+  }
+]

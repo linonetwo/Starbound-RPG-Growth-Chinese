@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Valkyrie Only",
+    "value": "瓦尔基里只"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Einherjar",
+    "value": "埃因贾尔"
+  }
+]

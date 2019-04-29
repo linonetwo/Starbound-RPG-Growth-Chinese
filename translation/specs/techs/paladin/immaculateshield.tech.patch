@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Paladin Only",
+    "value": "仅圣骑士"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Immaculate Shield",
+    "value": "无暇盾牌"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cursed",
+    "value": "诅咒的"
+  }
+]

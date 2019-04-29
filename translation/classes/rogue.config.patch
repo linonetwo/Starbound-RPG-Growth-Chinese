@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Rogue",
+    "value": "流氓"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "While your Food Meter is filled at least halfway, gain +20% Poison Resistance.",
+    "value": "当你的食物表至少被填满一半时，获得+20%的抗毒素能力。"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "roguepoison",
+    "value": "罗吉波森"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Siphon",
+    "value": "虹吸管"
+  },
+  {
+    "path": "/weapon/name",
+    "op": "replace",
+    "source": "roguesiphonclaw",
+    "value": "罗杰斯音叉"
+  }
+]

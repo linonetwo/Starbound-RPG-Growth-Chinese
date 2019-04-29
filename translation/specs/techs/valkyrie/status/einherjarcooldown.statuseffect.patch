@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Einherjar Cooldown",
+    "value": "Einherjar冷却时间"
+  }
+]

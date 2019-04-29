@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Medic",
+    "value": "医学博士"
+  }
+]

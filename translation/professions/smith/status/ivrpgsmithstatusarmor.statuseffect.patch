@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Smith's Armor",
+    "value": "史米斯盔甲"
+  }
+]

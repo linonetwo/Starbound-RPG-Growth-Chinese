@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Engineer's Battery Cooldown",
+    "value": "工程师电池冷却"
+  }
+]

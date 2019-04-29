@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Titan Only",
+    "value": "只有泰坦"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Atlas' Burden",
+    "value": "阿特拉斯负担"
+  }
+]
