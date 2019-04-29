@@ -47,7 +47,13 @@ async function parseReport() {
                 console.error(err);
                 translationResult = await promiseRetry((retry, number) =>
                   translate(value, 'zh').then(
-                    ({ trans_result: [{ dst }] }) => dst,
+                    ({ trans_result: result }) => {
+                      if (result && result.length > 0) {
+                        const [{ dst }] = result;
+                        return dst;
+                      }
+                      retry();
+                    },
                     error => {
                       console.error('Translation Error: ', error, 'Retry: ', number);
                       retry();
@@ -55,7 +61,7 @@ async function parseReport() {
                   ),
                 );
               }
-              console.log(`Translated ${(index / places.length).toFixed(2)}%`);
+              console.log(`Translated ${((index / places.length) * 100).toFixed(2)}%`);
 
               return { path, op: 'replace', source: value, value: translationResult };
             }),
