@@ -12,6 +12,7 @@ import { keyPathInObject, delay } from './utils';
 dotenv.config();
 const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env.TRANSLATION_SECRET, 'zh', 'en');
 function tryTranslation(value: string) {
+  if (!value) return '';
   return promiseRetry((retry, number) =>
     translate(value, 'zh').then(
       ({ trans_result: result }) => {
@@ -19,6 +20,7 @@ function tryTranslation(value: string) {
           const [{ dst }] = result;
           return dst;
         }
+        console.log('Translation Error: ', result, 'From: ', value.substring(0, 15));
         retry();
       },
       error => {
@@ -47,7 +49,7 @@ async function parseReport() {
           Promise.all(
             places.map(async ({ value, path }, index) => {
               // 自动翻译
-              await delay(100 * index);
+              await delay(200 * index);
               let translationResult = '';
               try {
                 translationResult = await tryTranslation(value);
