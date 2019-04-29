@@ -185,7 +185,7 @@ async function parseReport() {
 
   generateMissingTranslationFiles(report, outputDir);
   appendMissingTranslationItem(report, outputDir);
-  appendMissingTranslationItem(report, outputDir);
+  removeMissingSourceItem(report, outputDir);
 }
 
 parseReport();
