@@ -22,3 +22,4 @@ export const keysNeedTranslation = [
   'shortDescription',
   'label',
 ];
+export const keyOnlyTranslateIfItIsChild = ['name'];
