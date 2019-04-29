@@ -99,7 +99,7 @@ async function appendMissingTranslationItem(report: string[], outputDir: string)
 
       await delay(50 * index);
       if (!source) {
-        console.warn(source, keyPath, sourceFilePath, translationFilePath);
+        console.warn('!source in appendMissingTranslationItem', source, keyPath, sourceFilePath, translationFilePath);
       }
       let value = '';
       try {
