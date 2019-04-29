@@ -1,6 +1,6 @@
 // @flow
 import { findAsync, readAsync, writeAsync, existsAsync } from 'fs-jetpack';
-import { isPlainObject, replace, flatten, assign } from 'lodash';
+import { isPlainObject, replace } from 'lodash';
 import stripJsonComments from 'strip-json-comments';
 
 function keyPathInObject(obj: Object, keys: string[], parentPath: string = '') {
@@ -107,7 +107,7 @@ async function checkMissingTranslation(places: Place[]) {
   });
   // 还有检查是不是有新的翻译，或者改动的文件结构
   const task2 = places.map(async place => {
-    const translationFilePath = `./translation${place.path}`;
+    const translationFilePath = `translation${place.path}`;
     const patchExists = await existsAsync(translationFilePath);
     if (patchExists) {
       const patchJSON: Patch[] = await readAsync(translationFilePath, 'json');

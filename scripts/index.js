@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 require('@babel/register')({
   ignore: [/\/(build|node_modules)\//],
   presets: [
@@ -27,4 +28,12 @@ require('@babel/register')({
   ],
 });
 
-require('./scanMismatch.js');
+const { argv } = require('yargs');
+
+if (argv.scan) {
+  require('./scanMismatch.js');
+} else if (argv.generate) {
+  require('./generateMissingPatch.js');
+} else {
+  console.log('look at ./scripts/index.js');
+}
