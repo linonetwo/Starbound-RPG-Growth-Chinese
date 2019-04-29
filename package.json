@@ -6,7 +6,38 @@
   "license": "UNLICENSED",
   "scripts": {
     "build": "rescripts build",
+    "scan": "node ./scripts/index.js",
     "download:source": "rm -rf ./source && curl -LOk https://github.com/IcyVines/Starbound-RPG-Growth/archive/master.zip  && unzip ./master.zip && mv ./Starbound-RPG-Growth-master ./source && rm ./master.zip",
     "unpack:mac": "~/Library/Application Support/Steam/SteamApps/common/Starbound/osx/asset_unpacker ~/Desktop/RPGGrowthChinese.pak ~/Desktop/translation"
+  },
+  "dependencies": {
+    "codegen.macro": "^3.0.0",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.4.1",
+    "param.macro": "^3.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-proposal-do-expressions": "^7.2.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.2.0",
+    "@babel/plugin-syntax-flow": "^7.2.0",
+    "@babel/plugin-transform-flow-strip-types": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/register": "^7.4.4",
+    "@babel/runtime": "^7.4.4",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-flow-runtime": "^0.18.0",
+    "babel-plugin-import": "^1.11.0",
+    "babel-plugin-lodash": "^3.3.4",
+    "babel-plugin-macros": "^2.5.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-flowtype": "^3.6.1",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "prettier-eslint-cli": "^4.7.1"
   }
 }
