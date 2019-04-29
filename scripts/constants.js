@@ -23,3 +23,4 @@ export const keysNeedTranslation = [
   'label',
 ];
 export const keyOnlyTranslateIfItIsChild = ['name'];
+export const stopWords = ['-'];
