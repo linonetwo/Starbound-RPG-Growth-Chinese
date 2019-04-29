@@ -11,9 +11,9 @@ import { keyPathInObject, delay } from './utils';
 
 dotenv.config();
 const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env.TRANSLATION_SECRET, 'zh', 'en');
-function tryTranslation(value: string) {
+function tryTranslation(value: string): Promise<string> {
   if (!value) return '';
-  return promiseRetry((retry, number) => {
+  return promiseRetry((retry, number) =>
     translate(value)
       .then(({ trans_result: result }) => {
         if (result && result.length > 0) {
@@ -26,8 +26,8 @@ function tryTranslation(value: string) {
       .catch(error => {
         console.error('Translation Error: ', error, 'Retry: ', number);
         retry();
-      });
-  });
+      }),
+  );
 }
 async function parseReport() {
   const { argv } = require('yargs');
@@ -62,6 +62,7 @@ async function parseReport() {
                 translationResult = await tryTranslation(value);
               }
               console.log(
+                // eslint-disable-next-line no-plusplus
                 `Translated ${((counter++ / places.length / missingTranslationPath.length) * 100).toFixed(
                   3,
                 )}% file#${fileIndex} patch#${index}`,
