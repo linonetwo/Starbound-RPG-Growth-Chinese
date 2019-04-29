@@ -45,6 +45,7 @@ async function parseReport() {
     missingTranslationPath.map((aPath, fileIndex) =>
       readAsync(`source/${aPath}`, 'json')
         .then(fileJSON => keyPathInObject(fileJSON, keysNeedTranslation))
+        .then(() => delay(50 * fileIndex))
         .then(places =>
           Promise.all(
             places.map(async ({ value, path }, index) => {
