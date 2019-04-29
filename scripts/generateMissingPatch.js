@@ -14,7 +14,7 @@ const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env
 function tryTranslation(value: string) {
   if (!value) return '';
   return promiseRetry((retry, number) => {
-    translate(value, 'zh')
+    translate(value)
       .then(({ trans_result: result }) => {
         if (result && result.length > 0) {
           const [{ dst }] = result;
