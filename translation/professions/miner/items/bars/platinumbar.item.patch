@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "An alloy made from Durasteel and Titanium that behaves quite like platinum.",
+    "value": "一种由硬钢和钛制成的合金，其性能相当像铂。"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Wraith",
+    "value": "幽灵"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Gravity barely affects you. Upon taking the damage, become invulnerable and ethereal for a short time.",
+    "value": "重力几乎不会影响你。受到伤害后，在短时间内变得无懈可击和空灵。"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "ivrpgbetweenworlds",
+    "value": "IvrPgBetweenwords公司"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Dark Phase",
+    "value": "暗相"
+  },
+  {
+    "path": "/tech/name",
+    "op": "replace",
+    "source": "ivrpgdarkphase",
+    "value": "IVRP相位"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Upon attempting to jump, you hover towards the direction you are holding instead. While doing so, you are completely immune to damage, and can phase through blocks. Costs 40 Energy per second. Travel speed scales with Agility. Holding [Shift] while doing so will remove the invulnerability and phase-ability, and halves the overall Energy cost.",
+    "value": "当你试图跳跃时，你会朝着你保持的方向盘旋。当你这样做的时候，你完全不受伤害，并且可以逐步通过区块。每秒消耗40能源。移动速度与敏捷性的天平。在这样做的同时保持[转换]将消除不可破坏性和相位能力，并将总能源成本减半。"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Soulless Whisper",
+    "value": "无灵魂的低语"
+  }
+]

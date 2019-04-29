@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "UI:\n    Lore Tab:\n        New Lore Added.\n        Lore can be unlocked via certain actions. These will all be retroactive to be less of a pain for everyone.\n",
+    "value": "用户界面："
+  }
+]

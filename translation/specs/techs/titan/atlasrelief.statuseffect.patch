@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgatlasrelief",
+    "value": "静脉曲张"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Atlas' Relief",
+    "value": "阿特拉斯救济"
+  }
+]

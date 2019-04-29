@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgagilemagic",
+    "value": "IVRP"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Fluctuation",
+    "value": "波动"
+  }
+]

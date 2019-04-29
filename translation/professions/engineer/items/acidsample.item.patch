@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A sample of acid made from some potent venom.",
+    "value": "从某种烈性毒液中提取的酸样品。"
+  }
+]

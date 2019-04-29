@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgmedicregeneration",
+    "value": "体外再生"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Medic's Healing",
+    "value": "医疗"
+  }
+]

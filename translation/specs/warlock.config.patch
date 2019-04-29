@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Warlock",
+    "value": "术士"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "ivrpgBeyond the Stars",
+    "value": "我相信星星"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "NovStep",
+    "value": "诺步"
+  },
+  {
+    "path": "/tech/name",
+    "op": "replace",
+    "source": "ivrpgnovstep",
+    "value": "IVRPG-诺瓦步"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Orbital",
+    "value": "轨道"
+  }
+]

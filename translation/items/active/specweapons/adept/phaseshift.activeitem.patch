@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "To you, the Universe is nothing.",
+    "value": "对你来说，宇宙是虚无的。"
+  }
+]

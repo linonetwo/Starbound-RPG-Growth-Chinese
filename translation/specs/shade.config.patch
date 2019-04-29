@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Shade",
+    "value": "阴影"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "ivrpgAbounding Darkness",
+    "value": "四、天黑"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Hidden Dragon",
+    "value": "藏龙"
+  },
+  {
+    "path": "/tech/name",
+    "op": "replace",
+    "source": "ivrpghiddendragon",
+    "value": "静脉滴注地龙"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Quasar",
+    "value": "类星体"
+  }
+]

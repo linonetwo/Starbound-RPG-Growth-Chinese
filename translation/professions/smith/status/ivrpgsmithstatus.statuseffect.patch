@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgsmithstatus",
+    "value": "静脉滴注状态"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Smith",
+    "value": "史密斯"
+  }
+]

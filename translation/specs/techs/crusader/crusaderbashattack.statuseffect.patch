@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "crusaderbashattack",
+    "value": "十字军突击队"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cause Contact Damage",
+    "value": "造成接触损伤"
+  }
+]

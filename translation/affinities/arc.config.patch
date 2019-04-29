@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Arc",
+    "value": "弧"
+  },
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "arc",
+    "value": "弧"
+  }
+]

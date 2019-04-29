@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgodinsblessing",
+    "value": "长春藤祝福"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Odin's Blessing",
+    "value": "奥丁的祝福"
+  }
+]

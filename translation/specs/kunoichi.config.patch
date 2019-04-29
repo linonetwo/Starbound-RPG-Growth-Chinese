@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Kunoichi",
+    "value": "国一"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Killing enemies with War-Fans grants Energy and Feather Falling. Killing Male NPCs yields bonus XP.",
+    "value": "用战迷杀死敌人可以获得能量和羽毛掉落。杀死男性NPC会获得额外的经验值。"
+  },
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "ivrpgtranquilwind",
+    "value": "长风"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Swirling Petal",
+    "value": "旋涡花瓣"
+  },
+  {
+    "path": "/tech/name",
+    "op": "replace",
+    "source": "ivrpgswirlingpetal",
+    "value": "四、花瓣"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Press [W] to flip backwards, releasing a sweet gas into the air as you do. The gas dazes enemies that get hit by it, causing them to move much slower. While mid-flip, you are invulnerable to damage, and hitting the ground immediately stops the flip.\n^red;Cooldown: 1s. Energy Cost: 50e. Does not protect from Status Damage.",
+    "value": "按[W]向后翻转，像你一样释放一种甜味气体到空气中。这种气体使被它击中的敌人晕眩，使他们移动得慢得多。中翻时，你不会受到伤害，落地后立即停止翻转。"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Luxuria",
+    "value": "华丽"
+  }
+]

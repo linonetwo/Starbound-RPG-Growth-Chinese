@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgtamermonsterregenarmor",
+    "value": "Ivrpgtamermonsterregenarmor公司"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Tamer",
+    "value": "驯兽师"
+  }
+]
