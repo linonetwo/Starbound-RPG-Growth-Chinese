@@ -628,5 +628,413 @@
     "op": "replace",
     "value": "神秘的书",
     "path": "/gui/windowtitle/title"
+  },
+  {
+    "path": "/gui/overviewlayout/children/spectitle/value",
+    "op": "replace",
+    "source": "No Specialization",
+    "value": "没有专业化"
+  },
+  {
+    "path": "/gui/overviewlayout/children/rallymodetitle/value",
+    "op": "replace",
+    "source": "Rally Mode: enemies become stronger as you level up!",
+    "value": "集合模式：当你提升时，敌人会变得更强！"
+  },
+  {
+    "path": "/gui/overviewlayout/children/rallymodetext/value",
+    "op": "replace",
+    "source": "Multiple players using Rally Mode strengthens the effect.",
+    "value": "多人使用拉力模式加强效果。"
+  },
+  {
+    "path": "/gui/overviewlayout/children/rallymodeactive/value",
+    "op": "replace",
+    "source": "Active",
+    "value": "主动的"
+  },
+  {
+    "path": "/gui/professionslayout/children/title/value",
+    "op": "replace",
+    "source": "Profession Select",
+    "value": "职业选择"
+  },
+  {
+    "path": "/gui/professionslayout/children/subtitle/value",
+    "op": "replace",
+    "source": "Professions are a valuable asset and can be selected for ^yellow;1000 Pixels.\n^red;You can quit your Profession at any time, but must pay again to re-select!",
+    "value": "职业是一项宝贵的资产，可以选择^黄色；1000像素。"
+  },
+  {
+    "path": "/gui/professionslayout/children/professiondescription/value",
+    "op": "replace",
+    "source": "Click a Profession's icon to see its benefits.",
+    "value": "单击某个职业的图标以查看其好处。"
+  },
+  {
+    "path": "/gui/professionslayout/children/medictitle/value",
+    "op": "replace",
+    "source": "Medic",
+    "value": "医学博士"
+  },
+  {
+    "path": "/gui/professionslayout/children/tamertitle/value",
+    "op": "replace",
+    "source": "Tamer",
+    "value": "驯兽师"
+  },
+  {
+    "path": "/gui/professionslayout/children/alchemisttitle/value",
+    "op": "replace",
+    "source": "Alchemist",
+    "value": "炼金术士"
+  },
+  {
+    "path": "/gui/professionslayout/children/bardtitle/value",
+    "op": "replace",
+    "source": "Bard",
+    "value": "吟游诗人"
+  },
+  {
+    "path": "/gui/professionslayout/children/cheftitle/value",
+    "op": "replace",
+    "source": "Chef",
+    "value": "厨师"
+  },
+  {
+    "path": "/gui/professionslayout/children/minertitle/value",
+    "op": "replace",
+    "source": "Miner",
+    "value": "矿工"
+  },
+  {
+    "path": "/gui/professionslayout/children/engineertitle/value",
+    "op": "replace",
+    "source": "Engineer",
+    "value": "工程师"
+  },
+  {
+    "path": "/gui/professionslayout/children/botanisttitle/value",
+    "op": "replace",
+    "source": "Botanist",
+    "value": "植物学家"
+  },
+  {
+    "path": "/gui/professionslayout/children/jewelertitle/value",
+    "op": "replace",
+    "source": "Jeweler",
+    "value": "珠宝商"
+  },
+  {
+    "path": "/gui/professionslayout/children/smithtitle/value",
+    "op": "replace",
+    "source": "Smith",
+    "value": "史密斯"
+  },
+  {
+    "path": "/gui/professionslayout/children/pixelamount/value",
+    "op": "replace",
+    "source": "0",
+    "value": "零"
+  },
+  {
+    "path": "/gui/professionlayout/children/proftitle/value",
+    "op": "replace",
+    "source": "No Profession Yet",
+    "value": "还没有职业"
+  },
+  {
+    "path": "/gui/professionlayout/children/classictitle/value",
+    "op": "replace",
+    "source": "Classic Mode",
+    "value": "经典模式"
+  },
+  {
+    "path": "/gui/professionlayout/children/classictext/value",
+    "op": "replace",
+    "source": "Classic Mode",
+    "value": "经典模式"
+  },
+  {
+    "path": "/gui/professionlayout/children/benefittitle/value",
+    "op": "replace",
+    "source": "Bonuses",
+    "value": "奖金"
+  },
+  {
+    "path": "/gui/professionlayout/children/benefittext/value",
+    "op": "replace",
+    "source": "Benefit list",
+    "value": "福利清单"
+  },
+  {
+    "path": "/gui/professionlayout/children/scalingtitle/value",
+    "op": "replace",
+    "source": "Stat Scaling",
+    "value": "统计缩放"
+  },
+  {
+    "path": "/gui/professionlayout/children/passivetitle/value",
+    "op": "replace",
+    "source": "Active Ability",
+    "value": "主动能力"
+  },
+  {
+    "path": "/gui/professionlayout/children/scalingtext/value",
+    "op": "replace",
+    "source": "Scaling list",
+    "value": "比例表"
+  },
+  {
+    "path": "/gui/professionlayout/children/passiveactive/value",
+    "op": "replace",
+    "source": "Inactive",
+    "value": "不活动的"
+  },
+  {
+    "path": "/gui/professionlayout/children/passivetext/value",
+    "op": "replace",
+    "source": "Passive Text",
+    "value": "被动文本"
+  },
+  {
+    "path": "/gui/professionlayout/children/craftingtitle/value",
+    "op": "replace",
+    "source": "Crafting Skill",
+    "value": "制作技巧"
+  },
+  {
+    "path": "/gui/professionlayout/children/craftingtext/value",
+    "op": "replace",
+    "source": "Crafting",
+    "value": "手工制作"
+  },
+  {
+    "path": "/gui/professionlayout/children/uniquetitle/value",
+    "op": "replace",
+    "source": "Unique Ability",
+    "value": "独特能力"
+  },
+  {
+    "path": "/gui/professionlayout/children/uniquetext/value",
+    "op": "replace",
+    "source": "Unique List",
+    "value": "唯一列表"
+  },
+  {
+    "path": "/gui/specializationslayout/children/title/value",
+    "op": "replace",
+    "source": "Specialization Select",
+    "value": "专业化选择"
+  },
+  {
+    "path": "/gui/specializationslayout/children/subtitle/value",
+    "op": "replace",
+    "source": "Specializations can be unlocked by accomplishing certain tasks.\nUse the arrows to navigate through available Specializations.",
+    "value": "通过完成某些任务，可以解锁专业化。"
+  },
+  {
+    "path": "/gui/specializationslayout/children/spectitle/value",
+    "op": "replace",
+    "source": "Specialization Title",
+    "value": "专业名称"
+  },
+  {
+    "path": "/gui/specializationslayout/children/desctitle/value",
+    "op": "replace",
+    "source": "Description",
+    "value": "描述"
+  },
+  {
+    "path": "/gui/specializationslayout/children/desctext/value",
+    "op": "replace",
+    "source": "Description",
+    "value": "描述"
+  },
+  {
+    "path": "/gui/specializationslayout/children/weapontitle/value",
+    "op": "replace",
+    "source": "Weapon & Tech",
+    "value": "武器与技术"
+  },
+  {
+    "path": "/gui/specializationslayout/children/weapontext/value",
+    "op": "replace",
+    "source": "Weapon",
+    "value": "武器"
+  },
+  {
+    "path": "/gui/specializationslayout/children/loretitle/value",
+    "op": "replace",
+    "source": "Lore",
+    "value": "学识"
+  },
+  {
+    "path": "/gui/specializationslayout/children/loretext/value",
+    "op": "replace",
+    "source": "Unlocked Via",
+    "value": "解锁通路"
+  },
+  {
+    "path": "/gui/specializationslayout/children/unlocktext/value",
+    "op": "replace",
+    "source": "Unlocked Via",
+    "value": "解锁通路"
+  },
+  {
+    "path": "/gui/specializationslayout/children/locked/value",
+    "op": "replace",
+    "source": "Find and use a Specialization Scroll!",
+    "value": "找到并使用专业化卷轴！"
+  },
+  {
+    "path": "/gui/specializationlayout/children/spectitle/value",
+    "op": "replace",
+    "source": "No Specialization Yet",
+    "value": "还没有专门化"
+  },
+  {
+    "path": "/gui/specializationlayout/children/classictitle/value",
+    "op": "replace",
+    "source": "Classic Mode",
+    "value": "经典模式"
+  },
+  {
+    "path": "/gui/specializationlayout/children/classictext/value",
+    "op": "replace",
+    "source": "Classic Mode",
+    "value": "经典模式"
+  },
+  {
+    "path": "/gui/specializationlayout/children/benefittitle/value",
+    "op": "replace",
+    "source": "Bonuses",
+    "value": "奖金"
+  },
+  {
+    "path": "/gui/specializationlayout/children/benefittext/value",
+    "op": "replace",
+    "source": "Benefit list",
+    "value": "福利清单"
+  },
+  {
+    "path": "/gui/specializationlayout/children/detrimenttitle/value",
+    "op": "replace",
+    "source": "Penalties",
+    "value": "刑罚"
+  },
+  {
+    "path": "/gui/specializationlayout/children/detrimenttext/value",
+    "op": "replace",
+    "source": "Detriment list",
+    "value": "有害名单"
+  },
+  {
+    "path": "/gui/specializationlayout/children/effecttext/value",
+    "op": "replace",
+    "source": "Ability Text Goes Here",
+    "value": "此处显示能力文本"
+  },
+  {
+    "path": "/gui/specializationlayout/children/statscalingtitle/value",
+    "op": "replace",
+    "source": "Stat Scaling",
+    "value": "统计缩放"
+  },
+  {
+    "path": "/gui/specializationlayout/children/statscalingtext/value",
+    "op": "replace",
+    "source": "Stat Scaling",
+    "value": "统计缩放"
+  },
+  {
+    "path": "/gui/specializationlayout/children/specweaponicontitle/value",
+    "op": "replace",
+    "source": "Weapon",
+    "value": "武器"
+  },
+  {
+    "path": "/gui/specializationlayout/children/specweapontitle/value",
+    "op": "replace",
+    "source": "Weapon Title",
+    "value": "武器标题"
+  },
+  {
+    "path": "/gui/specializationlayout/children/specweapontext/value",
+    "op": "replace",
+    "source": "...",
+    "value": "…"
+  },
+  {
+    "path": "/gui/specializationlayout/children/techtitle/value",
+    "op": "replace",
+    "source": "Skill",
+    "value": "技能"
+  },
+  {
+    "path": "/gui/specializationlayout/children/techname/value",
+    "op": "replace",
+    "source": "Skill Title",
+    "value": "技术职称"
+  },
+  {
+    "path": "/gui/specializationlayout/children/techtype/value",
+    "op": "replace",
+    "source": "Tech Type",
+    "value": "技术型"
+  },
+  {
+    "path": "/gui/specializationlayout/children/techtext/value",
+    "op": "replace",
+    "source": "Skill description",
+    "value": "技能描述"
+  },
+  {
+    "path": "/gui/specializationlayout/children/unlockedtext/value",
+    "op": "replace",
+    "source": "Unlocked",
+    "value": "解锁"
+  },
+  {
+    "path": "/gui/skillslayout/children/locked/value",
+    "op": "replace",
+    "source": "Skills Tab. Currently Unavailable!",
+    "value": "技能选项卡。目前不可用！"
+  },
+  {
+    "path": "/gui/lorelayout/children/title/value",
+    "op": "replace",
+    "source": "",
+    "value": ""
+  },
+  {
+    "path": "/gui/lorelayout/children/changelogbutton/caption",
+    "op": "replace",
+    "source": "Changelog",
+    "value": "长乐阁"
+  },
+  {
+    "path": "/gui/lorelayout/children/lorebutton/caption",
+    "op": "replace",
+    "source": "Lore",
+    "value": "学识"
+  },
+  {
+    "path": "/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/subtext/value",
+    "op": "replace",
+    "source": "",
+    "value": ""
+  },
+  {
+    "path": "/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/title/value",
+    "op": "replace",
+    "source": "Title",
+    "value": "书名"
+  },
+  {
+    "path": "/gui/lorelayout/children/scrollArea/children/text/value",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
   }
 ]

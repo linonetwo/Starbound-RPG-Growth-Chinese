@@ -1,37 +1,49 @@
 [
   {
-    "op":"replace",
-	"path":"/paneLayout/windowtitle/title",
-	"value":" 大师书桌"
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "value": " 大师书桌"
   },
   {
-    "op":"replace",
-	"path":"/paneLayout/windowtitle/subtitle",
-	"value":" ^#b9b5b2;成为非凡大师的捷径."
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "value": " ^#b9b5b2;成为非凡大师的捷径."
   },
   {
-    "op":"replace",
-	"path":"/paneLayout/lblSchematics/value",
-	"value":"^#b9b5b2;专精物品"
+    "op": "replace",
+    "path": "/paneLayout/lblSchematics/value",
+    "value": "^#b9b5b2;专精物品"
   },
   {
-	"op":"replace",
-	"path":"/paneLayout/lblProducttitle/value",
-	"value":"^#b9b5b2;物品预览"
+    "op": "replace",
+    "path": "/paneLayout/lblProducttitle/value",
+    "value": "^#b9b5b2;物品预览"
   },
   {
-	"op":"replace",
-	"path":"/paneLayout/btnCraft/caption",
-	"value":"具现化"
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "value": "具现化"
   },
   {
-	"op":"replace",
-	"path":"/paneLayout/btnStopCraft/caption",
-	"value":"停止"
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "value": "停止"
   },
   {
-	"op":"replace",
-	"path":"/paneLayout/lblProduct/value",
-	"value":"可用"
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "value": "可用"
+  },
+  {
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value",
+    "op": "replace",
+    "source": "Replace Me",
+    "value": "代替我"
+  },
+  {
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/priceLabel/value",
+    "op": "replace",
+    "source": "0",
+    "value": "零"
   }
 ]

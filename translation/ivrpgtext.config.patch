@@ -538,5 +538,245 @@
     "op": "replace",
     "value": "溜之大吉",
     "path": "/upgrades/tech/ivrpgucwavedash/title"
+  },
+  {
+    "path": "/lore/title",
+    "op": "replace",
+    "source": "Lore",
+    "value": "学识"
+  },
+  {
+    "path": "/lore/children/universe/title",
+    "op": "replace",
+    "source": "^magenta;Universe",
+    "value": "^洋红；宇宙"
+  },
+  {
+    "path": "/lore/children/universe/children/truth/title",
+    "op": "replace",
+    "source": "Truth",
+    "value": "真理"
+  },
+  {
+    "path": "/lore/children/universe/children/forgranted/title",
+    "op": "replace",
+    "source": "For Granted",
+    "value": "理所当然"
+  },
+  {
+    "path": "/lore/children/people/children/winter/title",
+    "op": "replace",
+    "source": "^#ffaafa;Winter",
+    "value": "冬季FFAAFA"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/comprehension/title",
+    "op": "replace",
+    "source": "Comprehension",
+    "value": "理解力"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/whennothingstaredback/title",
+    "op": "replace",
+    "source": "When Nothing Stared Back",
+    "value": "当什么也没有回望的时候"
+  },
+  {
+    "path": "/lore/children/people/title",
+    "op": "replace",
+    "source": "^orange;People",
+    "value": "橙色；人"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/whoareyoureally/title",
+    "op": "replace",
+    "source": "Who are you, really?",
+    "value": "你是谁，真的？"
+  },
+  {
+    "path": "/lore/children/people/children/zia/title",
+    "op": "replace",
+    "source": "^#c16bff;Zia",
+    "value": "齐亚C16BFF"
+  },
+  {
+    "path": "/lore/children/people/children/zia/children/apprenticesfolly/title",
+    "op": "replace",
+    "source": "The Apprentice's Folly",
+    "value": "学徒的愚蠢"
+  },
+  {
+    "path": "/lore/children/people/children/zia/children/forceofnature/title",
+    "op": "replace",
+    "source": "Force of Nature",
+    "value": "自然力"
+  },
+  {
+    "path": "/lore/children/people/children/egoen/title",
+    "op": "replace",
+    "source": "^#6d577c;Egoen",
+    "value": "Egoen 6D579C"
+  },
+  {
+    "path": "/lore/children/people/children/egoen/children/expectation/title",
+    "op": "replace",
+    "source": "Expectation",
+    "value": "期望值"
+  },
+  {
+    "path": "/lore/children/people/children/egoen/children/againstallodds/title",
+    "op": "replace",
+    "source": "Against All Odds",
+    "value": "不择手段"
+  },
+  {
+    "path": "/lore/children/people/children/bahn/title",
+    "op": "replace",
+    "source": "Bahn",
+    "value": "巴恩"
+  },
+  {
+    "path": "/lore/children/people/children/sen/title",
+    "op": "replace",
+    "source": "Sen",
+    "value": "森"
+  },
+  {
+    "path": "/lore/children/people/children/mellou/title",
+    "op": "replace",
+    "source": "Mellou",
+    "value": "梅卢"
+  },
+  {
+    "path": "/lore/children/people/children/soliste/title",
+    "op": "replace",
+    "source": "^#75ff75;Soliste",
+    "value": "^#75ff75；索利斯特"
+  },
+  {
+    "path": "/lore/children/people/children/soliste/children/partners/title",
+    "op": "replace",
+    "source": "Partners",
+    "value": "合作伙伴"
+  },
+  {
+    "path": "/lore/children/people/children/soliste/children/promisemethis/title",
+    "op": "replace",
+    "source": "Promise Me This",
+    "value": "答应我"
+  },
+  {
+    "path": "/lore/children/class/title",
+    "op": "replace",
+    "source": "^gray;Class",
+    "value": "灰色类"
+  },
+  {
+    "path": "/lore/children/class/children/knight/title",
+    "op": "replace",
+    "source": "^blue;Knight",
+    "value": "蓝色；Knight"
+  },
+  {
+    "path": "/lore/children/class/children/knight/children/basicknight1/title",
+    "op": "replace",
+    "source": "The Knight",
+    "value": "骑士"
+  },
+  {
+    "path": "/lore/children/class/children/knight/children/keepingthepeace/title",
+    "op": "replace",
+    "source": "Keeping the Peace",
+    "value": "维持和平"
+  },
+  {
+    "path": "/lore/children/class/children/wizard/title",
+    "op": "replace",
+    "source": "^magenta;Wizard",
+    "value": "品红；巫师"
+  },
+  {
+    "path": "/lore/children/class/children/wizard/children/basicwizard1/title",
+    "op": "replace",
+    "source": "The Wizard",
+    "value": "巫师"
+  },
+  {
+    "path": "/lore/children/class/children/wizard/children/harnessingmagic/title",
+    "op": "replace",
+    "source": "Harnessing Magic",
+    "value": "利用魔法"
+  },
+  {
+    "path": "/lore/children/class/children/ninja/title",
+    "op": "replace",
+    "source": "^red;Ninja",
+    "value": "红色；忍者"
+  },
+  {
+    "path": "/lore/children/class/children/ninja/children/basicninja1/title",
+    "op": "replace",
+    "source": "The Ninja",
+    "value": "忍者"
+  },
+  {
+    "path": "/lore/children/class/children/ninja/children/withintheshadows/title",
+    "op": "replace",
+    "source": "Within the Shadows",
+    "value": "在阴影中"
+  },
+  {
+    "path": "/lore/children/class/children/soldier/title",
+    "op": "replace",
+    "source": "^orange;Soldier",
+    "value": "士兵；橙色"
+  },
+  {
+    "path": "/lore/children/class/children/soldier/children/basicsoldier1/title",
+    "op": "replace",
+    "source": "The Soldier",
+    "value": "士兵"
+  },
+  {
+    "path": "/lore/children/class/children/soldier/children/countingbullets/title",
+    "op": "replace",
+    "source": "Counting Bullets",
+    "value": "计算项目符号"
+  },
+  {
+    "path": "/lore/children/class/children/rogue/title",
+    "op": "replace",
+    "source": "^green;Rogue",
+    "value": "绿色；流氓"
+  },
+  {
+    "path": "/lore/children/class/children/rogue/children/basicrogue1/title",
+    "op": "replace",
+    "source": "The Rogue",
+    "value": "流氓"
+  },
+  {
+    "path": "/lore/children/class/children/rogue/children/aroguesway/title",
+    "op": "replace",
+    "source": "A Rogue's Way",
+    "value": "流氓之道"
+  },
+  {
+    "path": "/lore/children/class/children/explorer/title",
+    "op": "replace",
+    "source": "^yellow;Explorer",
+    "value": "^黄色；资源管理器"
+  },
+  {
+    "path": "/lore/children/class/children/explorer/children/basicexplorer1/title",
+    "op": "replace",
+    "source": "The Explorer",
+    "value": "探险家"
+  },
+  {
+    "path": "/lore/children/specialization/title",
+    "op": "replace",
+    "source": "Specialization",
+    "value": "专业化"
   }
 ]

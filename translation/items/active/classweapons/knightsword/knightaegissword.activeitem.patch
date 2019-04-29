@@ -8,5 +8,11 @@
     "op": "replace",
     "value": "庇护者, 用流星金属制成的双手剑,可以承受沉重的打击.",
     "path": "/description"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Combo Slash",
+    "value": "拯救公主"
   }
 ]
