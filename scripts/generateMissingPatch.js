@@ -183,6 +183,48 @@ async function removeMissingSourceItem(report: string[], outputDir: string) {
   );
 }
 
+
+/** 解决译文内容无效，可能是没翻译，也可能内容是 - 之类的占位符 */
+async function removeUnusableSourceItem(report: string[], outputDir: string) {
+  // 创建不存在的文件夹
+  const missingTranslationPaths: { keyPath: string, translationFilePath: string }[] = report
+    .filter(it.startsWith('译文内容无效'))
+    .map(it.replace('译文内容无效 ', ''))
+    .map(it.split(' in '))
+    .map(([keyPath, filePath]) => ({
+      keyPath,
+      translationFilePath: `${outputDir}/${filePath}.patch`,
+    }));
+
+  const translationFiles = new Set<string>();
+  const translationFileContents: { [path: string]: { path: string, op: String, value: string }[] } = {};
+  missingTranslationPaths.forEach(({ translationFilePath }) => {
+    translationFiles.add(translationFilePath);
+  });
+  const readFileTask = [];
+  translationFiles.forEach(translationFilePath => {
+    readFileTask.push(
+      readAsync(translationFilePath, 'json').then(fileJSON => {
+        translationFileContents[translationFilePath] = fileJSON;
+      }),
+    );
+  });
+  await Promise.all(readFileTask);
+
+  // 移出没用的 Patch Item
+  missingTranslationPaths.forEach(({ translationFilePath, keyPath }) => {
+    remove(translationFileContents[translationFilePath], ({ path }) => path === keyPath);
+  });
+
+  await Promise.all(
+    Object.keys(translationFileContents).map((translationFilePath: string) => {
+      return writeAsync(translationFilePath, translationFileContents[translationFilePath]).catch(aaa =>
+        console.log('writeAsync Error: ', aaa),
+      );
+    }),
+  );
+}
+
 async function parseReport() {
   const { argv } = require('yargs');
   const outputDir = argv.generate === 'overwrite-missing' ? 'translation' : 'translation-test';
@@ -192,6 +234,7 @@ async function parseReport() {
   generateMissingTranslationFiles(report, outputDir);
   appendMissingTranslationItem(report, outputDir);
   removeMissingSourceItem(report, outputDir);
+  removeUnusableSourceItem(report, outputDir);
 }
 
 parseReport();
