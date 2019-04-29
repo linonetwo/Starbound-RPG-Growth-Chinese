@@ -2,8 +2,10 @@
   "version" : "1.42c",
   "author" : "LinOnetwo & runningsky",
   "description" : "Starbound Mod RPG Growth 简体中文汉化（不包含源 MOD 本体）",
-  "name" : "RPGGrowthChinese",
+  "name" : "RPG_Growth_Chinese",
   "friendlyName" : "RPG Growth 汉化补丁",
   "priority" : 1002,
+  "tags" : "Crafting and Building|Weapons|User Interface|Furniture and Objects|Character Improvements|Mechanics",
+  "includes" : ["RPG_Growth"],
   "link" : "https://github.com/linonetwo/Starbound-RPG-Growth-Chinese"
 }
