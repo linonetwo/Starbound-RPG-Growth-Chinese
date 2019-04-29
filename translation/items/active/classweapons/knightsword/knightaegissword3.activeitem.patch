@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "生灵庇护者",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "生灵庇护者, 由流星金属制成内嵌钻石和黄金. 可以吸收沉重的打击... 它似乎有着灵性...",
+    "path": "/description"
+  }
+]

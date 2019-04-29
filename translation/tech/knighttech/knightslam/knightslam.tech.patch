@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "撼地",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "使用消耗: 30e.",
+    "path": "/description"
+  }
+]

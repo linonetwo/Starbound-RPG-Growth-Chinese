@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "新星",
+    "path": "/ability/name"
+  }
+]

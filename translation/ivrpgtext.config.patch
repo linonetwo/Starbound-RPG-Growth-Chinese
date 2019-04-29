@@ -1,0 +1,542 @@
+[
+  {
+    "op": "replace",
+    "value": "无畏重力球击晕升级.\n长按左键击晕接触的敌人.\n^red;击晕消耗能量.",
+    "path": "/upgrades/tech/ivrpgucstunningsphere/description"
+  },
+  {
+    "op": "replace",
+    "value": "血色以太升级.\n可以进一步感知10个方块外的敌人.\n另外, 被血色以太击中的敌人将会受到更多伤害.",
+    "path": "/upgrades/weapon/ivrpgucbloodseeker/description"
+  },
+  {
+    "op": "replace",
+    "value": "猩红虚灵镖升级.\n使用猩红虚灵镖杀死敌人后, 获得2秒的愤怒和生命回复.",
+    "path": "/upgrades/weapon/ivrpgucvampirescaress/description"
+  },
+  {
+    "op": "replace",
+    "value": "生灵庇护者进行连续的完美格挡会获得攻击加成.\n^red;普通格挡会中断加成.",
+    "path": "/upgrades/weapon/ivrpgucrighteousness/description"
+  },
+  {
+    "op": "replace",
+    "value": "危险距离",
+    "path": "/upgrades/general/ivrpgucdangerclose/title"
+  },
+  {
+    "op": "replace",
+    "value": "腐朽",
+    "path": "/upgrades/general/ivrpgucdecay/title"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpguc/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucdangerclose/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucdecay/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucearlybird/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucitsatrap/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpguclaststand/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucmasochism/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucmomentum/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucmonstermaster/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucphotosynthesis/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucsadism/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpguctotalblackout/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpguctruevampire/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/general/ivrpgucunstoppable/description"
+  },
+  {
+    "op": "replace",
+    "value": "描述",
+    "path": "/upgrades/tech/ivrpguc/description"
+  },
+  {
+    "op": "replace",
+    "value": "挖掘重力球升级.\n长按[W]进行滑翔.\n^red;滑翔时消耗能量.",
+    "path": "/upgrades/tech/ivrpgucglidesphere/description"
+  },
+  {
+    "op": "replace",
+    "value": "早起之人",
+    "path": "/upgrades/general/ivrpgucearlybird/title"
+  },
+  {
+    "op": "replace",
+    "value": "活力升级.\n能量充足时,\n接地跳跃得到进一步改善,\n并且降低跌落伤害,空中跳跃次数增加到3..",
+    "path": "/upgrades/tech/ivrpgucbatterypack/description"
+  },
+  {
+    "op": "replace",
+    "value": "增强运动升级提高移动速度与跳跃高度.\n疾跑持续时间更长.\n冲刺速度更快.",
+    "path": "/upgrades/tech/ivrpgucmoreenhanced/description"
+  },
+  {
+    "op": "replace",
+    "value": "战术撤退! 升级.\n极大的提高了速度\n短时间内免疫掉落伤害.\n地形并不能阻止冲刺.",
+    "path": "/upgrades/tech/ivrpgucwavedash/description"
+  },
+  {
+    "op": "replace",
+    "value": "战术撤退! 升级.\n同时启用了攀墙跳!.\n冷却会在攀墙时重置.",
+    "path": "/upgrades/tech/ivrpgucwalljump/description"
+  },
+  {
+    "op": "replace",
+    "value": "悬浮重力球",
+    "path": "/upgrades/tech/ivrpguchoversphere/title"
+  },
+  {
+    "op": "replace",
+    "value": "火焰&地狱火亲和力升级.\n亲和力弱点不再影响你.",
+    "path": "/upgrades/affinity/ivrpguceternalflame/description"
+  },
+  {
+    "op": "replace",
+    "value": "火焰&地狱火亲和力升级.\n燃烧持续时间*2.",
+    "path": "/upgrades/affinity/ivrpgucvikingfuneral/description"
+  },
+  {
+    "op": "replace",
+    "value": "火焰&地狱火亲和力升级.\n当你杀死一名燃烧,熔化,或烧焦的敌人时, 它们会爆炸.\n爆炸伤害与伤害乘数成比例.",
+    "path": "/upgrades/affinity/ivrpgucbloom/description"
+  },
+  {
+    "op": "replace",
+    "value": "寒冰&深寒亲和力升级.\n亲和力弱点不再影响你.",
+    "path": "/upgrades/affinity/ivrpgucevergreen/description"
+  },
+  {
+    "op": "replace",
+    "value": "寒冰&深寒亲和力升级.\n+50%弓箭伤害. 遭受箭头攻击造成3秒的脆化.\n不适用于弩.",
+    "path": "/upgrades/affinity/ivrpgucskadisblessing/description"
+  },
+  {
+    "op": "replace",
+    "value": "寒冰&深寒亲和力升级.\n一个敌人脆化的时间越长,\n他们受到的伤害就越高.",
+    "path": "/upgrades/affinity/ivrpguccoldheart/description"
+  },
+  {
+    "op": "replace",
+    "value": "寒冰&深寒亲和力升级. ^red;仅限女性.^reset;\n鞭子,爪,和匕首+75%伤害.\n挥舞鞭子时不会降低速度.",
+    "path": "/upgrades/affinity/ivrpgucicequeen/description"
+  },
+  {
+    "op": "replace",
+    "value": "重力球升级.\n按住右键时朝往光标方向悬浮.\n^red;悬浮消耗能量.",
+    "path": "/upgrades/tech/ivrpguchoversphere/description"
+  },
+  {
+    "op": "replace",
+    "value": "滑翔重力球",
+    "path": "/upgrades/tech/ivrpgucglidesphere/title"
+  },
+  {
+    "op": "replace",
+    "value": "这是一个陷阱!",
+    "path": "/upgrades/general/ivrpgucitsatrap/title"
+  },
+  {
+    "op": "replace",
+    "value": "骑士冲锋升级.\n空中跳跃增加到3.\n冲撞击退增加.\n^red;冲撞伤害减少.",
+    "path": "/upgrades/tech/ivrpgucpeakperformance/description"
+  },
+  {
+    "op": "replace",
+    "value": "背水一战",
+    "path": "/upgrades/general/ivrpguclaststand/title"
+  },
+  {
+    "op": "replace",
+    "value": "受虐狂",
+    "path": "/upgrades/general/ivrpgucmasochism/title"
+  },
+  {
+    "op": "replace",
+    "value": "原动力",
+    "path": "/upgrades/general/ivrpgucmomentum/title"
+  },
+  {
+    "op": "replace",
+    "value": "怪物大师",
+    "path": "/upgrades/general/ivrpgucmonstermaster/title"
+  },
+  {
+    "op": "replace",
+    "value": "光合作用",
+    "path": "/upgrades/general/ivrpgucphotosynthesis/title"
+  },
+  {
+    "op": "replace",
+    "value": "奥义新星升级.\n奥义新星可以无限充能,\n提高伤害. 触发状态.\n^red;被杀死的敌人不再爆炸.",
+    "path": "/upgrades/weapon/ivrpgucpassedprime/description"
+  },
+  {
+    "op": "replace",
+    "value": "奥义新星升级.\n充能速度更快,并大幅增加施法距离.\n^red;但是会降低伤害.",
+    "path": "/upgrades/weapon/ivrpgucquicksilver/description"
+  },
+  {
+    "op": "replace",
+    "value": "RPT探索者钻头升级.\n对敌人造成双倍伤害. 能够进行短距离钻探.\n^red;能量消耗速度也是双倍.",
+    "path": "/upgrades/weapon/ivrpgucspintowin/description"
+  },
+  {
+    "op": "replace",
+    "value": "RPT探索者钻头升级.\n次要功能(右键)可以挖掘背景块.\n^red;按住Shift键可以直接摧毁背景块.",
+    "path": "/upgrades/weapon/ivrpgucrighthandman/description"
+  },
+  {
+    "op": "replace",
+    "value": "虐待狂",
+    "path": "/upgrades/general/ivrpgucsadism/title"
+  },
+  {
+    "op": "replace",
+    "value": "暗影步升级.\n暗影步现在可以穿过地形, 即使当前处于副本世界.",
+    "path": "/upgrades/tech/ivrpgucphaseout/description"
+  },
+  {
+    "op": "replace",
+    "value": "电击&电弧亲和力升级.\n亲和力弱点不再影响你.",
+    "path": "/upgrades/affinity/ivrpgucplasmacore/description"
+  },
+  {
+    "op": "replace",
+    "value": "电击&电弧亲和力升级.\n在造成触电状态时,\n获得2秒愤怒.",
+    "path": "/upgrades/affinity/ivrpgucfeedbackloop/description"
+  },
+  {
+    "op": "replace",
+    "value": "电击&电弧亲和力升级.\n当你潮湿或接触液体时,\n附近的目标将会触电.",
+    "path": "/upgrades/affinity/ivrpgucdischarge/description"
+  },
+  {
+    "op": "replace",
+    "value": "虹吸升级.\n连击技能释放时，将吸取的能量引导至附近的盟友.",
+    "path": "/upgrades/weapon/ivrpguccharger/description"
+  },
+  {
+    "op": "replace",
+    "value": "虹吸剃刀升级.\n连击技能可以在三次攻击之后使用,而不是四次.\n^red;但是, 这可能会妨碍你使用其他拳击武器的组合连击.",
+    "path": "/upgrades/weapon/ivrpguccombobreaker/description"
+  },
+  {
+    "op": "replace",
+    "value": "虹吸升级.\n当您的生命值低于三分之一时造成更多伤害.",
+    "path": "/upgrades/weapon/ivrpgucsymbiosis/description"
+  },
+  {
+    "op": "replace",
+    "value": "击晕重力球",
+    "path": "/upgrades/tech/ivrpgucstunningsphere/title"
+  },
+  {
+    "op": "replace",
+    "value": "坦克重力球升级.\n飞弹可以追踪锁定目标.\n^red;飞弹速度下降.",
+    "path": "/upgrades/tech/ivrpgucpinpointaccuracy/description"
+  },
+  {
+    "op": "replace",
+    "value": "Test to see font size as well as total wrapping length. Hopefully we can get this sizeable chunk of text into this small area, because if not, we'll have issues in the future with describing various upgrades. I also need to check total length up and down, just because.",
+    "path": "/upgrades/general/ivrpguc.general/description"
+  },
+  {
+    "op": "replace",
+    "value": "标题",
+    "path": "/upgrades/general/ivrpguc.general/title"
+  },
+  {
+    "op": "replace",
+    "value": "标题",
+    "path": "/upgrades/general/ivrpguc/title"
+  },
+  {
+    "op": "replace",
+    "value": "标题",
+    "path": "/upgrades/tech/ivrpguc/title"
+  },
+  {
+    "op": "replace",
+    "value": "全面停电",
+    "path": "/upgrades/general/ivrpguctotalblackout/title"
+  },
+  {
+    "op": "replace",
+    "value": "传送升级.\n传送现在可以无视墙壁, 即使当前处于副本世界.",
+    "path": "/upgrades/tech/ivrpgucfourthwall/description"
+  },
+  {
+    "op": "replace",
+    "value": "真正的吸血鬼",
+    "path": "/upgrades/general/ivrpguctruevampire/title"
+  },
+  {
+    "op": "replace",
+    "value": "势不可挡",
+    "path": "/upgrades/general/ivrpgucunstoppable/title"
+  },
+  {
+    "op": "replace",
+    "value": "暗影重力球幽灵升级.\n按住鼠标左键启用幽灵模式可以穿过墙壁.\n^red;请时刻留意能量否则有可能使你陷入困境.",
+    "path": "/upgrades/tech/ivrpgucghost/description"
+  },
+  {
+    "op": "replace",
+    "value": "毒和老毒物亲和力升级.\n亲和力弱点不再影响你.",
+    "path": "/upgrades/affinity/ivrpgucincurable/description"
+  },
+  {
+    "op": "replace",
+    "value": "毒&老毒物亲和力升级.\n在你脚下产生毒云.",
+    "path": "/upgrades/affinity/ivrpgucmiasma/description"
+  },
+  {
+    "op": "replace",
+    "value": "毒&老毒物亲和力升级.\n中毒的目标每隔0.25秒有5%几率\n会传染给附近的目标.",
+    "path": "/upgrades/affinity/ivrpguccontagion/description"
+  },
+  {
+    "op": "replace",
+    "value": "DGN战斗步枪跳弹升级.\n子弹击中墙壁时会向附近的敌人弹射.^red;\n子弹每次反弹后的伤害都会降低.",
+    "path": "/upgrades/weapon/ivrpguchardlight/description"
+  },
+  {
+    "op": "replace",
+    "value": "DGN战斗步枪升级.\n多功能制式步枪在再充能完毕后可以立即开火, 并且减少充能时间.",
+    "path": "/upgrades/weapon/ivrpguctriggerhappy/description"
+  },
+  {
+    "op": "replace",
+    "value": "生灵庇护者升级.\n第8和9连击可击晕敌人.",
+    "path": "/upgrades/weapon/ivrpgucblindingjustice/description"
+  },
+  {
+    "op": "replace",
+    "value": "攀墙跳",
+    "path": "/upgrades/tech/ivrpgucwalljump/title"
+  },
+  {
+    "op": "replace",
+    "value": "电池组",
+    "path": "/upgrades/tech/ivrpgucbatterypack/title"
+  },
+  {
+    "op": "replace",
+    "value": "盲目正义",
+    "path": "/upgrades/weapon/ivrpgucblindingjustice/title"
+  },
+  {
+    "op": "replace",
+    "value": "血引",
+    "path": "/upgrades/weapon/ivrpgucbloodseeker/title"
+  },
+  {
+    "op": "replace",
+    "value": "绽放",
+    "path": "/upgrades/affinity/ivrpgucbloom/title"
+  },
+  {
+    "op": "replace",
+    "value": "充电器",
+    "path": "/upgrades/weapon/ivrpguccharger/title"
+  },
+  {
+    "op": "replace",
+    "value": "心若寒冰",
+    "path": "/upgrades/affinity/ivrpguccoldheart/title"
+  },
+  {
+    "op": "replace",
+    "value": "快速连击",
+    "path": "/upgrades/weapon/ivrpguccombobreaker/title"
+  },
+  {
+    "op": "replace",
+    "value": "传染",
+    "path": "/upgrades/affinity/ivrpguccontagion/title"
+  },
+  {
+    "op": "replace",
+    "value": "放电",
+    "path": "/upgrades/affinity/ivrpgucdischarge/title"
+  },
+  {
+    "op": "replace",
+    "value": "永恒之火",
+    "path": "/upgrades/affinity/ivrpguceternalflame/title"
+  },
+  {
+    "op": "replace",
+    "value": "铁人",
+    "path": "/upgrades/tech/ivrpgucmoreenhanced/title"
+  },
+  {
+    "op": "replace",
+    "value": "深井冰",
+    "path": "/upgrades/affinity/ivrpgucevergreen/title"
+  },
+  {
+    "op": "replace",
+    "value": "反馈回路",
+    "path": "/upgrades/affinity/ivrpgucfeedbackloop/title"
+  },
+  {
+    "op": "replace",
+    "value": "第四堵墙",
+    "path": "/upgrades/tech/ivrpgucfourthwall/title"
+  },
+  {
+    "op": "replace",
+    "value": "幽灵",
+    "path": "/upgrades/tech/ivrpgucghost/title"
+  },
+  {
+    "op": "replace",
+    "value": "强光",
+    "path": "/upgrades/weapon/ivrpguchardlight/title"
+  },
+  {
+    "op": "replace",
+    "value": "冰雪皇后",
+    "path": "/upgrades/affinity/ivrpgucicequeen/title"
+  },
+  {
+    "op": "replace",
+    "value": "无可救药",
+    "path": "/upgrades/affinity/ivrpgucincurable/title"
+  },
+  {
+    "op": "replace",
+    "value": "瘴气",
+    "path": "/upgrades/affinity/ivrpgucmiasma/title"
+  },
+  {
+    "op": "replace",
+    "value": "无限奥义",
+    "path": "/upgrades/weapon/ivrpgucpassedprime/title"
+  },
+  {
+    "op": "replace",
+    "value": "英勇先魂",
+    "path": "/upgrades/tech/ivrpgucpeakperformance/title"
+  },
+  {
+    "op": "replace",
+    "value": "破壁",
+    "path": "/upgrades/tech/ivrpgucphaseout/title"
+  },
+  {
+    "op": "replace",
+    "value": "精确定位",
+    "path": "/upgrades/tech/ivrpgucpinpointaccuracy/title"
+  },
+  {
+    "op": "replace",
+    "value": "等离子核心",
+    "path": "/upgrades/affinity/ivrpgucplasmacore/title"
+  },
+  {
+    "op": "replace",
+    "value": "变幻莫测",
+    "path": "/upgrades/weapon/ivrpgucquicksilver/title"
+  },
+  {
+    "op": "replace",
+    "value": "得力助手",
+    "path": "/upgrades/weapon/ivrpgucrighthandman/title"
+  },
+  {
+    "op": "replace",
+    "value": "正义之魂",
+    "path": "/upgrades/weapon/ivrpgucrighteousness/title"
+  },
+  {
+    "op": "replace",
+    "value": "丝卡蒂的祝福",
+    "path": "/upgrades/affinity/ivrpgucskadisblessing/title"
+  },
+  {
+    "op": "replace",
+    "value": "转速超载",
+    "path": "/upgrades/weapon/ivrpgucspintowin/title"
+  },
+  {
+    "op": "replace",
+    "value": "共生关系",
+    "path": "/upgrades/weapon/ivrpgucsymbiosis/title"
+  },
+  {
+    "op": "replace",
+    "value": "扳机快乐",
+    "path": "/upgrades/weapon/ivrpguctriggerhappy/title"
+  },
+  {
+    "op": "replace",
+    "value": "吸血鬼的爱抚",
+    "path": "/upgrades/weapon/ivrpgucvampirescaress/title"
+  },
+  {
+    "op": "replace",
+    "value": "维京人的葬礼",
+    "path": "/upgrades/affinity/ivrpgucvikingfuneral/title"
+  },
+  {
+    "op": "replace",
+    "value": "溜之大吉",
+    "path": "/upgrades/tech/ivrpgucwavedash/title"
+  }
+]

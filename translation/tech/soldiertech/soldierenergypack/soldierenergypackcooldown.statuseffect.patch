@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "能量包冷却时间",
+    "path": "/label"
+  }
+]

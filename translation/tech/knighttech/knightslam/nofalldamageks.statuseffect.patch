@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "骑士大满贯",
+    "path": "/label"
+  }
+]

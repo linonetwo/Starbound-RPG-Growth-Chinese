@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "螺旋动力模块",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "可以通过螺旋动力增幅能量!",
+    "path": "/description"
+  }
+]

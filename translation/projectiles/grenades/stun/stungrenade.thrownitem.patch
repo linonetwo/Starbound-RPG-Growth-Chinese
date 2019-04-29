@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "震撼手雷",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "不会杀死你,但会让你变得脆弱.",
+    "path": "/description"
+  }
+]

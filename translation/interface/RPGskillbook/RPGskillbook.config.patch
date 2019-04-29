@@ -1,0 +1,632 @@
+[
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/masterylayout/children/masterypoints/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/agilityamount/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/dexterityamount/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/enduranceamount/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/intelligenceamount/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/statpointsleft/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/strengthamount/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/totalstatsamount/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/vigoramount/value"
+  },
+  {
+    "op": "replace",
+    "value": "0",
+    "path": "/gui/statslayout/children/vitalityamount/value"
+  },
+  {
+    "op": "replace",
+    "value": "敏捷",
+    "path": "/gui/statslayout/children/agilitytext/value"
+  },
+  {
+    "op": "replace",
+    "value": "\n\n将您额外的经验凝聚为另一种存在.\n^red;每10000经验值可转化为1专精点!^reset;",
+    "path": "/gui/masterylayout/children/refinetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "+20% 你是怎么来的?.",
+    "path": "/gui/classlayout/children/weapontext/value"
+  },
+  {
+    "op": "replace",
+    "value": "+20% 别再浪费你的时间了!",
+    "path": "/gui/classlayout/children/effecttext/value"
+  },
+  {
+    "op": "replace",
+    "value": "+20% 和谁在一起?",
+    "path": "/gui/affinitylayout/children/passivetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "+20% 和谁在一起?",
+    "path": "/gui/classlayout/children/passivetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "-",
+    "path": "/gui/upgradelayout/children/affinitytext/value"
+  },
+  {
+    "op": "replace",
+    "value": "-",
+    "path": "/gui/upgradelayout/children/generaltext/value"
+  },
+  {
+    "op": "replace",
+    "value": "-",
+    "path": "/gui/upgradelayout/children/techtext/value"
+  },
+  {
+    "op": "replace",
+    "value": "-",
+    "path": "/gui/upgradelayout/children/weapontext/value"
+  },
+  {
+    "op": "replace",
+    "value": "-10%",
+    "path": "/gui/overviewlayout/children/hardcoretext/value"
+  },
+  {
+    "op": "replace",
+    "value": "...",
+    "path": "/gui/classlayout/children/classweapontext/value"
+  },
+  {
+    "op": "replace",
+    "value": "0 / 0",
+    "path": "/gui/masterylayout/children/challenge1progress/value"
+  },
+  {
+    "op": "replace",
+    "value": "0 / 0",
+    "path": "/gui/masterylayout/children/challenge2progress/value"
+  },
+  {
+    "op": "replace",
+    "value": "0 / 0",
+    "path": "/gui/masterylayout/children/challenge3progress/value"
+  },
+  {
+    "op": "replace",
+    "value": "250000",
+    "path": "/gui/masterylayout/children/xpover/value"
+  },
+  {
+    "op": "replace",
+    "value": "激活",
+    "path": "/gui/affinitylayout/children/aestheticstoggletext/value"
+  },
+  {
+    "op": "replace",
+    "value": "激活",
+    "path": "/gui/classlayout/children/classabilitytoggletext/value"
+  },
+  {
+    "op": "replace",
+    "value": "激活",
+    "path": "/gui/overviewlayout/children/hardcoretoggletext/value"
+  },
+  {
+    "op": "replace",
+    "value": "元素效果",
+    "path": "/gui/affinitylayout/children/aesthetictitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "元素亲和",
+    "path": "/gui/upgradelayout/children/affinitytitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "进阶属性",
+    "path": "/gui/affinitylayout/children/upgradetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "统计:\n生命值加成:\n能量加成:\n能量回复速度:\n再充能延迟:\n饱食度:\n物理抗性:\n剧毒抗性:\n冰霜抗性:\n火焰抗性:\n电击抗性:\n击退抵抗:\n伤害加成:\n护盾耐久加成:\n出血几率:\n出血持续时间:\n",
+    "path": "/gui/infolayout/children/displaystats/value"
+  },
+  {
+    "op": "replace",
+    "value": "环境免疫:\n辐射:\n暗影:\n宇宙:\n状态:\nEH:\nEC:\nER:",
+    "path": "/gui/infolayout/children/displaystatsFU/value"
+  },
+  {
+    "op": "replace",
+    "value": "您确定要重置吗?这会重置您的职业和未专精的技能（同时也会清除职业buff）.",
+    "path": "/gui/classlayout/children/areyousure/value"
+  },
+  {
+    "op": "replace",
+    "value": "您确定要重置吗?您的经验、等级、职业、亲和力等一切都将被移除.\n此外,您当前的专精挑战将会清零,\n您现在未专精的职业技能将被强制移除.",
+    "path": "/gui/overviewlayout/children/areyousure/value"
+  },
+  {
+    "op": "replace",
+    "value": "描边/灯光",
+    "path": "/gui/classlayout/children/toggleclassabilitytitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "挑战 1",
+    "path": "/gui/masterylayout/children/challenge1/value"
+  },
+  {
+    "op": "replace",
+    "value": "挑战 2",
+    "path": "/gui/masterylayout/children/challenge2/value"
+  },
+  {
+    "op": "replace",
+    "value": "挑战 3",
+    "path": "/gui/masterylayout/children/challenge3/value"
+  },
+  {
+    "op": "replace",
+    "value": "挑战",
+    "path": "/gui/masterylayout/children/challengetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "职业武器",
+    "path": "/gui/classlayout/children/classweapontitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "硬核模式",
+    "path": "/gui/overviewlayout/children/hardcoretitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "硬核模式可用武器",
+    "path": "/gui/infolayout/children/displayWeapons/value"
+  },
+  {
+    "op": "replace",
+    "value": "硬核模式已开启,非职业武器的伤害将大幅降低甚至归零. ^red;详细信息(I)!^reset;",
+    "path": "/gui/overviewlayout/children/hardcoreweapontext/value"
+  },
+  {
+    "op": "replace",
+    "value": "点击任意职业图标查看职业简介.",
+    "path": "/gui/classeslayout/children/classdescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "点击任意属性图标查看属性加成.",
+    "path": "/gui/statslayout/children/statdescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "点击任意亲和力图标查看亲和力特性.",
+    "path": "/gui/affinitieslayout/children/affinitydescription/value"
+  },
+  {
+    "op": "replace",
+    "value": "获取大师书桌,在这可以获得与职业相关的卷轴,升级芯片等物品..祝您游戏愉快！\n^red;消耗5精通点.^reset;",
+    "path": "/gui/masterylayout/children/shoptext/value"
+  },
+  {
+    "op": "replace",
+    "value": "灵巧",
+    "path": "/gui/statslayout/children/dexteritytext/value"
+  },
+  {
+    "op": "replace",
+    "value": "耐力",
+    "path": "/gui/statslayout/children/endurancetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "星际探险家",
+    "path": "/gui/classeslayout/children/explorertitle/value"
+  },
+  {
+    "op": "replace",
+    "value": " 溢出的经验值:",
+    "path": "/gui/masterylayout/children/xpovertitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "火焰",
+    "path": "/gui/affinitieslayout/children/firetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "冰冻",
+    "path": "/gui/affinitieslayout/children/icetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "一般",
+    "path": "/gui/upgradelayout/children/generaltitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "环境免疫:\n^red;燃烧:\n岩浆:\n高温 [极端]:^reset;\n^blue;冻僵:\n低温 [极端]:\n缺氧:^reset;\n^green;中毒:\n辐射 [极端]:^reset;\n^yellow;触电:^reset;\n^gray;物理伤害:^reset;",
+    "path": "/gui/infolayout/children/displayFU/value"
+  },
+  {
+    "op": "replace",
+    "value": "免疫",
+    "path": "/gui/affinitylayout/children/immunitytitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "智力",
+    "path": "/gui/statslayout/children/intelligencetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "请留意升级芯片,它可以通过击杀怪物掉落,\n或通过精通商店使用精通点数购买.\n当您激活升级芯片时,\n它将会出现在这里. 您可以使用此页面来查看详细信息,\n以及卸下升级芯片.\n^red;未来更新中将加入更多升级芯片.^reset;",
+    "path": "/gui/upgradelayout/children/upgradetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "无畏战士",
+    "path": "/gui/classeslayout/children/knighttitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "等级 1",
+    "path": "/gui/levelLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "等级 1",
+    "path": "/gui/overviewlayout/children/levellabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "10级解锁此功能!\n(尚未实装)",
+    "path": "/gui/professionlockedlayout/children/locked/value"
+  },
+  {
+    "op": "replace",
+    "value": "25级解锁此功能!",
+    "path": "/gui/affinitylockedlayout/children/locked/value"
+  },
+  {
+    "op": "replace",
+    "value": "40级解锁此功能!\n(即将实装!)",
+    "path": "/gui/specializationlockedlayout/children/locked/value"
+  },
+  {
+    "op": "replace",
+    "value": "50级解锁此功能!",
+    "path": "/gui/masterylockedlayout/children/locked/value"
+  },
+  {
+    "op": "replace",
+    "value": "专精点",
+    "path": "/gui/masterylayout/children/masterytitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "大师书桌",
+    "path": "/gui/masterylayout/children/shoptitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "边缘刺客",
+    "path": "/gui/classeslayout/children/ninjatitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "无亲和力",
+    "path": "/gui/overviewlayout/children/affinitytitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "无亲和力",
+    "path": "/gui/affinitylayout/children/affinitytitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "未选择职业",
+    "path": "/gui/overviewlayout/children/classtitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "未选择职业",
+    "path": "/gui/classlayout/children/classtitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "尚未实装!",
+    "path": "/gui/professionslayout/children/locked/value"
+  },
+  {
+    "op": "replace",
+    "value": "尚未实装!\n但你还是被骗到了这里~不是吗?",
+    "path": "/gui/professionlayout/children/locked/value"
+  },
+  {
+    "op": "replace",
+    "value": "概述",
+    "path": "/gui/tabLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "被动增益:",
+    "path": "/gui/affinitylayout/children/passivetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "被动增益:",
+    "path": "/gui/classlayout/children/passivetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "职业专精",
+    "path": "/gui/masterylayout/children/prestigetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "需要等级.:",
+    "path": "/gui/classlayout/children/reqlvl/value"
+  },
+  {
+    "op": "replace",
+    "value": "需求等级:",
+    "path": "/gui/classlayout/children/weaponreqlvl/value"
+  },
+  {
+    "op": "replace",
+    "value": "转生,您将失去所有经验,亲和力,专精等属性. 但保留您已解锁的职业技能.\n^red;消耗3精通点.^reset;",
+    "path": "/gui/masterylayout/children/prestigetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "不法之徒",
+    "path": "/gui/classeslayout/children/roguetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "选择一个技能来查看和解锁.",
+    "path": "/gui/classlayout/children/techtext/value"
+  },
+  {
+    "op": "replace",
+    "value": "电击",
+    "path": "/gui/affinitieslayout/children/electrictitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "技能名称",
+    "path": "/gui/classlayout/children/techname/value"
+  },
+  {
+    "op": "replace",
+    "value": "技能",
+    "path": "/gui/classlayout/children/techtitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "太空陆战队",
+    "path": "/gui/classeslayout/children/soldiertitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "属性加成",
+    "path": "/gui/affinitylayout/children/immunitytext/value"
+  },
+  {
+    "op": "replace",
+    "value": "属性加成",
+    "path": "/gui/affinitylayout/children/statscalingtext/value"
+  },
+  {
+    "op": "replace",
+    "value": "属性加成",
+    "path": "/gui/affinitylayout/children/statscalingtitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "属性加成",
+    "path": "/gui/affinitylayout/children/upgradetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "属性加成",
+    "path": "/gui/affinitylayout/children/weaknesstext/value"
+  },
+  {
+    "op": "replace",
+    "value": "剩余属性点",
+    "path": "/gui/statslayout/children/statpointslefttext/value"
+  },
+  {
+    "op": "replace",
+    "value": "剩余属性点: 0",
+    "path": "/gui/overviewlayout/children/statpointsremaining/value"
+  },
+  {
+    "op": "replace",
+    "value": "职业方向",
+    "path": "/gui/classlayout/children/statscalingtext/value"
+  },
+  {
+    "op": "replace",
+    "value": "职业方向",
+    "path": "/gui/classlayout/children/statscalingtitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "属性\n^red;生命值加成:^reset;\n^green;能量加成:\n能量回复速度:\n能量回复延迟:^reset;\n^orange;饱食度消耗:^reset;\n^gray;击退抗性:\n跌落伤害:\n护盾耐久:^reset;\n^red;出血几率:\n出血持续时间:^reset;\n\n\n伤害抗性:\n^gray;物理:^reset;\n^magenta;毒:^reset;\n^blue;冰:^reset;\n^red;火:^reset;\n^yellow;电:^reset;\n^green;辐射 (FU):^reset;\n^gray;暗影 (FU):^reset;\n^magenta;宇宙 (FU):^reset;",
+    "path": "/gui/infolayout/children/display/value"
+  },
+  {
+    "op": "replace",
+    "value": "力量",
+    "path": "/gui/statslayout/children/strengthtext/value"
+  },
+  {
+    "op": "replace",
+    "value": "技能",
+    "path": "/gui/upgradelayout/children/techtitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "技能类型",
+    "path": "/gui/classlayout/children/techtype/value"
+  },
+  {
+    "op": "replace",
+    "value": "通过完成挑战来测试您的能耐! 下面将显示三个随机生成的任务,每个任务的难度都会增加\n完成后,点击按钮获取奖励.\n^red;挑战检测功能目前没有按预期工作.^reset;",
+    "path": "/gui/masterylayout/children/challengetext/value"
+  },
+  {
+    "op": "replace",
+    "value": "总计",
+    "path": "/gui/statslayout/children/totalstatstext/value"
+  },
+  {
+    "op": "replace",
+    "value": "总XP",
+    "path": "/gui/overviewlayout/children/xptotallabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "总计:",
+    "path": "/gui/masterylayout/children/masterytotal/value"
+  },
+  {
+    "op": "replace",
+    "value": "未使用",
+    "path": "/gui/upgradelayout/children/affinityname/value"
+  },
+  {
+    "op": "replace",
+    "value": "未使用",
+    "path": "/gui/upgradelayout/children/generalname/value"
+  },
+  {
+    "op": "replace",
+    "value": "未使用",
+    "path": "/gui/upgradelayout/children/techname/value"
+  },
+  {
+    "op": "replace",
+    "value": "未使用",
+    "path": "/gui/upgradelayout/children/weaponname/value"
+  },
+  {
+    "op": "replace",
+    "value": "已解锁!请前往科技工作台装备上!",
+    "path": "/gui/classlayout/children/unlockedtext/value"
+  },
+  {
+    "op": "replace",
+    "value": "使用亲和升级卷轴升级您的亲和力! 击败同属性Boss有机会掉落! 需要等级:45!",
+    "path": "/gui/affinitylayout/children/effecttext/value"
+  },
+  {
+    "op": "replace",
+    "value": "进阶属性",
+    "path": "/gui/upgradelayout/children/upgradetitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "毒",
+    "path": "/gui/affinitieslayout/children/poisontitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "活力",
+    "path": "/gui/statslayout/children/vigortext/value"
+  },
+  {
+    "op": "replace",
+    "value": "体质",
+    "path": "/gui/statslayout/children/vitalitytext/value"
+  },
+  {
+    "op": "replace",
+    "value": "弱点",
+    "path": "/gui/affinitylayout/children/weaknesstitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "武器",
+    "path": "/gui/upgradelayout/children/weapontitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "武器增益:",
+    "path": "/gui/classlayout/children/weapontitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "即将实装!",
+    "path": "/gui/specializationlayout/children/locked/value"
+  },
+  {
+    "op": "replace",
+    "value": "奥术法师",
+    "path": "/gui/classeslayout/children/wizardtitle/value"
+  },
+  {
+    "op": "replace",
+    "value": "XP",
+    "path": "/gui/xpLabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "XP To Go",
+    "path": "/gui/overviewlayout/children/xptglabel/value"
+  },
+  {
+    "op": "replace",
+    "value": "您必选先选择一个职业!",
+    "path": "/gui/statslayout/children/statprevention/value"
+  },
+  {
+    "op": "replace",
+    "value": "^#b9b5b2;天选之人!",
+    "path": "/gui/windowtitle/subtitle"
+  },
+  {
+    "op": "replace",
+    "value": "神秘的书",
+    "path": "/gui/windowtitle/title"
+  }
+]

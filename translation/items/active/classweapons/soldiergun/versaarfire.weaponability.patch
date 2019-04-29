@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "机枪",
+    "path": "/ability/name"
+  }
+]

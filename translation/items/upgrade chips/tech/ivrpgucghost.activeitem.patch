@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "幽灵",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "暗影重力球幽灵升级.\n按住鼠标左键启用幽灵模式可以穿过墙壁.\n^red;请时刻留意能量否则有可能使你陷入困境.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "电光石火!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "虹吸爪:电弧",
+    "path": "/shortdescription"
+  }
+]

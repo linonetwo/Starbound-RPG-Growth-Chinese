@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "少量的职业知识.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "专业点",
+    "path": "/shortdescription"
+  }
+]

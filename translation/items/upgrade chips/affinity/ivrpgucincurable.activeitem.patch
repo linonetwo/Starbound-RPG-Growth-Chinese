@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "无可救药",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "毒和老毒物亲和力升级.\n亲和力弱点不再影响你.",
+    "path": "/description"
+  }
+]

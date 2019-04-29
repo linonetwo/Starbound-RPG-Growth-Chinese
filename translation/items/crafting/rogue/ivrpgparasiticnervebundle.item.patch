@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "一束寄生神经束,恶心的蠕动着,仿佛在试图进入你的皮肤.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "寄生神经束",
+    "path": "/shortdescription"
+  }
+]

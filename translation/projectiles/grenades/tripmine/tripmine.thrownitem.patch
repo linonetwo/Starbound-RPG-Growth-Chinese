@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "激光绊雷",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "小心脚下.",
+    "path": "/description"
+  }
+]

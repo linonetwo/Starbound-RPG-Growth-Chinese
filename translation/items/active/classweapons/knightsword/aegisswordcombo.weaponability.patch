@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "组合斩",
+    "path": "/ability/name"
+  }
+]

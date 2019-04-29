@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "DGN战斗步枪 MKII",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "DGN战斗步枪 MKII, 一把远近适用的步枪.",
+    "path": "/description"
+  }
+]

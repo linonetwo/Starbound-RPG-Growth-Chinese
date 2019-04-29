@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "奥术护盾",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "消耗: 30eps.",
+    "path": "/description"
+  }
+]

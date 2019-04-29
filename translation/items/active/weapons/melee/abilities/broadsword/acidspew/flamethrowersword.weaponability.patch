@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "有毒气体",
+    "path": "/ability/name"
+  }
+]

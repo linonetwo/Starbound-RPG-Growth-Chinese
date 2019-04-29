@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "增强猛冲",
+    "path": "/label"
+  }
+]

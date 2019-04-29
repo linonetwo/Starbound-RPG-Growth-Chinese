@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "一柄锋利的神秘黑曜石长剑.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#55377d;火成岩长剑^white;",
+    "path": "/shortdescription"
+  }
+]

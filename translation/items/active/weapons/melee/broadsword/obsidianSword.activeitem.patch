@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "一柄来自行星核心的灼热长剑.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "黑曜石剑",
+    "path": "/shortdescription"
+  }
+]

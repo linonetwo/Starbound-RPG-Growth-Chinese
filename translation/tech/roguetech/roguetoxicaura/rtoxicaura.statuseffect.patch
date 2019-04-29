@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "削弱附近的敌人",
+    "path": "/label"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "我们正在逐步停止使用这项任务.如果已经完成/放弃,请不要担心.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "欢迎更新1.31 of RPG Growth!\n\n这个任务是一个指示器,表明附近的玩家会得到相同数量的XP. 现在那些近战职业不会拾取你的那份了.",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "^orange;人人为我,我为人人",
+    "path": "/title"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "锋若三寸寒芒,令人瞬息即逝..",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "虹吸爪:撕裂者",
+    "path": "/shortdescription"
+  }
+]

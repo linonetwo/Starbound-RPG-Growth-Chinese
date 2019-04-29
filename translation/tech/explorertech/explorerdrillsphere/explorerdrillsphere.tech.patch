@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "挖掘重力球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "变形消耗: 25e. 维持消耗: 5eps.",
+    "path": "/description"
+  }
+]

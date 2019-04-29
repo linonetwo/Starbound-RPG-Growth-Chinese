@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "变形消耗: 25e. 维持消耗: 50eps.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "隐匿重力球",
+    "path": "/shortDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "无限奥义",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "奥义新星升级.\n奥义新星可以无限充能,\n提高伤害. 触发状态.\n^red;被杀死的敌人不再爆炸.",
+    "path": "/description"
+  }
+]

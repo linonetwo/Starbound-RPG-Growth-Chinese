@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "消耗: 50e. 冷却时间: 30s.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "导弹攻击",
+    "path": "/shortDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "启用消耗: 5e. 持续时间/冷却时间: 10s/10s.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "剧毒灵气",
+    "path": "/shortDescription"
+  }
+]

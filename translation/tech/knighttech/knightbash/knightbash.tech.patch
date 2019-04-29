@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "野蛮冲撞",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "使用消耗: 75eps.",
+    "path": "/description"
+  }
+]

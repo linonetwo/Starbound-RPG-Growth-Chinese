@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "剧毒重力球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "变形消耗: 50e. 攻击消耗: 10e.",
+    "path": "/description"
+  }
+]

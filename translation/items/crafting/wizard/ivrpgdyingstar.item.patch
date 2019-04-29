@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "一小块来自垂死恒星的碎片... 也许可以提取其中的残留能量?",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "死星碎片",
+    "path": "/shortdescription"
+  }
+]

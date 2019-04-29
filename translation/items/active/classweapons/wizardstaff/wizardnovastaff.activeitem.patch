@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "新星",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "新星, 一根蕴含着无限元素能量的法杖.",
+    "path": "/description"
+  }
+]

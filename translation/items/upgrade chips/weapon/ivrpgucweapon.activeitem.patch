@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "描述.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "名称",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "元素亲和",
+    "path": "/label"
+  }
+]

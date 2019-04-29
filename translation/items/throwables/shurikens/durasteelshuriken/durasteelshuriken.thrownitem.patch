@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "耐钢飞镖,袖珍而致命.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "耐钢飞镖",
+    "path": "/shortdescription"
+  }
+]

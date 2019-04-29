@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "暗影突进",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "使用消耗: 10e.",
+    "path": "/description"
+  }
+]

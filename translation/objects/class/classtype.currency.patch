@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "这是一种神秘的力量.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "职业",
+    "path": "/shortdescription"
+  }
+]

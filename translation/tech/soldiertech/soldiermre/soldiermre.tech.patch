@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "回复饥饿度: 5%. 冷却时间: 90s",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "MRE",
+    "path": "/shortDescription"
+  }
+]

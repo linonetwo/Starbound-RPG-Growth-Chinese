@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "盲目正义",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "生灵庇护者升级.\n第8和9连击可击晕敌人.",
+    "path": "/description"
+  }
+]

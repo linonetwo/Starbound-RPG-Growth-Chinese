@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "共生关系",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "虹吸升级.\n当您的生命值低于三分之一时造成更多伤害.",
+    "path": "/description"
+  }
+]

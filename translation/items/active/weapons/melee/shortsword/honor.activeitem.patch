@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "一柄蕴含着光明与勇气的星钢剑!非常强大.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#77acc3;荣誉之剑^white;",
+    "path": "/shortdescription"
+  }
+]

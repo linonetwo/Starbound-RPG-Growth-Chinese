@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "被封印在刀刃里恶魔只想得到解脱.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^red;封魔巨刃^white;",
+    "path": "/shortdescription"
+  }
+]

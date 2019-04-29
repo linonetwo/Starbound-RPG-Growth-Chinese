@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "RPT开拓者钻头",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "RPT开拓者钻头可以将吸取掉落物.",
+    "path": "/description"
+  }
+]

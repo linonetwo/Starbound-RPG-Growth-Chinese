@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "重力球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "变形消耗: 30e. 恢复: 1%hps. 大范围模式消耗: 15eps.",
+    "path": "/description"
+  }
+]

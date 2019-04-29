@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "凌云跳",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "消耗: 30e. 冷却时间: 2s",
+    "path": "/description"
+  }
+]

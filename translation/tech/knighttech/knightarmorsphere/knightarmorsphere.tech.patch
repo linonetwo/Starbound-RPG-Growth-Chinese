@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "无畏重力球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "变形消耗: 50e.",
+    "path": "/description"
+  }
+]

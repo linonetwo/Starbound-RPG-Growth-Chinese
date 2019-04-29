@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "战术撤退! 升级.\n同时启用了攀墙跳!.\n冷却会在攀墙时重置.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "攀墙跳",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "精确定位",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "坦克重力球升级.\n飞弹可以追踪锁定目标.\n^red;飞弹速度下降.",
+    "path": "/description"
+  }
+]

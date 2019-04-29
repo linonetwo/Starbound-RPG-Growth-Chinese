@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "使用消耗: 125eps.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "战争冲撞!",
+    "path": "/shortDescription"
+  }
+]

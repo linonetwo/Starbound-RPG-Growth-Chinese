@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "冷却时间: 0.25s.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "战术撤退!",
+    "path": "/shortDescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "溜之大吉",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "战术撤退! 升级.\n极大的提高了速度\n短时间内免疫掉落伤害.\n地形并不能阻止冲刺.",
+    "path": "/description"
+  }
+]

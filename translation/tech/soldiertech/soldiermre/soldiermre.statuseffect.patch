@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "MRE冷却中",
+    "path": "/label"
+  }
+]

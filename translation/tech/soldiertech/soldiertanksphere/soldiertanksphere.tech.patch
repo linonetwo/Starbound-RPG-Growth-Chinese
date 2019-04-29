@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "坦克重力球",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "变形: 40e. 护盾消耗: 40eps.",
+    "path": "/description"
+  }
+]

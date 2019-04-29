@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "角色修复",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "按[F],然后退出游戏.",
+    "path": "/description"
+  }
+]

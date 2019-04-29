@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "持续时间: 0.20s.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "活力",
+    "path": "/shortDescription"
+  }
+]

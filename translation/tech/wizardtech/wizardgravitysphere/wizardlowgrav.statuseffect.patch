@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "低重力",
+    "path": "/label"
+  }
+]

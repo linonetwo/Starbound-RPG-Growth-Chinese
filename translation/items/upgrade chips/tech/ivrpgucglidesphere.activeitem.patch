@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "挖掘重力球升级.\n长按[W]进行滑翔.\n^red;滑翔时消耗能量.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "滑翔重力球",
+    "path": "/shortdescription"
+  }
+]

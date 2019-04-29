@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "消耗: 10eps.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "钻头",
+    "path": "/shortDescription"
+  }
+]

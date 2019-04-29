@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "Dev Hack",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "用于阻止打开技能书.",
+    "path": "/description"
+  }
+]

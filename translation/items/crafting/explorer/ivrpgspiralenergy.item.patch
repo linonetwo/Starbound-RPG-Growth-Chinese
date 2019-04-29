@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "螺旋能量",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "这奇怪的纯净能量是什么?",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "冷却时间: 1.5s.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "剧毒冲刺",
+    "path": "/shortDescription"
+  }
+]

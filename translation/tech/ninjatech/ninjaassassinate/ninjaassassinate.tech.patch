@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "消耗: 20-100% 最大能量. 隐匿时间: 2s. 冷却时间: 3s.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "暗影步",
+    "path": "/shortDescription"
+  }
+]

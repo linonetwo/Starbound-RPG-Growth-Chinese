@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "护盾",
+    "path": "/ability/name"
+  }
+]

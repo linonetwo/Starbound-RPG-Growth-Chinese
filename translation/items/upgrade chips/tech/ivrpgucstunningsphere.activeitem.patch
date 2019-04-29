@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "击晕重力球",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "无畏重力球击晕升级.\n长按左键击晕接触的敌人.\n^red;击晕消耗能量.",
+    "path": "/description"
+  }
+]

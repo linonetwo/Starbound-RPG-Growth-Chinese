@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "黑曜石碎片",
+    "path": "/ability/name"
+  }
+]

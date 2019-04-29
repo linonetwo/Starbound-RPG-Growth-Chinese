@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "致命力场",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "光环消耗: 10eps.",
+    "path": "/description"
+  }
+]

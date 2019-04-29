@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "疾跑消耗: 10eps.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "运动增强",
+    "path": "/shortDescription"
+  }
+]

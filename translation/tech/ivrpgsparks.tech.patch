@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "火花",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "点击 ^green;[F]^white;发射火花!",
+    "path": "/description"
+  }
+]

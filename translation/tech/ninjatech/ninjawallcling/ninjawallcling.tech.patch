@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "跳跃消耗: 15e.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "虎爪",
+    "path": "/shortDescription"
+  }
+]

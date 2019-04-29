@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "一本散发神秘力量的古老书籍,也许可以通过某种方式来使用.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "神秘的书",
+    "path": "/shortdescription"
+  }
+]

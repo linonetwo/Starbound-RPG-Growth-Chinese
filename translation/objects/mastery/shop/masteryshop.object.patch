@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "value": "一个精心设计的木制桌子，可以使用专精点具现化物品.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "一张简单的桌子.我真的不知道这东西能做什么.",
+    "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "value": "一张小桌子.尽管它很简单,但它看起来很巧妙.",
+    "path": "/apexDescription"
+  },
+  {
+    "op": "replace",
+    "value": "关键的是.一脚过去这张桌子就散架了",
+    "path": "/glitchDescription"
+  },
+  {
+    "op": "replace",
+    "value": "大师书桌",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "这张旧桌子太脆脆脆了. 叶族人不能拿它来切菜菜,但是它的颜色看起来好好吃.",
+    "path": "/floranDescription"
+  },
+  {
+    "op": "replace",
+    "value": "这张桌子散发着强大的神秘能量.",
+    "path": "/avianDescription"
+  },
+  {
+    "op": "replace",
+    "value": "这张桌子摇摇晃晃的.",
+    "path": "/humanDescription"
+  },
+  {
+    "op": "replace",
+    "value": "有了这桌子,你真得集中注意力.",
+    "path": "/hylotlDescription"
+  }
+]

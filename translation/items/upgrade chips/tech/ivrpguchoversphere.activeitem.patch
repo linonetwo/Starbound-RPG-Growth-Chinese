@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "重力球升级.\n按住右键时朝往光标方向悬浮.\n^red;悬浮消耗能量.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "悬浮重力球",
+    "path": "/shortdescription"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "滑翔",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "滑翔消耗: 5eps.",
+    "path": "/description"
+  }
+]

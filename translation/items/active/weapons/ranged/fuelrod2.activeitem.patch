@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^#00FFFF;等离子炮^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "发射超高温等离子能量.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "猩红虚灵镖",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "猩红虚灵镖, 一枚可以自动索敌的相位虚灵镖,蕴含着强大的黑暗能量",
+    "path": "/description"
+  }
+]

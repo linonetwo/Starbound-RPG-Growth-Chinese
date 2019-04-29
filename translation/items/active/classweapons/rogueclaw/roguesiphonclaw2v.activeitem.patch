@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "虹吸爪:囊肿",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "异乎寻常...",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "等离子分离器",
+    "path": "/ability/name"
+  }
+]

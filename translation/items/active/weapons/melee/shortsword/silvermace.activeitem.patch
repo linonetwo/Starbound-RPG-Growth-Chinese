@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "一柄蕴含着光明与勇气的星钢武器!非常强大.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "^#77acc3;寒冰能量枪^white;",
+    "path": "/shortdescription"
+  }
+]

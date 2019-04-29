@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "棱镜庇护者",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "棱镜庇护者,一种用流星金属制成的双手大剑,嵌有钻石和黄金,可以承受沉重的打击.",
+    "path": "/description"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "飞掠",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "注意! 释放有害气体.",
+    "path": "/description"
+  }
+]

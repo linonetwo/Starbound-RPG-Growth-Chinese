@@ -1,0 +1,18 @@
+[
+	{ 
+		"op" : "add", 
+		"path" : "/keyActions/player/-",
+		"value" : {
+			"label" : "RPG第二个功能键 ^green;[G]^reset;",
+			"action" : "PlayerTechAction2"
+		} 
+	},
+	{ 
+		"op" : "add", 
+		"path" : "/keyActions/player/-",
+		"value" : {
+			"label" : "RPG第三个功能键 ^green;[H]^reset;",
+			"action" : "PlayerTechAction3"
+		} 
+	}
+]

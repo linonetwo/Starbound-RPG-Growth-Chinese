@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "^#77acc3;能量风暴^white;",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "一把蕴含着光明与勇气的星钢武器!.",
+    "path": "/description"
+  }
+]

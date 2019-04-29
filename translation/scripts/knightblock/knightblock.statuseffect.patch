@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "骑士之盾",
+    "path": "/label"
+  }
+]

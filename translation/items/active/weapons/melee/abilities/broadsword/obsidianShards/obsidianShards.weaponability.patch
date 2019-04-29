@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "阵雨",
+    "path": "/ability/name"
+  }
+]

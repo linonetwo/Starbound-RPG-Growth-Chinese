@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "消耗: 20-100% 最大能量. 冷却时间: 2s.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "闪烁",
+    "path": "/shortDescription"
+  }
+]

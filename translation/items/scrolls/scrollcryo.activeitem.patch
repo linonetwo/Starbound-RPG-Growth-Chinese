@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "卷轴: 极寒",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "一枚记载着有关深渊极寒的卷轴. 上面结着一层霜.",
+    "path": "/description"
+  }
+]

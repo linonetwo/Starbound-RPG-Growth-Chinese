@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "一个带有剧毒的飞镖,可以使敌人中毒.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "剧毒飞镖",
+    "path": "/shortdescription"
+  }
+]

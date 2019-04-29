@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "value": "训练时间! 你的技巧越来越熟练, 我会尝试改进暗影虚灵镖使它能够跟上你的步伐!^white;",
+    "path": "/text"
+  },
+  {
+    "op": "replace",
+    "value": "你的技巧越来越熟练! 我改进了你的武器. 你现在可以在高级铁砧上制作猩红虚灵镖了.",
+    "path": "/completionText"
+  },
+  {
+    "op": "replace",
+    "value": "^green;武器升级",
+    "path": "/title"
+  }
+]

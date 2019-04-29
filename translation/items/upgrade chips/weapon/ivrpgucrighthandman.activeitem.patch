@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "得力助手",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "RPT探索者钻头升级.\n次要功能(右键)可以挖掘背景块.\n^red;按住Shift键可以直接摧毁背景块.",
+    "path": "/description"
+  }
+]

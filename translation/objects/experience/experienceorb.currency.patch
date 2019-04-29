@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "经验球",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "用于升级的经验球.",
+    "path": "/description"
+  }
+]

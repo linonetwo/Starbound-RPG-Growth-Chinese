@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "神射手冷却中",
+    "path": "/label"
+  }
+]

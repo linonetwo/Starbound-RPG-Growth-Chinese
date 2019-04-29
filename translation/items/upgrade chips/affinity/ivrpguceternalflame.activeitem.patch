@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "永恒之火",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "火焰&地狱火亲和力升级.\n亲和力弱点不再影响你.",
+    "path": "/description"
+  }
+]

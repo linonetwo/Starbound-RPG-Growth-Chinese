@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "剧毒灵气",
+    "path": "/shortDescription"
+  },
+  {
+    "op": "replace",
+    "value": "激活消耗: 10eps.",
+    "path": "/description"
+  }
+]

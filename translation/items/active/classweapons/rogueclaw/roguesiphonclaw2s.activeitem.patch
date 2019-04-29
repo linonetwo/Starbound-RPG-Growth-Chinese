@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "三寸寒芒,锋利异常!",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "虹吸爪:利刃",
+    "path": "/shortdescription"
+  }
+]

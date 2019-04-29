@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "瘴气",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "毒&老毒物亲和力升级.\n在你脚下产生毒云.",
+    "path": "/description"
+  }
+]

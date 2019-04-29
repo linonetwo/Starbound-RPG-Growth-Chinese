@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "value": "增强疾跑",
+    "path": "/label"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "吸血鬼的爱抚",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "猩红虚灵镖升级.\n使用猩红虚灵镖杀死敌人后, 获得2秒的愤怒和生命回复.",
+    "path": "/description"
+  }
+]

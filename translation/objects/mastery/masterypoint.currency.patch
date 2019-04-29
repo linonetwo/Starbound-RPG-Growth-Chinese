@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "专精点",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "专精点. 用于走向人生巅峰!",
+    "path": "/description"
+  }
+]

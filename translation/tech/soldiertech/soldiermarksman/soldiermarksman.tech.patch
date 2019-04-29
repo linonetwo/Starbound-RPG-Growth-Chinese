@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "持续时间/冷却时间: 10s/30s.",
+    "path": "/description"
+  },
+  {
+    "op": "replace",
+    "value": "神射手",
+    "path": "/shortDescription"
+  }
+]

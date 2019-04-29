@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "value": "DGN战斗步枪 MKI",
+    "path": "/shortdescription"
+  },
+  {
+    "op": "replace",
+    "value": "DGN战斗步枪 MKI, 适合在中近距离摧毁目标.",
+    "path": "/description"
+  }
+]
