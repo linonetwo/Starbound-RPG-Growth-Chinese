@@ -1,8 +1,9 @@
 // @flow
 import { findAsync, readAsync, writeAsync, existsAsync } from 'fs-jetpack';
+import { compact } from 'lodash';
 
 import { fileTypesNeedTranslation, keysNeedTranslation } from './constants';
-import { keyPathInObject, sanitizeJSON } from './utils'
+import { keyPathInObject, sanitizeJSON } from './utils';
 
 type Place = {
   path: string,
@@ -12,16 +13,18 @@ type Place = {
   }[],
 };
 async function getAllConfig(): Promise<Place[]> {
-  const allConfigPath = await findAsync('./source', { matching: fileTypesNeedTranslation });
+  const allSourceFilePaths = await findAsync('./source', { matching: fileTypesNeedTranslation });
   const places = await Promise.all(
-    allConfigPath.map(async filePath => {
+    allSourceFilePaths.map(async filePath => {
       await sanitizeJSON(filePath);
       const configJSON = await readAsync(filePath, 'json');
       const keyPathAndValues = keyPathInObject(configJSON, keysNeedTranslation);
-      return { path: filePath.replace('source/', ''), patches: keyPathAndValues };
+      if (keyPathAndValues.length > 0) {
+        return { path: filePath.replace('source/', ''), patches: keyPathAndValues };
+      }
     }),
   );
-  return places;
+  return compact(places);
 
   // await writeAsync('./aaa.log', places);
 }
