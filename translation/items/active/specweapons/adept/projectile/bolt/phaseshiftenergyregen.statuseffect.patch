@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgphaseshiftenergyregen",
+    "value": "静脉肾盂出血"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Phase Regeneration",
+    "value": "相再生"
+  }
+]

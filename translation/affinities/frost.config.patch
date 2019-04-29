@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Frost",
+    "value": "霜冻"
+  },
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "frost",
+    "value": "霜"
+  }
+]

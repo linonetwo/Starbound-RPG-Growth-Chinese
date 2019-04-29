@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgflightofthevalkyrie",
+    "value": "乙烯基轻烃"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Flight of the Valkryie",
+    "value": "瓦克里耶之旅"
+  }
+]

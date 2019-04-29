@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgundead",
+    "value": "静脉死亡"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Undead",
+    "value": "不死生物"
+  }
+]

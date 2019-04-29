@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "Plasma Divider",
+    "value": "等离子体分配器"
+  }
+]

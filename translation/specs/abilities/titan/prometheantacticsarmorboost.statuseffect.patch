@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgprometheantacticsarmorboost",
+    "value": "IVRPgprometantacitisarmorboost（IVRPgprometacitisarmorboost）"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Ally Promethean Tactics",
+    "value": "联盟普罗米修斯战术"
+  }
+]

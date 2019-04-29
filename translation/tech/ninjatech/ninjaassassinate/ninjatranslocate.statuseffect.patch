@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ninjatranslocate",
+    "value": "忍者易位"
+  }
+]

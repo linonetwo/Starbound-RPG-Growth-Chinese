@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "The Pioneer flag. Use ^green;[E]^white; to bookmark a teleportation location.",
+    "value": "先锋旗帜。使用^green；[e]^white；为远程传送位置添加书签。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgflashstep",
+    "value": "IVRPGFLASH步骤"
+  },
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Adept Only",
+    "value": "只擅长"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Flash Step",
+    "value": "闪光步骤"
+  }
+]

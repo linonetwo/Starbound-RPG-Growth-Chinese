@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgweaken",
+    "value": "IVRPG弱化"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Aether, a shadowy shuriken that duplicates using dark energy.",
+    "value": "以太，一种使用暗能量复制的模糊的树精。"
+  }
+]

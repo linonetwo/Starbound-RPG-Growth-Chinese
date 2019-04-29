@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgcolonizecooldown",
+    "value": "IVRPG颜色库"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Colonize Cooldown",
+    "value": "殖民冷却"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Venom",
+    "value": "毒液"
+  },
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "venom",
+    "value": "毒液"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "demonicregeneration",
+    "value": "去生殖"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Demonic Regeneration",
+    "value": "恶魔再生"
+  }
+]

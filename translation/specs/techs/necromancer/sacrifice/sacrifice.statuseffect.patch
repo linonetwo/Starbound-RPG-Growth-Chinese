@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgsacrifice",
+    "value": "IvrpG祭祀"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cursed",
+    "value": "诅咒的"
+  }
+]

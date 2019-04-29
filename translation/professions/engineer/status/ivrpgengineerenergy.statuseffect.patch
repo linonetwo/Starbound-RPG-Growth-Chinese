@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgengineerenergy",
+    "value": "四、工程技术"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Engineer's Energy",
+    "value": "工程师能源"
+  }
+]

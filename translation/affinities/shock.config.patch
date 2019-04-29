@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Shock",
+    "value": "休克"
+  },
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "shock",
+    "value": "震惊"
+  }
+]

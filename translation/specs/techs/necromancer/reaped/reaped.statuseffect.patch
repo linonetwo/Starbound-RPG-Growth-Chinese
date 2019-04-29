@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgreaped",
+    "value": "依附于"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Reaped!",
+    "value": "收获！"
+  }
+]

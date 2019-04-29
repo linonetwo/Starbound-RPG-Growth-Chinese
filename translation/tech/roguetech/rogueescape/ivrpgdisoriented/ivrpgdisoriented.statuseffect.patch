@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgdisoriented",
+    "value": "IVRPG定向"
+  }
+]

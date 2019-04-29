@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgeinherjarcooldown",
+    "value": "ivrpgeinherjar冷却"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Einherjar Cooldown",
+    "value": "Einherjar冷却时间"
+  }
+]

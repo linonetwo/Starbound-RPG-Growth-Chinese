@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "wizardnovaelectricexplosionstatus",
+    "value": "奇幻新星电气爆炸状态"
+  }
+]

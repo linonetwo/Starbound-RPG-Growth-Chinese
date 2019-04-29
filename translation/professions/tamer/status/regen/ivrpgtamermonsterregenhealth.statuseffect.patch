@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/name",
+    "op": "replace",
+    "source": "ivrpgtamermonsterregenhealth",
+    "value": "静脉血栓形成"
+  },
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Tamer",
+    "value": "驯兽师"
+  }
+]
