@@ -21,7 +21,8 @@ function keyPathInObject(obj: Object, keys: string[], parentPath: string = '') {
 
 async function sanitizeJSON(filePath: string) {
   const rawJSONString = await readAsync(filePath, 'utf8');
-  const result = replace(
+  // 修复多行字符串
+  let result = replace(
     rawJSONString,
     /"[\n ]*:[\n ]*"([0-9a-zA-Z!^;/()+\-:?,.\\ ]*\n)+([0-9a-zA-Z!^;/()+\-:?,.\\ ]*\n?)"/g,
     (badMultilineLineString: string) => {
@@ -31,10 +32,25 @@ async function sanitizeJSON(filePath: string) {
         .replace(/:\\n"/g, ': "');
     },
   );
+  // 修复小数点
+  result = replace(result, /[0-9]\.[,\]]/g, dicimal => dicimal.replace('.', '.0'));
   return writeAsync(filePath, stripJsonComments(result));
 }
 
-const keysNeedsTranslation = [
+const fileTypesNeedTranslation = [
+  '*.config',
+  '*.weaponability',
+  '*.activeitem',
+  '*.item',
+  '*.thrownitem',
+  '*.statuseffect',
+  '*.currency',
+  '*.object',
+  '*.particle',
+  '*.questtemplate',
+  '*.tech',
+];
+const keysNeedTranslation = [
   'value',
   'name',
   'text',
@@ -53,12 +69,12 @@ type Place = {
   }[],
 };
 async function getAllConfig(): Promise<Place[]> {
-  const allConfigPath = await findAsync('./source', { matching: ['*.config'] });
+  const allConfigPath = await findAsync('./source', { matching: fileTypesNeedTranslation });
   const places = await Promise.all(
     allConfigPath.map(async filePath => {
       await sanitizeJSON(filePath);
       const configJSON = await readAsync(filePath, 'json');
-      const keyPathAndValues = keyPathInObject(configJSON, keysNeedsTranslation);
+      const keyPathAndValues = keyPathInObject(configJSON, keysNeedTranslation);
       return { path: filePath.replace('source/', ''), patches: keyPathAndValues };
     }),
   );
@@ -79,8 +95,13 @@ async function checkMissingTranslation(places: Place[]) {
   const allPatchPath = await findAsync('./translation', { matching: ['*.patch'] });
   const task1 = allPatchPath.map(async pathName => {
     const sourcePathName = pathName.replace('translation/', '').replace('.patch', '');
-    const result = await existsAsync(`source/${sourcePathName}`);
-    if (!result) {
+    let sourceExists = false;
+    for (const place of places) {
+      if (place.path === sourceExists) {
+        sourceExists = true;
+      }
+    }
+    if (!sourceExists) {
       report.push(`源文件缺失 ${sourcePathName}`);
     }
   });
@@ -92,16 +113,16 @@ async function checkMissingTranslation(places: Place[]) {
       const patchJSON: Patch[] = await readAsync(translationFilePath, 'json');
       // 这里可以用散列表但我就不用因为已经够快了
       // 对于每一个待翻译的词条
-      for (const sourcePath of place.patches) {
+      for (const sourcePatchObj of place.patches) {
         // 看看有没有对应的翻译
         let hasTranslation = false;
         for (const patch of patchJSON) {
-          if (patch.path === sourcePath.path) {
+          if (patch.path === sourcePatchObj.path) {
             hasTranslation = true;
           }
         }
         if (!hasTranslation) {
-          report.push(`翻译条目缺失 ${sourcePath.path} in ${translationFilePath}`);
+          report.push(`翻译条目缺失 ${sourcePatchObj.path} in ${translationFilePath}`);
         }
       }
 
