@@ -4,11 +4,13 @@
 
 ## Contribute
 
-可以先看看[目前扫描出来的待翻译列表](https://pastebin.com/2yQcm0Qv)，报错类型可以在[下面](https://github.com/linonetwo/Starbound-RPG-Growth-Chinese#npm-run-scan-%E6%89%AB%E6%8F%8F%E5%8E%9F%E6%96%87%E4%B8%8E%E7%BF%BB%E8%AF%91%E7%9A%84%E5%AF%B9%E5%BA%94%E6%83%85%E5%86%B5)查看。
+如果你在游戏过程中发现不当的翻译，或者有未翻译的内容，可以在 issue 里提出，或顺手作出修改：
 
 直接点击 Create New File，然后在文件名那边黏贴 `translation/translationaffinities/affinityDescriptions.config.patch` 这样的文件名，就会自动创建文件夹和文件了。
 
 ![create new file](doc/images/createnewfile.png)
+
+这样修改的结果是放在你自己的仓库里的（防止用户恶意修改别人的仓库），然后你可以在我这边发起 Pull Request，让我去拉取你修改的结果，如果不懂操作上网搜搜视频吧！
 
 [Contributors](https://github.com/linonetwo/Starbound-RPG-Growth-Chinese#contributor)
 
@@ -47,12 +49,13 @@
 
 会在这个文件夹里生成一个 `report.log` 文件，报告以下情况：
 
-#### 报错类型
+#### 扫描报告结果类型
 
 - 翻译文件缺失：有新的待翻译的文件，或者是 MOD 结构发生改变了
 - 源文件缺失：有没有什么翻译补丁文件没有对应的源文件，如果有就说明源 MOD 结构发生改变了
 - 翻译条目缺失：补丁文件是有的，不过某个待翻译的词条没有对应的翻译
 - 原文条目缺失：补丁文件是有的，之前也翻译过某个词条，不过这次这个词条在原文中不见了
+- 译文内容无效：原文和译文相同（说明是放在那边占位等着翻译的，或者原文是「-」这样的占位符）
 
 ### `npm run unpack:mac` 解压压缩好的 Mod 文件
 
