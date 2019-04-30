@@ -7,7 +7,9 @@
 	"visibility"		"0"
 	"title"		"RPG Growth 汉化补丁"
 	"description"		"Starbound Mod RPG Growth 简体中文汉化（不包含源 MOD 本体）
-	Github: https://github.com/linonetwo/Starbound-RPG-Growth-Chinese  
-	遇到问题请来 Github 自行修改！"
+
+	半自动翻译脚本和译文在 Github 上: https://github.com/linonetwo/Starbound-RPG-Growth-Chinese  
+	遇到问题请来 Github 自行修改！有复杂的改进建议请发 issue！
+	"
 	"changenote"		""
 }
