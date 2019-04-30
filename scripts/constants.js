@@ -15,6 +15,7 @@ export const fileTypesNeedTranslation = [
 export const keysNeedTranslation = [
   'value',
   'name',
+  'children',
   'text',
   'title',
   'subtitle',

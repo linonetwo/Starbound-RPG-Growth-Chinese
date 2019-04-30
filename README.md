@@ -73,7 +73,15 @@
 
 注意当前 git 工作区状态，随时准备回滚。
 
-注意，会生成一些 `.patch.patch` 文件，这是对源 MOD 中的 `.patch` 文件的修改，请注意把它改回 `.patch`。如果发现有的文件是纯数据，并没有文本需要翻译（注意别把物品 ID 给翻译了，游戏会崩溃的），就把这个文件删掉（虽然下次它还会再次自动生成）。
+注意，会生成一些 `.patch.patch` 文件，这是对源 MOD 中的 `.patch` 文件的修改，请注意把它改回 `.patch`。如果发现有的文件是纯数据，并没有文本需要翻译（注意别把物品 ID 给翻译了，游戏会崩溃的），就把这个文件删掉（虽然下次它还会再次自动生成）。比如这几个（但我无法保证他们永远不需要翻译，所以没有直接自动无视它们）：
+
+```log
+  "翻译文件缺失 currencies.config.patch",
+  "翻译文件缺失 damage/elementaltypes.config.patch",
+  "翻译文件缺失 items/buildscripts/weaponabilities.config.patch",
+  "翻译文件缺失 projectiles/physics.config.patch",
+  "翻译文件缺失 quickbar/icons.json.patch",
+```
 
 ### `npm run generate:test` 测试自动生成功能
 
