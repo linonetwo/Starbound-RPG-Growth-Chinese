@@ -77,7 +77,7 @@ async function checkMissingTranslation(places: Place[]) {
             hasTranslation = true;
           }
         }
-        if (!hasTranslation) {
+        if (!hasTranslation && !sourcePatchObj.value.match(stopWordsPartsForValue)) {
           report.push(`翻译条目缺失 ${sourcePatchObj.path} in ${place.path}`);
         }
       }
