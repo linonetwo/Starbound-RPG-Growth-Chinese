@@ -296,22 +296,22 @@
   },
   {
     "op": "replace",
-    "value": "10级解锁此功能!\n(尚未实装)",
+    "value": "10级解锁!",
     "path": "/gui/professionlockedlayout/children/locked/value"
   },
   {
     "op": "replace",
-    "value": "25级解锁此功能!",
+    "value": "25级解锁!",
     "path": "/gui/affinitylockedlayout/children/locked/value"
   },
   {
     "op": "replace",
-    "value": "40级解锁此功能!\n(即将实装!)",
+    "value": "40级解锁!",
     "path": "/gui/specializationlockedlayout/children/locked/value"
   },
   {
     "op": "replace",
-    "value": "50级解锁此功能!",
+    "value": "50级解锁!",
     "path": "/gui/masterylockedlayout/children/locked/value"
   },
   {
@@ -466,7 +466,7 @@
   },
   {
     "op": "replace",
-    "value": "力量 Strength",
+    "value": "力量 Str",
     "path": "/gui/statslayout/children/strengthtext/value"
   },
   {
@@ -598,7 +598,7 @@
     "path": "/gui/overviewlayout/children/spectitle/value",
     "op": "replace",
     "source": "No Specialization",
-    "value": "没有专业化"
+    "value": "没有专精"
   },
   {
     "path": "/gui/overviewlayout/children/rallymodetitle/value",
@@ -628,13 +628,13 @@
     "path": "/gui/professionslayout/children/subtitle/value",
     "op": "replace",
     "source": "Professions are a valuable asset and can be selected for ^yellow;1000 Pixels.\n^red;You can quit your Profession at any time, but must pay again to re-select!",
-    "value": "职业是一项宝贵的资产，可以选择^yellow;1000像素。"
+    "value": "职业可以通过支付^yellow;1000像素来选择。\n^red;你可以随时退出你当前的职业，并重新支付像素来选择新的职业！"
   },
   {
     "path": "/gui/professionslayout/children/professiondescription/value",
     "op": "replace",
     "source": "Click a Profession's icon to see its benefits.",
-    "value": "单击某个职业的图标以查看其好处。"
+    "value": "单击某个职业的图标以查看其优势。"
   },
   {
     "path": "/gui/professionslayout/children/medictitle/value",
@@ -694,7 +694,7 @@
     "path": "/gui/professionslayout/children/smithtitle/value",
     "op": "replace",
     "source": "Smith",
-    "value": "史密斯"
+    "value": "铁匠"
   },
   {
     "path": "/gui/professionslayout/children/pixelamount/value",
@@ -724,7 +724,7 @@
     "path": "/gui/professionlayout/children/benefittitle/value",
     "op": "replace",
     "source": "Bonuses",
-    "value": "奖金"
+    "value": "强化"
   },
   {
     "path": "/gui/professionlayout/children/benefittext/value",
@@ -736,7 +736,7 @@
     "path": "/gui/professionlayout/children/scalingtitle/value",
     "op": "replace",
     "source": "Stat Scaling",
-    "value": "统计缩放"
+    "value": "属性缩放"
   },
   {
     "path": "/gui/professionlayout/children/passivetitle/value",
@@ -790,19 +790,19 @@
     "path": "/gui/specializationslayout/children/title/value",
     "op": "replace",
     "source": "Specialization Select",
-    "value": "专业化选择"
+    "value": "专精选择"
   },
   {
     "path": "/gui/specializationslayout/children/subtitle/value",
     "op": "replace",
     "source": "Specializations can be unlocked by accomplishing certain tasks.\nUse the arrows to navigate through available Specializations.",
-    "value": "通过完成某些任务，可以解锁专业化。"
+    "value": "通过完成某些任务，可以解锁专精。"
   },
   {
     "path": "/gui/specializationslayout/children/spectitle/value",
     "op": "replace",
     "source": "Specialization Title",
-    "value": "专业名称"
+    "value": "专精名称"
   },
   {
     "path": "/gui/specializationslayout/children/desctitle/value",
@@ -850,7 +850,7 @@
     "path": "/gui/specializationslayout/children/locked/value",
     "op": "replace",
     "source": "Find and use a Specialization Scroll!",
-    "value": "找到并使用专业化卷轴！"
+    "value": "找到并使用专精卷轴！"
   },
   {
     "path": "/gui/specializationlayout/children/spectitle/value",
@@ -874,7 +874,7 @@
     "path": "/gui/specializationlayout/children/benefittitle/value",
     "op": "replace",
     "source": "Bonuses",
-    "value": "奖金"
+    "value": "强化"
   },
   {
     "path": "/gui/specializationlayout/children/benefittext/value",
@@ -904,13 +904,13 @@
     "path": "/gui/specializationlayout/children/statscalingtitle/value",
     "op": "replace",
     "source": "Stat Scaling",
-    "value": "统计缩放"
+    "value": "属性缩放"
   },
   {
     "path": "/gui/specializationlayout/children/statscalingtext/value",
     "op": "replace",
     "source": "Stat Scaling",
-    "value": "统计缩放"
+    "value": "属性缩放"
   },
   {
     "path": "/gui/specializationlayout/children/specweaponicontitle/value",

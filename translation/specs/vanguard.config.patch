@@ -15,19 +15,19 @@
     "path": "/tech/title",
     "op": "replace",
     "source": "Rush",
-    "value": "冲"
+    "value": "野蛮冲撞"
   },
   {
     "path": "/tech/text",
     "op": "replace",
     "source": "Pressing [G] while your cursor points near an enemy allows you to near-instantly travel towards that enemy. While traveling, you are immune to damage and can phase through walls. Upon reappearing, create a large electrical explosion that stuns, and regenerates 20% Max Energy upon landing a killing blow. Explosion Damage scales with Agility and Dexterity. Energy Cost is 150. ^red;You cannot use Rush on enemies inside blocks.",
-    "value": "当你的光标指向敌人附近时，按下[G]键，你就可以立即接近敌人。当你旅行时，你对伤害免疫，并且可以穿墙而出。当它再次出现时，会产生一个巨大的电爆炸，使其晕眩，并在致命一击落地时恢复20%的最大能量。爆炸伤害等级灵活灵活。能量消耗是150。^red;你不能在街区内对敌人使用冲锋。"
+    "value": "当你的光标指向敌人附近时，按下[G]键，你就可以立即接近敌人。冲刺时是无敌状态，并且可以穿墙而出。当你再次出现时，会产生一个巨大的电爆炸，使敌人晕眩，并在成功击杀时恢复20%的最大能量。爆炸伤害与敏捷和灵巧有关。能量消耗是150。^red;你不能对被砖块包住的敌人使用此技能。"
   },
   {
     "path": "/weapon/title",
     "op": "replace",
     "source": "Danger Close",
-    "value": "很危险"
+    "value": "危险逼近"
   },
   {
     "path": "/classic/0/text",

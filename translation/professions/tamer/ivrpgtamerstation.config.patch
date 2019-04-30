@@ -3,7 +3,7 @@
     "path": "/paneLayout/windowtitle/title",
     "op": "replace",
     "source": " Tamer's Crafting Station",
-    "value": "驯服者的工艺站"
+    "value": "驯兽师的工艺站"
   },
   {
     "path": "/paneLayout/windowtitle/subtitle",

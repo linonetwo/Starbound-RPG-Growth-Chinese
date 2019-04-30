@@ -3,13 +3,13 @@
     "path": "/title",
     "op": "replace",
     "source": "Toxic",
-    "value": "有毒的"
+    "value": "毒气亲和"
   },
   {
     "path": "/immunity/0/text",
     "op": "replace",
     "source": "Poison Damage",
-    "value": "毒害"
+    "value": "毒伤害"
   },
   {
     "path": "/immunity/1/text",
@@ -27,24 +27,24 @@
     "path": "/immunity/3/text",
     "op": "replace",
     "source": "Proto (FU)",
-    "value": "原型（赋）"
+    "value": "原型(FU)"
   },
   {
     "path": "/weakness/0/text",
     "op": "replace",
     "source": "-25% Electric Resistance",
-    "value": "-25%抗性"
+    "value": "-25%电抗性"
   },
   {
     "path": "/weakness/1/text",
     "op": "replace",
     "source": "-15% Health",
-    "value": "- 15%生命"
+    "value": "-15%生命"
   },
   {
     "path": "/passive/0/text",
     "op": "replace",
     "source": "+30% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify.",
-    "value": "+造成伤害时有30%的几率使敌人中毒。中毒的敌人有-25%的最大生命，并在中毒期间中毒。"
+    "value": "造成伤害时+30%几率使敌人染毒。染毒的敌人-25%最大生命，并在染毒期间中毒掉血。"
   }
 ]

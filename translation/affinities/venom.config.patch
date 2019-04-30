@@ -3,13 +3,13 @@
     "path": "/title",
     "op": "replace",
     "source": "Venom",
-    "value": "毒液"
+    "value": "毒液亲和"
   },
   {
     "path": "/immunity/0/text",
     "op": "replace",
     "source": "Poison Status",
-    "value": "毒物状态"
+    "value": "中毒"
   },
   {
     "path": "/immunity/1/text",
@@ -27,18 +27,18 @@
     "path": "/weakness/0/text",
     "op": "replace",
     "source": "-25% Electric Resistance",
-    "value": "-25%抗性"
+    "value": "-25% 电抗性"
   },
   {
     "path": "/passive/0/text",
     "op": "replace",
     "source": "+10% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify.",
-    "value": "+造成伤害时有10%的几率使敌人中毒。中毒的敌人有-25%的最大生命，并在中毒期间中毒。"
+    "value": "造成伤害时+10%几率使敌人染毒。染毒的敌人-25%最大生命，并在染毒期间中毒掉血。"
   },
   {
     "path": "/weakness/1/text",
     "op": "replace",
     "source": "-15% Health",
-    "value": "- 15%生命"
+    "value": "-15%生命"
   }
 ]

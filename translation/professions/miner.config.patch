@@ -9,19 +9,19 @@
     "path": "/passive/text",
     "op": "replace",
     "source": "Provide a glow underground that brightens and changes color when nearing ores in a 10 block radius. However, as your Energy / Max Energy ratio decreases, the glow weakens. The glow will match the color of the rarest nearby ore!",
-    "value": "提供一个发光的地下，当接近10块半径的矿石时，它会变亮和变色。但是，随着能量/最大能量比的降低，光晕会减弱。辉光将与附近最稀有的矿石的颜色匹配！"
+    "value": "在地下，当接近某个矿石到10格半径内时你会发不同颜色的光。但是，随着你的能量值降低，光晕会减弱。辉光将与附近最稀有的矿石的颜色匹配！"
   },
   {
     "path": "/ability/text",
     "op": "replace",
     "source": "While Deep Underground, gain +10 Armor, +10% Physical Resistance, and 0.8x Fall Damage Multiplier.",
-    "value": "在地下深处，获得+10护甲、+10%物理抵抗和0.8倍坠落伤害倍数。"
+    "value": "在地下深处，获得+10护甲、+10%物理抵抗和0.8的坠落伤害倍数。"
   },
   {
     "path": "/crafting/text",
     "op": "replace",
     "source": "The Miner Station allows you to smelt ore with greater yield, create alloys, and craft pickaxes!",
-    "value": "采矿站可以让你以更高的产量冶炼矿石，制造合金，和工艺镐！"
+    "value": "采矿站可以让你以更高的产量冶炼矿石，制造合金，和制造镐！"
   },
   {
     "path": "/classic/0/text",

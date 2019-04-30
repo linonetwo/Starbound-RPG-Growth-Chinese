@@ -230,7 +230,7 @@
     "path": "/lore/children/specialization/title",
     "op": "replace",
     "source": "Specialization",
-    "value": "专业化"
+    "value": "专精"
   },
   {
     "path": "/lore/children/people/children/egoen/title",

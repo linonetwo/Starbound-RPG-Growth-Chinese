@@ -3,12 +3,12 @@
     "path": "/gui/toggleCrafting/caption",
     "op": "replace",
     "source": "Smith",
-    "value": "史密斯"
+    "value": "铁匠"
   },
   {
     "path": "/gui/lblText/value",
     "op": "replace",
     "source": "^gray;Place Electrum Bars in Yellow Slot. Requires 2 for Upgrades and 4 for Creation.\n      ^white;Place 5 Bars in Grey Slot to determine Weapon Level. Accepts the following:\n      Copper, Iron, Tungsten, Titanium, Durasteel, Violium/Aegisalt/Ferozium, Solarium\n      ^gray;Place 1 Item in Red Slot to determine Element. Accepts the following:\n      Venom Sample, Scorched Core, Cryonic Extract, Static Cell, Glass (Keeps Element)\n      ^white;Place desired Items in Blue Slot. Accepts the following:\n      Diamond (+ Base Damage), Battery (- Energy Cost), 3 Coal (Same Stats)\n      ^red;Except for Coal, other modifiers only ever work once and only for upgrades!\n      ^gray;To upgrade an existing weapon, simply place the weapon in the Purple Slot.\n      ^white;To create a new weapon, place an item in the Purple Slot. Accepts the following:\n      2 Sharpened Claw (Spear), 2 Hardened Carapace (Hammer), 6 Steel Bar (Broadsword),\n      1 Sharpened Claw (Dagger), 1 Hardened Carapace (Axe), 3 Steel Bar (Shortsword)",
-    "value": "^gray;将电子棒置于黄色槽中。升级需要2，创建需要4个。\n ^white;在灰色槽中放置5个条以确定武器等级。接受以下内容：\n铜，铁，钨，钛，Durasteel，Violium / Aegisalt / Ferozium，日光浴\n ^gray;在红色插槽中放置1项以确定元素。接受以下内容：\n毒液样品，焦化核心，冷冻提取物，静电池，玻璃（保持元素）\n ^white;将所需物品放入蓝色槽中。接受以下内容：\n钻石（+基础损坏），电池（ - 能量消耗），3煤（相同统计）\n ^red;除煤炭外，其他修改器仅工作一次且仅用于升级！\n ^gray;要升级现有武器，只需将武器放入紫色插槽。\n ^white;要创建新武器，请将项目放入紫色插槽。接受以下内容：\n 2尖刃（长矛），2硬化甲壳（锤），6钢筋（大刀），\n 1尖刃（匕首），1硬化甲壳（斧），3钢筋（短剑）"
+    "value": "^gray;将电子棒置于黄色槽中。升级需要2，创建需要4个。\n ^white;在灰色槽中放置5个条以确定武器等级。接受以下内容：\n铜，铁，钨，钛，Durasteel，Violium / Aegisalt / Ferozium，日光浴\n ^gray;在红色插槽中放置1项以确定元素。接受以下内容：\n毒液样品，焦化核心，冷冻提取物，静电池，玻璃（保持元素）\n ^white;将所需物品放入蓝色槽中。接受以下内容：\n钻石（+基础损坏），电池（ - 能量消耗），3煤（相同属性）\n ^red;除煤炭外，其他修改器仅工作一次且仅用于升级！\n ^gray;要升级现有武器，只需将武器放入紫色插槽。\n ^white;要创建新武器，请将项目放入紫色插槽。接受以下内容：\n 2尖刃（长矛），2硬化甲壳（锤），6钢筋（大刀），\n 1尖刃（匕首），1硬化甲壳（斧），3钢筋（短剑）"
   }
 ]

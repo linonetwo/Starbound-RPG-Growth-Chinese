@@ -183,6 +183,6 @@
     "path": "/default/0/text",
     "op": "replace",
     "source": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
-    "value": "单击统计图标查看发生的情况"
+    "value": "单击属性图标查看说明"
   }
 ]

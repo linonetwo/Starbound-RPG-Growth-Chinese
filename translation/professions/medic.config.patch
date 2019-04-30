@@ -15,7 +15,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "When your own Health is above 50% Max Health, nearby friendly Players and NPCs, up to 10 blocks away, gain slight Health Regeneration.",
-    "value": "当你自己的生命超过50%的最大生命，附近的友好玩家和NPC，最多10个街区远，获得轻微的生命再生。"
+    "value": "当你自己的生命超过50%的最大生命，附近的友好玩家和NPC，最多10格远，都能获得轻微的生命再生。"
   },
   {
     "path": "/crafting/text",

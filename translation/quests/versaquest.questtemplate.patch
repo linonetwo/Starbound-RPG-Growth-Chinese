@@ -6,7 +6,7 @@
   },
   {
     "op": "replace",
-    "value": "^green;专业化武器",
+    "value": "^green;专精武器",
     "path": "/title"
   }
 ]

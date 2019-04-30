@@ -3,13 +3,13 @@
     "path": "/title",
     "op": "replace",
     "source": "Flame",
-    "value": "火焰"
+    "value": "火焰亲和"
   },
   {
     "path": "/immunity/0/text",
     "op": "replace",
     "source": "Fire Status",
-    "value": "火灾状态"
+    "value": "着火"
   },
   {
     "path": "/immunity/1/text",
@@ -39,6 +39,6 @@
     "path": "/passive/0/text",
     "op": "replace",
     "source": "+10% chance to Sear enemies when dealing damage. Seared enemies have -25% Power and are Burned for the duration of Sear.",
-    "value": "+造成伤害时有10%的几率灼伤敌人。灼伤的敌人有-25%的力量，在灼伤期间被灼伤。"
+    "value": "造成伤害时有10%的几率灼伤敌人。灼伤的敌人有-25%的力量，在灼伤期间被烧伤。"
   }
 ]

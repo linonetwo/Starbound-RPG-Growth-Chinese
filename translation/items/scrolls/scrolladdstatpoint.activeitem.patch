@@ -8,6 +8,6 @@
     "path": "/shortdescription",
     "op": "replace",
     "source": "Scroll: +1 Stat Point",
-    "value": "滚动+1个统计点"
+    "value": "卷轴：+1个属性点"
   }
 ]

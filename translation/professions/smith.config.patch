@@ -3,7 +3,7 @@
     "path": "/title",
     "op": "replace",
     "source": "Smith",
-    "value": "史密斯"
+    "value": "铁匠"
   },
   {
     "path": "/passive/text",
@@ -21,7 +21,7 @@
     "path": "/crafting/text",
     "op": "replace",
     "source": "The Smith Station allows you upgrade weapons and craft melee weapons!",
-    "value": "史密斯站允许你升级武器和工艺近战武器！"
+    "value": "铁匠站允许你升级武器和制造近战武器！"
   },
   {
     "path": "/classic/0/text",

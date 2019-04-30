@@ -9,7 +9,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "Upon landing from more than 15 blocks up, gain Increased Power and Armor for up to six seconds, scaling with fall distance.",
-    "value": "当从15个街区以上的地方着陆时，获得增加的力量和护甲，持续6秒，并随着坠落距离而缩放。"
+    "value": "当从15格以上的高度落地时，获得增加的力量和护甲，持续6秒，并随着坠落距离而缩放。"
   },
   {
     "path": "/tech/title",

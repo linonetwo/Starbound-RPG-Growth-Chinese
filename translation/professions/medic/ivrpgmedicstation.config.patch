@@ -27,7 +27,7 @@
     "path": "/paneLayout/btnCraft/caption",
     "op": "replace",
     "source": "Craft",
-    "value": "工艺"
+    "value": "制造"
   },
   {
     "path": "/paneLayout/btnStopCraft/caption",

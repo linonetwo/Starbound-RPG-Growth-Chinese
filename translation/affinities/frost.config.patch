@@ -3,13 +3,13 @@
     "path": "/title",
     "op": "replace",
     "source": "Frost",
-    "value": "霜冻"
+    "value": "霜冻亲和"
   },
   {
     "path": "/immunity/0/text",
     "op": "replace",
     "source": "Ice Status",
-    "value": "冰情"
+    "value": "结冰"
   },
   {
     "path": "/immunity/1/text",
@@ -45,6 +45,6 @@
     "path": "/passive/0/text",
     "op": "replace",
     "source": "+10% chance to Embrittle enemies when dealing damage. Embrittled enemies have -25% Physical Resistance and shatter when killed. This Ice Explosion deals Cold Damage and Frost Slows enemies.",
-    "value": "+造成伤害时有10%的几率使敌人变脆。脆化的敌人有-25%的物理抵抗力，当被杀死时会粉碎。冰爆炸造成寒冷的伤害，霜冻减慢敌人的速度。"
+    "value": "造成伤害时有10%的几率使敌人变脆。脆化的敌人有-25%的物理抵抗力，当被杀死时会爆炸。冰爆炸造成寒冷伤害和霜冻，减慢敌人的速度。"
   }
 ]

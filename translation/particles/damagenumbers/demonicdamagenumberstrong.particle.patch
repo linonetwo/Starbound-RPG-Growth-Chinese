@@ -3,6 +3,6 @@
     "path": "/definition/text",
     "op": "replace",
     "source": "^shadow;$dmg$",
-    "value": "影子：$dmg"
+    "value": "暗影：$dmg"
   }
 ]
