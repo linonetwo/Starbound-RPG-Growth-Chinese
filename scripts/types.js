@@ -4,9 +4,7 @@ export type Patch = {
   value:
     | string
     /** keybindingsmenu.config.patch */
-    | {
-        [key: string]: string,
-      },
+    | Object,
   path: string,
   source?: string,
 };

@@ -14,7 +14,7 @@ import type { Patch } from './types';
 
 export const delay = (ms: number) => new Promise<any>(resolve => setTimeout(resolve, ms));
 
-export function keyPathInObject(obj: Object, keys: string[], parentPath: string = '') {
+export function keyPathInObject(obj: Object, keys: string[], parentPath: string = ''): Patch[] {
   let keyPaths: Patch[] = [];
   // 看看是不是源文件中的 patch 文件
   if (isArray(obj)) {

@@ -31,7 +31,6 @@ async function getAllConfig(): Promise<Place[]> {
   // await writeAsync('./aaa.log', places);
 }
 
-
 /**
  *
  * @param {Place[]} places 源文件及其内部待 patch 内容的列表
@@ -61,14 +60,20 @@ async function checkMissingTranslation(places: Place[]) {
     const translationFilePath = `translation/${place.path.replace('.patch', '')}.patch`;
     const patchExists = await existsAsync(translationFilePath);
     if (patchExists) {
-      const patchJSON: Patch[] = await readAsync(translationFilePath, 'json');
+      const patchJSON: Patch[] | Patch[][] = await readAsync(translationFilePath, 'json');
       // 这里可以用散列表但我就不用因为已经够快了
       // 对于每一个待翻译的词条
       for (const sourcePatchObj of place.patches) {
         // 看看有没有对应的翻译
         let hasTranslation = false;
         for (const patch of patchJSON) {
-          if (patch.path === sourcePatchObj.path) {
+          if (Array.isArray(patch)) {
+            // patch.forEach(subPatch => {
+            //   if (subPatch.path === sourcePatchObj.path) {
+            hasTranslation = true; // keybindingsmenu.config.patch 不好检查，不查了
+            //   }
+            // });
+          } else if (patch.path === sourcePatchObj.path) {
             hasTranslation = true;
           }
         }
@@ -79,20 +84,22 @@ async function checkMissingTranslation(places: Place[]) {
 
       // 对于每一个已翻译的词条
       for (const patch of patchJSON) {
-        // 看看有没有对应的原文，没有就说明原文被移走了
-        let hasTranslation = false;
-        for (const sourcePath of place.patches) {
-          if (patch.path === sourcePath.path) {
-            hasTranslation = true;
+        if (!Array.isArray(patch)) {
+          // 看看有没有对应的原文，没有就说明原文被移走了
+          let hasTranslation = false;
+          for (const sourcePath of place.patches) {
+            if (patch.path === sourcePath.path) {
+              hasTranslation = true;
+            }
           }
-        }
-        if (!hasTranslation) {
-          report.push(`原文条目缺失 ${patch.path} in ${place.path}`);
-        }
+          if (!hasTranslation) {
+            report.push(`原文条目缺失 ${patch.path} in ${place.path}`);
+          }
 
-        // 检查原文和译文是不是相同的
-        if ('source' in patch && patch.source === patch.value) {
-          report.push(`译文内容无效 ${patch.path} in ${place.path}`);
+          // 检查原文和译文是不是相同的
+          if ('source' in patch && patch.source === patch.value) {
+            report.push(`译文内容无效 ${patch.path} in ${place.path}`);
+          }
         }
       }
     } else {
