@@ -57,7 +57,7 @@
     "path": "/0/3/description",
     "op": "replace",
     "source": "^red;Female Only^white;\nValkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
-    "value": "^red;仅限女性^white;\ n女武神是对生命拥有统治权的天使，为有价值的盟友提供无限的权力。女武神使用矛和短剑，使用他们的神圣力量优雅地在战场上滑行，击败敌人。"
+    "value": "^red;仅限女性^white;\n女武神是对生命拥有统治权的天使，为有价值的盟友提供无限的权力。女武神使用矛和短剑，使用他们的神圣力量优雅地在战场上滑行，击败敌人。"
   },
   {
     "path": "/0/4/name",
