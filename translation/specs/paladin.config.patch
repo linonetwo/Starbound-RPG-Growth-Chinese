@@ -12,22 +12,10 @@
     "value": "完美护盾恢复10%最大护盾耐力，并给予5秒+20%物理、阴影、恶魔和毒抗性。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgperfectbarrier",
-    "value": "完美屏障"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Immaculate Shield",
     "value": "无暇盾牌"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgimmaculateshield",
-    "value": "immaulateShield（IVRPGimmaulateShield）"
   },
   {
     "path": "/tech/text",

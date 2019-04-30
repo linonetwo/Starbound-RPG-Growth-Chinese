@@ -12,22 +12,10 @@
     "value": "用一个短剑-手榴弹发射器-给予+50%的力量，10%的能量/秒，和 ^green;爆炸杀死^white;持续2秒。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgfightinglion",
-    "value": "静脉点灯狮子"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Bombs Away",
     "value": "投弹完毕"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgbombsaway",
-    "value": "MBOBSAWAY"
   },
   {
     "path": "/tech/text",

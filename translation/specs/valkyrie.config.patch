@@ -12,22 +12,10 @@
     "value": "跳跃时获得短时间的低重力。保持空中飞行会触发健康再生。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgflightofthevalkyrie",
-    "value": "乙烯基轻烃"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Einherjar",
     "value": "埃因贾尔"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgeinherjar",
-    "value": "GEngEngJAR"
   },
   {
     "path": "/tech/text",

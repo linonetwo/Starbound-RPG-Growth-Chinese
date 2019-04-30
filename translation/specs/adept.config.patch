@@ -12,22 +12,10 @@
     "value": "附近的盟军在能量充电后获得临时的速度提升。最大能量时150%护甲，0能量时50%护甲。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgagilemagic",
-    "value": "IVRP"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Flash Step",
     "value": "闪光步骤"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgflashstep",
-    "value": "FLASH步骤"
   },
   {
     "path": "/tech/text",

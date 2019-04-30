@@ -6,22 +6,10 @@
     "value": "牧师"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgAngel’s Breath",
-    "value": "静脉曲张的呼吸"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Holy Nova",
     "value": "神圣新星"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgholynova",
-    "value": "伊夫尔普霍利诺娃"
   },
   {
     "path": "/weapon/title",

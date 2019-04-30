@@ -6,22 +6,10 @@
     "value": "流浪者"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgThe Stranger",
-    "value": "我是陌生人"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Soliloquy",
     "value": "独白"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgsoliloquy",
-    "value": "LoLooQuy"
   },
   {
     "path": "/weapon/title",

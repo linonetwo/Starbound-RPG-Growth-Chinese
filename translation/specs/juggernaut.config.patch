@@ -6,22 +6,10 @@
     "value": "神像"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgInertia",
-    "value": "惯性矩"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Limit Break",
     "value": "极限断裂"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpglimitbreak",
-    "value": "imimiS断裂"
   },
   {
     "path": "/weapon/title",

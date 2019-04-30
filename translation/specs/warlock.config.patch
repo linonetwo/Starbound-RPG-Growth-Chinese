@@ -6,22 +6,10 @@
     "value": "术士"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgBeyond the Stars",
-    "value": "我相信星星"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "NovStep",
     "value": "诺步"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgnovstep",
-    "value": "-诺瓦步"
   },
   {
     "path": "/weapon/title",

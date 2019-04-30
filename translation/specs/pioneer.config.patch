@@ -12,22 +12,10 @@
     "value": "125%的能量倍增器和最大能量在导航系统的书签行星上。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgterranova",
-    "value": "伊夫尔格特拉诺娃"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Colonize",
     "value": "殖民地"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgcolonize",
-    "value": "异种殖民"
   },
   {
     "path": "/tech/text",

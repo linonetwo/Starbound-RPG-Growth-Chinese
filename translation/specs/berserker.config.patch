@@ -6,22 +6,10 @@
     "value": "狂暴者"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgRAGE MEATHEAD RAGE",
-    "value": "静脉吃肉头盛怒"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Berserk",
     "value": "狂暴"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgberserk",
-    "value": "BRSercel"
   },
   {
     "path": "/weapon/title",

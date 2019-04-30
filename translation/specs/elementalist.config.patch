@@ -6,22 +6,10 @@
     "value": "要素论者"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgElemental Weave",
-    "value": "四、纤维编织"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Attune",
     "value": "调谐"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgattune",
-    "value": "ATTUNE"
   },
   {
     "path": "/weapon/title",

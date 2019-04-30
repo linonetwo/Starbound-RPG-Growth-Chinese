@@ -18,12 +18,6 @@
     "value": "当饥饿接近满足时，你和附近的玩家和NPC获得增加的最大能量。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgengineerstatus",
-    "value": "enengineerstatus"
-  },
-  {
     "path": "/crafting/text",
     "op": "replace",
     "source": "The Engineer Station allows you craft electronics using fewer materials!",

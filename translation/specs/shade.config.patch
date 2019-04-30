@@ -6,22 +6,10 @@
     "value": "阴影"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgAbounding Darkness",
-    "value": "四、天黑"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Hidden Dragon",
     "value": "藏龙"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpghiddendragon",
-    "value": "静脉滴注地龙"
   },
   {
     "path": "/weapon/title",

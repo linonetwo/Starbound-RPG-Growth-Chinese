@@ -6,22 +6,10 @@
     "value": "技术员"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgNONE",
-    "value": "伊夫普涅酮"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Elemental Overcharge",
     "value": "元素过充"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgelementalovercharge",
-    "value": "静脉输液过量"
   },
   {
     "path": "/weapon/title",

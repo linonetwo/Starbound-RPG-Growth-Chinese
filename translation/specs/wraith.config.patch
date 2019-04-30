@@ -12,22 +12,10 @@
     "value": "重力几乎不会影响你。受到伤害后，在短时间内变得无懈可击和空灵。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgbetweenworlds",
-    "value": "Betweenwords"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Dark Phase",
     "value": "暗相"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgdarkphase",
-    "value": "IVRP相位"
   },
   {
     "path": "/tech/text",

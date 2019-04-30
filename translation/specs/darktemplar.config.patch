@@ -6,22 +6,10 @@
     "value": "黑暗圣堂"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgCorruption",
-    "value": "腐败现象"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Abounding Darkness",
     "value": "充满黑暗"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgaboundingdarkness",
-    "value": "aboundingdarkness（黑暗）"
   },
   {
     "path": "/weapon/title",

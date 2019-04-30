@@ -6,22 +6,10 @@
     "value": "雇佣军"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgGuns A’ Blazing",
-    "value": "GUNS A'燃烧"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Make it Rain",
     "value": "让它下雨"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgmakeitrain",
-    "value": "雨天天气"
   },
   {
     "path": "/weapon/title",

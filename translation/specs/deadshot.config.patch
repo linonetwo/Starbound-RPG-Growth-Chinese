@@ -6,22 +6,10 @@
     "value": "死枪"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgDeadly Patience",
-    "value": "四、耐心"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Ideal Shot",
     "value": "理想射门"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgidealshot",
-    "value": "长枪"
   },
   {
     "path": "/weapon/title",

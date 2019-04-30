@@ -12,22 +12,10 @@
     "value": "在接近敌人时增加物理阻力、能量和速度。在远离敌人的情况下降低了力量和能量。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpginthefray",
-    "value": "伊夫里普金斯菲"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Rush",
     "value": "冲"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgrush",
-    "value": "伊夫拉普格鲁什"
   },
   {
     "path": "/tech/text",

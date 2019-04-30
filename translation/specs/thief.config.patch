@@ -6,22 +6,10 @@
     "value": "小偷"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgSleight of Hand",
-    "value": "手的重量"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Greedy Purge",
     "value": "贪心清除"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpggreedypurge",
-    "value": "烟气净化"
   },
   {
     "path": "/weapon/title",

@@ -12,22 +12,10 @@
     "value": "在接近攻击性NPC时提高速度和功率。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgbymyownhands",
-    "value": "BywnHands"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Desperado",
     "value": "亡命之徒"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgdesperado",
-    "value": "VIDADO"
   },
   {
     "path": "/tech/text",

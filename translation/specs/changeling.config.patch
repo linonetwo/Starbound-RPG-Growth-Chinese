@@ -6,22 +6,10 @@
     "value": "变换法"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgMelty Blood",
-    "value": "静脉血"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Shapeshift",
     "value": "变形术"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgshapeshift",
-    "value": "IVRP变形"
   },
   {
     "path": "/weapon/title",

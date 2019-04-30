@@ -6,22 +6,10 @@
     "value": "征服者"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgNETSI",
-    "value": "NETSI"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "The Cavalrys Here",
     "value": "这里的骑兵"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgthecavalryshere",
-    "value": "此处显示"
   },
   {
     "path": "/weapon/title",

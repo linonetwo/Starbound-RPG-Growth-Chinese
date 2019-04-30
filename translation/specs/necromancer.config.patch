@@ -12,22 +12,10 @@
     "value": "用匕首、镰刀或恶魔魔法杀死的敌人有33.3%的几率在战斗中复活并帮助你10秒钟。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgraiseundead",
-    "value": "静脉曲张"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Reap",
     "value": "收获"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgreap",
-    "value": "RAP"
   },
   {
     "path": "/tech/text",

@@ -12,22 +12,10 @@
     "value": "当从15个街区以上的地方着陆时，获得增加的力量和护甲，持续6秒，并随着坠落距离而缩放。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgflightless",
-    "value": "不受干扰的"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Dragon's Leap",
     "value": "龙跃进"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgdragonsleap",
-    "value": "DragonsLeap"
   },
   {
     "path": "/tech/text",

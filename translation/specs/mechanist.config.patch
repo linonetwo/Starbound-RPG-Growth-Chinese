@@ -6,22 +6,10 @@
     "value": "机械师"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgSkynet",
-    "value": "SkyNET"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "NAME",
     "value": "名字"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgname",
-    "value": "NAMEY"
   },
   {
     "path": "/weapon/title",

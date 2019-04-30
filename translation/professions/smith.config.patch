@@ -18,12 +18,6 @@
     "value": "当饥饿接近满足时，你和附近的玩家和NPC获得增加的护甲。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgsmithstatus",
-    "value": "静脉滴注状态"
-  },
-  {
     "path": "/crafting/text",
     "op": "replace",
     "source": "The Smith Station allows you upgrade weapons and craft melee weapons!",

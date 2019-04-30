@@ -18,12 +18,6 @@
     "value": "附近的友方怪物获得显著增加的护甲和增加的力量和移动速度。当你的健康/最大健康比率降低时，这种效果会变得更强。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgtamerstatus",
-    "value": "状态"
-  },
-  {
     "path": "/crafting/text",
     "op": "replace",
     "source": "The Tamer Station allows you to craft Capture Pods, Monster Accessories, and Monster Food!",

@@ -12,22 +12,10 @@
     "value": "杀死敌人后，力量和盔甲会增加，命中会引起判断。受到接触伤害会降低你的速度。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgpurity",
-    "value": "纯度"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Resurgence",
     "value": "死灰复燃"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgresurgence",
-    "value": "静脉回流术"
   },
   {
     "path": "/tech/text",

@@ -12,22 +12,10 @@
     "value": "单独使用时，耐力和敏捷度会降低。接近盟国时，活力和活力增加。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgbythepeople",
-    "value": "静脉滴注患者"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Ally Stance",
     "value": "盟友立场"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgallystance",
-    "value": "IVR拉伸"
   },
   {
     "path": "/weapon/title",

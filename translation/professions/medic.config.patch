@@ -18,12 +18,6 @@
     "value": "当你自己的健康超过50%的最大健康，附近的友好玩家和NPC，最多10个街区远，获得轻微的健康再生。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgmedicstatus",
-    "value": "医疗状态"
-  },
-  {
     "path": "/crafting/text",
     "op": "replace",
     "source": "The Medic Station allows you to craft healing consumables using fewer materials.",

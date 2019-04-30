@@ -18,12 +18,6 @@
     "value": "在地下深处，获得+10护甲、+10%物理阻力和0.8倍坠落伤害倍数。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgminerstatus",
-    "value": "惯性状态"
-  },
-  {
     "path": "/crafting/text",
     "op": "replace",
     "source": "The Miner Station allows you to smelt ore with greater yield, create alloys, and craft pickaxes!",

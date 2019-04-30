@@ -6,22 +6,10 @@
     "value": "童子军"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ivrpgNew Frontiers",
-    "value": "伊夫普格纳边境"
-  },
-  {
     "path": "/tech/title",
     "op": "replace",
     "source": "Heartbeat Sensor",
     "value": "心跳感应器"
-  },
-  {
-    "path": "/tech/name",
-    "op": "replace",
-    "source": "ivrpgheartbeatsensor",
-    "value": "IVR重力传感器"
   },
   {
     "path": "/weapon/title",
