@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/labels/scroll",
+    "op": "replace",
+    "source": "Scroll",
+    "value": "纸卷"
+  },
+  {
+    "path": "/labels/useScroll",
+    "op": "replace",
+    "source": "Useable Scroll",
+    "value": "可用卷轴"
+  },
+  {
+    "path": "/labels/tornPage",
+    "op": "replace",
+    "source": "Torn Page",
+    "value": "书页"
+  },
+  {
+    "path": "/labels/clawWeapon",
+    "op": "replace",
+    "source": "Claw Weapon",
+    "value": "爪哇武器"
+  },
+  {
+    "path": "/labels/hybridGun",
+    "op": "replace",
+    "source": "Hybrid Gun",
+    "value": "混合火炮"
+  },
+  {
+    "path": "/labels/shuriken",
+    "op": "replace",
+    "source": "Shuriken",
+    "value": "舒里肯"
+  },
+  {
+    "path": "/labels/uniqueDrill",
+    "op": "replace",
+    "source": "Unique Drill",
+    "value": "独特钻头"
+  }
+]
