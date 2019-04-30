@@ -2,7 +2,7 @@
 import { findAsync, readAsync, writeAsync, existsAsync } from 'fs-jetpack';
 import { compact } from 'lodash';
 
-import { fileTypesNeedTranslation, keysNeedTranslation } from './constants';
+import { fileTypesNeedTranslation, keysNeedTranslation, stopWordsPartsForValue } from './constants';
 import { keyPathInObject, sanitizeJSON } from './utils';
 import type { Patch } from './types';
 
@@ -94,6 +94,9 @@ async function checkMissingTranslation(places: Place[]) {
           }
           if (!hasTranslation) {
             report.push(`原文条目缺失 ${patch.path} in ${place.path}`);
+          }
+          if (patch.source && patch.source.match(stopWordsPartsForValue)) {
+            report.push(`原文条目不该翻译 ${patch.path} in ${place.path}`);
           }
 
           // 检查原文和译文是不是相同的

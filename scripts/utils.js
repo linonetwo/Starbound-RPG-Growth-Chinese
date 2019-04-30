@@ -9,6 +9,7 @@ import {
   stopWordsForValue,
   pathStopWordsForPatchFromSource,
   opDoNotScan,
+  stopWordsPartsForValue,
 } from './constants';
 import type { Patch } from './types';
 
@@ -45,6 +46,7 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
         keys.includes(key) &&
         typeof obj[key] === 'string' &&
         obj[key].length > 0 &&
+        !key.match(stopWordsPartsForValue) &&
         !stopWordsForValue.includes(obj[key]) &&
         !stopWordsForPath.includes(key)
       ) {

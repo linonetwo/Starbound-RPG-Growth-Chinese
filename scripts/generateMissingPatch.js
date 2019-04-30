@@ -147,8 +147,8 @@ async function appendMissingTranslationItem(report: string[], outputDir: string)
 async function removeMissingSourceItem(report: string[], outputDir: string) {
   // 创建不存在的文件夹
   const missingTranslationPaths: { keyPath: string, translationFilePath: string }[] = report
-    .filter(it.startsWith('原文条目缺失'))
-    .map(it.replace('原文条目缺失 ', ''))
+    .filter(it.startsWith('原文条目缺失') || it.startsWith('原文条目不该翻译'))
+    .map(it.replace('原文条目缺失 ', '').replace('原文条目不该翻译 ', ''))
     .map(it.split(' in '))
     .map(([keyPath, filePath]) => ({
       keyPath,
