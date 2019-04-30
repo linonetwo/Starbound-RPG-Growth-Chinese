@@ -21,7 +21,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "Press [F] to target the ally nearest your cursor, other than you, that is within your line of sight. This ally is granted Invulnerability and +150% Power for 5 seconds. Doing so costs 20% of your Max Health, instantly drains all energy, and prevents you from regenerating Energy. The cooldown after successfully using Einherjar is 30 seconds.",
-    "value": "按[F]以瞄准视线内距离您光标最近的盟友，而不是您。这个盟军被授予无懈可击和+150%的力量5秒。这样做会消耗你最大生命的20%，立即消耗所有能量，并阻止你再生能量。成功使用einherjar后的冷却时间为30秒。"
+    "value": "按[F]以瞄准视线内除了自己以外距离你光标最近的队友。这个队友将获得无敌状态和 +150% 的攻击力5秒。这样做会消耗你最大生命的20%，并立即消耗所有能量，并阻止你再生能量。使用成功时冷却时间为30秒。"
   },
   {
     "path": "/weapon/title",
@@ -63,18 +63,18 @@
     "path": "/effects/4/text",
     "op": "replace",
     "source": "120% Base Power with Spears: Scales with Dex.",
-    "value": "120%的基础力量与长矛：规模与dex。"
+    "value": "使用长矛时有120%的基础攻击力：随 Dex 而增长。"
   },
   {
     "path": "/effects/6/text",
     "op": "replace",
     "source": "-10% Fire and Poison Resistance",
-    "value": "-10%防火防毒"
+    "value": "-10%的火和毒抗性"
   },
   {
     "path": "/effects/5/text",
     "op": "replace",
     "source": "115% Base Power with Shortswords.",
-    "value": "115%的基础力量和短剑。"
+    "value": "持有短剑时有 115% 的基础攻击力。"
   }
 ]

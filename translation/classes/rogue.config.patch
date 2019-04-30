@@ -3,13 +3,13 @@
     "path": "/title",
     "op": "replace",
     "source": "Rogue",
-    "value": "盗贼"
+    "value": "不法之徒"
   },
   {
     "path": "/ability/text",
     "op": "replace",
     "source": "While your Food Meter is filled at least halfway, gain +20% Poison Resistance.",
-    "value": "当你的食物表至少被填满一半时，获得+20%的抗毒素能力。"
+    "value": "当你的饱腹度至少半满时，获得+20%的毒抗。"
   },
   {
     "path": "/weapon/title",
@@ -33,7 +33,7 @@
     "path": "/classic/2/text",
     "op": "replace",
     "source": "+20% Hunger Rate\n80% Max Health",
-    "value": "+20%饥饿率"
+    "value": "+20%饥饿率\n只有80%的最大生命"
   },
   {
     "path": "/scaling/0/text",
@@ -57,13 +57,13 @@
     "path": "/weaponBonuses/0/text",
     "op": "replace",
     "source": "120% Base Power while dual-wielding One-Handed Weapons.",
-    "value": "双持单手武器时的120%基本攻击力。"
+    "value": "双持单手武器时享有120%基本攻击力。"
   },
   {
     "path": "/passive/0/text",
     "op": "replace",
     "source": "+20% Chance to Poison monsters on hit.",
-    "value": "+命中时有20%的机会毒死怪物。"
+    "value": "+20%的机会在命中时让对方中毒。"
   },
   {
     "path": "/techs/0/title",
@@ -87,7 +87,7 @@
     "path": "/techs/1/text",
     "op": "replace",
     "source": "Press [F] to transform into a poison-immune Spike Sphere. Left click while transformed to shoot out a ring of poison clouds (Damage scales with Dexterity). Hold Right Click while transformed to decrease your Hunger Bar to regenerate Health and Energy.",
-    "value": "按[F]转换成中毒免疫尖峰球。转化时左击，放出一圈毒云（敏捷伤害等级）。在转换时按住鼠标右键可减少饥饿指数，以恢复生命和能量。"
+    "value": "按[F]转换成对毒免疫的荆刺球。变身状态下点击左键放出一圈毒云（随敏捷值提升伤害）。按住鼠标右键可消耗饱腹度以恢复生命和能量。"
   },
   {
     "path": "/techs/2/title",
@@ -99,7 +99,7 @@
     "path": "/techs/2/text",
     "op": "replace",
     "source": "An upgrade to Double Jump, press [Space] to launch yourself in a direction of your choosing, leaving a cloud of smoke behind that disorients enemies. Disoriented enemies are slowed and do less damage. Defaults to a backwards launch.",
-    "value": "升级到双跳跃，按[space]向你选择的方向发射，在迷惑的敌人后面留下一团烟雾。失去方向感的敌人会减速并减少伤害。默认为向后启动。"
+    "value": "升级版的二段跳，按[space]向你选择的方向发射，在迷惑的敌人后面留下一团烟雾。失去方向感的敌人会减速并减少伤害。未指定方向的话默认为向后跳。"
   },
   {
     "path": "/techs/3/title",

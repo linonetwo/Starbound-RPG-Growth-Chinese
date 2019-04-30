@@ -9,7 +9,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "Perfect Shields restore 10% of Max Shield Stamina and grant 5 seconds of +20% Physical, Shadow, Demonic, and Poison Resistance.",
-    "value": "完美护盾恢复10%最大护盾耐力，并给予5秒+20%物理、阴影、恶魔和毒抗性。"
+    "value": "完美护盾恢复10%最大护盾耐久，并给予5秒+20%物理、阴影、恶魔和毒抗性。"
   },
   {
     "path": "/tech/title",
@@ -21,7 +21,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "Pressing [W] toggles Immaculate Shield, a buff that halves Shield Stamina, lowers Movement Speed by 25%, but grants bonuses for your shield. While active, monsters that hit your shield are stricken with Judgement Status, and Perfect Shields provide a 110% increase to your Max Health for 3 seconds and 7% of your Max Health as instant Health gain to nearby allies. This scales up to 12% with Strength and Intelligence. ",
-    "value": "按[W]键可以切换无暇护盾，这是一种将护盾耐力减半的buff，可以降低25%的移动速度，但可以为护盾增加奖励。当你处于活动状态时，攻击你护盾的怪物会受到审判状态的打击，完美护盾会在3秒内使你的最大生命值增加110%，当你的最大生命值增加到附近的盟友时，会增加7%。这一比例在力量和智力上高达12%。"
+    "value": "按[W]键可以切换无暇护盾，这是一种将护盾耐久减半的buff，可以降低25%的移动速度，但可以为护盾增加奖励。当你处于活动状态时，攻击你护盾的怪物会受到审判状态的打击，完美护盾会在3秒内使你的最大生命值增加110%，当你的最大生命值增加到附近的盟友时，会增加7%。这一比例在力量和智力上高达12%。"
   },
   {
     "path": "/weapon/title",
@@ -69,7 +69,7 @@
     "path": "/effects/5/text",
     "op": "replace",
     "source": "80% Jump Height",
-    "value": "80%跳高"
+    "value": "80%跳跃高度"
   },
   {
     "path": "/effects/2/text",

@@ -3,7 +3,7 @@
     "path": "/title",
     "op": "replace",
     "source": "Knight",
-    "value": "骑士"
+    "value": "无畏战士"
   },
   {
     "path": "/ability/text",
@@ -69,7 +69,7 @@
     "path": "/weaponBonuses/0/text",
     "op": "replace",
     "source": "120% Base Power while using a Shield with a Shortsword, Mace, or Axe.",
-    "value": "使用短剑、狼牙棒或斧头的盾牌时，可以获得120%的基础能量。"
+    "value": "使用短剑、狼牙棒或斧头的盾牌时，可以获得120%的基础伤害。"
   },
   {
     "path": "/passive/0/text",
@@ -87,7 +87,7 @@
     "path": "/techs/0/text",
     "op": "replace",
     "source": "An upgrade to Sprint, while running, enemies receive damage and knockback. Damage is doubled when holding up a shield. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
-    "value": "升级为冲刺，跑步时，敌人受到伤害和击退。举起盾牌时伤害加倍。以力量和速度破坏天平。能量消耗随着灵活性的提高而降低。"
+    "value": "升级为冲刺，跑步时，敌人受到伤害和击退。举起盾牌时伤害加倍。以力量和速度破坏天平。能量消耗随着敏捷值的提高而降低。"
   },
   {
     "path": "/techs/1/title",
@@ -99,7 +99,7 @@
     "path": "/techs/1/text",
     "op": "replace",
     "source": "An upgrade to Double Jump, press [G] (Bind [G] in your Controls) while midair to slam downwards. You take no fall damage upon landing, and cause a small explosion, damaging enemies. Damage scales with Strength and distance fallen from activation.",
-    "value": "升级为双跳，按下[G]（在你的按键设置里面绑定[G]），同时中空向下猛击。着陆时不受坠落伤害，造成小爆炸，伤害敌人。伤害等级，力量和距离从激活下降。"
+    "value": "升级为二段跳，按下[G]（在你的按键设置里面绑定[G]），同时中空向下猛击。着陆时不受坠落伤害，造成小爆炸，伤害敌人。伤害等级，力量和距离从激活下降。"
   },
   {
     "path": "/techs/2/title",
@@ -123,6 +123,6 @@
     "path": "/techs/3/text",
     "op": "replace",
     "source": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
-    "value": "对bash的升级。短跑时，运动员受到身体上的抵抗。虽然伤害保持不变，但敌人被击中时会震惊。以力量和速度破坏天平。能量消耗随着灵活性的提高而降低。"
+    "value": "对bash的升级。短跑时，运动员受到身体上的抵抗。虽然伤害保持不变，但敌人被击中时会震惊。以力量和速度破坏天平。能量消耗随着敏捷值的提高而降低。"
   }
 ]

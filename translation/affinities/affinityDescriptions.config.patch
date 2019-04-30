@@ -3,7 +3,7 @@
     "path": "/fire/text",
     "op": "replace",
     "source": "Flame, the Powerful Affinity. This Affinity grants Fire based Immunities and Resistances, and a Medium Vigor Stat Boost. Provides better Immunities and a Large Strength Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Poison.",
-    "value": "火焰，强大的亲和力。这种亲和力给予火力免疫和抵抗力，以及中等力量的持续提升。升级后提供更好的免疫力和更大的力量状态提升。小心点，因为选择这种亲和力会削弱你潜入水中的能力，使你虚弱到中毒。"
+    "value": "火焰，强大的亲和力。这种亲和力给予火力免疫和火抗性，以及中等的持续提升。升级后提供更好的免疫力和更大的力量状态提升。小心点，因为选择这种亲和力会削弱你潜入水中的能力，使你虚弱到中毒。"
   },
   {
     "path": "/poison/text",

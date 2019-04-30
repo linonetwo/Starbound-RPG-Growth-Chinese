@@ -21,7 +21,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "An upgrade to Double Jump. Pressing [Shift] + [Space] fires a cannonball towards your cursor that blasts through enemies and explodes on impact with blocks. While aerial, pressing [Space] without [Shift] sends the cannonball flying downwards, in the opposite direction of your held horizontal movement key, allowing you to launch yourself twice. Damage scales with Dexterity. ^red;Grounded Fire Cooldown: 2.5 Seconds. Aerial Fire Cooldown: 0.5 Seconds.",
-    "value": "升级为双跳。按[SHIFT]+[SPACE]向光标发射炮弹，炮弹穿过敌人并在受到阻挡时爆炸。在空中，不按[SHIFT]而按[SPACE]会使炮弹向下飞，与您所持水平移动键的方向相反，使您可以发射两次。灵巧地损坏鳞片。^red;接地火焰冷却：2.5秒。空中火力冷却：0.5秒。"
+    "value": "升级为二段跳。按[SHIFT]+[SPACE]向光标发射炮弹，炮弹穿过敌人并在受到阻挡时爆炸。在空中，不按[SHIFT]而按[SPACE]会使炮弹向下飞，与你所持水平移动键的方向相反，使你可以发射两次。灵巧地损坏鳞片。^red;接地火焰冷却：2.5秒。空中火力冷却：0.5秒。"
   },
   {
     "path": "/weapon/title",
@@ -63,7 +63,7 @@
     "path": "/effects/4/text",
     "op": "replace",
     "source": "125% Base Power While Dual-Wielding Shortswords and Grenade Launchers.",
-    "value": "125%的基本攻击力，同时双持短剑和手榴弹发射器。"
+    "value": "同时双持短剑和手榴弹发射器时有125%的基本攻击力。"
   },
   {
     "path": "/effects/5/text",

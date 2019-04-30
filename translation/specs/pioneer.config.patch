@@ -21,7 +21,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "Pressing [F] places a Colony Flag if possible. Colony Flags can be set as waypoints for easy teleportation access. 600 second cooldown. Teleporting to a new location immediately resets cooldown.",
-    "value": "如果可能的话，按[F]可放置一个殖民地标志。蜂群标志可以设置为便于远程传送访问的路径点。600秒冷却。传送到新位置会立即重置冷却时间。"
+    "value": "如果可能的话，按[F]可放置一个殖民地标志。殖民地标志可以设置为一个传送点。600秒冷却。传送到新位置会立即重置冷却时间。"
   },
   {
     "path": "/weapon/title",

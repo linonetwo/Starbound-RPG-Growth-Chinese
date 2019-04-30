@@ -3,13 +3,13 @@
     "path": "/title",
     "op": "replace",
     "source": "Wizard",
-    "value": "巫师"
+    "value": "奥术法师"
   },
   {
     "path": "/ability/text",
     "op": "replace",
     "source": "While using Wands or Staves, gain +10% Fire, Electric, and Ice Resistance.",
-    "value": "使用魔杖或木棍时，获得+10%的火、电和冰抗性。"
+    "value": "使用魔杖或法杖时，获得+10%的火、电和冰抗性。"
   },
   {
     "path": "/weapon/title",
@@ -63,13 +63,13 @@
     "path": "/weaponBonuses/0/text",
     "op": "replace",
     "source": "110% Base Power while using a Wand in either hand without any other weapon equipped.",
-    "value": "在任何一只手上使用魔杖而没有任何其他武器装备的情况下，110%的基本攻击力。"
+    "value": "在一只手上使用魔杖而没有任何其他武器装备的情况下，享有110%的基本攻击力。"
   },
   {
     "path": "/weaponBonuses/1/text",
     "op": "replace",
     "source": "110% Base Power with Staves.",
-    "value": "110%基本攻击力，带稳定杆。"
+    "value": "使用法杖时有 110% 的基本攻击力。"
   },
   {
     "path": "/passive/0/text",
@@ -87,7 +87,7 @@
     "path": "/techs/0/text",
     "op": "replace",
     "source": "An upgrade to Spike Sphere, while transformed you regen slightly and are affected by low gravity. In addition, hold left click to create a barrier that pushes enemies away, draining energy to do so.",
-    "value": "升级到Spike Sphere，同时稍微改变你的摄政状态，受到低重力的影响。此外，按住鼠标左键创建一个屏障，将敌人推开，消耗能量。"
+    "value": "荆刺球的升级版，在变身的同时不但会稍稍回血，受到的重力还会变小。此外，按住鼠标左键创建一个屏障，将敌人推开，消耗一定的能量。"
   },
   {
     "path": "/techs/1/title",
@@ -99,19 +99,19 @@
     "path": "/techs/1/text",
     "op": "replace",
     "source": "Press [Space] while in air to hover towards your cursor. The further your cursor, the faster you move. Your Energy drains while you hover. Hover speed scales with Agility.",
-    "value": "在空中按[空格]可悬停在光标上。光标越远，移动速度越快。当你盘旋时，你的能量消耗殆尽。敏捷地悬停速度刻度。"
+    "value": "在空中按[空格]可悬停在光标上。光标越远，移动速度越快。当你盘旋时，你的能量会不停消耗。悬停速度随敏捷而变化。"
   },
   {
     "path": "/techs/2/title",
     "op": "replace",
     "source": "Translocate",
-    "value": "易位"
+    "value": "闪烁"
   },
   {
     "path": "/techs/2/text",
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate is Line-of-Sight only!.",
-    "value": "按[G]（在控件中绑定[G]以传送到光标（如果可能）。在你再次传送之前有一点冷却时间。能量消耗取决于距离和灵活性。在任务期间（和在你的船上），易位只是视线！."
+    "value": "按[G]（在控件中绑定[G]以传送到光标（如果可能）。在你再次传送之前有一点冷却时间。能量消耗取决于距离和敏捷值。在任务期间（和在你的船上），只能传送到视野范围内！."
   },
   {
     "path": "/techs/3/title",
@@ -123,6 +123,6 @@
     "path": "/techs/3/text",
     "op": "replace",
     "source": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 10% Max Energy per second, which increases with Int. and Vigor.",
-    "value": "按[F]切换。虽然活动时，受到的伤害也会影响能量，但损失的一半能量会转化为生命。如果恢复的生命水平不足以维持生命，你会死的。当激活时；能量不能锁定；能量以每秒10%的最大能量重新充电，这会随着利息和能量的增加而增加。"
+    "value": "按[F]切换。当启动后，受到伤害会减少你的能量，但损失的一半能量会转化为生命。如果恢复的生命水平不足以维持生命，你会死。当激活时，能量不能锁定，能量以每秒10%的最大能量回复，这会随着智力和活力的增加而增加。"
   }
 ]

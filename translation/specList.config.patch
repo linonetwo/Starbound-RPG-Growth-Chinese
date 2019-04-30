@@ -261,7 +261,7 @@
     "path": "/3/4/description",
     "op": "replace",
     "source": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
-    "value": "在前线战斗！先锋队是第一批嗜血的，擅长近程作战，但长期作战处理不佳。先锋队擅长使用机枪，在耗尽能量时经常使用近战武器。"
+    "value": "在前线战斗！先锋队是第一批嗜血的，擅长近程作战，但长期作战处理不佳。先锋队擅长使用机枪，在消耗能量时经常使用近战武器。"
   },
   {
     "path": "/3/5/title",
@@ -405,7 +405,7 @@
     "path": "/5/4/description",
     "op": "replace",
     "source": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
-    "value": "在前线战斗！先锋队是第一批嗜血的，擅长近程作战，但长期作战处理不佳。先锋队擅长使用机枪，在耗尽能量时经常使用近战武器。"
+    "value": "在前线战斗！先锋队是第一批嗜血的，擅长近程作战，但长期作战处理不佳。先锋队擅长使用机枪，在消耗能量时经常使用近战武器。"
   },
   {
     "path": "/5/5/title",

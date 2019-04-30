@@ -21,7 +21,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "Pressing [W] toggles Atlas' Burden, a buff that halves Shield Stamina and Jump Height, but provides bonuses for your shield. While Atlas' Burden is active, enemies that hit your Shield have a 25% chance to be stunned for half a second; Perfect Shields stun all nearby enemies for one second; and Perfect Shields grant you and nearby allies 110% Base Power Multiplier, 120% Armor, and Knockback Immunity for five seconds.",
-    "value": "按下[W]可以切换阿特拉斯的重负，这个buff可以使盾耐力和跳跃高度减半，但是可以为你的盾提供奖励。当阿特拉斯的重负处于激活状态时，击中你盾牌的敌人有25%的几率被震晕半秒，完美盾牌震晕所有附近的敌人一秒，完美盾牌给予你和附近的盟友110%基础攻击力倍增器、120%护甲和击退豁免5秒。"
+    "value": "按下[W]可以切换阿特拉斯的重负，这个buff可以使盾耐久和跳跃高度减半，但是可以为你的盾提供奖励。当阿特拉斯的重负处于激活状态时，击中你盾牌的敌人有25%的几率被震晕半秒，完美盾牌震晕所有附近的敌人一秒，完美盾牌给予你和附近的盟友110%基础攻击力倍增器、120%护甲和击退豁免5秒。"
   },
   {
     "path": "/weapon/title",
@@ -57,7 +57,7 @@
     "path": "/effects/4/text",
     "op": "replace",
     "source": "150% Base Power While Dual-Wielding Machine Pistols and Shields.",
-    "value": "150%的基本攻击力，同时双刀手枪和盾牌。"
+    "value": "同时双持盾和手枪时享有150%的基本攻击力。"
   },
   {
     "path": "/effects/5/text",
@@ -69,12 +69,12 @@
     "path": "/effects/6/text",
     "op": "replace",
     "source": "90% Jump Height",
-    "value": "90%跳高"
+    "value": "90%跳跃高度"
   },
   {
     "path": "/effects/3/text",
     "op": "replace",
     "source": "110% Shield Stamina",
-    "value": "110%盾耐力"
+    "value": "110%盾耐久"
   }
 ]

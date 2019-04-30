@@ -3,7 +3,7 @@
     "path": "/title",
     "op": "replace",
     "source": "Ninja",
-    "value": "忍者"
+    "value": "边缘刺客"
   },
   {
     "path": "/ability/text",
@@ -27,13 +27,13 @@
     "path": "/classic/1/text",
     "op": "replace",
     "source": "Can use Hunting Bows and the\nBroken Protectorate Broadsword.",
-    "value": "可以使用狩猎弓和"
+    "value": "可以使用狩猎弓和\n破损的守护者阔剑"
   },
   {
     "path": "/classic/2/text",
     "op": "replace",
     "source": "Can use the Adaptable Crossbow,\nEnergy Whips, and all Katanas",
-    "value": "可以使用可改装的十字弓，"
+    "value": "可以使用可改装的十字弓，\n能量鞭和所有武士刀"
   },
   {
     "path": "/scaling/0/text",
@@ -51,13 +51,13 @@
     "path": "/weaponBonuses/0/text",
     "op": "replace",
     "source": "115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens.",
-    "value": "使用匕首、刀子、kunai、星星或Shurikens时的基础能量为115%。"
+    "value": "使用匕首、刀子、Kunai、星镖或Shurikens时的基础伤害为115%。"
   },
   {
     "path": "/weaponBonuses/1/text",
     "op": "replace",
     "source": "120% Base Power while using Tantōs, Chakrams, Daggers, or Whips.",
-    "value": "使用坦_、脉轮、匕首或鞭子时的120%基础能量。"
+    "value": "使用武士刀、脉轮、匕首或鞭子时有120%基础伤害。"
   },
   {
     "path": "/classic/3/text",
@@ -87,7 +87,7 @@
     "path": "/techs/0/text",
     "op": "replace",
     "source": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair.",
-    "value": "按[空格]键，同时中空爆炸前进。在跳跃后的短时间内，你不会受到伤害。只要你在空中保持能量，你就不会受到伤害。你可以在半空中做两次。"
+    "value": "按[空格]键，同时中空爆炸式前进。在跳跃后的短时间内，你不会受到伤害。只要你在空中保持能量充足，你就不会受到跌落伤害。你可以在半空中使用两次这个技能。"
   },
   {
     "path": "/techs/1/title",
@@ -99,19 +99,19 @@
     "path": "/techs/1/text",
     "op": "replace",
     "source": "Press [F] to morph into an invulnerable spike ball. Energy drains quickly while active. The invulnerability ends when you run out of energy or press [F] while transformed. Unlike other Spike Spheres, Vanish Sphere's speed scales with Aglity.",
-    "value": "按[F]变成一个无懈可击的扣球。活动时能量消耗很快。当你能量耗尽或在转化过程中按[f]键时，无懈可击就结束了。与其他尖峰球不同，消失球的速度尺度与亮度。"
+    "value": "按[F]变成一个无敌的荆刺球。启动时能量消耗很快。当你能量耗尽或在转化过程中按[F]键时，无敌就结束了。与其他荆刺球不同，消失球的速度取决于敏捷值。"
   },
   {
     "path": "/techs/2/title",
     "op": "replace",
     "source": "Shadow Step",
-    "value": "影子步"
+    "value": "影步"
   },
   {
     "path": "/techs/2/text",
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility.",
-    "value": "按[G]（在控件中绑定[G]以消失。2秒钟后，您将出现在光标处（如果可能）。如果拿着锋利的武器，就在你出现的地方划掉。在冷却过程中，失去20%的物理抵抗。能量消耗取决于距离和灵活性。"
+    "value": "按[G]（在控件中绑定[G]以消失。2秒钟后，你将出现在光标处（如果可能）。如果拿着锋利的武器，在出现时会发出一次砍击。在冷却过程中，失去20%的物理抵抗。能量消耗取决于距离和敏捷值。"
   },
   {
     "path": "/techs/3/title",
@@ -123,6 +123,6 @@
     "path": "/techs/3/text",
     "op": "replace",
     "source": "An upgrade to Flash Jump. Cling to walls by moving against them during a jump, and refresh your jumps upon doing so. Press [S] to slide down while clinging. Press [Space] while clinging or sliding to jump. Move away from the wall to get off.",
-    "value": "升级到flash跳转。在跳跃过程中靠着墙壁移动以紧贴墙壁，这样做可以让你的跳跃恢复活力。按住[s]可在按住时向下滑动。按住[空格键]或滑动以跳跃。离开墙下车。"
+    "value": "Flash Jump的升级版。在跳跃过程中靠近墙壁可以紧贴墙壁，之后你就能再次跳跃。按住[S]可向下滑动。按住[空格键]再次跳跃。离开墙后技能结束。"
   }
 ]

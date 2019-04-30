@@ -63,7 +63,7 @@
     "path": "/effects/4/text",
     "op": "replace",
     "source": "125% Base Power with War-Fans.",
-    "value": "125%的基本攻击力和战争迷。"
+    "value": "使用铁军扇时享有 125%的基本攻击力。"
   },
   {
     "path": "/effects/5/text",

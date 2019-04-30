@@ -9,7 +9,7 @@
     "path": "/passive/text",
     "op": "replace",
     "source": "Salves, Bandages, Medpacks, and Nanowrap Bandages in your inventory are instantly used when Health falls below 25% Max Health. If you have some of each, the stronger, faster ones are used first. The cooldown before this effect can happen again lasts as long as the duration of the healing item that was used, and the effect does not occur if you are already under the effect of a healing consumable.",
-    "value": "当生命降至25%以下时，库存中的药膏、绷带、药包和纳米包扎绷带会立即使用。如果你每种都有一些，首先使用的是更强壮、更快的。此效果再次发生之前的冷却时间与使用的治疗物品的持续时间相同，并且如果您已经在治疗消耗品的作用下，效果不会发生。"
+    "value": "当生命降至25%以下时，库存中的药膏、绷带、药包和纳米包扎绷带会立即使用。如果你每种都有一些，首先使用的是更强壮、更快的。此效果再次发生之前的冷却时间与使用的治疗物品的持续时间相同，并且如果你已经在治疗消耗品的作用下，效果不会发生。"
   },
   {
     "path": "/ability/text",

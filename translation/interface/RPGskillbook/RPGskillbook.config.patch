@@ -51,12 +51,12 @@
   },
   {
     "op": "replace",
-    "value": "敏捷",
+    "value": "敏捷 Agi",
     "path": "/gui/statslayout/children/agilitytext/value"
   },
   {
     "op": "replace",
-    "value": "\n\n将您额外的经验凝聚为另一种存在.\n^red;每10000经验值可转化为1专精点!^reset;",
+    "value": "\n\n将你额外的经验凝聚为另一种存在.\n^red;每10000经验值可转化为1专精点!^reset;",
     "path": "/gui/masterylayout/children/refinetext/value"
   },
   {
@@ -151,12 +151,12 @@
   },
   {
     "op": "replace",
-    "value": "您确定要重置吗?这会重置您的职业和未专精的技能（同时也会清除职业buff）.",
+    "value": "你确定要重置吗?这会重置你的职业和未专精的技能（同时也会清除职业buff）.",
     "path": "/gui/classlayout/children/areyousure/value"
   },
   {
     "op": "replace",
-    "value": "您确定要重置吗?您的经验、等级、职业、亲和力等一切都将被移除.\n此外,您当前的专精挑战将会清零,\n您现在未专精的职业技能将被强制移除.",
+    "value": "你确定要重置吗?你的经验、等级、职业、亲和力等一切都将被移除.\n此外,你当前的专精挑战将会清零,\n你现在未专精的职业技能将被强制移除.",
     "path": "/gui/overviewlayout/children/areyousure/value"
   },
   {
@@ -221,17 +221,17 @@
   },
   {
     "op": "replace",
-    "value": "获取大师书桌,在这可以获得与职业相关的卷轴,升级芯片等物品..祝您游戏愉快！\n^red;消耗5精通点.^reset;",
+    "value": "获取大师书桌,在这可以获得与职业相关的卷轴,升级芯片等物品..祝你游戏愉快！\n^red;消耗5精通点.^reset;",
     "path": "/gui/masterylayout/children/shoptext/value"
   },
   {
     "op": "replace",
-    "value": "灵巧",
+    "value": "灵巧 Dex",
     "path": "/gui/statslayout/children/dexteritytext/value"
   },
   {
     "op": "replace",
-    "value": "耐力",
+    "value": "耐力 Edr",
     "path": "/gui/statslayout/children/endurancetext/value"
   },
   {
@@ -271,12 +271,12 @@
   },
   {
     "op": "replace",
-    "value": "智力",
+    "value": "智力 Int",
     "path": "/gui/statslayout/children/intelligencetext/value"
   },
   {
     "op": "replace",
-    "value": "请留意升级芯片,它可以通过击杀怪物掉落,\n或通过精通商店使用精通点数购买.\n当您激活升级芯片时,\n它将会出现在这里. 您可以使用此页面来查看详细信息,\n以及卸下升级芯片.\n^red;未来更新中将加入更多升级芯片.^reset;",
+    "value": "请留意升级芯片,它可以通过击杀怪物掉落,\n或通过精通商店使用精通点数购买.\n当你激活升级芯片时,\n它将会出现在这里. 你可以使用此页面来查看详细信息,\n以及卸下升级芯片.\n^red;未来更新中将加入更多升级芯片.^reset;",
     "path": "/gui/upgradelayout/children/upgradetext/value"
   },
   {
@@ -381,7 +381,7 @@
   },
   {
     "op": "replace",
-    "value": "转生,您将失去所有经验,亲和力,专精等属性. 但保留您已解锁的职业技能.\n^red;消耗3精通点.^reset;",
+    "value": "转生,你将失去所有经验,亲和力,专精等属性. 但保留你已解锁的职业技能.\n^red;消耗3精通点.^reset;",
     "path": "/gui/masterylayout/children/prestigetext/value"
   },
   {
@@ -466,7 +466,7 @@
   },
   {
     "op": "replace",
-    "value": "力量",
+    "value": "力量 Strength",
     "path": "/gui/statslayout/children/strengthtext/value"
   },
   {
@@ -481,7 +481,7 @@
   },
   {
     "op": "replace",
-    "value": "通过完成挑战来测试您的能耐! 下面将显示三个随机生成的任务,每个任务的难度都会增加\n完成后,点击按钮获取奖励.\n^red;挑战检测功能目前没有按预期工作.^reset;",
+    "value": "通过完成挑战来测试你的能耐! 下面将显示三个随机生成的任务,每个任务的难度都会增加\n完成后,点击按钮获取奖励.\n^red;挑战检测功能目前没有按预期工作.^reset;",
     "path": "/gui/masterylayout/children/challengetext/value"
   },
   {
@@ -526,7 +526,7 @@
   },
   {
     "op": "replace",
-    "value": "使用亲和升级卷轴升级您的亲和力! 击败同属性Boss有机会掉落! 需要等级:45!",
+    "value": "使用亲和升级卷轴升级你的亲和力! 击败同属性Boss有机会掉落! 需要等级:45!",
     "path": "/gui/affinitylayout/children/effecttext/value"
   },
   {
@@ -541,12 +541,12 @@
   },
   {
     "op": "replace",
-    "value": "活力",
+    "value": "活力 Vig",
     "path": "/gui/statslayout/children/vigortext/value"
   },
   {
     "op": "replace",
-    "value": "体质",
+    "value": "体质 Vit",
     "path": "/gui/statslayout/children/vitalitytext/value"
   },
   {
@@ -581,7 +581,7 @@
   },
   {
     "op": "replace",
-    "value": "您必选先选择一个职业!",
+    "value": "你必选先选择一个职业!",
     "path": "/gui/statslayout/children/statprevention/value"
   },
   {
