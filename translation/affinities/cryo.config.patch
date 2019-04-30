@@ -4,5 +4,59 @@
     "op": "replace",
     "source": "Cryo",
     "value": "冰冻"
+  },
+  {
+    "path": "/immunity/0/text",
+    "op": "replace",
+    "source": "Ice Damage",
+    "value": "冰害"
+  },
+  {
+    "path": "/immunity/1/text",
+    "op": "replace",
+    "source": "Wet",
+    "value": "湿的"
+  },
+  {
+    "path": "/immunity/2/text",
+    "op": "replace",
+    "source": "Suffocation",
+    "value": "窒息"
+  },
+  {
+    "path": "/immunity/3/text",
+    "op": "replace",
+    "source": "Extreme Cold (FU)",
+    "value": "极寒（fu）"
+  },
+  {
+    "path": "/weakness/0/text",
+    "op": "replace",
+    "source": "-25% Fire Resistance",
+    "value": "-25%耐火性"
+  },
+  {
+    "path": "/weakness/1/text",
+    "op": "replace",
+    "source": "-15% Speed",
+    "value": "- 15%速度"
+  },
+  {
+    "path": "/weakness/2/text",
+    "op": "replace",
+    "source": "-15% Jump",
+    "value": "- 15%跳"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+30% chance to Embrittle enemies when dealing damage. Embrittled enemies have -25% Physical Resistance and shatter when killed. This Ice Explosion deals Cold Damage and Frost Slows enemies.",
+    "value": "+造成伤害时有30%的几率使敌人变脆。脆化的敌人有-25%的物理抵抗力，当被杀死时会粉碎。冰爆炸造成寒冷的伤害，霜冻减慢敌人的速度。"
+  },
+  {
+    "path": "/passive/1/text",
+    "op": "replace",
+    "source": "^blue;When your Health falls below one third, nearby enemies are knocked back and slowed.",
+    "value": "^blue;当你的健康下降到三分之一以下时，附近的敌人就会被击退并减速。"
   }
 ]

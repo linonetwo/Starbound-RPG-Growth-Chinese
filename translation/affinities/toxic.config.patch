@@ -4,5 +4,47 @@
     "op": "replace",
     "source": "Toxic",
     "value": "有毒的"
+  },
+  {
+    "path": "/immunity/0/text",
+    "op": "replace",
+    "source": "Poison Damage",
+    "value": "毒害"
+  },
+  {
+    "path": "/immunity/1/text",
+    "op": "replace",
+    "source": "Tar",
+    "value": "焦油"
+  },
+  {
+    "path": "/immunity/2/text",
+    "op": "replace",
+    "source": "Extreme Radiation (FU)",
+    "value": "极端辐射（fu）"
+  },
+  {
+    "path": "/immunity/3/text",
+    "op": "replace",
+    "source": "Proto (FU)",
+    "value": "原型（赋）"
+  },
+  {
+    "path": "/weakness/0/text",
+    "op": "replace",
+    "source": "-25% Electric Resistance",
+    "value": "-25%抗性"
+  },
+  {
+    "path": "/weakness/1/text",
+    "op": "replace",
+    "source": "-15% Health",
+    "value": "- 15%健康"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+30% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify.",
+    "value": "+造成伤害时有30%的几率使敌人中毒。中毒的敌人有-25%的最大健康，并在中毒期间中毒。"
   }
 ]

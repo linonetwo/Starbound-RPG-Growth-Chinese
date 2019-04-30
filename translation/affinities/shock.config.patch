@@ -4,5 +4,41 @@
     "op": "replace",
     "source": "Shock",
     "value": "休克"
+  },
+  {
+    "path": "/immunity/0/text",
+    "op": "replace",
+    "source": "Slow",
+    "value": "缓慢的"
+  },
+  {
+    "path": "/immunity/1/text",
+    "op": "replace",
+    "source": "Electric Status",
+    "value": "电气状态"
+  },
+  {
+    "path": "/weakness/0/text",
+    "op": "replace",
+    "source": "-25% Ice Resistance",
+    "value": "-25%耐冰性"
+  },
+  {
+    "path": "/weakness/1/text",
+    "op": "replace",
+    "source": "-30% Health while submerged",
+    "value": "-水下30%健康"
+  },
+  {
+    "path": "/weakness/2/text",
+    "op": "replace",
+    "source": "-1 E/s while submerged",
+    "value": "-水下1 e/s"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+10% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies.",
+    "value": "+造成伤害时有10%的几率使敌人超载。超载的敌人有-25%的速度和链闪电附近的敌人。"
   }
 ]

@@ -22,5 +22,35 @@
     "op": "replace",
     "source": "The Engineer Station allows you craft electronics using fewer materials!",
     "value": "工程师站允许你用更少的材料制作电子产品！"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Ranged Weapons.",
+    "value": "可以使用远程武器。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "+10% Ice Resistance",
+    "value": "+10%耐冰性"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "+10% Electric Resistance",
+    "value": "+10%抗性"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Intelligence",
+    "value": "智力"
   }
 ]

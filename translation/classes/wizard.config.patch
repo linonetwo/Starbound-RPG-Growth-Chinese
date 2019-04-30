@@ -9,7 +9,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "While using Wands or Staves, gain +10% Fire, Electric, and Ice Resistance.",
-    "value": "使用魔杖或木棍时，获得+10%的火、电和冰电阻。"
+    "value": "使用魔杖或木棍时，获得+10%的火、电和冰抗性。"
   },
   {
     "path": "/ability/name",
@@ -28,5 +28,137 @@
     "op": "replace",
     "source": "wizardnovastaff",
     "value": "巫师"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Cannot use Ranged Weapons.\nCannot use Two-Handed Melee Weapons.\nCannot Dual-Wield Non-Magic Weapons.",
+    "value": "不能使用远程武器。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can equip the\nErchius Eye, Evil Eye, and Magnorbs",
+    "value": "可以装备"
+  },
+  {
+    "path": "/classic/2/text",
+    "op": "replace",
+    "source": "Can equip Hunting Bows and the\nBroken Protectorate Broadsword.",
+    "value": "可以装备狩猎弓和"
+  },
+  {
+    "path": "/classic/3/text",
+    "op": "replace",
+    "source": "-20% Physical Resistance",
+    "value": "-20%物理抗性"
+  },
+  {
+    "path": "/classic/4/text",
+    "op": "replace",
+    "source": "80% Speed and Jump Height",
+    "value": "80%的速度和跳跃高度"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Intelligence",
+    "value": "智力"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/weaponBonuses/0/text",
+    "op": "replace",
+    "source": "110% Base Power while using a Wand in either hand without any other weapon equipped.",
+    "value": "在任何一只手上使用魔杖而没有任何其他武器装备的情况下，110%的基本攻击力。"
+  },
+  {
+    "path": "/weaponBonuses/1/text",
+    "op": "replace",
+    "source": "110% Base Power with Staves.",
+    "value": "110%基本攻击力，带稳定杆。"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+6% Chance to Freeze, Burn, or Electrify enemies on hit. These effects can stack.",
+    "value": "+有6%的几率在被击中时冻结、燃烧或使敌人通电。这些效果可以叠加。"
+  },
+  {
+    "path": "/techs/0/title",
+    "op": "replace",
+    "source": "Gravity Sphere",
+    "value": "重力球"
+  },
+  {
+    "path": "/techs/0/name",
+    "op": "replace",
+    "source": "wizardgravitysphere",
+    "value": "向导重力球"
+  },
+  {
+    "path": "/techs/0/text",
+    "op": "replace",
+    "source": "An upgrade to Spike Sphere, while transformed you regen slightly and are affected by low gravity. In addition, hold left click to create a barrier that pushes enemies away, draining energy to do so.",
+    "value": "升级到Spike Sphere，同时稍微改变你的摄政状态，受到低重力的影响。此外，按住鼠标左键创建一个屏障，将敌人推开，消耗能量。"
+  },
+  {
+    "path": "/techs/1/title",
+    "op": "replace",
+    "source": "Hover",
+    "value": "悬停"
+  },
+  {
+    "path": "/techs/1/name",
+    "op": "replace",
+    "source": "wizardhover",
+    "value": "巫术"
+  },
+  {
+    "path": "/techs/1/text",
+    "op": "replace",
+    "source": "Press [Space] while in air to hover towards your cursor. The further your cursor, the faster you move. Your Energy drains while you hover. Hover speed scales with Agility.",
+    "value": "在空中按[空格]可悬停在光标上。光标越远，移动速度越快。当你盘旋时，你的能量消耗殆尽。敏捷地悬停速度刻度。"
+  },
+  {
+    "path": "/techs/2/title",
+    "op": "replace",
+    "source": "Translocate",
+    "value": "易位"
+  },
+  {
+    "path": "/techs/2/name",
+    "op": "replace",
+    "source": "wizardtranslocate",
+    "value": "向导转移"
+  },
+  {
+    "path": "/techs/2/text",
+    "op": "replace",
+    "source": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate is Line-of-Sight only!.",
+    "value": "按[G]（在控件中绑定[G]以传送到光标（如果可能）。在你再次传送之前有一点冷却时间。能源成本取决于距离和灵活性。在任务期间（和在你的船上），易位只是视线！."
+  },
+  {
+    "path": "/techs/3/title",
+    "op": "replace",
+    "source": "Magic Shield",
+    "value": "魔法盾"
+  },
+  {
+    "path": "/techs/3/name",
+    "op": "replace",
+    "source": "wizardmagicshield",
+    "value": "巫师魔术师盾"
+  },
+  {
+    "path": "/techs/3/text",
+    "op": "replace",
+    "source": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 10% Max Energy per second, which increases with Int. and Vigor.",
+    "value": "按[F]切换。虽然活动时，受到的伤害也会影响能量，但损失的一半能量会转化为健康。如果恢复的健康水平不足以维持生命，你会死的。当激活时；能量不能锁定；能量以每秒10%的最大能量重新充电，这会随着利息和能量的增加而增加。"
   }
 ]

@@ -28,5 +28,137 @@
     "op": "replace",
     "source": "knightaegissword",
     "value": "骑士遗言"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Cannot equip Ranged or Magic Weapons.\nCannot Dual-Wield Weapons.",
+    "value": "无法装备远程或魔法武器。\n无法双持武器"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can equip Hunting Bows.",
+    "value": "可以装备狩猎弓。"
+  },
+  {
+    "path": "/classic/2/text",
+    "op": "replace",
+    "source": "90% Speed\n70% Jump Height",
+    "value": "90%速度\n70% 跳跃高度"
+  },
+  {
+    "path": "/classic/3/text",
+    "op": "replace",
+    "source": "75% Max Energy",
+    "value": "75%最大能量"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Strength",
+    "value": "强度"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
+  },
+  {
+    "path": "/scaling/2/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/weaponBonuses/1/text",
+    "op": "replace",
+    "source": "120% Base Power with Broadswords and Greataxes.",
+    "value": "大刀和大斧120%的基础力量加成。"
+  },
+  {
+    "path": "/weaponBonuses/0/text",
+    "op": "replace",
+    "source": "120% Base Power while using a Shield with a Shortsword, Mace, or Axe.",
+    "value": "使用短剑、狼牙棒或斧头的盾牌时，可以获得120%的基础能量。"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+20% Knockback Resistance.",
+    "value": "+20%的回击阻力。"
+  },
+  {
+    "path": "/techs/0/title",
+    "op": "replace",
+    "source": "Bash",
+    "value": "猛击"
+  },
+  {
+    "path": "/techs/0/name",
+    "op": "replace",
+    "source": "knightbash",
+    "value": "爵士舞"
+  },
+  {
+    "path": "/techs/0/text",
+    "op": "replace",
+    "source": "An upgrade to Sprint, while running, enemies receive damage and knockback. Damage is doubled when holding up a shield. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
+    "value": "升级为冲刺，跑步时，敌人受到伤害和击退。举起盾牌时伤害加倍。以力量和速度破坏天平。能源成本随着灵活性的提高而降低。"
+  },
+  {
+    "path": "/techs/1/title",
+    "op": "replace",
+    "source": "Slam",
+    "value": "猛击"
+  },
+  {
+    "path": "/techs/1/name",
+    "op": "replace",
+    "source": "knightslam",
+    "value": "骑士赛"
+  },
+  {
+    "path": "/techs/1/text",
+    "op": "replace",
+    "source": "An upgrade to Double Jump, press [G] (Bind [G] in your Controls) while midair to slam downwards. You take no fall damage upon landing, and cause a small explosion, damaging enemies. Damage scales with Strength and distance fallen from activation.",
+    "value": "升级为双跳，按下[G]（在你的按键设置里面绑定[G]），同时中空向下猛击。着陆时不受坠落伤害，造成小爆炸，伤害敌人。伤害等级，强度和距离从激活下降。"
+  },
+  {
+    "path": "/techs/2/title",
+    "op": "replace",
+    "source": "Armor Sphere",
+    "value": "装甲球"
+  },
+  {
+    "path": "/techs/2/name",
+    "op": "replace",
+    "source": "knightarmorsphere",
+    "value": "骑士团"
+  },
+  {
+    "path": "/techs/2/text",
+    "op": "replace",
+    "source": "An upgrade to Spike Sphere, while transformed, ignore knockback and deal contact damage to enemies. Armor is also increased while transformed.",
+    "value": "升级到Spike Sphere，在转换的同时，忽略回击并对敌人造成接触伤害。盔甲在变形时也会增加。"
+  },
+  {
+    "path": "/techs/3/title",
+    "op": "replace",
+    "source": "Charge!",
+    "value": "冲锋！"
+  },
+  {
+    "path": "/techs/3/name",
+    "op": "replace",
+    "source": "knightcharge!",
+    "value": "骑士团！"
+  },
+  {
+    "path": "/techs/3/text",
+    "op": "replace",
+    "source": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
+    "value": "对bash的升级。短跑时，运动员受到身体上的阻力。虽然伤害保持不变，但敌人被击中时会震惊。以力量和速度破坏天平。能源成本随着灵活性的提高而降低。"
   }
 ]

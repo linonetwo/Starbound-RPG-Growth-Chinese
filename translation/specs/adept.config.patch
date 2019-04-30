@@ -28,5 +28,47 @@
     "op": "replace",
     "source": "Phase Shift",
     "value": "相移"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can Wield Wands.",
+    "value": "可以使用魔杖。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Intelligence x2",
+    "value": "智力X2"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "+25% Elemental Resistance",
+    "value": "+25%元素抵抗"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "66.6% Max Health",
+    "value": "66.6%最大生命值"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "-25% Physical Resistance",
+    "value": "-25%物理抵抗"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "115% Base Power with Wands: Scales with Dex.",
+    "value": "使用魔杖时享有 115% 基本攻击力：基于 DEX 缩放。"
   }
 ]

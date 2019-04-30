@@ -9,7 +9,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "110% Power when Energy reaches full.\nCancelled when Energy drops below 75%.",
-    "value": "当能量达到最大值时，功率为110%。"
+    "value": "当能量达到最大值时，攻击力为110%。\n当能量降到 75% 以下时取消"
   },
   {
     "path": "/ability/name",
@@ -28,5 +28,143 @@
     "op": "replace",
     "source": "soldierversagun",
     "value": "战士战士"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Cannot use Melee Weapons.\nCannot use Magic Weapons.\nCannot Dual-Wield.\nCannot use Erchius Eye.",
+    "value": "无法装备近战或魔法武器。\n无法双持武器。\n无法使用Erchius之眼"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can equip the Broken Protectorate Broadsword.",
+    "value": "可装备破碎的守护者阔剑。"
+  },
+  {
+    "path": "/classic/2/text",
+    "op": "replace",
+    "source": "90% Jump Height",
+    "value": "90%跳高"
+  },
+  {
+    "path": "/classic/3/text",
+    "op": "replace",
+    "source": "-20% Status Resistance",
+    "value": "-20%状态抗性"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/scaling/2/text",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
+  },
+  {
+    "path": "/scaling/3/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/weaponBonuses/0/text",
+    "op": "replace",
+    "source": "120% Base Power while using One-Handed Guns in combination with Grenades.",
+    "value": "在使用单手枪和手榴弹的同时提供120%的基本攻击力。"
+  },
+  {
+    "path": "/weaponBonuses/1/text",
+    "op": "replace",
+    "source": "110% Base Power with Sniper Rifles, Assault Rifles, and Shotguns.",
+    "value": "110%的基本攻击力，包括狙击步枪、突击步枪和猎枪。"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+10% Chance to Stun monsters on hit. Stun Length depends on damage dealt.",
+    "value": "+有10%的几率击昏怪物。特技长度取决于造成的伤害。"
+  },
+  {
+    "path": "/techs/0/title",
+    "op": "replace",
+    "source": "MRE",
+    "value": "MRE"
+  },
+  {
+    "path": "/techs/0/name",
+    "op": "replace",
+    "source": "soldiermre",
+    "value": "士兵"
+  },
+  {
+    "path": "/techs/0/text",
+    "op": "replace",
+    "source": "Press [F] to eat an MRE (Meal Ready to Eat), gaining a bit of food and all your energy. There is a cooldown of 90 seconds before you can do this again. While the cooldown is active, you gain slight health regen, but your overall speed is decreased.",
+    "value": "按[f]吃一份MRE（即食），获得一点食物和所有的能量。有90秒的冷却时间，然后您可以再次执行此操作。当冷却激活时，你获得轻微的健康回复，但你的整体速度降低。"
+  },
+  {
+    "path": "/techs/1/title",
+    "op": "replace",
+    "source": "Marksman",
+    "value": "神枪手"
+  },
+  {
+    "path": "/techs/1/name",
+    "op": "replace",
+    "source": "soldiermarksman",
+    "value": "士兵射手"
+  },
+  {
+    "path": "/techs/1/text",
+    "op": "replace",
+    "source": "Press [G] (Bind [G] in your Controls) to gain extra weapon damage with ranged weapons and decreased energy regen block time: however, speed and resistance are decreased. You can end the effect by pressing [G] again. The cooldown shortens if so.",
+    "value": "按[G]（在你的控制中绑定[G]以使用远程武器获得额外的武器伤害，并减少能量回复阻止时间：但是，速度和阻力会降低。你可以再次按[G]来结束效果。如果是这样，冷却时间就会缩短。"
+  },
+  {
+    "path": "/techs/2/title",
+    "op": "replace",
+    "source": "Energize",
+    "value": "激励"
+  },
+  {
+    "path": "/techs/2/name",
+    "op": "replace",
+    "source": "soldierenergypack",
+    "value": "士兵背负"
+  },
+  {
+    "path": "/techs/2/text",
+    "op": "replace",
+    "source": "An upgrade to Double Jump, press [Space] to dash. You can dash in all cardinal directions, as well as change direction mid-dash. Unless [Shift] is held, default direction is upwards. Dash Duration scales with Agility. You can dash twice in mid-air.",
+    "value": "升级为双跳跃，按[空格]冲刺。你可以在所有的主要方向冲刺，也可以改变方向中冲刺。除非按住[SHIFT]键，否则默认方向为向上。短跑时长尺度与敏捷性。你可以在半空中冲刺两次。"
+  },
+  {
+    "path": "/techs/3/title",
+    "op": "replace",
+    "source": "Tank Sphere",
+    "value": "坦克球体"
+  },
+  {
+    "path": "/techs/3/name",
+    "op": "replace",
+    "source": "soldiertanksphere",
+    "value": "士兵坦克圈"
+  },
+  {
+    "path": "/techs/3/text",
+    "op": "replace",
+    "source": "Press [F] to switch to a slow-moving Spike Sphere. Left click to shoot a missile using some energy. Hold right click to drain your energy in order to shield yourself from damage.\nCreated by SushiSquid!",
+    "value": "按[F]切换到缓慢移动的尖峰球体。左击使用一些能量发射导弹。按住鼠标右键以消耗能量，以防自己受到伤害。"
   }
 ]

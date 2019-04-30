@@ -22,5 +22,29 @@
     "op": "replace",
     "source": "The Medic Station allows you to craft healing consumables using fewer materials.",
     "value": "医疗站允许你用更少的材料制作治疗消耗品。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "+20 Max Health",
+    "value": "+ 20 最大生命值"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "+10% Poison Resistance",
+    "value": "+10%抗毒性"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Intelligence",
+    "value": "智力"
   }
 ]

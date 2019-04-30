@@ -21,7 +21,7 @@
     "path": "/electric/text",
     "op": "replace",
     "source": "Shock, the Perceptive Affinity. This Affinity grants Electric based Immunities and Resistances, and a Medium Agility Stat Boost. Provides better Immunities and a Large Intelligence Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Frost.",
-    "value": "震惊，敏锐的亲和力。这种亲和力可以给予电免疫和电阻，以及中等敏捷度的持续提升。升级后提供更好的免疫力和更大的情报统计提升。小心点，因为选择这种亲和力会削弱你在水下的能力，使你虚弱到结霜。"
+    "value": "震惊，敏锐的亲和力。这种亲和力可以给予电免疫和抗性，以及中等敏捷度的持续提升。升级后提供更好的免疫力和更大的情报统计提升。小心点，因为选择这种亲和力会削弱你在水下的能力，使你虚弱到结霜。"
   },
   {
     "path": "/default/text",

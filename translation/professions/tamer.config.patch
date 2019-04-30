@@ -22,5 +22,35 @@
     "op": "replace",
     "source": "The Tamer Station allows you to craft Capture Pods, Monster Accessories, and Monster Food!",
     "value": "驯化站允许你制作捕获豆荚，怪物配件和怪物食物！"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Whips.",
+    "value": "可以使用鞭子。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "+10% Physical Resistance",
+    "value": "+10%物理抗性"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "+5 Armor",
+    "value": "+ 5装甲"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
   }
 ]

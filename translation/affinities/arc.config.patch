@@ -4,5 +4,59 @@
     "op": "replace",
     "source": "Arc",
     "value": "弧"
+  },
+  {
+    "path": "/immunity/0/text",
+    "op": "replace",
+    "source": "Electric Damage",
+    "value": "电损伤"
+  },
+  {
+    "path": "/immunity/1/text",
+    "op": "replace",
+    "source": "Slow",
+    "value": "缓慢的"
+  },
+  {
+    "path": "/immunity/2/text",
+    "op": "replace",
+    "source": "Radiation",
+    "value": "辐射"
+  },
+  {
+    "path": "/immunity/3/text",
+    "op": "replace",
+    "source": "Shadow (FU)",
+    "value": "影子（赋）"
+  },
+  {
+    "path": "/weakness/0/text",
+    "op": "replace",
+    "source": "-25% Ice Resistance",
+    "value": "-25%耐冰性"
+  },
+  {
+    "path": "/weakness/1/text",
+    "op": "replace",
+    "source": "70% Max Health while submerged",
+    "value": "在水下时最大健康度为70%"
+  },
+  {
+    "path": "/weakness/2/text",
+    "op": "replace",
+    "source": "-1 E/s while submerged",
+    "value": "-水下1 e/s"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+30% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies.",
+    "value": "+造成伤害时有30%的几率使敌人超载。超载的敌人有-25%的速度和链闪电附近的敌人。"
+  },
+  {
+    "path": "/passive/1/text",
+    "op": "replace",
+    "source": "^yellow;Upon expending all Energy, release an Electric explosion that deals massive damage and causes Overload.",
+    "value": "^yellow;当消耗所有能量时，释放出一个会造成巨大伤害并导致过载的电爆炸。"
   }
 ]

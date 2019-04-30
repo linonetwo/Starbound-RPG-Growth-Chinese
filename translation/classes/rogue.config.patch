@@ -28,5 +28,125 @@
     "op": "replace",
     "source": "roguesiphonclaw",
     "value": "罗杰斯音叉"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Cannot use Two-Handed Ranged Weapons or Magic Weapons.",
+    "value": "不能使用双手远程武器或魔法武器。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can equip Hunting Bows.",
+    "value": "可以装备狩猎弓。"
+  },
+  {
+    "path": "/classic/2/text",
+    "op": "replace",
+    "source": "+20% Hunger Rate\n80% Max Health",
+    "value": "+20%饥饿率"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/scaling/2/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/weaponBonuses/0/text",
+    "op": "replace",
+    "source": "120% Base Power while dual-wielding One-Handed Weapons.",
+    "value": "双持单手武器时的120%基本攻击力。"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+20% Chance to Poison monsters on hit.",
+    "value": "+命中时有20%的机会毒死怪物。"
+  },
+  {
+    "path": "/techs/0/title",
+    "op": "replace",
+    "source": "Deadly Stance",
+    "value": "致命姿态"
+  },
+  {
+    "path": "/techs/0/name",
+    "op": "replace",
+    "source": "roguedeadlystance",
+    "value": "流氓杀手锏"
+  },
+  {
+    "path": "/techs/0/text",
+    "op": "replace",
+    "source": "Press [G] (Bind [G] in your Controls) to toggle an ability that increases Physical and Poison Resistance and grants Knockback Immunity. Drains energy while active, and is toggled off when no energy remains.",
+    "value": "按[G]（在你的控制中绑定[G]以切换一种增加物理和毒性抵抗并给予击退免疫的能力。当激活时消耗能量，当没有能量时关闭。"
+  },
+  {
+    "path": "/techs/1/title",
+    "op": "replace",
+    "source": "Toxic Sphere",
+    "value": "毒球"
+  },
+  {
+    "path": "/techs/1/name",
+    "op": "replace",
+    "source": "roguetoxicsphere",
+    "value": "流氓毒气圈"
+  },
+  {
+    "path": "/techs/1/text",
+    "op": "replace",
+    "source": "Press [F] to transform into a poison-immune Spike Sphere. Left click while transformed to shoot out a ring of poison clouds (Damage scales with Dexterity). Hold Right Click while transformed to decrease your Hunger Bar to regenerate Health and Energy.",
+    "value": "按[F]转换成中毒免疫尖峰球。转化时左击，放出一圈毒云（敏捷伤害等级）。在转换时按住鼠标右键可减少饥饿指数，以恢复健康和能量。"
+  },
+  {
+    "path": "/techs/2/title",
+    "op": "replace",
+    "source": "Escape!",
+    "value": "逃走！"
+  },
+  {
+    "path": "/techs/2/name",
+    "op": "replace",
+    "source": "rogueescape",
+    "value": "逃亡者"
+  },
+  {
+    "path": "/techs/2/text",
+    "op": "replace",
+    "source": "An upgrade to Double Jump, press [Space] to launch yourself in a direction of your choosing, leaving a cloud of smoke behind that disorients enemies. Disoriented enemies are slowed and do less damage. Defaults to a backwards launch.",
+    "value": "升级到双跳跃，按[space]向你选择的方向发射，在迷惑的敌人后面留下一团烟雾。失去方向感的敌人会减速并减少伤害。默认为向后启动。"
+  },
+  {
+    "path": "/techs/3/title",
+    "op": "replace",
+    "source": "Toxic Aura",
+    "value": "毒性光环"
+  },
+  {
+    "path": "/techs/3/text",
+    "op": "replace",
+    "source": "Press [G] (Bind [G] in your Controls) to toggle a toxic field that inflicts enemies with a weakening poison. These enemies take more poison and bleed damage. Drains energy while active, and is toggled off when no energy remains.",
+    "value": "按[G]（在你的控制中绑定[G]以切换一个毒力场，该毒力场以减弱的毒力对敌人造成伤害。这些敌人受到更多的毒害和流血伤害。当激活时消耗能量，当没有能量时关闭。"
+  },
+  {
+    "path": "/techs/3/name",
+    "op": "replace",
+    "source": "roguetoxicaura",
+    "value": "蔷薇果"
   }
 ]

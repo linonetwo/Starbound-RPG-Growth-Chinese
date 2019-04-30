@@ -4,5 +4,47 @@
     "op": "replace",
     "source": "Infernal",
     "value": "地狱般的"
+  },
+  {
+    "path": "/immunity/0/text",
+    "op": "replace",
+    "source": "Fire Damage",
+    "value": "火灾损失"
+  },
+  {
+    "path": "/immunity/1/text",
+    "op": "replace",
+    "source": "Lava",
+    "value": "熔岩"
+  },
+  {
+    "path": "/immunity/2/text",
+    "op": "replace",
+    "source": "Extreme Heat (FU)",
+    "value": "极热（fu）"
+  },
+  {
+    "path": "/weakness/0/text",
+    "op": "replace",
+    "source": "-25% Poison Resistance",
+    "value": "-25%抗毒性"
+  },
+  {
+    "path": "/weakness/1/text",
+    "op": "replace",
+    "source": "-30% Energy while submerged",
+    "value": "-水下30%的能量"
+  },
+  {
+    "path": "/weakness/2/text",
+    "op": "replace",
+    "source": "-1 HP/s while submerged",
+    "value": "-水下1 hp/s"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "+30% chance to Sear enemies when dealing damage. Seared enemies have -25% Power and are Burned for the duration of Sear.",
+    "value": "+造成伤害时有30%的几率灼伤敌人。灼伤的敌人有-25%的力量，在灼伤期间被灼伤。"
   }
 ]

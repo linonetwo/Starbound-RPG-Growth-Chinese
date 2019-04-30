@@ -28,5 +28,59 @@
     "op": "replace",
     "source": "Outburst & Stormhowl",
     "value": "爆发和风暴嚎叫"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can Wield Rocket Launchers.",
+    "value": "可以使用火箭发射器。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "+50% Fire Resistance",
+    "value": "+50%耐火性"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "125% Base Power While Dual-Wielding Shortswords and Grenade Launchers.",
+    "value": "125%的基本攻击力，同时双持短剑和手榴弹发射器。"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "120% Base Power With Rocket Launchers.",
+    "value": "火箭发射器的120%基本攻击力。"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "80% Speed",
+    "value": "80%速度"
+  },
+  {
+    "path": "/effects/7/text",
+    "op": "replace",
+    "source": "-20% Poison Resistance",
+    "value": "-20%抗毒性"
   }
 ]

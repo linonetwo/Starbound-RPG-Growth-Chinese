@@ -9,13 +9,13 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "+10% Bleed Chance and 0.5s Bleed Length during Nighttime or while Underground.",
-    "value": "+夜间或地下时有10%的出血机会和0.5秒的出血时间。"
+    "value": "夜间或在地下时 +10% 的出血机会和 0.5 秒的出血时间。"
   },
   {
     "path": "/ability/name",
     "op": "replace",
     "source": "ninjacrit",
-    "value": "忍者"
+    "value": "忍者暴击"
   },
   {
     "path": "/weapon/title",
@@ -28,5 +28,137 @@
     "op": "replace",
     "source": "ninjaaethershuriken",
     "value": "忍者神"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Cannot use Two-Handed Weapons.\nCannot use Ranged Weapons.\n Cannot use Magic Weapons.",
+    "value": "不能使用双手武器。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can use Hunting Bows and the\nBroken Protectorate Broadsword.",
+    "value": "可以使用狩猎弓和"
+  },
+  {
+    "path": "/classic/2/text",
+    "op": "replace",
+    "source": "Can use the Adaptable Crossbow,\nEnergy Whips, and all Katanas",
+    "value": "可以使用可改装的十字弓，"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/weaponBonuses/0/text",
+    "op": "replace",
+    "source": "115% Base Power while using Throwing Daggers, Knives, Kunai, Stars, or Shurikens.",
+    "value": "使用匕首、刀子、kunai、星星或Shurikens时的基础能量为115%。"
+  },
+  {
+    "path": "/weaponBonuses/1/text",
+    "op": "replace",
+    "source": "120% Base Power while using Tantōs, Chakrams, Daggers, or Whips.",
+    "value": "使用坦_、脉轮、匕首或鞭子时的120%基础能量。"
+  },
+  {
+    "path": "/classic/3/text",
+    "op": "replace",
+    "source": "50% Max Health",
+    "value": "50%最大健康值"
+  },
+  {
+    "path": "/passive/0/text",
+    "op": "replace",
+    "source": "110% Speed and Jump Height.",
+    "value": "110%的速度和跳跃高度。"
+  },
+  {
+    "path": "/passive/1/text",
+    "op": "replace",
+    "source": "-10% Fall Damage.",
+    "value": "-10%坠落伤害。"
+  },
+  {
+    "path": "/techs/0/title",
+    "op": "replace",
+    "source": "Flash Jump",
+    "value": "闪跃"
+  },
+  {
+    "path": "/techs/0/name",
+    "op": "replace",
+    "source": "ninjaflashjump",
+    "value": "忍者跳"
+  },
+  {
+    "path": "/techs/0/text",
+    "op": "replace",
+    "source": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair.",
+    "value": "按[空格]键，同时中空爆炸前进。在跳跃后的短时间内，你不会受到伤害。只要你在空中保持能量，你就不会受到伤害。你可以在半空中做两次。"
+  },
+  {
+    "path": "/techs/1/title",
+    "op": "replace",
+    "source": "Vanish Sphere",
+    "value": "消失球"
+  },
+  {
+    "path": "/techs/1/name",
+    "op": "replace",
+    "source": "ninjavanishsphere",
+    "value": "忍者世界"
+  },
+  {
+    "path": "/techs/1/text",
+    "op": "replace",
+    "source": "Press [F] to morph into an invulnerable spike ball. Energy drains quickly while active. The invulnerability ends when you run out of energy or press [F] while transformed. Unlike other Spike Spheres, Vanish Sphere's speed scales with Aglity.",
+    "value": "按[F]变成一个无懈可击的扣球。活动时能量消耗很快。当你能量耗尽或在转化过程中按[f]键时，无懈可击就结束了。与其他尖峰球不同，消失球的速度尺度与亮度。"
+  },
+  {
+    "path": "/techs/2/title",
+    "op": "replace",
+    "source": "Shadow Step",
+    "value": "影子步"
+  },
+  {
+    "path": "/techs/2/name",
+    "op": "replace",
+    "source": "ninjaassassinate",
+    "value": "忍者刺杀"
+  },
+  {
+    "path": "/techs/2/text",
+    "op": "replace",
+    "source": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility.",
+    "value": "按[G]（在控件中绑定[G]以消失。2秒钟后，您将出现在光标处（如果可能）。如果拿着锋利的武器，就在你出现的地方划掉。在冷却过程中，失去20%的物理阻力。能源成本取决于距离和灵活性。"
+  },
+  {
+    "path": "/techs/3/title",
+    "op": "replace",
+    "source": "Wall Cling",
+    "value": "壁挂"
+  },
+  {
+    "path": "/techs/3/name",
+    "op": "replace",
+    "source": "ninjawallcling",
+    "value": "忍者恋"
+  },
+  {
+    "path": "/techs/3/text",
+    "op": "replace",
+    "source": "An upgrade to Flash Jump. Cling to walls by moving against them during a jump, and refresh your jumps upon doing so. Press [S] to slide down while clinging. Press [Space] while clinging or sliding to jump. Move away from the wall to get off.",
+    "value": "升级到flash跳转。在跳跃过程中靠着墙壁移动以紧贴墙壁，这样做可以让你的跳跃恢复活力。按住[s]可在按住时向下滑动。按住[空格键]或滑动以跳跃。离开墙下车。"
   }
 ]

@@ -28,5 +28,71 @@
     "op": "replace",
     "source": "Soulless Whisper",
     "value": "无灵魂的低语"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can Dual-Wield Melee Weapons.",
+    "value": "可以双持近战武器。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "^red;Cannot Wield Two-Handed Weapons, Ranged Weapons, or Magic Weapons.^reset;",
+    "value": "^red;不能使用双手武器、远程武器或魔法武器。^reset;"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "150% Max Energy",
+    "value": "150%最大能量"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "Suffocation Immunity",
+    "value": "窒息免疫"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "Poison, Fire, Demonic and Shadow (FU) Immunity",
+    "value": "毒、火、魔、影(FU)免疫"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "120% Base Power with Fist Weapons: Scales with Int.",
+    "value": "拥有拳头武器的120%基础力量：智力等级。"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "30% Max Health",
+    "value": "30%最大健康值"
+  },
+  {
+    "path": "/effects/7/text",
+    "op": "replace",
+    "source": "-20% Holy Resistance",
+    "value": "-20%神圣抵抗力"
+  },
+  {
+    "path": "/effects/8/text",
+    "op": "replace",
+    "source": "-50% Physical Resistance",
+    "value": "-50%物理抗性"
   }
 ]

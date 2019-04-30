@@ -28,5 +28,53 @@
     "op": "replace",
     "source": "Gungnir",
     "value": "永恒之枪"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can dual-wield Shortswords.",
+    "value": "能双持短剑。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Strength",
+    "value": "强度"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "+10% Ice and Electric Resistance",
+    "value": "+10%冰和抗性"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "120% Base Power with Spears: Scales with Dex.",
+    "value": "120%的基础力量与长矛：规模与dex。"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "-10% Fire and Poison Resistance",
+    "value": "-10%防火防毒"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "115% Base Power with Shortswords.",
+    "value": "115%的基础力量和短剑。"
   }
 ]

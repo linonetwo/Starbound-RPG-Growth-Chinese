@@ -28,5 +28,77 @@
     "op": "replace",
     "source": "Dragon's Bane",
     "value": "龙之祸根"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Spears and Quarterstaves.",
+    "value": "可以使用长矛和四分之一杆。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can use Assault Rifles.",
+    "value": "可以使用突击步枪。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "Fire and Lava Immunity",
+    "value": "火和熔岩豁免"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "120% Base Power with Spears and Assault Rifles",
+    "value": "120%的基础力量，带长矛和突击步枪"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "110% Base Power with Quarterstaves",
+    "value": "110%基本攻击力，四分位"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "Fall Damage Immunity",
+    "value": "坠落伤害豁免"
+  },
+  {
+    "path": "/effects/7/text",
+    "op": "replace",
+    "source": "-33% Ice Resistance",
+    "value": "-33%耐冰性"
+  },
+  {
+    "path": "/effects/8/text",
+    "op": "replace",
+    "source": "-33% Energy\nRecharge Rate",
+    "value": "- 33%能量"
+  },
+  {
+    "path": "/effects/9/text",
+    "op": "replace",
+    "source": "+33% Energy\nRecharge Delay",
+    "value": "+33%能量"
   }
 ]

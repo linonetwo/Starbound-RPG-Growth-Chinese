@@ -28,5 +28,59 @@
     "op": "replace",
     "source": "Oathkeeper",
     "value": "誓言"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Two-Handed Melee Weapons.",
+    "value": "可以使用双手近战武器。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "^red;10% Base Power while a\nBroadsword is not equipped",
+    "value": "^red;10%基本攻击力当\n没有装备阔剑的时候"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Strength",
+    "value": "强度"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Holy Immunity",
+    "value": "神圣免疫"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "+25% Fire Resistance",
+    "value": "+25%耐火性"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "150% Base Power with Broadswords",
+    "value": "150%基本攻击力，带大刀"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "-50% Poison, Demonic, and Shadow (FU) Resistance",
+    "value": "-50%毒、魔、影(FU)抗性"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "120% Speed",
+    "value": "120%速度"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "+15% Electric Resistance",
+    "value": "+15%抗性"
   }
 ]

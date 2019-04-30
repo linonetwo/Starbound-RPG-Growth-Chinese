@@ -22,5 +22,29 @@
     "op": "replace",
     "source": "The Miner Station allows you to smelt ore with greater yield, create alloys, and craft pickaxes!",
     "value": "采矿站可以让你以更高的产量冶炼矿石，制造合金，和工艺镐！"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Two-Handed Melee Weapons",
+    "value": "可以使用双手近战武器"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "+20% Fire Resistance",
+    "value": "+20%耐火性"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Strength",
+    "value": "强度"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
   }
 ]

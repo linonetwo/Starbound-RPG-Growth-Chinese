@@ -28,5 +28,59 @@
     "op": "replace",
     "source": "For Us All",
     "value": "为我们大家"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can Wield Scythes.",
+    "value": "能使用镰刀。"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can Dual-Wield Daggers.",
+    "value": "能双持匕首。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "+20% Demonic Resistance\n+20% Poison Resistance",
+    "value": "+20%恶魔抵抗力"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "Shadow Immunity (FU)",
+    "value": "阴影免疫（fu）"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "120% Base Power with Daggers and Scythes: Scales with Int.",
+    "value": "带匕首和镰刀的120%基础攻击力：用智力缩放。"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "50% Max Health",
+    "value": "50%最大健康值"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "-20% Holy Resistance",
+    "value": "-20%神圣抵抗力"
   }
 ]

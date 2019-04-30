@@ -9,7 +9,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "Increased Speed and Power while near aggressive NPCs.\nNearby allies recharge 10% Energy when you kill an Outlaw or Bandit.",
-    "value": "在接近攻击性NPC时提高速度和功率。"
+    "value": "在接近攻击性NPC时提高速度和攻击力。"
   },
   {
     "path": "/tech/title",
@@ -28,5 +28,53 @@
     "op": "replace",
     "source": "Anne & Marie",
     "value": "安妮与玛丽"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can Dual-Wield One-Handed Ranged Weapons.",
+    "value": "可以双持单手远程武器。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "+20% Energy Recharge Rate",
+    "value": "+20%能量补给率"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "115% Base Power with Pistols and Submachine Guns.",
+    "value": "带手枪和冲锋枪的115%基本攻击力。"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "120% Base Power with Shotguns.",
+    "value": "120%基本攻击力，带猎枪。"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "75% Max Energy",
+    "value": "75%最大能量"
   }
 ]

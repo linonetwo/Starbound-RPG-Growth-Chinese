@@ -28,5 +28,53 @@
     "op": "replace",
     "source": "Luxuria",
     "value": "华丽"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can Wield War-Fans.",
+    "value": "可以挥舞战迷。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Dexterity x2",
+    "value": "灵巧度X2"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Increased Movement Speed with Whips and War-Fans",
+    "value": "使用鞭子和战迷提高移动速度"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "115% Base Power with Whips.",
+    "value": "115%基本攻击力，带鞭子。"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "125% Base Power with War-Fans.",
+    "value": "125%的基本攻击力和战争迷。"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "90% Max Health",
+    "value": "90%最大健康值"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "90% Power Multiplier",
+    "value": "90%攻击力倍增器"
   }
 ]

@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "No Profession",
     "value": "没有职业"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "No Negative Effects",
+    "value": "没有负面影响"
   }
 ]

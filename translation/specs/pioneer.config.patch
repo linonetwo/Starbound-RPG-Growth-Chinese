@@ -28,5 +28,35 @@
     "op": "replace",
     "source": "Nautilus",
     "value": "鹦鹉螺"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "125% Base Power\nWith All Weapons",
+    "value": "125%基础攻击力"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "+0.5% Hunger Rate",
+    "value": "+0.5%饥饿率"
   }
 ]

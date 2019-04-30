@@ -28,5 +28,77 @@
     "op": "replace",
     "source": "Danger Close",
     "value": "很危险"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Machine Pistols with other Weapons.",
+    "value": "可以用机枪和其他武器。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can use Melee Weapons.",
+    "value": "可以使用近战武器。"
+  },
+  {
+    "path": "/classic/2/text",
+    "op": "replace",
+    "source": "Cannot use Sniper Rifles, Rocket Launchers, or Grenade Launchers.",
+    "value": "不能使用狙击步枪、火箭发射器或手榴弹发射器。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "+25% Electric Resistance",
+    "value": "+25%抗性"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "150% Base Power with Shotguns",
+    "value": "带猎枪的150%基本攻击力"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "120% Base Power with Machine Pistols",
+    "value": "带机枪的120%基本攻击力"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "-50% Poison, Fire, and Ice Resistance",
+    "value": "-50%的防毒、防火和防冰性能"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "+25% Knockback Resistance",
+    "value": "+25%回击阻力"
+  },
+  {
+    "path": "/effects/7/text",
+    "op": "replace",
+    "source": "+10% Hunger Rate",
+    "value": "+10%饥饿率"
+  },
+  {
+    "path": "/effects/8/text",
+    "op": "replace",
+    "source": "75% Jump Height",
+    "value": "75%跳高"
   }
 ]

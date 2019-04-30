@@ -22,5 +22,35 @@
     "op": "replace",
     "source": "The Smith Station allows you upgrade weapons and craft melee weapons!",
     "value": "史密斯站允许你升级武器和工艺近战武器！"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Melee Weapons.",
+    "value": "可以使用近战武器。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "+10% Fire Resistance",
+    "value": "+10%耐火性"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Strength",
+    "value": "强度"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "110% Armor",
+    "value": "110%装甲"
   }
 ]

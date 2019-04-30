@@ -28,5 +28,53 @@
     "op": "replace",
     "source": "True Aegis",
     "value": "真宙斯"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Wands.",
+    "value": "可以使用魔杖。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "^red;50% Base Power while a\nShield is not equipped.",
+    "value": "^red;50%基本攻击力"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Intelligence x2",
+    "value": "智能X2"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "150% Base Power with Shields:\nScales with Str. and Int.",
+    "value": "装备盾牌时有150%基本攻击力：\n基于力量和智力缩放"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "90% Speed",
+    "value": "90%速度"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "80% Jump Height",
+    "value": "80%跳高"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "+10% Elemental Resistance",
+    "value": "+10%元素抗性"
   }
 ]
