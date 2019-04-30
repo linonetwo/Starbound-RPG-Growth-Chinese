@@ -12,22 +12,10 @@
     "value": "使用魔杖或木棍时，获得+10%的火、电和冰抗性。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "wizardaffinity",
-    "value": "巫术亲和力"
-  },
-  {
     "path": "/weapon/title",
     "op": "replace",
     "source": "Nova",
     "value": "新星"
-  },
-  {
-    "path": "/weapon/name",
-    "op": "replace",
-    "source": "wizardnovastaff",
-    "value": "巫师"
   },
   {
     "path": "/classic/0/text",
@@ -96,12 +84,6 @@
     "value": "重力球"
   },
   {
-    "path": "/techs/0/name",
-    "op": "replace",
-    "source": "wizardgravitysphere",
-    "value": "向导重力球"
-  },
-  {
     "path": "/techs/0/text",
     "op": "replace",
     "source": "An upgrade to Spike Sphere, while transformed you regen slightly and are affected by low gravity. In addition, hold left click to create a barrier that pushes enemies away, draining energy to do so.",
@@ -112,12 +94,6 @@
     "op": "replace",
     "source": "Hover",
     "value": "悬停"
-  },
-  {
-    "path": "/techs/1/name",
-    "op": "replace",
-    "source": "wizardhover",
-    "value": "巫术"
   },
   {
     "path": "/techs/1/text",
@@ -132,12 +108,6 @@
     "value": "易位"
   },
   {
-    "path": "/techs/2/name",
-    "op": "replace",
-    "source": "wizardtranslocate",
-    "value": "向导转移"
-  },
-  {
     "path": "/techs/2/text",
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate is Line-of-Sight only!.",
@@ -148,12 +118,6 @@
     "op": "replace",
     "source": "Magic Shield",
     "value": "魔法盾"
-  },
-  {
-    "path": "/techs/3/name",
-    "op": "replace",
-    "source": "wizardmagicshield",
-    "value": "巫师魔术师盾"
   },
   {
     "path": "/techs/3/text",

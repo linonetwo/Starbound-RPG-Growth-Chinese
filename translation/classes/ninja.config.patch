@@ -12,22 +12,10 @@
     "value": "夜间或在地下时 +10% 的出血机会和 0.5 秒的出血时间。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "ninjacrit",
-    "value": "忍者暴击"
-  },
-  {
     "path": "/weapon/title",
     "op": "replace",
     "source": "Aether",
     "value": "醚"
-  },
-  {
-    "path": "/weapon/name",
-    "op": "replace",
-    "source": "ninjaaethershuriken",
-    "value": "忍者神"
   },
   {
     "path": "/classic/0/text",
@@ -96,12 +84,6 @@
     "value": "闪跃"
   },
   {
-    "path": "/techs/0/name",
-    "op": "replace",
-    "source": "ninjaflashjump",
-    "value": "忍者跳"
-  },
-  {
     "path": "/techs/0/text",
     "op": "replace",
     "source": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair.",
@@ -112,12 +94,6 @@
     "op": "replace",
     "source": "Vanish Sphere",
     "value": "消失球"
-  },
-  {
-    "path": "/techs/1/name",
-    "op": "replace",
-    "source": "ninjavanishsphere",
-    "value": "忍者世界"
   },
   {
     "path": "/techs/1/text",
@@ -132,12 +108,6 @@
     "value": "影子步"
   },
   {
-    "path": "/techs/2/name",
-    "op": "replace",
-    "source": "ninjaassassinate",
-    "value": "忍者刺杀"
-  },
-  {
     "path": "/techs/2/text",
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility.",
@@ -148,12 +118,6 @@
     "op": "replace",
     "source": "Wall Cling",
     "value": "壁挂"
-  },
-  {
-    "path": "/techs/3/name",
-    "op": "replace",
-    "source": "ninjawallcling",
-    "value": "忍者恋"
   },
   {
     "path": "/techs/3/text",

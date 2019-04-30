@@ -12,22 +12,10 @@
     "value": "当能量达到最大值时，攻击力为110%。\n当能量降到 75% 以下时取消"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "soldierdiscipline",
-    "value": "士兵基础"
-  },
-  {
     "path": "/weapon/title",
     "op": "replace",
     "source": "Versa",
     "value": "反之亦然"
-  },
-  {
-    "path": "/weapon/name",
-    "op": "replace",
-    "source": "soldierversagun",
-    "value": "战士战士"
   },
   {
     "path": "/classic/0/text",
@@ -102,12 +90,6 @@
     "value": "MRE"
   },
   {
-    "path": "/techs/0/name",
-    "op": "replace",
-    "source": "soldiermre",
-    "value": "士兵"
-  },
-  {
     "path": "/techs/0/text",
     "op": "replace",
     "source": "Press [F] to eat an MRE (Meal Ready to Eat), gaining a bit of food and all your energy. There is a cooldown of 90 seconds before you can do this again. While the cooldown is active, you gain slight health regen, but your overall speed is decreased.",
@@ -118,12 +100,6 @@
     "op": "replace",
     "source": "Marksman",
     "value": "神枪手"
-  },
-  {
-    "path": "/techs/1/name",
-    "op": "replace",
-    "source": "soldiermarksman",
-    "value": "士兵射手"
   },
   {
     "path": "/techs/1/text",
@@ -138,12 +114,6 @@
     "value": "激励"
   },
   {
-    "path": "/techs/2/name",
-    "op": "replace",
-    "source": "soldierenergypack",
-    "value": "士兵背负"
-  },
-  {
     "path": "/techs/2/text",
     "op": "replace",
     "source": "An upgrade to Double Jump, press [Space] to dash. You can dash in all cardinal directions, as well as change direction mid-dash. Unless [Shift] is held, default direction is upwards. Dash Duration scales with Agility. You can dash twice in mid-air.",
@@ -154,12 +124,6 @@
     "op": "replace",
     "source": "Tank Sphere",
     "value": "坦克球体"
-  },
-  {
-    "path": "/techs/3/name",
-    "op": "replace",
-    "source": "soldiertanksphere",
-    "value": "士兵坦克圈"
   },
   {
     "path": "/techs/3/text",

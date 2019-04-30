@@ -1,11 +1,5 @@
 [
   {
-    "path": "/0/0/name",
-    "op": "replace",
-    "source": "paladin",
-    "value": "圣骑士"
-  },
-  {
     "path": "/0/0/title",
     "op": "replace",
     "source": "Paladin",
@@ -18,34 +12,16 @@
     "value": "圣骑士是神圣的防御者，他们用坚固的握力从各个角度阻挡攻击。圣骑士是拥有盾牌的大师，与其他大多数骑士相比，具有轻微的魔法亲和力。"
   },
   {
-    "path": "/0/1/name",
-    "op": "replace",
-    "source": "juggernaut",
-    "value": "神像"
-  },
-  {
     "path": "/0/1/title",
     "op": "replace",
     "source": "Juggernaut",
     "value": "神像"
   },
   {
-    "path": "/0/2/name",
-    "op": "replace",
-    "source": "samurai",
-    "value": "武士"
-  },
-  {
     "path": "/0/2/title",
     "op": "replace",
     "source": "Samurai",
     "value": "武士"
-  },
-  {
-    "path": "/0/3/name",
-    "op": "replace",
-    "source": "valkyrie",
-    "value": "瓦尔基里"
   },
   {
     "path": "/0/3/title",
@@ -60,12 +36,6 @@
     "value": "^red;仅限女性^white;\n女武神是对生命拥有统治权的天使，为有价值的盟友提供无限的权力。女武神使用矛和短剑，使用他们的神圣力量优雅地在战场上滑行，击败敌人。"
   },
   {
-    "path": "/0/4/name",
-    "op": "replace",
-    "source": "crusader",
-    "value": "十字军战士"
-  },
-  {
     "path": "/0/4/title",
     "op": "replace",
     "source": "Crusader",
@@ -78,34 +48,16 @@
     "value": "十字军战士是神圣的战士，他们用展开的战斗击溃敌人。狂热者无法忍受异教徒的胃口，十字军在被敌人接触时表现不佳，但擅长迅速杀死敌人。十字军只使用大刀，但仍然可以很差地使用其他双手近战武器。"
   },
   {
-    "path": "/0/5/name",
-    "op": "replace",
-    "source": "conquistador",
-    "value": "征服者"
-  },
-  {
     "path": "/0/5/title",
     "op": "replace",
     "source": "Conquistador",
     "value": "征服者"
   },
   {
-    "path": "/0/6/name",
-    "op": "replace",
-    "source": "berserker",
-    "value": "狂暴者"
-  },
-  {
     "path": "/0/6/title",
     "op": "replace",
     "source": "Berserker",
     "value": "狂暴者"
-  },
-  {
-    "path": "/0/7/name",
-    "op": "replace",
-    "source": "dragoon",
-    "value": "龙骑兵"
   },
   {
     "path": "/0/7/title",
@@ -120,22 +72,10 @@
     "value": "龙骑兵挥舞长矛和长矛。再加上他们的轻甲，他们是一种力量，旨在迅速和果断地穿透所有的对手-无论多么持久，或在空中有多高。"
   },
   {
-    "path": "/0/8/name",
-    "op": "replace",
-    "source": "darktemplar",
-    "value": "黑暗圣堂武士"
-  },
-  {
     "path": "/0/8/title",
     "op": "replace",
     "source": "Dark Templar",
     "value": "黑暗圣堂"
-  },
-  {
-    "path": "/1/0/name",
-    "op": "replace",
-    "source": "necromancer",
-    "value": "亡灵巫师"
   },
   {
     "path": "/1/0/title",
@@ -150,22 +90,10 @@
     "value": "巫师使用恶魔法术战斗，能使死人复活，并且比大多数巫师更擅长近程战斗。由于他们对死亡的接近调谐，亡灵巫师可以有效地使用镰刀和匕首，并且经常能够从敌人那里吸取生命来治疗盟友。"
   },
   {
-    "path": "/1/1/name",
-    "op": "replace",
-    "source": "battlemage",
-    "value": "战斗员"
-  },
-  {
     "path": "/1/1/title",
     "op": "replace",
     "source": "Battle Mage",
     "value": "战斗法师"
-  },
-  {
-    "path": "/1/2/name",
-    "op": "replace",
-    "source": "warlock",
-    "value": "术士"
   },
   {
     "path": "/1/2/title",
@@ -174,22 +102,10 @@
     "value": "术士"
   },
   {
-    "path": "/1/3/name",
-    "op": "replace",
-    "source": "elementalist",
-    "value": "要素论者"
-  },
-  {
     "path": "/1/3/title",
     "op": "replace",
     "source": "Elementalist",
     "value": "要素论者"
-  },
-  {
-    "path": "/1/4/name",
-    "op": "replace",
-    "source": "crusader",
-    "value": "十字军战士"
   },
   {
     "path": "/1/4/title",
@@ -204,12 +120,6 @@
     "value": "十字军战士是神圣的战士，他们用展开的战斗击溃敌人。狂热者无法忍受异教徒的胃口，十字军在被敌人接触时表现不佳，但擅长迅速杀死敌人。十字军只使用大刀，但仍然可以很差地使用其他双手近战武器。"
   },
   {
-    "path": "/1/5/name",
-    "op": "replace",
-    "source": "wraith",
-    "value": "幽灵"
-  },
-  {
     "path": "/1/5/title",
     "op": "replace",
     "source": "Wraith",
@@ -222,22 +132,10 @@
     "value": "幽灵是灵魂，不再是肉体。因此，幽灵几乎不受重力的影响，在受到威胁时可以通过物质逐步形成。幽灵不能使用大型武器，也不能再使用魔法。"
   },
   {
-    "path": "/1/6/name",
-    "op": "replace",
-    "source": "technomancer",
-    "value": "技术员"
-  },
-  {
     "path": "/1/6/title",
     "op": "replace",
     "source": "Technomancer",
     "value": "技术员"
-  },
-  {
-    "path": "/1/7/name",
-    "op": "replace",
-    "source": "changeling",
-    "value": "变换法"
   },
   {
     "path": "/1/7/title",
@@ -246,22 +144,10 @@
     "value": "变换法"
   },
   {
-    "path": "/1/8/name",
-    "op": "replace",
-    "source": "cleric",
-    "value": "牧师"
-  },
-  {
     "path": "/1/8/title",
     "op": "replace",
     "source": "Cleric",
     "value": "牧师"
-  },
-  {
-    "path": "/2/0/name",
-    "op": "replace",
-    "source": "shade",
-    "value": "阴影"
   },
   {
     "path": "/2/0/title",
@@ -270,22 +156,10 @@
     "value": "阴影"
   },
   {
-    "path": "/2/1/name",
-    "op": "replace",
-    "source": "stalker",
-    "value": "潜行者"
-  },
-  {
     "path": "/2/1/title",
     "op": "replace",
     "source": "Stalker",
     "value": "潜行者"
-  },
-  {
-    "path": "/2/2/name",
-    "op": "replace",
-    "source": "kunoichi",
-    "value": "国一"
   },
   {
     "path": "/2/2/title",
@@ -300,12 +174,6 @@
     "value": "^red;仅限女性^white;"
   },
   {
-    "path": "/2/3/name",
-    "op": "replace",
-    "source": "adept",
-    "value": "娴熟的"
-  },
-  {
     "path": "/2/3/title",
     "op": "replace",
     "source": "Adept",
@@ -318,22 +186,10 @@
     "value": "熟练的忍者利用了混乱的能量，以至于变得不稳定。因此，熟练者可以使用魔杖，并且可以照亮自己和附近的物质。然而，这种力量的代价是昂贵的…"
   },
   {
-    "path": "/2/4/name",
-    "op": "replace",
-    "source": "thief",
-    "value": "小偷"
-  },
-  {
     "path": "/2/4/title",
     "op": "replace",
     "source": "Thief",
     "value": "小偷"
-  },
-  {
-    "path": "/2/5/name",
-    "op": "replace",
-    "source": "operative",
-    "value": "手术的"
   },
   {
     "path": "/2/5/title",
@@ -342,22 +198,10 @@
     "value": "手术的"
   },
   {
-    "path": "/2/6/name",
-    "op": "replace",
-    "source": "wanderer",
-    "value": "流浪者"
-  },
-  {
     "path": "/2/6/title",
     "op": "replace",
     "source": "Wanderer",
     "value": "流浪者"
-  },
-  {
-    "path": "/2/7/name",
-    "op": "replace",
-    "source": "changeling",
-    "value": "变换法"
   },
   {
     "path": "/2/7/title",
@@ -366,22 +210,10 @@
     "value": "变换法"
   },
   {
-    "path": "/2/8/name",
-    "op": "replace",
-    "source": "darktemplar",
-    "value": "黑暗圣堂武士"
-  },
-  {
     "path": "/2/8/title",
     "op": "replace",
     "source": "Dark Templar",
     "value": "黑暗圣堂"
-  },
-  {
-    "path": "/3/0/name",
-    "op": "replace",
-    "source": "mechanist",
-    "value": "机械师"
   },
   {
     "path": "/3/0/title",
@@ -390,22 +222,10 @@
     "value": "机械师"
   },
   {
-    "path": "/3/1/name",
-    "op": "replace",
-    "source": "deadshot",
-    "value": "死枪"
-  },
-  {
     "path": "/3/1/title",
     "op": "replace",
     "source": "Deadshot",
     "value": "死枪"
-  },
-  {
-    "path": "/3/2/name",
-    "op": "replace",
-    "source": "vigilante",
-    "value": "治安官"
   },
   {
     "path": "/3/2/title",
@@ -420,12 +240,6 @@
     "value": "义务警员用他们自己的道德体系来制定他们认为合适的正义。由于他们对手枪的热爱，他们可以轻易地双持远程武器。当与坏人战斗时，义务警员会获得一股权力和精力，把事情掌握在自己的手中。"
   },
   {
-    "path": "/3/3/name",
-    "op": "replace",
-    "source": "titan",
-    "value": "泰坦"
-  },
-  {
     "path": "/3/3/title",
     "op": "replace",
     "source": "Titan",
@@ -436,12 +250,6 @@
     "op": "replace",
     "source": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
     "value": "泰坦是前线的堡垒，他们用自己的盾牌帮助坚守阵地。他们选择的武器是单手手枪或带盾的机关枪。尽管在所有范围内都有能力的战斗机，但它们也能以保护光环激励附近的盟军。"
-  },
-  {
-    "path": "/3/4/name",
-    "op": "replace",
-    "source": "vanguard",
-    "value": "先锋"
   },
   {
     "path": "/3/4/title",
@@ -456,34 +264,16 @@
     "value": "在前线战斗！先锋队是第一批嗜血的，擅长近程作战，但长期作战处理不佳。先锋队擅长使用机枪，在耗尽能量时经常使用近战武器。"
   },
   {
-    "path": "/3/5/name",
-    "op": "replace",
-    "source": "operative",
-    "value": "手术的"
-  },
-  {
     "path": "/3/5/title",
     "op": "replace",
     "source": "Operative",
     "value": "手术的"
   },
   {
-    "path": "/3/6/name",
-    "op": "replace",
-    "source": "technomancer",
-    "value": "技术员"
-  },
-  {
     "path": "/3/6/title",
     "op": "replace",
     "source": "Technomancer",
     "value": "技术员"
-  },
-  {
-    "path": "/3/7/name",
-    "op": "replace",
-    "source": "dragoon",
-    "value": "龙骑兵"
   },
   {
     "path": "/3/7/title",
@@ -498,22 +288,10 @@
     "value": "龙骑兵挥舞长矛和长矛。再加上他们的轻甲，他们是一种力量，旨在迅速和果断地穿透所有的对手-无论多么持久，或在空中有多高。"
   },
   {
-    "path": "/3/8/name",
-    "op": "replace",
-    "source": "mercenary",
-    "value": "雇佣军"
-  },
-  {
     "path": "/3/8/title",
     "op": "replace",
     "source": "Mercenary",
     "value": "雇佣军"
-  },
-  {
-    "path": "/4/0/name",
-    "op": "replace",
-    "source": "cannoneer",
-    "value": "炮手"
   },
   {
     "path": "/4/0/title",
@@ -528,22 +306,10 @@
     "value": "把它们吹走！大炮手是专攻爆炸武器的流氓。通常使用短剑和手榴弹发射器，大炮手可以近距离地和个人起来切掉敌人，或者留下来把他们全部炸成碎片。"
   },
   {
-    "path": "/4/1/name",
-    "op": "replace",
-    "source": "saboteur",
-    "value": "破坏者"
-  },
-  {
     "path": "/4/1/title",
     "op": "replace",
     "source": "Saboteur",
     "value": "破坏者"
-  },
-  {
-    "path": "/4/2/name",
-    "op": "replace",
-    "source": "vinetender",
-    "value": "维内特"
   },
   {
     "path": "/4/2/title",
@@ -552,34 +318,16 @@
     "value": "维内特"
   },
   {
-    "path": "/4/3/name",
-    "op": "replace",
-    "source": "hunter",
-    "value": "猎人"
-  },
-  {
     "path": "/4/3/title",
     "op": "replace",
     "source": "Hunter",
     "value": "猎人"
   },
   {
-    "path": "/4/4/name",
-    "op": "replace",
-    "source": "thief",
-    "value": "小偷"
-  },
-  {
     "path": "/4/4/title",
     "op": "replace",
     "source": "Thief",
     "value": "小偷"
-  },
-  {
-    "path": "/4/5/name",
-    "op": "replace",
-    "source": "wraith",
-    "value": "幽灵"
   },
   {
     "path": "/4/5/title",
@@ -594,22 +342,10 @@
     "value": "幽灵是灵魂，不再是肉体。因此，幽灵几乎不受重力的影响，在受到威胁时可以通过物质逐步形成。幽灵不能使用大型武器，也不能再使用魔法。"
   },
   {
-    "path": "/4/6/name",
-    "op": "replace",
-    "source": "berserker",
-    "value": "狂暴者"
-  },
-  {
     "path": "/4/6/title",
     "op": "replace",
     "source": "Berserker",
     "value": "狂暴者"
-  },
-  {
-    "path": "/4/7/name",
-    "op": "replace",
-    "source": "bountyhunter",
-    "value": "赏金猎人"
   },
   {
     "path": "/4/7/title",
@@ -618,22 +354,10 @@
     "value": "赏金猎人"
   },
   {
-    "path": "/4/8/name",
-    "op": "replace",
-    "source": "mercenary",
-    "value": "雇佣军"
-  },
-  {
     "path": "/4/8/title",
     "op": "replace",
     "source": "Mercenary",
     "value": "雇佣军"
-  },
-  {
-    "path": "/5/0/name",
-    "op": "replace",
-    "source": "pioneer",
-    "value": "先锋"
   },
   {
     "path": "/5/0/title",
@@ -648,22 +372,10 @@
     "value": "探索新大陆以发现隐藏的宝藏，拓荒者是第一批开拓新行星的人。拓荒者能够快速导航殖民地的行星，并为自己寻找新的行星，他们擅长在银河系中开辟出一条道路。"
   },
   {
-    "path": "/5/1/name",
-    "op": "replace",
-    "source": "scout",
-    "value": "童子军"
-  },
-  {
     "path": "/5/1/title",
     "op": "replace",
     "source": "Scout",
     "value": "童子军"
-  },
-  {
-    "path": "/5/2/name",
-    "op": "replace",
-    "source": "captain",
-    "value": "船长"
   },
   {
     "path": "/5/2/title",
@@ -678,22 +390,10 @@
     "value": "在整个时间和空间中，不同的行星上总是有领导者。从古代起，这些船长就以领导和团结战友作战的能力而闻名。上尉是作战战术家。独自一人的时候，他们没有什么值得写回家的，但是他们和战友在一起，他们是一股不可忽视的力量。他们分析情况有助于支持他们的团队进行进攻、防守，甚至快速。"
   },
   {
-    "path": "/5/3/name",
-    "op": "replace",
-    "source": "voyager",
-    "value": "旅行者"
-  },
-  {
     "path": "/5/3/title",
     "op": "replace",
     "source": "Voyager",
     "value": "旅行者"
-  },
-  {
-    "path": "/5/4/name",
-    "op": "replace",
-    "source": "vanguard",
-    "value": "先锋"
   },
   {
     "path": "/5/4/title",
@@ -708,22 +408,10 @@
     "value": "在前线战斗！先锋队是第一批嗜血的，擅长近程作战，但长期作战处理不佳。先锋队擅长使用机枪，在耗尽能量时经常使用近战武器。"
   },
   {
-    "path": "/5/5/name",
-    "op": "replace",
-    "source": "conquistador",
-    "value": "征服者"
-  },
-  {
     "path": "/5/5/title",
     "op": "replace",
     "source": "Conquistador",
     "value": "征服者"
-  },
-  {
-    "path": "/5/6/name",
-    "op": "replace",
-    "source": "wanderer",
-    "value": "流浪者"
   },
   {
     "path": "/5/6/title",
@@ -732,22 +420,10 @@
     "value": "流浪者"
   },
   {
-    "path": "/5/7/name",
-    "op": "replace",
-    "source": "bountyhunter",
-    "value": "赏金猎人"
-  },
-  {
     "path": "/5/7/title",
     "op": "replace",
     "source": "Bounty Hunter",
     "value": "为领取悬赏而情愿充当杀手的人"
-  },
-  {
-    "path": "/5/8/name",
-    "op": "replace",
-    "source": "cleric",
-    "value": "牧师"
   },
   {
     "path": "/5/8/title",

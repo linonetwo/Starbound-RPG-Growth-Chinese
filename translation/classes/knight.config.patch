@@ -12,22 +12,10 @@
     "value": "完美的护盾在短时间内增加+20%的伤害。"
   },
   {
-    "path": "/ability/name",
-    "op": "replace",
-    "source": "knightblock",
-    "value": "骑士街区"
-  },
-  {
     "path": "/weapon/title",
     "op": "replace",
     "source": "Aegis",
     "value": "宙斯盾"
-  },
-  {
-    "path": "/weapon/name",
-    "op": "replace",
-    "source": "knightaegissword",
-    "value": "骑士遗言"
   },
   {
     "path": "/classic/0/text",
@@ -96,12 +84,6 @@
     "value": "猛击"
   },
   {
-    "path": "/techs/0/name",
-    "op": "replace",
-    "source": "knightbash",
-    "value": "爵士舞"
-  },
-  {
     "path": "/techs/0/text",
     "op": "replace",
     "source": "An upgrade to Sprint, while running, enemies receive damage and knockback. Damage is doubled when holding up a shield. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
@@ -112,12 +94,6 @@
     "op": "replace",
     "source": "Slam",
     "value": "猛击"
-  },
-  {
-    "path": "/techs/1/name",
-    "op": "replace",
-    "source": "knightslam",
-    "value": "骑士赛"
   },
   {
     "path": "/techs/1/text",
@@ -132,12 +108,6 @@
     "value": "装甲球"
   },
   {
-    "path": "/techs/2/name",
-    "op": "replace",
-    "source": "knightarmorsphere",
-    "value": "骑士团"
-  },
-  {
     "path": "/techs/2/text",
     "op": "replace",
     "source": "An upgrade to Spike Sphere, while transformed, ignore knockback and deal contact damage to enemies. Armor is also increased while transformed.",
@@ -148,12 +118,6 @@
     "op": "replace",
     "source": "Charge!",
     "value": "冲锋！"
-  },
-  {
-    "path": "/techs/3/name",
-    "op": "replace",
-    "source": "knightcharge!",
-    "value": "骑士团！"
   },
   {
     "path": "/techs/3/text",
