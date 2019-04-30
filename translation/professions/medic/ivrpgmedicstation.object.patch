@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "A pristine white cabinet-counter combo covered in medical supplies.\nDesigned by JM401!",
     "value": "一个覆盖着医疗用品的朴素的白色橱柜柜台组合。\nDesigned by JM401!"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Medic Station",
+    "value": "救护站"
   }
 ]

@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "专精点. 用于走向人生巅峰!",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Mastery Point",
+    "value": "掌握点"
   }
 ]

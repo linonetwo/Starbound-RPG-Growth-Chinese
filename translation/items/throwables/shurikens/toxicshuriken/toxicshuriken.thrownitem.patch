@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一个带有剧毒的飞镖,可以使敌人中毒.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Toxic Shuriken",
+    "value": "有毒的Suri垦"
   }
 ]

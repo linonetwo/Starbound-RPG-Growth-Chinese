@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "异乎寻常...",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Siphon Cyst",
+    "value": "虹吸囊肿"
   }
 ]

@@ -9,5 +9,11 @@
     "op": "replace",
     "source": "Combo Slash",
     "value": "拯救公主"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Prismatic Aegis",
+    "value": "棱镜宙斯"
   }
 ]

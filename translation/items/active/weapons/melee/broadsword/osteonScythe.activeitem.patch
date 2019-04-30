@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "优雅,无情,令人生畏.锯齿般的刀锋能轻易切断肉体.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Bonesteel Scythe",
+    "value": "博内斯特尔·塞思"
   }
 ]

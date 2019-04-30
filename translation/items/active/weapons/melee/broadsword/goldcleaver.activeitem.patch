@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一柄优雅的利刃,既致命又迅速.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#77acc3;Auritite Star-Cleaver^white;",
+    "value": "^#77acc3;金云母星劈裂器^white;"
   }
 ]

@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "这是一种神秘的力量.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Class Droplet",
+    "value": "类液滴"
   }
 ]

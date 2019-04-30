@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "超新星, 一根蕴含着无限的危险元素能量法杖.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Super Nova",
+    "value": "超新星"
   }
 ]

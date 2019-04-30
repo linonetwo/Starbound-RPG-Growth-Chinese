@@ -10,5 +10,11 @@
     "op": "replace",
     "source": "Upgrades",
     "value": "升级"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Smith Station",
+    "value": "史密斯站"
   }
 ]

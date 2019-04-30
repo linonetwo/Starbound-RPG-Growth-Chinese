@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "保家卫国. 生灵庇护.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^blue;True Aegis",
+    "value": "^blue;真正的宙斯"
   }
 ]

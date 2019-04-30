@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "火焰&地狱火亲和力升级.\n当你杀死一名燃烧,熔化,或烧焦的敌人时, 它们会爆炸.\n爆炸伤害与伤害乘数成比例.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Bloom",
+    "value": "布鲁姆"
   }
 ]

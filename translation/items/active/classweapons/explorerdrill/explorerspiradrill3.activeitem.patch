@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "RPT探索者钻头, 号称日破天.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^yellow;Ravenous Spira",
+    "value": "^yellow;贪婪的尖塔"
   }
 ]

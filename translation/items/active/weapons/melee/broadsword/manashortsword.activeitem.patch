@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一把蕴含着光明与勇气的星钢武器!.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#77acc3;Energy Gale-Blade^white;",
+    "value": "^#77Acc3;能量风叶片^white;"
   }
 ]

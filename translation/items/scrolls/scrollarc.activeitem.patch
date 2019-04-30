@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一个详细记载了关于电元素的卷轴.似乎正在嗡嗡作响.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Scroll: Lightning",
+    "value": "卷轴：闪电"
   }
 ]

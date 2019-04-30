@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "火焰&地狱火亲和力升级.\n燃烧持续时间*2.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Viking Funeral",
+    "value": "海盗葬礼"
   }
 ]

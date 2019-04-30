@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一个精心设计的木制桌子，可以使用专精点具现化物品.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Master's Desk",
+    "value": "硕士桌"
   }
 ]

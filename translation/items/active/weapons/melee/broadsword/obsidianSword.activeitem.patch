@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一柄来自行星核心的灼热长剑.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Obsidian Blade",
+    "value": "黑曜石刀片"
   }
 ]

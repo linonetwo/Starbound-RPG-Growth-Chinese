@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "生灵庇护者进行连续的完美格挡会获得攻击加成.\n^red;普通格挡会中断加成.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Righteousness",
+    "value": "正义"
   }
 ]

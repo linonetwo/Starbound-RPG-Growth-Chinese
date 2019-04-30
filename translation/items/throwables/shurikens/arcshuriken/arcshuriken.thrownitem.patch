@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一个嗡嗡作响的飞镖,可以使敌人触电.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Arc Shuriken",
+    "value": "阿里舒里肯"
   }
 ]

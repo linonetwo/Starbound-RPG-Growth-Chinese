@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "活力升级.\n能量充足时,\n接地跳跃得到进一步改善,\n并且降低跌落伤害,空中跳跃次数增加到3..",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Battery Pack",
+    "value": "电池组"
   }
 ]

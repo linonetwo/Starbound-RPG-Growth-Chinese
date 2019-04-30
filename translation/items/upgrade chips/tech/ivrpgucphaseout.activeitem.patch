@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "暗影步升级.\n暗影步现在可以穿过地形, 即使当前处于副本世界.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Phase Out",
+    "value": "逐步淘汰"
   }
 ]

@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "寒冰&深寒亲和力升级. ^red;仅限女性.^reset;\n鞭子,爪,和匕首+75%伤害.\n挥舞鞭子时不会降低速度.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Ice Queen",
+    "value": "冰女王"
   }
 ]

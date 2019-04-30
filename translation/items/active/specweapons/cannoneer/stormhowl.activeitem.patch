@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Waves crash violently and winds blow endlessly as the storm howls.",
     "value": "暴风雨怒号时，海浪猛烈地撞击，风不停地吹。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#bff4ff;Stormhowl",
+    "value": "^#bff4ff;暴风雪"
   }
 ]

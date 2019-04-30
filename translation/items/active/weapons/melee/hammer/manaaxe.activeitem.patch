@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "结晶冲击武器.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#00FFFF;Arbiter Greataxe^white;",
+    "value": "^#00ffff;仲裁人greataxe^white;"
   }
 ]

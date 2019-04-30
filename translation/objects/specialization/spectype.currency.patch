@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "大量的专业知识.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Specialization Droplet",
+    "value": "特殊化液滴"
   }
 ]

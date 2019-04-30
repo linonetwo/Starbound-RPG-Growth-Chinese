@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Ever see a Dragon flee?\nWant to?",
     "value": "有没有看到一条龙逃跑？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#950010;Dragon's Bane^white;",
+    "value": "^#950010;白龙之灾^white;"
   }
 ]

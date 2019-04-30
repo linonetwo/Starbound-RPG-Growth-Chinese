@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "选择亲和力.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Affinity Type",
+    "value": "亲和型"
   }
 ]

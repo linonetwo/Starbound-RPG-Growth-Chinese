@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "电光石火!",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^yellow;Siphon Flux",
+    "value": "^yellow;虹吸通量"
   }
 ]

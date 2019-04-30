@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "令人恶心的完美. ",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^green;Siphon Spore",
+    "value": "^green;虹吸孢子"
   }
 ]

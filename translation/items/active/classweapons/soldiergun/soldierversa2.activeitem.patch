@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "DGN战斗步枪 MKII, 一把远近适用的步枪.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Versa Impact",
+    "value": "反冲击"
   }
 ]

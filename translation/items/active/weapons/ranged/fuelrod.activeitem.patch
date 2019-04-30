@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "发射超高温等离子能量.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Plasma Cannon",
+    "value": "离子炮"
   }
 ]

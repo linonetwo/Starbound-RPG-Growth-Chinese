@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "属性点",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Stat Point",
+    "value": "升级获得的点数"
   }
 ]

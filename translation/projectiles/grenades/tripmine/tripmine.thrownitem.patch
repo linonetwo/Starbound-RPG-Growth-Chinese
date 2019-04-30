@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "小心脚下.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Tripmine",
+    "value": "雷公藤"
   }
 ]

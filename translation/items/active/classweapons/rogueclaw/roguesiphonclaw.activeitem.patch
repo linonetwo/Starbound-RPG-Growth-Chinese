@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "三寸寒芒.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Siphon",
+    "value": "虹吸管"
   }
 ]

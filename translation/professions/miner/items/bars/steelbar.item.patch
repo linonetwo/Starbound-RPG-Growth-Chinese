@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "A useful alloy made from Iron and Coal.",
     "value": "由铁和煤制成的有用合金。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Steel Bar",
+    "value": "钢筋"
   }
 ]

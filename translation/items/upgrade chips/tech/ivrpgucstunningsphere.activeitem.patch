@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "无畏重力球击晕升级.\n长按左键击晕接触的敌人.\n^red;击晕消耗能量.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Stunning Sphere",
+    "value": "绝灭球"
   }
 ]

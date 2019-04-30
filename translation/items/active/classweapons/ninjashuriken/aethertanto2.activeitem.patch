@@ -10,5 +10,11 @@
     "op": "replace",
     "source": "Kunai Slash",
     "value": "库奈斜杠"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Shadow Aether",
+    "value": "影子醚"
   }
 ]

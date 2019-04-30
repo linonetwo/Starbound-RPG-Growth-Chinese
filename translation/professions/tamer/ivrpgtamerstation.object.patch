@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "It might look a bit scary at first, but a Tamer treats their pets right.\nDesigned by JM401!",
     "value": "一开始可能有点吓人，但驯养者对待宠物是对的。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Tamer Station",
+    "value": "泰默车站"
   }
 ]

@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Shadow Aether, a sharper, shadowy shuriken that duplicates using dark energy.",
     "value": "阴影以太，一种使用暗能量复制的更锋利、更模糊的树胶。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Shadow Aether",
+    "value": "影子醚"
   }
 ]

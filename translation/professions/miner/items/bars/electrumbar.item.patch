@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "A super-energetic alloy made from Silver and Gold.",
     "value": "一种由银和金制成的超高能合金。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Electrum Bar",
+    "value": "电解棒"
   }
 ]

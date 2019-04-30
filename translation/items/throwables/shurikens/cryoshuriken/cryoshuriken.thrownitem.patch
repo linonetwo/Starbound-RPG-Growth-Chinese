@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一个冰冷的飞镖,可以冻僵敌人.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Cryo Shuriken",
+    "value": "克鲁舒里肯"
   }
 ]

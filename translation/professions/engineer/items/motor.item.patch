@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "You'll need this motor for any rotating machinery.",
     "value": "任何旋转机械都需要这个电动机。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Motor",
+    "value": "电动机"
   }
 ]

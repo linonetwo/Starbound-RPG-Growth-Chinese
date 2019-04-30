@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Do you hear that?",
     "value": "你听到了吗？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^gray;Soulless Whisper",
+    "value": "^gray;无灵魂的低语"
   }
 ]

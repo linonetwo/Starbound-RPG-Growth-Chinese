@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Beautiful painted petals bely this razor-sharp War-Fan.",
     "value": "这把锋利的战争风扇上有美丽的花瓣。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#ffaafa;Luxuria^white;",
+    "value": "^#ffaafa;豪华的^white;"
   }
 ]

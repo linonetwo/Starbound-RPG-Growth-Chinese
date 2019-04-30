@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "奥义新星升级.\n奥义新星可以无限充能,\n提高伤害. 触发状态.\n^red;被杀死的敌人不再爆炸.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Passed Prime",
+    "value": "通过素数"
   }
 ]

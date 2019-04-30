@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "等级.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Levels.",
+    "value": "水平。"
   }
 ]

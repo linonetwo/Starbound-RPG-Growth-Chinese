@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "可以通过螺旋动力增幅能量!",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Spiral Power",
+    "value": "螺旋功率"
   }
 ]

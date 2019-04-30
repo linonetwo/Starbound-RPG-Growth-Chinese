@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "A sample of magma used to melt ingredients.",
     "value": "用来融化成分的岩浆样本。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Magma Sample",
+    "value": "岩浆样品"
   }
 ]

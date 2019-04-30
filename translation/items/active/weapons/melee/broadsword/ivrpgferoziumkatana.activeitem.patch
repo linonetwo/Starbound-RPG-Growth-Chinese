@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一柄优雅的利刃，既致命又迅速.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#77acc3;Star-Carve Blade^white;",
+    "value": "^#77Acc3;星形雕刻刀片^white;"
   }
 ]

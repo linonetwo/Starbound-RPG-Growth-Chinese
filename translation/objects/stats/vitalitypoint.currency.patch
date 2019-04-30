@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "生命力.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
   }
 ]

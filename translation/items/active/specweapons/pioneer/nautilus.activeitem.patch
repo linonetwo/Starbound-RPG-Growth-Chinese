@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Within the spiral lies a dormant power: the questions is, whose?",
     "value": "在螺旋的内部存在着一种休眠的力量：问题是，谁的？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^yellow;Nautilus",
+    "value": "^yellow;鹦鹉螺"
   }
 ]

@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "RPT开拓者钻头可以将吸取掉落物.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Hungry Spira",
+    "value": "饥饿螺旋藻"
   }
 ]

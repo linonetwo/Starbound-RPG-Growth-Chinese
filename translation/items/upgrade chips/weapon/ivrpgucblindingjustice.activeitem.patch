@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "生灵庇护者升级.\n第8和9连击可击晕敌人.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Blinding Justice",
+    "value": "盲目的正义"
   }
 ]

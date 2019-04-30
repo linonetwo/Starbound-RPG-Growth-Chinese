@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "A good ol' furnace combined with a tray to make pickaxes.\nDesigned by JM401!",
     "value": "一个很好的熔炉和一个用来制作镐的托盘。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Miner Station",
+    "value": "矿工站"
   }
 ]

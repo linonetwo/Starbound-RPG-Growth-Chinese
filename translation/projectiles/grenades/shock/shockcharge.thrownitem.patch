@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "给你的敌人充电... 免费.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Shock Charge",
+    "value": "冲击装药"
   }
 ]

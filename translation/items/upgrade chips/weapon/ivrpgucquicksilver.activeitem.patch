@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "奥义新星升级.\n充能速度更快,并大幅增加施法距离.\n^red;但是会降低伤害.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Quicksilver",
+    "value": "水银"
   }
 ]

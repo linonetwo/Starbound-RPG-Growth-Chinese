@@ -81,26 +81,6 @@
   },
   {
     "op": "replace",
-    "value": "-",
-    "path": "/gui/upgradelayout/children/affinitytext/value"
-  },
-  {
-    "op": "replace",
-    "value": "-",
-    "path": "/gui/upgradelayout/children/generaltext/value"
-  },
-  {
-    "op": "replace",
-    "value": "-",
-    "path": "/gui/upgradelayout/children/techtext/value"
-  },
-  {
-    "op": "replace",
-    "value": "-",
-    "path": "/gui/upgradelayout/children/weapontext/value"
-  },
-  {
-    "op": "replace",
     "value": "-10%",
     "path": "/gui/overviewlayout/children/hardcoretext/value"
   },
@@ -997,5 +977,11 @@
     "op": "replace",
     "source": "Lore",
     "value": "学识"
+  },
+  {
+    "path": "/gui/lorelayout/children/scrollArea/children/list/schema/listTemplate/title/value",
+    "op": "replace",
+    "source": "Title",
+    "value": "书名"
   }
 ]

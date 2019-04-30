@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "虹吸升级.\n当您的生命值低于三分之一时造成更多伤害.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Symbiosis",
+    "value": "共生"
   }
 ]

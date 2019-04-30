@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "She wasn't very loud, sure, but it don't matter much when your shootin' does the talkin'.",
     "value": "当然，她不是很大声，但当你的枪击声“是在说话”时，没什么关系。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^blue;Marie",
+    "value": "^blue;玛丽"
   }
 ]

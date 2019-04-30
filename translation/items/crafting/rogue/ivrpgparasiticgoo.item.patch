@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一坨有点恶心的黏稠物,粘粘的还在蠕动.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Parasitic Goo",
+    "value": "寄生咕咕"
   }
 ]

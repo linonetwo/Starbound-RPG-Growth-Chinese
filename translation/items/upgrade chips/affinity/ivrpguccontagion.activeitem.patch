@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "毒&老毒物亲和力升级.\n中毒的目标每隔0.25秒有5%几率\n会传染给附近的目标.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Contagion",
+    "value": "传染病"
   }
 ]

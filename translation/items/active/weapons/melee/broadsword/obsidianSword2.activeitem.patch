@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一柄锋利的神秘黑曜石长剑.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#55377d;Shards of Igneous^white;",
+    "value": "^#55377d;火成岩碎片^white;"
   }
 ]

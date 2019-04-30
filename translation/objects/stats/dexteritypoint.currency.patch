@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "灵巧.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧性"
   }
 ]

@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Odin's gift to you.",
     "value": "奥丁给你的礼物。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#34dbdb;Gungnir^white;",
+    "value": "^#34dbdb;Gungnir^white;"
   }
 ]

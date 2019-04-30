@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一块精炼过的流星金属锭,坚不可摧.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Meteoric Metal Bar",
+    "value": "流星金属棒"
   }
 ]

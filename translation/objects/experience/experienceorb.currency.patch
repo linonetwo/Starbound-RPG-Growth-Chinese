@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "用于升级的经验球.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Experience Orb",
+    "value": "经验球"
   }
 ]

@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "虹吸升级.\n连击技能可以在三次攻击之后使用,而不是四次.\n^red;但是, 这可能会妨碍你使用其他拳击武器的组合连击.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Combo Breaker",
+    "value": "组合断路器"
   }
 ]

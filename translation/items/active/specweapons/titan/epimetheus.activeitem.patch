@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Don't leave even one enemy alive.\n^orange;Weapon Designed by Banny!",
     "value": "不要让一个敌人活着。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^orange;Epimetheus",
+    "value": "^orange;表甲虫"
   }
 ]

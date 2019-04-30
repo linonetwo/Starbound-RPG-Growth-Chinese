@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "发射超高温等离子能量.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#00FFFF;Plasma Cannon Premier^white;",
+    "value": "^#00ffff;等离子加农炮总理^white;"
   }
 ]

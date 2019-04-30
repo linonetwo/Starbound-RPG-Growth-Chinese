@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "不要小看这片刀刃.尽管它是透明的,但它比任何物质都要锋利.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Ethereal Blade",
+    "value": "虚灵刀"
   }
 ]

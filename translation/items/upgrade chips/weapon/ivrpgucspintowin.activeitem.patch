@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "RPT探索者钻头升级.\n对敌人造成双倍伤害. 能够进行短距离钻探.\n^red;能量消耗速度也是双倍.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Spin to Win",
+    "value": "赢得胜利"
   }
 ]

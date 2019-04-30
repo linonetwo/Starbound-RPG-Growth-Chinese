@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "You'll need these to make more complex machinery.",
     "value": "你需要这些来制造更复杂的机器。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Steel Gear",
+    "value": "钢齿轮"
   }
 ]

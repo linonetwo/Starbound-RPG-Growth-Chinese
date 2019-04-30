@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "新星, 一根蕴含着无限元素能量的法杖.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Nova",
+    "value": "新星"
   }
 ]

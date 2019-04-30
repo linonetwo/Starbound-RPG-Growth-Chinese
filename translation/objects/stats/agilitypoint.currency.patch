@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "敏捷.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
   }
 ]

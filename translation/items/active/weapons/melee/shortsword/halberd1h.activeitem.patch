@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一柄强大的武器, 牺牲了速度作为代价.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#77acc3;Stygian Great-Halberd^white;",
+    "value": "^#77acc3;海鞘大戟^white;"
   }
 ]

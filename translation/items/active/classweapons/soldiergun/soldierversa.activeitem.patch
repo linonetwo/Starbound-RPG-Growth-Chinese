@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "DGN战斗步枪 MKI, 适合在中近距离摧毁目标.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Versa",
+    "value": "反之亦然"
   }
 ]

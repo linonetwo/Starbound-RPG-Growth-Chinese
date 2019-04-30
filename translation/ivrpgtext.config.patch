@@ -772,5 +772,11 @@
     "op": "replace",
     "source": "Specialization",
     "value": "专业化"
+  },
+  {
+    "path": "/lore/children/people/children/egoen/title",
+    "op": "replace",
+    "source": "^#6d577c;Egoen",
+    "value": "^#6d577c;Egoen"
   }
 ]

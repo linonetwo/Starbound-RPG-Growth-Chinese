@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "描述.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Name",
+    "value": "名字"
   }
 ]

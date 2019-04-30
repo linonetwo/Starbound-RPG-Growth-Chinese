@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "尖锐的矛.比长矛慢,但会造成更多的伤害.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#00FFFF;Dark-Matterlord Spear^white;",
+    "value": "^#00ffff;深色马特福德矛^white;"
   }
 ]

@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一团近乎无形的相位物质...",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Ether",
+    "value": "醚"
   }
 ]

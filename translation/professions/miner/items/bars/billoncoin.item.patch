@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "A coin made of a Silver-Copper alloy that fetches a higher price.",
     "value": "由银铜合金制成的硬币，价格更高。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Billon Coin",
+    "value": "比龙硬币"
   }
 ]

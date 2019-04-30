@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "三寸寒芒,锋利异常!",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Siphon Slash",
+    "value": "虹吸斜井"
   }
 ]

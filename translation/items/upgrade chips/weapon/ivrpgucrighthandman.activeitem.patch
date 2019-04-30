@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "RPT探索者钻头升级.\n次要功能(右键)可以挖掘背景块.\n^red;按住Shift键可以直接摧毁背景块.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Right Hand Man",
+    "value": "右Hand Man"
   }
 ]

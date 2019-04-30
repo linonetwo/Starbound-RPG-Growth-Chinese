@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "To you, the Universe is nothing.",
     "value": "对你来说，宇宙是虚无的。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^red;Phase Shift",
+    "value": "^red;相移"
   }
 ]

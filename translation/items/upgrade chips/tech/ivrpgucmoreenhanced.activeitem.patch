@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "增强运动升级提高移动速度与跳跃高度.\n疾跑持续时间更长.\n冲刺速度更快.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Even More Enhanced",
+    "value": "更进一步"
   }
 ]

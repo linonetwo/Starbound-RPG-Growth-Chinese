@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "被封印在刀刃里恶魔只想得到解脱.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^red;Abhorrent Cleaver^white;",
+    "value": "^red;可憎的劈刀^white;"
   }
 ]

@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "看起来这个卷轴里包含着各种有用的信息.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Scroll: +1 Stat Point",
+    "value": "滚动+1个统计点"
   }
 ]

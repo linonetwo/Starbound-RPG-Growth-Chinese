@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "力量.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Strength",
+    "value": "强度"
   }
 ]

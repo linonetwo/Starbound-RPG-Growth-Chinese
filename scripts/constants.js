@@ -20,6 +20,7 @@ export const keysNeedTranslation = [
   'caption',
   'description',
   'shortDescription',
+  'shortdescription',
   'label',
 ];
 export const keyOnlyTranslateIfItIsChild = ['name'];

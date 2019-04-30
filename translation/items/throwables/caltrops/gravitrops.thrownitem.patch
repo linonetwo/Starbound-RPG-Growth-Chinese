@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "注入了相位物质的三角钉,使它们对飞行的目标更有效.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Gravitrops",
+    "value": "重力子"
   }
 ]

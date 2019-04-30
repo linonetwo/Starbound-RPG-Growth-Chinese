@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "这个枪机组件可以兼容不同类型的子弹.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Firing Mechanism",
+    "value": "点火机构"
   }
 ]

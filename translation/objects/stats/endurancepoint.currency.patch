@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "耐力.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
   }
 ]

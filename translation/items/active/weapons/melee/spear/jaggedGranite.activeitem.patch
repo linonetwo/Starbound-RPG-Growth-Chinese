@@ -4,5 +4,11 @@
     "op": "replace",
     "source": "Rough and gritty, it may not me techy, but it sure will hurt.",
     "value": "粗犷和刚毅，也许不是技术，但它肯定会伤害。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Jagged Granite",
+    "value": "锯齿状花岗岩"
   }
 ]

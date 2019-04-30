@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "人们认为投掷武器的灵感来自于古代儿童的玩具.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Caltrops",
+    "value": "铁蒺藜"
   }
 ]

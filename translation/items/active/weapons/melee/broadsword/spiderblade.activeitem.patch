@@ -3,5 +3,11 @@
     "op": "replace",
     "value": "一种独特的玄武岩锻制武器.非常重.",
     "path": "/description"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Basalt Claymore",
+    "value": "玄武岩粘土"
   }
 ]
