@@ -4,6 +4,7 @@ import { compact } from 'lodash';
 
 import { fileTypesNeedTranslation, keysNeedTranslation } from './constants';
 import { keyPathInObject, sanitizeJSON } from './utils';
+import type { Patch } from './types';
 
 type Place = {
   path: string,
@@ -30,34 +31,34 @@ async function getAllConfig(): Promise<Place[]> {
   // await writeAsync('./aaa.log', places);
 }
 
-type Patch = {
-  op: string,
-  value: string,
-  path: string,
-  source?: string,
-};
+
+/**
+ *
+ * @param {Place[]} places 源文件及其内部待 patch 内容的列表
+ */
 async function checkMissingTranslation(places: Place[]) {
   const report: string[] = [];
 
   // 先检查有没有什么翻译补丁文件没有对应的源文件，如果有就说明源 MOD 结构发生改变了
-  const allPatchPath = await findAsync('./translation', { matching: ['*.patch'] });
-  const task1 = allPatchPath.map(async pathName => {
+  const allTranslationFilePath = await findAsync('./translation', { matching: ['*.patch'] });
+  const task1 = allTranslationFilePath.map(async translationPathName => {
     /** 去掉了 .patch 和  translation/ 的中间的部分，可以用来搜索源文件 */
-    const sourcePathName = pathName.replace('translation/', '').replace('.patch', '');
+    const sourcePathNameMiddlePart = translationPathName.replace('translation/', '').replace('.patch', '');
     let sourceExists = false;
     for (const place of places) {
-      if (place.path === sourcePathName) {
+      // 如果翻译文件去掉 .patch 和源文件相同，或者源文件本身也是个 .patch 文件
+      if (place.path === sourcePathNameMiddlePart || place.path === `${sourcePathNameMiddlePart}.patch`) {
         sourceExists = true;
       }
     }
     if (!sourceExists) {
-      report.push(`源文件缺失 ${sourcePathName}`);
+      report.push(`源文件缺失 ${sourcePathNameMiddlePart}`);
     }
   });
   // 还有检查是不是有新的翻译，或者改动的文件结构
   const task2 = places.map(async place => {
     /** 源文件中去掉了 source/ 的中间的部分，再接上了 translation/ 和 .patch，可以用来搜索翻译文件 */
-    const translationFilePath = `translation/${place.path}.patch`;
+    const translationFilePath = `translation/${place.path.replace('.patch', '')}.patch`;
     const patchExists = await existsAsync(translationFilePath);
     if (patchExists) {
       const patchJSON: Patch[] = await readAsync(translationFilePath, 'json');
