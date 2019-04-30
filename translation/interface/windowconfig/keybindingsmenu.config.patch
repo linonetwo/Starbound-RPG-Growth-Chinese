@@ -1,18 +1,38 @@
 [
-	{ 
-		"op" : "add", 
-		"path" : "/keyActions/player/-",
-		"value" : {
-			"label" : "RPG第二个功能键 ^green;[G]^reset;",
-			"action" : "PlayerTechAction2"
-		} 
-	},
-	{ 
-		"op" : "add", 
-		"path" : "/keyActions/player/-",
-		"value" : {
-			"label" : "RPG第三个功能键 ^green;[H]^reset;",
-			"action" : "PlayerTechAction3"
-		} 
-	}
+  [
+    {
+      "op": "test",
+      "path": "/keyActions/player/23",
+      "value": {
+        "label": "RPG Second Action ^green;[G]^reset;",
+        "action": "PlayerTechAction2"
+      }
+    },
+    {
+      "op": "replace",
+      "path": "/keyActions/player/23",
+      "value": {
+        "label": "RPG第二个功能键 ^green;[G]^reset;",
+        "action": "PlayerTechAction2"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/keyActions/player/24",
+      "value": {
+        "label": "RPG Third Action ^green;[H]^reset;",
+        "action": "PlayerTechAction3"
+      }
+    },
+    {
+      "op": "replace",
+      "path": "/keyActions/player/24",
+      "value": {
+        "label": "RPG第三个功能键 ^green;[H]^reset;",
+        "action": "PlayerTechAction3"
+      }
+    }
+  ]
 ]
