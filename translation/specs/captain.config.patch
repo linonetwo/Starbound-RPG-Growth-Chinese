@@ -9,7 +9,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "Endurance and Agility Scaling decrease when alone. Vigor and Vitality Scaling increase when near allies.",
-    "value": "单独使用时，耐力和敏捷度会降低。接近盟国时，活力和活力增加。"
+    "value": "单独使用时，耐力和敏捷会降低。接近队友时，活力和体质增加。"
   },
   {
     "path": "/tech/title",

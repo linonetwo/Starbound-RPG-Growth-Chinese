@@ -111,6 +111,6 @@
     "path": "/techs/3/text",
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to toggle a toxic field that inflicts enemies with a weakening poison. These enemies take more poison and bleed damage. Drains energy while active, and is toggled off when no energy remains.",
-    "value": "按[G]（在你的控制中绑定[G]以切换一个毒力场，该毒力场以减弱的毒力对敌人造成伤害。这些敌人受到更多的毒害和流血伤害。当激活时消耗能量，当没有能量时关闭。"
+    "value": "按[G]（在你的控制中绑定[G]以切换一个毒气场，该毒气场以一种减弱的毒力对敌人造成伤害。这些敌人会受到更多的毒属性伤害和流血伤害。当激活时消耗能量，当没有能量时关闭。"
   }
 ]

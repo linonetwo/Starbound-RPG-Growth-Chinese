@@ -123,6 +123,6 @@
     "path": "/techs/3/text",
     "op": "replace",
     "source": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 10% Max Energy per second, which increases with Int. and Vigor.",
-    "value": "按[F]切换。当启动后，受到伤害会减少你的能量，但损失的一半能量会转化为生命。如果恢复的生命水平不足以维持生命，你会死。当激活时，能量不能锁定，能量以每秒10%的最大能量回复，这会随着智力和活力的增加而增加。"
+    "value": "按[F]切换。当启动后，受到伤害会减少你的能量，但损失的一半能量会转化为生命。如果恢复的生命水平不足以维持生命，你会死。当激活时，能量不会锁定，能量以每秒10%的最大能量回复，回复速度随着智力和活力的增加而增加。"
   }
 ]

@@ -249,7 +249,7 @@
     "path": "/3/3/description",
     "op": "replace",
     "source": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
-    "value": "泰坦是前线的堡垒，他们用自己的盾牌帮助坚守阵地。他们选择的武器是单手手枪或带盾的机关枪。尽管在所有范围内都有能力的战斗机，但它们也能以保护光环激励附近的盟军。"
+    "value": "泰坦是前线的堡垒，他们用自己的盾牌帮助坚守阵地。他们选择的武器是单手手枪或带盾的机关枪。尽管在所有范围内都有能力的战斗机，但它们也能以保护光环激励附近的队友。"
   },
   {
     "path": "/3/4/title",
@@ -261,7 +261,7 @@
     "path": "/3/4/description",
     "op": "replace",
     "source": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
-    "value": "在前线战斗！先锋队是第一批嗜血的，擅长近程作战，但长期作战处理不佳。先锋队擅长使用机枪，在消耗能量时经常使用近战武器。"
+    "value": "在前线战斗！先锋队是第一批嗜血的，擅长近程作战的士兵，但长期作战处理不佳。先锋队擅长使用机枪，在消耗能量时经常使用近战武器。"
   },
   {
     "path": "/3/5/title",

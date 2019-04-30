@@ -1,13 +1,13 @@
 [
   {
     "op": "replace",
-    "value": "灵巧.",
+    "value": "灵巧 Dex",
     "path": "/description"
   },
   {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Dexterity",
-    "value": "灵巧性"
+    "value": "灵巧"
   }
 ]

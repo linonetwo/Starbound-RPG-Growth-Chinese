@@ -39,7 +39,7 @@
     "path": "/effects/1/text",
     "op": "replace",
     "source": "+5 Armor",
-    "value": "+ 5装甲"
+    "value": "+5装甲"
   },
   {
     "path": "/scaling/1/text",
@@ -51,6 +51,6 @@
     "path": "/scaling/0/text",
     "op": "replace",
     "source": "Vitality",
-    "value": "活力"
+    "value": "体质"
   }
 ]

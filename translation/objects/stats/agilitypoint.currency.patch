@@ -1,13 +1,13 @@
 [
   {
     "op": "replace",
-    "value": "敏捷.",
+    "value": "敏捷 Agi",
     "path": "/description"
   },
   {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Agility",
-    "value": "敏捷性"
+    "value": "敏捷"
   }
 ]

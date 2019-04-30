@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "value": "耐力.",
+    "value": "耐力 Edr",
     "path": "/description"
   },
   {

@@ -39,7 +39,7 @@
     "path": "/effects/0/text",
     "op": "replace",
     "source": "Vitality",
-    "value": "活力"
+    "value": "体质"
   },
   {
     "path": "/effects/1/text",

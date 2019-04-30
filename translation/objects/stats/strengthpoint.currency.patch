@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "value": "力量.",
+    "value": "力量 Str",
     "path": "/description"
   },
   {

@@ -1,7 +1,7 @@
 [
   {
     "op": "replace",
-    "value": "智力.",
+    "value": "智力 Int",
     "path": "/description"
   },
   {

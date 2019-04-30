@@ -57,7 +57,7 @@
     "path": "/scaling/2/text",
     "op": "replace",
     "source": "Vitality",
-    "value": "活力"
+    "value": "体质"
   },
   {
     "path": "/weaponBonuses/1/text",
@@ -123,6 +123,6 @@
     "path": "/techs/3/text",
     "op": "replace",
     "source": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
-    "value": "对bash的升级。短跑时，运动员受到身体上的抵抗。虽然伤害保持不变，但敌人被击中时会震惊。以力量和速度破坏天平。能量消耗随着敏捷值的提高而降低。"
+    "value": "重击的升级版。冲刺时时，玩家提升物理抵抗。虽然伤害保持不变，但敌人被击中时会眩晕。攻击力随着力量和奔跑速度而提升。能量消耗随着敏捷值的提高而降低。"
   }
 ]

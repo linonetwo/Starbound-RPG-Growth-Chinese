@@ -39,7 +39,7 @@
     "path": "/scaling/0/text",
     "op": "replace",
     "source": "Vitality",
-    "value": "活力"
+    "value": "体质"
   },
   {
     "path": "/scaling/1/text",

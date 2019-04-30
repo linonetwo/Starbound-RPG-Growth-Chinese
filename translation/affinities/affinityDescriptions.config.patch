@@ -3,7 +3,7 @@
     "path": "/fire/text",
     "op": "replace",
     "source": "Flame, the Powerful Affinity. This Affinity grants Fire based Immunities and Resistances, and a Medium Vigor Stat Boost. Provides better Immunities and a Large Strength Stat Boost when upgraded. Be careful, as choosing this Affinity weakens you while Submerged, and makes you weak to Poison.",
-    "value": "火焰，强大的亲和力。这种亲和力给予火力免疫和火抗性，以及中等的持续提升。升级后提供更好的免疫力和更大的力量状态提升。小心点，因为选择这种亲和力会削弱你潜入水中的能力，使你对中毒的抗性下降。"
+    "value": "火焰，强大的亲和力。这种亲和力给予火力免疫和火抗性，以及中等的活力值提升。升级后提供更好的免疫力和更大的力量状态提升。小心点，因为选择这种亲和力会削弱你潜入水中的能力，使你对中毒的抗性下降。"
   },
   {
     "path": "/poison/text",
@@ -15,7 +15,7 @@
     "path": "/ice/text",
     "op": "replace",
     "source": "Frost, the Protective Affinity. This Affinity grants Ice based Immunities and Resistances, and a Medium Vitality Stat Boost. Provides better Immunities and a Large Endurance Stat Boost when upgraded. Be careful, as choosing this Affinity lowers your Speed and Jump Height, and makes you weak to Fire.",
-    "value": "霜冻，保护性的亲和力。这种亲和力给予冰基免疫和抵抗力，以及中等活力状态增强。升级后提供更好的免疫力和更大的耐力。小心点，因为选择这种亲和力会降低你的速度和跳跃高度，并使你对火很弱。"
+    "value": "霜冻，保护性的亲和力。这种亲和力给予冰基免疫和抵抗力，以及中等体质值增强。升级后提供更好的免疫力和更大的耐力。小心点，因为选择这种亲和力会降低你的速度和跳跃高度，并使你对火很弱。"
   },
   {
     "path": "/electric/text",

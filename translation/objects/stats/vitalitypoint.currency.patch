@@ -1,13 +1,13 @@
 [
   {
     "op": "replace",
-    "value": "生命力.",
+    "value": "体质 Vit",
     "path": "/description"
   },
   {
     "path": "/shortdescription",
     "op": "replace",
     "source": "Vitality",
-    "value": "活力"
+    "value": "体质"
   }
 ]
