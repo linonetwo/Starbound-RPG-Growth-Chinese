@@ -54,7 +54,7 @@
 - 翻译文件缺失：有新的待翻译的文件，或者是 MOD 结构发生改变了
 - 源文件缺失：有没有什么翻译补丁文件没有对应的源文件，如果有就说明源 MOD 结构发生改变了
 - 翻译条目缺失：补丁文件是有的，不过某个待翻译的词条没有对应的翻译
-- 原文条目缺失：补丁文件是有的，之前也翻译过某个词条，不过这次这个词条在原文中不见了
+- 原文条目缺失：补丁文件是有的，之前也翻译过某个词条，不过这次这个词条在原文中不见了。也有可能是因为某个 key 加到了停止词表里，原因可能是这个 key （比如 lore ）尚未启用，运行时不存在，patch 了会报错。
 - 译文内容无效：原文和译文相同（说明是放在那边占位等着翻译的，或者原文是「-」这样的占位符）
 
 ### `npm run unpack:mac` 解压压缩好的 Mod 文件
@@ -125,6 +125,22 @@ https://github.com/IcyVines/Starbound-RPG-Growth/issues/6
 ### 如何上传 Mod 到 Steam？
 
 修改 `RPG_Growth_Chinese.vdf` 里的 `<PATH_TO_THIS_REPO>` 为实际绝对路径，然后进入 steamcmd （没有就下一个），`login 账号 密码`，然后输入 `workshop_build_item <PATH_TO_THIS_REPO>/Starbound-RPG-Growth-Chinese/RPG_Growth_Chinese.vdf` 即可。
+
+### 未开启的功能翻译了会报错
+
+比如在 `ivrpgtext.config.patch` 里翻译了 `/lore/children/universe/title` 和 `/lore/title` 之后会报错：
+
+```log
+[Error] Could not apply patch from file /ivrpgtext.config.patch in source: ../mods/translation.  Caused by: (JsonPatchException) Could not apply patch to base. (JsonPatchException) Could not apply operation to base. (TraversalException) Could not find "title" to remove
+```
+
+删去 `/lore/title` 后会报错：
+
+```log
+[Error] Could not apply patch from file /ivrpgtext.config.patch in source: ../mods/translation.  Caused by: (JsonPatchException) Could not apply patch to base. (JsonPatchException) Could not apply operation to base. (TraversalException) No such key 'children' in pathApply("/lore/children/universe/title")
+```
+
+所以我把它们暂时移到了 `./translate/ivrpgtext.config.patch.lore.backup` ，并在 `./scripts/constants.js` 里面加上了 `lore` ，等启动了 Lore 功能后记得改回来。
 
 详见：
 - https://community.playstarbound.com/threads/manually-uploading-to-steam-workshop-with-linux-and-mac-and-windows.118872/
