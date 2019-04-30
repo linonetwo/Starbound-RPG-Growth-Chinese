@@ -27,6 +27,13 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
         keyPaths = keyPaths.concat(keyPathsInChild);
         return;
       }
+      if (item.path) {
+        for (let stopWordID = 0; stopWordID < pathStopWordsForPatchFromSource.length; stopWordID += 1) {
+          if (item.path.includes(pathStopWordsForPatchFromSource[stopWordID])) {
+            return;
+          }
+        }
+      }
       // 处理普通数组
       if (isPlainObject(item)) {
         const keyPathsInChild = keyPathInObject(item, keys, `${parentPath}/${index}`);
@@ -38,11 +45,6 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
         return;
       }
       if (isArray(item.value) || isArray(item.value.item)) return;
-      for (let stopWordID = 0; stopWordID < pathStopWordsForPatchFromSource.length; stopWordID += 1) {
-        if (item.path.includes(pathStopWordsForPatchFromSource[stopWordID])) {
-          return;
-        }
-      }
       keyPaths.push(item);
     });
   } else {
@@ -52,7 +54,7 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
         keys.includes(key) &&
         typeof obj[key] === 'string' &&
         obj[key].length > 0 &&
-        !key.match(stopWordsPartsForValue) &&
+        !obj[key].match(stopWordsPartsForValue) &&
         !stopWordsForValue.includes(obj[key]) &&
         !stopWordsForPath.includes(key)
       ) {

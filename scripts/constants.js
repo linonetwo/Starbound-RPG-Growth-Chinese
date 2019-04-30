@@ -28,7 +28,7 @@ export const keysNeedTranslation = [
 export const keyOnlyTranslateIfItIsChild = ['name'];
 export const stopWordsForValue = ['-'];
 /** 如果名字中一部分是这个词，也不能翻译它 */
-export const stopWordsPartsForValue = /ivrpg/g;
+export const stopWordsPartsForValue = /(ivrpg)|(\.lua)/g;
 /** 如果扫描 json 的过程中经过这个 key，我们不翻译它 */
 export const stopWordsForPath = ['list', 'lore'];
 /** 源 mod 里有一些 patch 文件，它里面的 path 里带有这些停止词的 patch 文件我们不去覆盖它 */
