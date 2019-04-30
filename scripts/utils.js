@@ -4,12 +4,13 @@ import { isPlainObject, replace, isArray } from 'lodash';
 import stripJsonComments from 'strip-json-comments';
 
 import {
-  keyOnlyTranslateIfItIsChild,
+  keyMaybeDatabaseID,
   stopWordsForPath,
   stopWordsForValue,
   pathStopWordsForPatchFromSource,
   opDoNotScan,
   stopWordsPartsForValue,
+  keyToJudgeDatabaseID,
 } from './constants';
 import type { Patch } from './types';
 
@@ -59,7 +60,9 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
         !stopWordsForPath.includes(key)
       ) {
         // 有的字段在 JSON 的最顶层的时候是作为数据库 id 使用的，所以仅当不是顶级字段的时候才翻译它
-        if (!keyOnlyTranslateIfItIsChild.includes(key) || parentPath.length !== 0) {
+        const isDatabaseID =
+          keyMaybeDatabaseID.includes(key) && ((keyToJudgeDatabaseID: string[]).some(id => id in obj) || parentPath.length === 0);
+        if (!isDatabaseID) {
           keyPaths.push({ op: 'replace', value: obj[key], path: `${parentPath}/${key}` });
         }
       }
