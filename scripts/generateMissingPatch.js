@@ -12,7 +12,8 @@ import { keyPathInObject, delay } from './utils';
 
 dotenv.config();
 const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env.TRANSLATION_SECRET, 'zh', 'en');
-function tryTranslation(value: string): Promise<string> {
+function tryTranslation(value: string | Object): Promise<string | Object> {
+  if (typeof value !== 'string') return Promise.resolve(value);
   if (!value) return Promise.resolve('');
   return promiseRetry((retry, number) =>
     translate(value)
@@ -182,7 +183,6 @@ async function removeMissingSourceItem(report: string[], outputDir: string) {
     }),
   );
 }
-
 
 /** 解决译文内容无效，可能是没翻译，也可能内容是 - 之类的占位符 */
 async function removeUnusableSourceItem(report: string[], outputDir: string) {
