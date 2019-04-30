@@ -3,7 +3,7 @@
     "path": "/strength/0/text",
     "op": "replace",
     "source": "Greatly Increases Shield Health.",
-    "value": "大大提高护盾健康。"
+    "value": "大大提高护盾生命。"
   },
   {
     "path": "/strength/1/text",
@@ -27,7 +27,7 @@
     "path": "/strength/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons.",
-    "value": "^green;从20强度开始：^reset;\n双手近战武器的经典模式惩罚降低至-50％，单人近战近战武器降低至-25％。"
+    "value": "^green;从20力量开始：^reset;\n双手近战武器的经典模式惩罚降低至-50％，单人近战近战武器降低至-25％。"
   },
   {
     "path": "/agility/0/text",
@@ -57,13 +57,13 @@
     "path": "/agility/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Movement Speed and Jump Height halved.\nSpecialization penalty for Movement Speed and Jump Height halved.",
-    "value": "^green;从20敏捷开始：^reset;"
+    "value": "^green;从20敏捷开始：^reset;\n经典模式的移动速度惩罚和跳跃高度惩罚减半。\n移动速度和跳跃高度的专精惩罚减半。"
   },
   {
     "path": "/vitality/0/text",
     "op": "replace",
     "source": "Greatly Increases Max Health.",
-    "value": "极大地增加最大健康。"
+    "value": "极大地增加最大生命。"
   },
   {
     "path": "/vitality/1/text",
@@ -75,7 +75,7 @@
     "path": "/vitality/2/text",
     "op": "replace",
     "source": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved.",
-    "value": "^green;从20生命力开始：^reset;"
+    "value": "^green;从20生命力开始：^reset;\n经典模式的最大生命值惩罚和饱腹变化率惩罚减半\n由专精带来的最大生命值惩罚和饱腹变化率惩罚减半"
   },
   {
     "path": "/vigor/0/text",
@@ -99,7 +99,7 @@
     "path": "/vigor/3/text",
     "op": "replace",
     "source": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved.",
-    "value": "^green;从20维开始：^reset;"
+    "value": "^green;从20开始：^reset;\n经典模式的最大能量值惩罚减半\n由专精带来的最大能量值惩罚减半"
   },
   {
     "path": "/intelligence/0/text",
@@ -111,13 +111,13 @@
     "path": "/intelligence/1/text",
     "op": "replace",
     "source": "Minimally Increases Energy Recharge Rate.",
-    "value": "最低限度地提高能量补给率。"
+    "value": "微微地提高能量补给率。"
   },
   {
     "path": "/intelligence/2/text",
     "op": "replace",
     "source": "Increases Experience Orb Gain (Cross Party).",
-    "value": "增加经验或增益（跨方）。"
+    "value": "增加经验或增益（整个团队）。"
   },
   {
     "path": "/intelligence/3/text",
@@ -129,7 +129,7 @@
     "path": "/intelligence/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Intelligence:^reset;\nClassic Mode penalty lowered to -50% for Staffs,\nand lowered to -25% for Mono-Wielded Wands.",
-    "value": "^green;从20个智能开始：^reset;"
+    "value": "^green;从20个智力开始：^reset;\n经典模式的法杖相关惩罚 -50%\n单手法杖相关惩罚 -25%"
   },
   {
     "path": "/endurance/0/text",
@@ -141,7 +141,7 @@
     "path": "/endurance/1/text",
     "op": "replace",
     "source": "Increases Knockback Resistance.",
-    "value": "增加击退阻力。"
+    "value": "增加击退抵抗。"
   },
   {
     "path": "/endurance/2/text",
@@ -153,13 +153,13 @@
     "path": "/endurance/3/text",
     "op": "replace",
     "source": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for Armor and all Resistances halved.\nSpecialization penalty for Armor and all Resistances halved.",
-    "value": "^green;从20耐力开始：^reset;"
+    "value": "^green;从20耐力开始：^reset;\n经典模式的护甲惩罚和所有抗性惩罚减半\n由专精带来的护甲惩罚和所有抗性惩罚减半"
   },
   {
     "path": "/dexterity/0/text",
     "op": "replace",
     "source": "Increases Ranged Weapon Damage, Bleed Chance and Bleed Length.",
-    "value": "增加远程武器伤害，流血机会和流血长度。"
+    "value": "增加远程武器伤害，流血机会和流血时间长度。"
   },
   {
     "path": "/dexterity/1/text",
@@ -177,7 +177,7 @@
     "path": "/dexterity/3/text",
     "op": "replace",
     "source": "^green;Starting From 20 Dexterity:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Ranged Weapons,\nlowered to -50% for Dual-Wielded Ranged and Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee and Ranged Weapons.",
-    "value": "^green;从20敏捷度开始：^reset;"
+    "value": "^green;从20敏捷度开始：^reset;\n对于双手远程武器，经典模式惩罚降低至-50％，双持远程和近战武器的惩罚降低至-50％，\n单手近战和远程武器的惩罚降低至-25％。"
   },
   {
     "path": "/default/0/text",

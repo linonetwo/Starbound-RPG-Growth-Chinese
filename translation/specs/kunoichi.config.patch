@@ -69,7 +69,7 @@
     "path": "/effects/5/text",
     "op": "replace",
     "source": "90% Max Health",
-    "value": "90%最大健康值"
+    "value": "90%最大生命值"
   },
   {
     "path": "/effects/6/text",

@@ -9,7 +9,7 @@
     "path": "/passive/text",
     "op": "replace",
     "source": "As long as you have enough Energy, and upon taking Elemental Damage, drain up to 45 Energy to gain 15 seconds of +25% Resistance against that element. Only one kind of Resistance can apply at any given time. Energy Cost lowers if the buff is already applied.",
-    "value": "只要你有足够的能量，在受到元素伤害后，消耗45点能量，获得15秒对元素的+25%抵抗力。在任何给定的时间内，只能施加一种阻力。如果已经使用buff，能源成本会降低。"
+    "value": "只要你有足够的能量，在受到元素伤害后，消耗45点能量，获得15秒对元素的+25%抵抗力。在任何给定的时间内，只能施加一种抵抗。如果已经使用buff，能量消耗会降低。"
   },
   {
     "path": "/ability/text",
@@ -45,7 +45,7 @@
     "path": "/scaling/1/text",
     "op": "replace",
     "source": "Strength",
-    "value": "强度"
+    "value": "力量"
   },
   {
     "path": "/effects/1/text",

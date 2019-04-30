@@ -39,13 +39,13 @@
     "path": "/weakness/1/text",
     "op": "replace",
     "source": "70% Max Health while submerged",
-    "value": "在水下时最大健康度为70%"
+    "value": "在水下时最大生命值为70%"
   },
   {
     "path": "/weakness/2/text",
     "op": "replace",
     "source": "-1 E/s while submerged",
-    "value": "-水下1 e/s"
+    "value": "在水下时 -1 能量/s"
   },
   {
     "path": "/passive/0/text",

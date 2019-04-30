@@ -21,7 +21,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "Press [F] to sacrifice 10 Health and unleash demonic magic that kills enemies with Current Health less than (Intelligence/3+15)% of their Max Health. They then burst into a mist that heals allies, yet causes enemies to deteriorate. Hold [Shift] before pressing [F] to summon up to six Bone Pteropods for 10 seconds, if possible: amount scales with Intelligence and enemies killed, and their Power, Armor, and Health is set to your own.",
-    "value": "按[f]以牺牲10个生命值，释放恶魔魔法，杀死当前生命值低于最大生命值（智力/3+15%）的敌人。然后，他们爆发成一团雾，治愈同盟国，但使敌人恶化。按住[SHIFT]键，然后按[F]键召唤6只骨翼手足类动物，持续10秒，如果可能的话：智力和敌人被杀死的量表，它们的力量、盔甲和健康都被设置为你自己的。"
+    "value": "按[f]以牺牲10个生命值，释放恶魔魔法，杀死当前生命值低于最大生命值（智力/3+15%）的敌人。然后，他们爆发成一团雾，治愈同盟国，但使敌人恶化。按住[SHIFT]键，然后按[F]键召唤6只骨翼手足类动物，持续10秒，如果可能的话：智力和敌人被杀死的量表，它们的力量、盔甲和生命都被设置为你自己的。"
   },
   {
     "path": "/weapon/title",
@@ -75,7 +75,7 @@
     "path": "/effects/5/text",
     "op": "replace",
     "source": "50% Max Health",
-    "value": "50%最大健康值"
+    "value": "50%最大生命值"
   },
   {
     "path": "/effects/6/text",

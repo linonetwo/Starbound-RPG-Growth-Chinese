@@ -21,7 +21,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "An upgrade to Knight's Bash. Cause Judgement while sprinting. Bash damage is doubled while wielding a Broadsword instead of a rasied Shield. When taking fatal damage, create a holy explosion and immediately regenerate all Health and Energy. Speed increases for 2 seconds afterwards. Has a cooldown of 180 seconds. Explosion damage scales with Vigor.",
-    "value": "升级到骑士的重击。冲刺时引起判断。使用大刀而不是粗暴的盾牌时，重击伤害加倍。当受到致命伤害时，创造一个神圣的爆炸，并立即恢复所有的健康和能量。之后速度增加2秒。冷却时间为180秒。爆炸损伤程度剧烈。"
+    "value": "升级到骑士的重击。冲刺时引起判断。使用大刀而不是粗暴的盾牌时，重击伤害加倍。当受到致命伤害时，创造一个神圣的爆炸，并立即恢复所有的生命和能量。之后速度增加2秒。冷却时间为180秒。爆炸损伤程度剧烈。"
   },
   {
     "path": "/weapon/title",
@@ -45,7 +45,7 @@
     "path": "/effects/0/text",
     "op": "replace",
     "source": "Strength",
-    "value": "强度"
+    "value": "力量"
   },
   {
     "path": "/effects/1/text",

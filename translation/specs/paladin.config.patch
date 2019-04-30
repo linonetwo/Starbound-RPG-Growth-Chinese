@@ -45,7 +45,7 @@
     "path": "/effects/0/text",
     "op": "replace",
     "source": "Intelligence x2",
-    "value": "智能X2"
+    "value": "智力X2"
   },
   {
     "path": "/effects/1/text",

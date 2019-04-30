@@ -141,7 +141,7 @@
     "path": "/techs/2/text",
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to teleport to your cursor (if possible). There is a slight cooldown before you can teleport again. Energy Cost depends on Distance and Agility. During Missions (and in your ship), Translocate is Line-of-Sight only!.",
-    "value": "按[G]（在控件中绑定[G]以传送到光标（如果可能）。在你再次传送之前有一点冷却时间。能源成本取决于距离和灵活性。在任务期间（和在你的船上），易位只是视线！."
+    "value": "按[G]（在控件中绑定[G]以传送到光标（如果可能）。在你再次传送之前有一点冷却时间。能量消耗取决于距离和灵活性。在任务期间（和在你的船上），易位只是视线！."
   },
   {
     "path": "/techs/3/title",
@@ -159,6 +159,6 @@
     "path": "/techs/3/text",
     "op": "replace",
     "source": "Press [F] to toggle. While active, damage taken also affects Energy, but half the Energy lost is converted to Health. You will die if the amount of Health gained back would not have been enough to live. While active; Energy cannot lock; and Energy recharges at 10% Max Energy per second, which increases with Int. and Vigor.",
-    "value": "按[F]切换。虽然活动时，受到的伤害也会影响能量，但损失的一半能量会转化为健康。如果恢复的健康水平不足以维持生命，你会死的。当激活时；能量不能锁定；能量以每秒10%的最大能量重新充电，这会随着利息和能量的增加而增加。"
+    "value": "按[F]切换。虽然活动时，受到的伤害也会影响能量，但损失的一半能量会转化为生命。如果恢复的生命水平不足以维持生命，你会死的。当激活时；能量不能锁定；能量以每秒10%的最大能量重新充电，这会随着利息和能量的增加而增加。"
   }
 ]

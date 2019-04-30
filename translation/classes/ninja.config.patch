@@ -75,7 +75,7 @@
     "path": "/classic/3/text",
     "op": "replace",
     "source": "50% Max Health",
-    "value": "50%最大健康值"
+    "value": "50%最大生命值"
   },
   {
     "path": "/passive/0/text",
@@ -141,7 +141,7 @@
     "path": "/techs/2/text",
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to vanish. After 2 seconds, you appear at your cursor (if possible). If holding a sharp weapon, slash where you appear. During the cooldown, lose 20% Physical Resistance. Energy Cost depends on Distance and Agility.",
-    "value": "按[G]（在控件中绑定[G]以消失。2秒钟后，您将出现在光标处（如果可能）。如果拿着锋利的武器，就在你出现的地方划掉。在冷却过程中，失去20%的物理阻力。能源成本取决于距离和灵活性。"
+    "value": "按[G]（在控件中绑定[G]以消失。2秒钟后，您将出现在光标处（如果可能）。如果拿着锋利的武器，就在你出现的地方划掉。在冷却过程中，失去20%的物理抵抗。能量消耗取决于距离和灵活性。"
   },
   {
     "path": "/techs/3/title",

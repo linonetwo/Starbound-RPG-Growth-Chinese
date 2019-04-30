@@ -111,7 +111,7 @@
     "path": "/techs/0/text",
     "op": "replace",
     "source": "Press [F] to eat an MRE (Meal Ready to Eat), gaining a bit of food and all your energy. There is a cooldown of 90 seconds before you can do this again. While the cooldown is active, you gain slight health regen, but your overall speed is decreased.",
-    "value": "按[f]吃一份MRE（即食），获得一点食物和所有的能量。有90秒的冷却时间，然后您可以再次执行此操作。当冷却激活时，你获得轻微的健康回复，但你的整体速度降低。"
+    "value": "按[f]吃一份MRE（即食），获得一点食物和所有的能量。有90秒的冷却时间，然后您可以再次执行此操作。当冷却激活时，你获得轻微的生命回复，但你的整体速度降低。"
   },
   {
     "path": "/techs/1/title",
@@ -129,7 +129,7 @@
     "path": "/techs/1/text",
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to gain extra weapon damage with ranged weapons and decreased energy regen block time: however, speed and resistance are decreased. You can end the effect by pressing [G] again. The cooldown shortens if so.",
-    "value": "按[G]（在你的控制中绑定[G]以使用远程武器获得额外的武器伤害，并减少能量回复阻止时间：但是，速度和阻力会降低。你可以再次按[G]来结束效果。如果是这样，冷却时间就会缩短。"
+    "value": "按[G]（在你的控制中绑定[G]以使用远程武器获得额外的武器伤害，并减少能量回复阻止时间：但是，速度和抵抗会降低。你可以再次按[G]来结束效果。如果是这样，冷却时间就会缩短。"
   },
   {
     "path": "/techs/2/title",

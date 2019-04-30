@@ -15,7 +15,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "While Deep Underground, gain +10 Armor, +10% Physical Resistance, and 0.8x Fall Damage Multiplier.",
-    "value": "在地下深处，获得+10护甲、+10%物理阻力和0.8倍坠落伤害倍数。"
+    "value": "在地下深处，获得+10护甲、+10%物理抵抗和0.8倍坠落伤害倍数。"
   },
   {
     "path": "/crafting/text",
@@ -39,7 +39,7 @@
     "path": "/scaling/1/text",
     "op": "replace",
     "source": "Strength",
-    "value": "强度"
+    "value": "力量"
   },
   {
     "path": "/scaling/0/text",

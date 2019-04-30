@@ -21,13 +21,13 @@
     "path": "/weakness/1/text",
     "op": "replace",
     "source": "-30% Energy while submerged",
-    "value": "-水下30%的能量"
+    "value": "在水下时 -30%的能量"
   },
   {
     "path": "/weakness/2/text",
     "op": "replace",
     "source": "-1 HP/s while submerged",
-    "value": "-水下1 hp/s"
+    "value": "在水下时 -1 hp/s"
   },
   {
     "path": "/weakness/0/text",

@@ -9,7 +9,7 @@
     "path": "/ability/text",
     "op": "replace",
     "source": "While Health is greater than half, provide a bright yellow Glow.",
-    "value": "当健康度超过一半时，提供明亮的黄色光芒。"
+    "value": "当生命值超过一半时，提供明亮的黄色光芒。"
   },
   {
     "path": "/ability/name",
@@ -75,7 +75,7 @@
     "path": "/passive/1/text",
     "op": "replace",
     "source": "115% Max Health and Energy.",
-    "value": "115%最大健康和能量。"
+    "value": "115%最大生命和能量。"
   },
   {
     "path": "/techs/0/title",

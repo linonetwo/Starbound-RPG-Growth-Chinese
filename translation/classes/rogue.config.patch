@@ -111,7 +111,7 @@
     "path": "/techs/1/text",
     "op": "replace",
     "source": "Press [F] to transform into a poison-immune Spike Sphere. Left click while transformed to shoot out a ring of poison clouds (Damage scales with Dexterity). Hold Right Click while transformed to decrease your Hunger Bar to regenerate Health and Energy.",
-    "value": "按[F]转换成中毒免疫尖峰球。转化时左击，放出一圈毒云（敏捷伤害等级）。在转换时按住鼠标右键可减少饥饿指数，以恢复健康和能量。"
+    "value": "按[F]转换成中毒免疫尖峰球。转化时左击，放出一圈毒云（敏捷伤害等级）。在转换时按住鼠标右键可减少饥饿指数，以恢复生命和能量。"
   },
   {
     "path": "/techs/2/title",

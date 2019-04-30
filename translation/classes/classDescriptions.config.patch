@@ -33,7 +33,7 @@
     "path": "/explorer/text",
     "op": "replace",
     "source": "The Explorer: Evasive Utility. Does better with Tools, like Pickaxes, Flashlights, or the Matter Manipulator. The Explorer's skills mostly improve movement and mining. The Explorer glows while Health is greater than half, and is slightly more Resistant to Physical Damage.",
-    "value": "探索者：闪避能力者。更适合使用工具，如镐、手电筒或物质操纵器。探险家的技能主要是提高移动和挖掘能力。探险者在健康状态超过一半时会全身发光，对物理伤害的抵抗力略强。"
+    "value": "探索者：闪避能力者。更适合使用工具，如镐、手电筒或物质操纵器。探险家的技能主要是提高移动和挖掘能力。探险者在生命状态超过一半时会全身发光，对物理伤害的抵抗力略强。"
   },
   {
     "path": "/default/text",

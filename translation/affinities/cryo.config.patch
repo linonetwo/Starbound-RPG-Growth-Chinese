@@ -57,6 +57,6 @@
     "path": "/passive/1/text",
     "op": "replace",
     "source": "^blue;When your Health falls below one third, nearby enemies are knocked back and slowed.",
-    "value": "^blue;当你的健康下降到三分之一以下时，附近的敌人就会被击退并减速。"
+    "value": "^blue;当你的生命下降到三分之一以下时，附近的敌人就会被击退并减速。"
   }
 ]

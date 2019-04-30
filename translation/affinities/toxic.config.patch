@@ -39,12 +39,12 @@
     "path": "/weakness/1/text",
     "op": "replace",
     "source": "-15% Health",
-    "value": "- 15%健康"
+    "value": "- 15%生命"
   },
   {
     "path": "/passive/0/text",
     "op": "replace",
     "source": "+30% chance to Toxify enemies when dealing damage. Toxified enemies have -25% Max Health and are Poisoned for the duration of Toxify.",
-    "value": "+造成伤害时有30%的几率使敌人中毒。中毒的敌人有-25%的最大健康，并在中毒期间中毒。"
+    "value": "+造成伤害时有30%的几率使敌人中毒。中毒的敌人有-25%的最大生命，并在中毒期间中毒。"
   }
 ]
