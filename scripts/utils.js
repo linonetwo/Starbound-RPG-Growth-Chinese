@@ -19,21 +19,27 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
   let keyPaths: Patch[] = [];
   // 看看是不是源文件中的 patch 文件
   if (isArray(obj)) {
-    obj.forEach(item => {
+    obj.forEach((item, index) => {
       if (opDoNotScan.includes(item.op)) return;
       // 处理多维数组
       if (isArray(item)) {
-        const keyPathsInChild = keyPathInObject(item, keys);
+        const keyPathsInChild = keyPathInObject(item, keys, `${parentPath}/${index}`);
         keyPaths = keyPaths.concat(keyPathsInChild);
         return;
-        // 如果不是 array 又没有 value，那就没啥用了
       }
+      // 处理普通数组
+      if (isPlainObject(item)) {
+        const keyPathsInChild = keyPathInObject(item, keys, `${parentPath}/${index}`);
+        keyPaths = keyPaths.concat(keyPathsInChild);
+        return;
+      }
+      // 如果不是 array 又没有 value，那就没啥用了
       if (!item.value) {
         return;
       }
       if (isArray(item.value) || isArray(item.value.item)) return;
-      for (let index = 0; index < pathStopWordsForPatchFromSource.length; index += 1) {
-        if (item.path.includes(pathStopWordsForPatchFromSource[index])) {
+      for (let stopWordID = 0; stopWordID < pathStopWordsForPatchFromSource.length; stopWordID += 1) {
+        if (item.path.includes(pathStopWordsForPatchFromSource[stopWordID])) {
           return;
         }
       }
@@ -56,7 +62,7 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
         }
       }
       // 检查这个字段是不是有子字段
-      if (isPlainObject(obj[key]) && !stopWordsForPath.includes(key)) {
+      if (!stopWordsForPath.includes(key) && (isPlainObject(obj[key]) || Array.isArray(obj[key]))) {
         const keyPathsInChild = keyPathInObject(obj[key], keys, `${parentPath}/${key}`);
         keyPaths = keyPaths.concat(keyPathsInChild);
       }
