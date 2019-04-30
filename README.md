@@ -2,6 +2,8 @@
 
 [Starbound Mod RPG Growth](https://github.com/IcyVines/Starbound-RPG-Growth) 汉化
 
+下载地址：[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=1727230748) [非 Steam 直接下载](https://github.com/linonetwo/Starbound-RPG-Growth-Chinese/releases)
+
 ## Contribute
 
 如果你在游戏过程中发现不当的翻译，或者有未翻译的内容，可以在 issue 里提出，或顺手作出修改：
@@ -12,7 +14,7 @@
 
 这样修改的结果是放在你自己的仓库里的（防止用户恶意修改别人的仓库），然后你可以在我这边发起 Pull Request，让我去拉取你修改的结果，如果不懂操作上网搜搜视频吧！
 
-[Contributors](https://github.com/linonetwo/Starbound-RPG-Growth-Chinese#contributor)
+[贡献者列表](https://github.com/linonetwo/Starbound-RPG-Growth-Chinese#contributor)
 
 ### 文件名（文件路径）格式
 
