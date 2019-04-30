@@ -21,7 +21,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpggreedypurge",
-    "value": "IVRPG烟气净化"
+    "value": "烟气净化"
   },
   {
     "path": "/weapon/title",

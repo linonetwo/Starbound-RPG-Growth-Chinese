@@ -15,7 +15,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgbymyownhands",
-    "value": "IvrPgBywnHands公司"
+    "value": "BywnHands"
   },
   {
     "path": "/tech/title",
@@ -27,7 +27,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgdesperado",
-    "value": "IVRPGVIDADO"
+    "value": "VIDADO"
   },
   {
     "path": "/tech/text",

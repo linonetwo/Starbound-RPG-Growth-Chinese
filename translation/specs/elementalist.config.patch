@@ -21,7 +21,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgattune",
-    "value": "IVRPGATTUNE"
+    "value": "ATTUNE"
   },
   {
     "path": "/weapon/title",

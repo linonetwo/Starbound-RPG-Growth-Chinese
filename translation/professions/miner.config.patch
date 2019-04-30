@@ -21,7 +21,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgminerstatus",
-    "value": "IVRPG惯性状态"
+    "value": "惯性状态"
   },
   {
     "path": "/crafting/text",

@@ -21,7 +21,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgempsphere",
-    "value": "IVRPGGPON"
+    "value": "GPON"
   },
   {
     "path": "/weapon/title",

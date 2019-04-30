@@ -21,7 +21,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgnovstep",
-    "value": "IVRPG-诺瓦步"
+    "value": "-诺瓦步"
   },
   {
     "path": "/weapon/title",

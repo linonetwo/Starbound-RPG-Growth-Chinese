@@ -9,7 +9,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgSkynet",
-    "value": "IVRPGSkyNET"
+    "value": "SkyNET"
   },
   {
     "path": "/tech/title",
@@ -21,12 +21,12 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgname",
-    "value": "IVRPGNAMEY"
+    "value": "NAMEY"
   },
   {
     "path": "/weapon/title",
     "op": "replace",
     "source": "Ex Mechina",
-    "value": "中国进出口公司"
+    "value": "前机械师"
   }
 ]

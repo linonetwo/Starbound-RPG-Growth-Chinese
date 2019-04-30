@@ -21,7 +21,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgengineerstatus",
-    "value": "IVRPgenengineerstatus公司"
+    "value": "enengineerstatus"
   },
   {
     "path": "/crafting/text",

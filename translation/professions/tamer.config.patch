@@ -21,7 +21,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgtamerstatus",
-    "value": "IVRPG状态"
+    "value": "状态"
   },
   {
     "path": "/crafting/text",

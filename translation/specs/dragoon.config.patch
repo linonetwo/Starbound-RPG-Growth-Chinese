@@ -27,7 +27,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgdragonsleap",
-    "value": "IvrpgDragonsLeap公司"
+    "value": "DragonsLeap"
   },
   {
     "path": "/tech/text",

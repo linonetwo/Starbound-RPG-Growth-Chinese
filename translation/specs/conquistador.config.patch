@@ -9,7 +9,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgNETSI",
-    "value": "IVRPGNETSI"
+    "value": "NETSI"
   },
   {
     "path": "/tech/title",
@@ -21,7 +21,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgthecavalryshere",
-    "value": "IVRPG此处显示"
+    "value": "此处显示"
   },
   {
     "path": "/weapon/title",

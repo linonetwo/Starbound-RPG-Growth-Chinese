@@ -15,7 +15,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgbetweenworlds",
-    "value": "IvrPgBetweenwords公司"
+    "value": "Betweenwords"
   },
   {
     "path": "/tech/title",

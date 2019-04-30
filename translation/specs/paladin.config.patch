@@ -15,7 +15,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgperfectbarrier",
-    "value": "IVRPG完美屏障"
+    "value": "完美屏障"
   },
   {
     "path": "/tech/title",
@@ -27,7 +27,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgimmaculateshield",
-    "value": "IVRPGimmaulateShield（IVRPGimmaulateShield）"
+    "value": "immaulateShield（IVRPGimmaulateShield）"
   },
   {
     "path": "/tech/text",

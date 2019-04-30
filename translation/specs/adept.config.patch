@@ -27,7 +27,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgflashstep",
-    "value": "IVRPGFLASH步骤"
+    "value": "FLASH步骤"
   },
   {
     "path": "/tech/text",

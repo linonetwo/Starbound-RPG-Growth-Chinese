@@ -9,7 +9,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgGuns A’ Blazing",
-    "value": "IVRPGGUNS A'燃烧"
+    "value": "GUNS A'燃烧"
   },
   {
     "path": "/tech/title",

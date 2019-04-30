@@ -9,7 +9,7 @@
     "path": "/ability/name",
     "op": "replace",
     "source": "ivrpgCapture Card",
-    "value": "IVRPG卡"
+    "value": "卡"
   },
   {
     "path": "/tech/title",
@@ -27,6 +27,6 @@
     "path": "/weapon/title",
     "op": "replace",
     "source": "Headhunter",
-    "value": "猎头公司"
+    "value": "猎头"
   }
 ]

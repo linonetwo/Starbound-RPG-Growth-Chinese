@@ -27,7 +27,7 @@
     "path": "/tech/name",
     "op": "replace",
     "source": "ivrpgeinherjar",
-    "value": "IVRPGGEngEngJAR"
+    "value": "GEngEngJAR"
   },
   {
     "path": "/tech/text",
