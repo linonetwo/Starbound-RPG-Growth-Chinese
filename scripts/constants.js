@@ -24,4 +24,5 @@ export const keysNeedTranslation = [
   'label',
 ];
 export const keyOnlyTranslateIfItIsChild = ['name'];
-export const stopWords = ['-'];
+export const stopWordsForValue = ['-'];
+export const stopWordsForPath = ['list'];
