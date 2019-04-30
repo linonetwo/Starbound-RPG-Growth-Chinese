@@ -26,7 +26,8 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
         keyPaths = keyPaths.concat(keyPathsInChild);
         return;
         // 如果不是 array 又没有 value，那就没啥用了
-      } if (!item.value) {
+      }
+      if (!item.value) {
         return;
       }
       if (isArray(item.value) || isArray(item.value.item)) return;
@@ -53,7 +54,7 @@ export function keyPathInObject(obj: Object, keys: string[], parentPath: string 
         }
       }
       // 检查这个字段是不是有子字段
-      if (isPlainObject(obj[key])) {
+      if (isPlainObject(obj[key]) && !stopWordsForPath.includes(key)) {
         const keyPathsInChild = keyPathInObject(obj[key], keys, `${parentPath}/${key}`);
         keyPaths = keyPaths.concat(keyPathsInChild);
       }
