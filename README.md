@@ -144,5 +144,49 @@ https://github.com/IcyVines/Starbound-RPG-Growth/issues/6
 所以我把它们暂时移到了 `./translate/ivrpgtext.config.patch.lore.backup` ，并在 `./scripts/constants.js` 里面加上了 `lore` ，等启动了 Lore 功能后记得改回来。
 
 详见：
+
 - https://community.playstarbound.com/threads/manually-uploading-to-steam-workshop-with-linux-and-mac-and-windows.118872/
 - https://community.playstarbound.com/threads/uploading-a-mod-onto-the-steam-workshop-step-by-step-how-to.118399/
+
+### 翻译了数据库中的索引 ID
+
+比如不小心把这个东西翻译了加到 `translation/specList.config.patch` 里：
+
+```json
+{
+  "path": "/0/0/name",
+  "op": "replace",
+  "source": "paladin",
+  "value": "圣骑士"
+}
+```
+
+就会报错：
+
+```log
+[Error] Exception while calling script init: (LuaException) Error code 2, [string "/scripts/ivrpgMonsterNpcHook.lua"]:133: (AssetException) Error loading asset /specList.config
+0   starbound                           0x000000010f0ce2b0 _ZN4Star13StarExceptionC2EPKcNSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEE + 128
+1   starbound                           0x000000010f0ea7a7 _ZNK4Star6Assets8getAssetERKNS0_7AssetIdE + 359
+2   starbound                           0x000000010f0e9d1f _ZNK4Star6Assets4jsonERKNS_6StringE + 159
+```
+
+因为这个 `paladin` 不是给人看的，而是给机器看的。又比如翻译了 `translation/classes/explorer.config.patch`：
+
+```json
+{
+  "path": "/ability/name",
+  "op": "replace",
+  "source": "explorerglow",
+  "value": "探索辉光"
+}
+```
+
+就会报错：
+
+````log
+[Error] Exception while invoking lua function 'update'. (LuaException) Error code 2, [string "/scripts/ivrpgstatboosts.lua"]:339: (StatusEffectDatabaseException) No such unique stat effect '探索辉光'
+0   starbound                           0x000000010c5942b0 _ZN4Star13StarExceptionC2EPKcNSt3__112basic_stringIcNS3_11char_traitsIcEENS3_9allocatorIcEEEE + 128
+1   starbound                           0x000000010cb952f9 _ZN4Star29StatusEffectDatabaseException6formatIJNS_6StringEEEES0_PKcDpRKT_ + 89
+2   starbound                           0x000000010cb9517f _ZNK4Star20StatusEffectDatabase18uniqueEffectConfigERKNS_6StringE + 255
+3   starbound                           0x000000010cb7bd36 _ZN4Star16StatusController19addEphemeralEffectsERKNS_4ListINS_21EphemeralStatusEffectENSt3__19allocatorIS2_EEEENS_5MaybeIiEE + 422
+```
