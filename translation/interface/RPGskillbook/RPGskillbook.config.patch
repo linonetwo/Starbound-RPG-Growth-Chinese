@@ -161,7 +161,7 @@
   },
   {
     "op": "replace",
-    "value": "描边/灯光",
+    "value": "自发光",
     "path": "/gui/classlayout/children/toggleclassabilitytitle/value"
   },
   {
@@ -604,19 +604,19 @@
     "path": "/gui/overviewlayout/children/rallymodetitle/value",
     "op": "replace",
     "source": "Rally Mode: enemies become stronger as you level up!",
-    "value": "集合模式：当你提升时，敌人会变得更强！"
+    "value": "铁人模式：当你升级时，敌人也会变得更强！"
   },
   {
     "path": "/gui/overviewlayout/children/rallymodetext/value",
     "op": "replace",
     "source": "Multiple players using Rally Mode strengthens the effect.",
-    "value": "多人使用拉力模式加强效果。"
+    "value": "在多人模式中使用铁人模式会有更多挑战。"
   },
   {
     "path": "/gui/overviewlayout/children/rallymodeactive/value",
     "op": "replace",
     "source": "Active",
-    "value": "主动的"
+    "value": "开"
   },
   {
     "path": "/gui/professionslayout/children/title/value",
@@ -838,13 +838,13 @@
     "path": "/gui/specializationslayout/children/loretext/value",
     "op": "replace",
     "source": "Unlocked Via",
-    "value": "解锁通路"
+    "value": "解锁方式："
   },
   {
     "path": "/gui/specializationslayout/children/unlocktext/value",
     "op": "replace",
     "source": "Unlocked Via",
-    "value": "解锁通路"
+    "value": "解锁方式："
   },
   {
     "path": "/gui/specializationslayout/children/locked/value",
@@ -958,7 +958,7 @@
     "path": "/gui/specializationlayout/children/unlockedtext/value",
     "op": "replace",
     "source": "Unlocked",
-    "value": "解锁"
+    "value": "已解锁"
   },
   {
     "path": "/gui/skillslayout/children/locked/value",
@@ -970,7 +970,7 @@
     "path": "/gui/lorelayout/children/changelogbutton/caption",
     "op": "replace",
     "source": "Changelog",
-    "value": "长乐阁"
+    "value": "更新记录"
   },
   {
     "path": "/gui/lorelayout/children/lorebutton/caption",
