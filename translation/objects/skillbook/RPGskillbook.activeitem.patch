@@ -6,7 +6,7 @@
   },
   {
     "op": "replace",
-    "value": "神秘的书",
+    "value": "神秘之书",
     "path": "/shortdescription"
   }
 ]
