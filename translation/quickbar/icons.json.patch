@@ -1,0 +1,15 @@
+[
+  [
+    {  
+    "op" : "test", 
+    "path": "/normal/8/label",
+    "value": "Mysterious Book"
+    },
+    {
+      "path": "/normal/8/label",
+      "op": "replace",
+      "source": "Mysterious Book",
+      "value": "神秘之书"
+    }
+  ]
+]
