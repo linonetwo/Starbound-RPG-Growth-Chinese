@@ -29,6 +29,7 @@ function tryTranslation(value: string | Object): Promise<string | Object> {
         console.error('Translation Error: ', error, 'Retry: ', number);
         retry();
       }),
+      { retries: 100, maxTimeout: 10000, randomize: true },
   );
 }
 
