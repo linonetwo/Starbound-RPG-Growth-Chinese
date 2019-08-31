@@ -2,8 +2,8 @@
 {
 	"appid"		"211820"
 	"publishedfileid"		"1727230748"
-	"contentfolder"		"<PATH_TO_THIS_REPO>/Starbound-RPG-Growth-Chinese/translation"
-	"previewfile"		"<PATH_TO_THIS_REPO>/Starbound-RPG-Growth-Chinese/doc/images/preview.png"
+	"contentfolder"		"/Users/linonetwo/Desktop/repo/Starbound-RPG-Growth-Chinese/dist/"
+	"previewfile"		"/Users/linonetwo/Desktop/repo/Starbound-RPG-Growth-Chinese/doc/images/preview.png"
 	"visibility"		"0"
 	"title"		"RPG Growth 汉化补丁"
 	"description"		"Starbound Mod RPG Growth 简体中文汉化（不包含源 MOD 本体）
