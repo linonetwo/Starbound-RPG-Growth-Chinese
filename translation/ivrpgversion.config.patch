@@ -1,8 +1,0 @@
-[
-  {
-    "path": "/text",
-    "op": "replace",
-    "source": "UI:\n    Lore Tab:\n        New Lore Added.\n        Lore can be unlocked via certain actions. These will all be retroactive to be less of a pain for everyone.\n",
-    "value": "用户界面：\n    学识 Tab:\n        加入了新学识\n        学识可以通过特定的动作来解锁。他们可以起一些消解作用，让大家玩起来没那么难。\n"
-  }
-]

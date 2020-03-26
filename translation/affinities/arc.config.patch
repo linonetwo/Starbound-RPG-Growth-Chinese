@@ -33,30 +33,30 @@
     "path": "/weakness/0/text",
     "op": "replace",
     "source": "-25% Ice Resistance",
-    "value": "-25%耐冰性"
+    "value": "-25%冰抗"
   },
   {
     "path": "/weakness/1/text",
     "op": "replace",
     "source": "70% Max Health while submerged",
-    "value": "在水下时最大生命值为70%"
+    "value": "在水下时最大生命值仅为70%"
   },
   {
     "path": "/weakness/2/text",
     "op": "replace",
     "source": "-1 E/s while submerged",
-    "value": "在水下时 -1 能量/s"
+    "value": "在水下时能量每秒-1"
   },
   {
     "path": "/passive/0/text",
     "op": "replace",
     "source": "+30% chance to Overload enemies when dealing damage. Overloaded enemies have -25% Speed and chain electrifying lightning to nearby enemies.",
-    "value": "+30%造成伤害时的敌人超载几率。超载的敌人-25%的速度，并可能链式闪电伤害附近的其他敌人。"
+    "value": "造成伤害时的敌人过载载几率+30%。被过载的敌人-25%的速度，并可能附带电伤害附近的其他敌人。"
   },
   {
     "path": "/passive/1/text",
     "op": "replace",
     "source": "^yellow;Upon expending all Energy, release an Electric explosion that deals massive damage and causes Overload.",
-    "value": "^yellow;当消耗所有能量时，释放出一个会造成巨大伤害并导致过载的电爆炸。"
+    "value": "^yellow;当能量耗尽时时，释放出一个会造成成吨伤害并导致过载的电爆炸。"
   }
 ]
