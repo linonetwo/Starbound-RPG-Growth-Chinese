@@ -15,7 +15,7 @@
     "path": "/strength/2/text",
     "op": "replace",
     "source": "Slightly Increases One-Handed Melee Weapon Damage.^red; Doesn't stack with Dex.!^reset;",
-    "value": "稍微增加单手近战武器伤害。^red;不与Dex叠加。！^reset;"
+    "value": "稍微增加单手近战武器伤害。^red;不与灵巧叠加！^reset;"
   },
   {
     "path": "/strength/3/text",
