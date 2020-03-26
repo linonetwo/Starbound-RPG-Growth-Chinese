@@ -81,7 +81,7 @@ export async function sanitizeJSON(filePath: string) {
   // 修复多行字符串
   let result = replace(
     rawJSONString,
-    /"[\n ]*:[\n ]*"([0-9a-zA-Z!^;/()+\-:?,.\\ ]*\n)+([0-9a-zA-Z!^;/()+\-:?,.\\ ]*\n?)"/g,
+    /"[a-zA-Z_]+"[\n ]*:[\n ]*"[^"]+?"/g,
     (badMultilineLineString: string) => {
       return badMultilineLineString
         .split('\n')
@@ -91,5 +91,7 @@ export async function sanitizeJSON(filePath: string) {
   );
   // 修复小数点
   result = replace(result, /[0-9]\.[,\]]/g, dicimal => dicimal.replace('.', '.0'));
+  // Invalid characters in string. Control characters must be escaped.
+  result = replace(result, /\t/g, '  ')
   return writeAsync(filePath, stripJsonComments(result));
 }
