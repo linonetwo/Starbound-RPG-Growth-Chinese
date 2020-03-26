@@ -34,6 +34,7 @@ function fixMistranslation(text: string) {
     .replace('核磁共振', '生存食品包') // MRE+
     .replace('电阻', '豁免') // Physical Resistance
     .replace('功率倍增', '攻击力增加') // Increased Power Multiplier
+    .replace('完美的盾牌', '完美格挡') // Perfect Shield
 }
 
 function replaceNto1111(text: string) {

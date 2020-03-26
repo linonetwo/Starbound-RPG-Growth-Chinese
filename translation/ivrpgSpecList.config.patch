@@ -135,7 +135,7 @@
     "path": "/1/3/title",
     "op": "replace",
     "source": "Elementress",
-    "value": "元素女"
+    "value": "元素女神"
   },
   {
     "path": "/1/3/description",
@@ -351,7 +351,7 @@
     "path": "/3/5/title",
     "op": "replace",
     "source": "Operative",
-    "value": "手术的"
+    "value": "操作员"
   },
   {
     "path": "/3/6/title",
@@ -1005,7 +1005,7 @@
     "path": "/0/0/unlockText",
     "op": "replace",
     "source": "Perfect Shield the Heart of Ruin's tentacles one time.",
-    "value": "完美的盾牌毁灭之心的触手一次。"
+    "value": "完美格挡毁灭之心的触手一次。"
   },
   {
     "path": "/0/1/unlockText",
@@ -1299,13 +1299,13 @@
     "path": "/0/3/unlockText",
     "op": "replace",
     "source": "Use Spears or Shortswords to defeat enemies. Unlocked faster by defeating higher tier enemies. Take damage from a 250-block high fall without dying to unlock immediately.",
-    "value": "用长矛或短剑打败敌人。通过击败更高等级的敌人解锁更快。从一个250块高的坠落中吸取伤害，不要急于立即解锁。"
+    "value": "用长矛或短剑打败敌人。通过击败更高等级的敌人解锁更快。从一个250块高的坠落中吸取伤害而不死来解锁。"
   },
   {
     "path": "/4/3/unlockText",
     "op": "replace",
     "source": "Defeat enemies from behind. Doing so with Ranged Weapons, Bows, or Daggers grants bonus progress.",
-    "value": "从背后打败敌人。使用远程武器、弓或匕首可以获得额外的进步。"
+    "value": "从背后打败敌人。使用远程武器、弓或匕首可以获得额外的解锁进度。"
   },
   {
     "path": "/1/4/unlockText",

@@ -1065,7 +1065,7 @@
     "path": "/lore/children/class/title",
     "op": "replace",
     "source": "^gray;Class",
-    "value": "^gray;类"
+    "value": "^gray;职业"
   },
   {
     "path": "/lore/children/class/children/knight/title",
@@ -1095,7 +1095,7 @@
     "path": "/lore/children/people/children/zia/children/apprenticesfolly/title",
     "op": "replace",
     "source": "^#c16bff;The Apprentice's Folly",
-    "value": "^#学徒的愚蠢"
+    "value": "^#c16bff;学徒的愚蠢"
   },
   {
     "path": "/lore/children/class/children/wizard/children/basicwizard1/title",
@@ -1215,7 +1215,7 @@
     "path": "/lore/children/specialization/children/cannoneer/children",
     "op": "replace",
     "source": "\"That lassy has conquered many an ocean planet, but I think we can handle'er.\"\n\n\"You sure about that boss? She's apparently way tougher than she looks.\"\n\n\"Don't go playing with me now, ye'hear? What kind of pirates shy away from treasure like this. We'll whoop her real good, so quit yer yappin'.\"\n\n\"Whatever ye say, boss.\"\n\n-A recording from a damaged blackbox found in a sunken pirate ship.^green;\nSeems to be one of the only things that hasn't been blown to smithereens.",
-    "value": "“那个老太婆征服了许多海洋星球，但我想我们能应付得了。”\n\n“你确定那个老板吗？她显然比看上去坚强得多"
+    "value": "“那个老太婆征服了许多海洋星球，但我想我们能应付得了。”\n\n“你确定那个 Boss吗？她显然比看上去坚强得多"
   },
   {
     "path": "/lore/children/specialization/children/captain/title",
@@ -1257,7 +1257,7 @@
     "path": "/lore/children/specialization/children/darktemplar/title",
     "op": "replace",
     "source": "^black;Dark Templar",
-    "value": "^black;黑暗圣堂武士"
+    "value": "^gray;黑暗圣堂武士"
   },
   {
     "path": "/lore/children/specialization/children/dragoon/title",
@@ -1281,13 +1281,13 @@
     "path": "/lore/children/specialization/children/elementress/title",
     "op": "replace",
     "source": "^magenta;Elementress",
-    "value": "^magenta;"
+    "value": "^magenta;元素女神"
   },
   {
     "path": "/lore/children/specialization/children/elementress/children",
     "op": "replace",
     "source": "^#c16bff;I'm sorry.\n^white;The words she breathlessly uttered\nechoed as ^black;it^white; took her: only two remained.\n^#ffaafa;Though reasonable, your anger is stifling. Even you will not survive if you do not calm.\n^#6d577c;What, and you will?\n^#ffaafa;Don't be ridiculous.\n^#6d577c;Hmph, very like you. But for her to vanish as if I had taught her nothing... Foolish!\n^white;She chuckled a meaningless laugh. ^#ffaafa;Perhaps you will be less transparent in the next life.\n^#6d577c;There is no 'next life': my 'soul' will scatter! And if, against impossible odds, it were to reappear, I would impose my will upon this emptiness and force hers to as well.\n^#ffaafa;Hmm. ^white;Silence burgeoned as his orbitals shattered. ^#ffaafa;I sssuppose you would.",
-    "value": "^#对不起。^white;她气喘吁吁地说的话"
+    "value": "^#c16bff;对不起。^white;她气喘吁吁地说的话\n回荡着^black;^white;带走了她；只剩下两个。尽管你的愤怒是合理的，但你的愤怒是令人窒息的。如果你不冷静，连你都活不下去。^#6d577c;什么，你会的？别傻了。\n^white;她笑得毫无意义。^#ffaafa;也许你下辈子会变得不那么透明。没有“来生”：我的“灵魂”会散去！如果，在不可能的情况下，它再次出现，我会把我的意志强加在这空虚上，并迫使她也这样做。 ^#ffaafa;嗯。^white；当他的眼眶破碎时，寂静开始萌芽。 ^#ffaafa;我想你会的。"
   },
   {
     "path": "/lore/children/specialization/children/hunter/title",
@@ -1305,7 +1305,7 @@
     "path": "/lore/children/specialization/children/kunoichi/title",
     "op": "replace",
     "source": "^#FFAAAA;Kunoichi",
-    "value": "^#库诺基"
+    "value": "^#FFAAAA;くのいち（女忍者）"
   },
   {
     "path": "/lore/children/specialization/children/hunter/children",
@@ -1323,7 +1323,7 @@
     "path": "/lore/children/specialization/children/necromancer/title",
     "op": "replace",
     "source": "^black;Necromancer",
-    "value": "^黑巫师"
+    "value": "^gray;黑巫师"
   },
   {
     "path": "/lore/children/specialization/children/kunoichi/children",
@@ -1431,7 +1431,7 @@
     "path": "/lore/children/specialization/children/wanderer/title",
     "op": "replace",
     "source": "^magenta;Wanderer",
-    "value": "^magenta;"
+    "value": "^magenta;游荡者"
   },
   {
     "path": "/lore/children/specialization/children/vigilante/children",
@@ -1473,7 +1473,7 @@
     "path": "/lore/children/mechanics/title",
     "op": "replace",
     "source": "^blue;Mechanics",
-    "value": "^blue;机械"
+    "value": "^blue;机制"
   },
   {
     "path": "/lore/children/mechanics/children/enemies/title",
@@ -1575,7 +1575,7 @@
     "path": "/lore/children/mechanics/children/enemies/children/enemyboss/title",
     "op": "replace",
     "source": "Mini-Bosses",
-    "value": "迷你老板"
+    "value": "迷你 Boss"
   },
   {
     "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossgeneral/title",
@@ -1593,7 +1593,7 @@
     "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossgeneral/children",
     "op": "replace",
     "source": "Mini-bosses are enhanced versions of existing monsters. Either due to their environment, or perhaps actions outside of their own, these monsters have grown in power. Different mini-bosses have different mechanics, and they're increased power make them an immense threat that should be dealt with. Killing these monsters normally grants increased XP yields and a high chance for unique items.",
-    "value": "迷你老板是现有怪物的增强版。无论是由于他们的环境，或是他们自己以外的行为，这些怪物的力量已经增长。不同的小老板有不同的机制，他们的权力增加，使他们成为一个巨大的威胁，应该处理。杀死这些怪物通常会增加经验值和获得独特物品的几率。"
+    "value": "迷你 Boss是现有怪物的增强版。无论是由于他们的环境，或是他们自己以外的行为，这些怪物的力量已经增长。不同的小 Boss有不同的机制，他们的权力增加，使他们成为一个巨大的威胁，应该处理。杀死这些怪物通常会增加经验值和获得独特物品的几率。"
   },
   {
     "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossburst/title",
@@ -1659,13 +1659,13 @@
     "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/title",
     "op": "replace",
     "source": "Mini-Boss Dictionary",
-    "value": "迷你老板字典"
+    "value": "迷你 Boss字典"
   },
   {
     "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/enemybossnpc/children",
     "op": "replace",
     "source": "NPC Mini-Bosses will normally be elementally shielded (see 'Mini-Bosses - Element Shield' for more info). In addition to this, they will occasionally summon in RAPID Mini-Bosses to try and defeat you.\n\nUnlike Element Shield Monsters, NPCs will still be slightly damageable by every element, as their Element Shields are man-made, rather than natural. However, their Element Shield will quickly replenish their Health back to where it was when it re-filled, meaning you'd have to really overkill them to bypass their Element Shield.",
-    "value": "NPC迷你盾通常是电子盾（更多信息见“迷你盾-元素盾”）。除此之外，他们偶尔会召集快速的小老板来打败你。\n\n不同于元素盾怪物，NPC仍然会受到每个元素的轻微伤害，因为它们的元素盾是人造的，而不是自然的。然而，他们的元素盾会很快补充他们的健康回到它被填满时的状态，这意味着你必须真的杀死他们才能绕过他们的元素盾。"
+    "value": "NPC迷你盾通常是电子盾（更多信息见“迷你盾-元素盾”）。除此之外，他们偶尔会召集快速的小 Boss来打败你。\n\n不同于元素盾怪物，NPC仍然会受到每个元素的轻微伤害，因为它们的元素盾是人造的，而不是自然的。然而，他们的元素盾会很快补充他们的健康回到它被填满时的状态，这意味着你必须真的杀死他们才能绕过他们的元素盾。"
   },
   {
     "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantmandraflora/title",
@@ -1791,7 +1791,7 @@
     "path": "/lore/children/mechanics/children/statuses/children/starfallstatus/children",
     "op": "replace",
     "source": "Nova rends physical objects apart, slowly but surely. This strain decreases resistance to Electric, Fire, and Ice Damage. Also known as 'Nova Status'.",
-    "value": "诺瓦将物理物体撕裂，缓慢但肯定。这种应变降低了对电、火和冰损伤的抵抗力。也被称为“新星状态”。"
+    "value": "超新星将物理物体撕裂，缓慢但肯定。这种应变降低了对电、火和冰损伤的抵抗力。也被称为“新星状态”。"
   },
   {
     "path": "/lore/children/mechanics/children/statuses/children/stunstatus/title",
@@ -1821,7 +1821,7 @@
     "path": "/lore/children/mechanics/children/statuses/children/dazestatus/title",
     "op": "replace",
     "source": "^magenta;Daze",
-    "value": "^magenta;"
+    "value": "^magenta;眩晕"
   },
   {
     "path": "/lore/children/mechanics/children/statuses/children/dazestatus/children",
