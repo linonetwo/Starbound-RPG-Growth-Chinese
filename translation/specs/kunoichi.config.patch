@@ -76,5 +76,41 @@
     "op": "replace",
     "source": "90% Power Multiplier",
     "value": "90%攻击力倍增器"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: A slash of pressurized wind.",
+    "value": "主要攻击：一股高压风。"
+  },
+  {
+    "path": "/weapon/text/2",
+    "op": "replace",
+    "source": "Walking Backward: A petal explosion.",
+    "value": "向后走：花瓣爆炸。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Walking Forward: A quick thrust forwards.",
+    "value": "向前走：向前快速推进。"
+  },
+  {
+    "path": "/weapon/text/3",
+    "op": "replace",
+    "source": "Crouching/Aerial: Fast swings in both directions.",
+    "value": "蹲下/空中：在两个方向快速摆动。"
+  },
+  {
+    "path": "/weapon/text/4",
+    "op": "replace",
+    "source": "Holding Shift: Cancels directional input.",
+    "value": "按住Shift键：取消方向输入。"
+  },
+  {
+    "path": "/weapon/text/5",
+    "op": "replace",
+    "source": "Passive: Chaining from Primary and Forward Attacks raises Damage and Attack Speed.",
+    "value": "被动：从主攻和前攻开始的链锁可以提高伤害和攻击速度。"
   }
 ]

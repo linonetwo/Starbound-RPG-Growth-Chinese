@@ -1,0 +1,242 @@
+[
+  {
+    "path": "/0",
+    "op": "replace",
+    "source": "universe",
+    "value": "宇宙"
+  },
+  {
+    "path": "/1",
+    "op": "replace",
+    "source": "people",
+    "value": "人"
+  },
+  {
+    "path": "/2",
+    "op": "replace",
+    "source": "class",
+    "value": "班"
+  },
+  {
+    "path": "/3",
+    "op": "replace",
+    "source": "specialization",
+    "value": "专业化"
+  },
+  {
+    "path": "/4",
+    "op": "replace",
+    "source": "mechanics",
+    "value": "力学"
+  },
+  {
+    "path": "/5",
+    "op": "replace",
+    "source": "truth",
+    "value": "真理"
+  },
+  {
+    "path": "/6",
+    "op": "replace",
+    "source": "knight",
+    "value": "骑士"
+  },
+  {
+    "path": "/7",
+    "op": "replace",
+    "source": "wizard",
+    "value": "向导"
+  },
+  {
+    "path": "/8",
+    "op": "replace",
+    "source": "ninja",
+    "value": "忍者"
+  },
+  {
+    "path": "/9",
+    "op": "replace",
+    "source": "soldier",
+    "value": "士兵"
+  },
+  {
+    "path": "/10",
+    "op": "replace",
+    "source": "rogue",
+    "value": "流氓"
+  },
+  {
+    "path": "/11",
+    "op": "replace",
+    "source": "explorer",
+    "value": "探险家"
+  },
+  {
+    "path": "/12",
+    "op": "replace",
+    "source": "enemybossgeneral",
+    "value": "灌肠"
+  },
+  {
+    "path": "/13",
+    "op": "replace",
+    "source": "enemybossshield",
+    "value": "能量屏蔽"
+  },
+  {
+    "path": "/14",
+    "op": "replace",
+    "source": "enemybossburst",
+    "value": "enemybossburst公司"
+  },
+  {
+    "path": "/15",
+    "op": "replace",
+    "source": "enemybossrapid",
+    "value": "灌肠"
+  },
+  {
+    "path": "/16",
+    "op": "replace",
+    "source": "enemybossblood",
+    "value": "灌肠"
+  },
+  {
+    "path": "/17",
+    "op": "replace",
+    "source": "enemybossbreed",
+    "value": "灌肠草"
+  },
+  {
+    "path": "/18",
+    "op": "replace",
+    "source": "enemybossnpc",
+    "value": "Enemybosnsnpc公司"
+  },
+  {
+    "path": "/19",
+    "op": "replace",
+    "source": "enemybossspecific",
+    "value": "特异性"
+  },
+  {
+    "path": "/20/0",
+    "op": "replace",
+    "source": "adept",
+    "value": "熟练的"
+  },
+  {
+    "path": "/20/1",
+    "op": "replace",
+    "source": "cannoneer",
+    "value": "炮手"
+  },
+  {
+    "path": "/20/2",
+    "op": "replace",
+    "source": "captain",
+    "value": "船长"
+  },
+  {
+    "path": "/20/3",
+    "op": "replace",
+    "source": "changeling",
+    "value": "换生灵"
+  },
+  {
+    "path": "/20/4",
+    "op": "replace",
+    "source": "crusader",
+    "value": "十字军"
+  },
+  {
+    "path": "/20/5",
+    "op": "replace",
+    "source": "darktemplar",
+    "value": "黑暗炮兵"
+  },
+  {
+    "path": "/20/6",
+    "op": "replace",
+    "source": "dragoon",
+    "value": "龙骑兵"
+  },
+  {
+    "path": "/20/7",
+    "op": "replace",
+    "source": "elementress",
+    "value": "元素女"
+  },
+  {
+    "path": "/20/8",
+    "op": "replace",
+    "source": "hunter",
+    "value": "猎人"
+  },
+  {
+    "path": "/20/9",
+    "op": "replace",
+    "source": "kunoichi",
+    "value": "库诺基"
+  },
+  {
+    "path": "/20/10",
+    "op": "replace",
+    "source": "necromancer",
+    "value": "巫师"
+  },
+  {
+    "path": "/20/11",
+    "op": "replace",
+    "source": "paladin",
+    "value": "圣骑士"
+  },
+  {
+    "path": "/20/12",
+    "op": "replace",
+    "source": "pioneer",
+    "value": "先锋"
+  },
+  {
+    "path": "/20/13",
+    "op": "replace",
+    "source": "technomancer",
+    "value": "重甲战士们"
+  },
+  {
+    "path": "/20/14",
+    "op": "replace",
+    "source": "titan",
+    "value": "泰坦"
+  },
+  {
+    "path": "/20/15",
+    "op": "replace",
+    "source": "thief",
+    "value": "小偷"
+  },
+  {
+    "path": "/20/16",
+    "op": "replace",
+    "source": "valkyrie",
+    "value": "女武神"
+  },
+  {
+    "path": "/20/17",
+    "op": "replace",
+    "source": "vanguard",
+    "value": "先锋"
+  },
+  {
+    "path": "/20/18",
+    "op": "replace",
+    "source": "vigilante",
+    "value": "义务警员"
+  },
+  {
+    "path": "/20/19",
+    "op": "replace",
+    "source": "wraith",
+    "value": "幽灵"
+  }
+]

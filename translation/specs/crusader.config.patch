@@ -82,5 +82,17 @@
     "op": "replace",
     "source": "+15% Electric Resistance",
     "value": "+15%抗性"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: An 18 hit combo that uses up Energy on each swing. Some hits cause Judgement Status.",
+    "value": "主要攻击：一个18击的连击，每次挥杆都消耗能量。一些命中导致判断状态。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Secondary Fire: Hold to fire a beam of holy energy. Release to swing, causing energy spikes along the beam's length. Uses up a lot of Energy.",
+    "value": "二级火：保持发射一束神圣能量。释放到摆动，引起沿光束长度的能量峰值。消耗了很多能量。"
   }
 ]

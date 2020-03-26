@@ -82,5 +82,17 @@
     "op": "replace",
     "source": "-20% Poison Resistance",
     "value": "-20%抗毒性"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Outburst: Fires five grenades. Grenades float in place, but detonate on impact with enemies. Each grenade deals a different status; Poison, Ice, Electric, Disorient, and Bleed.\n^red;Does less damage as Energy ratio decreases!",
+    "value": "爆发：发射五枚手榴弹。手榴弹漂浮在原地，但在与敌人碰撞时引爆。每枚手榴弹都有不同的状态：毒药、冰、电、迷失方向和流血。\n^red;当能量比降低时伤害更小！"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Stormhowl: An arching slash with extended ranged followed by a directional stab. Causes Embrittle.",
+    "value": "风暴吼：一种弓形的斜线，具有延伸的射程，然后是定向刺。导致脆化。"
   }
 ]

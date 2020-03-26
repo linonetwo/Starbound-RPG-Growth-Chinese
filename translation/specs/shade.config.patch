@@ -16,5 +16,11 @@
     "op": "replace",
     "source": "Quasar",
     "value": "类星体"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: ",
+    "value": "主要攻击："
   }
 ]

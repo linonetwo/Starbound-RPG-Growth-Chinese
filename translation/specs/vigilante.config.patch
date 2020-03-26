@@ -76,5 +76,17 @@
     "op": "replace",
     "source": "75% Max Energy",
     "value": "75%最大能量"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Anne: a pistol that uses 16.7% Max Energy per shot, but does massive damage and knockback. Paired with Marie, each shot uses 12.5% Max Energy instead, and sets enemies ablaze.",
+    "value": "安妮：一支每发最大消耗16.7%能量的手枪，但会造成巨大伤害和击退。与玛丽搭配，每次射击消耗12.5%的最大能量，并点燃敌人。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Marie: a pistol with High RoF, Low Energy Usage, and Low Damage. Bullets pierce and cause bleed. Paired with Anne, gain +20% Physical and Knockback Resistance.",
+    "value": "玛丽：一支高RoF、低能耗、低伤害的手枪。子弹刺穿并导致流血。与安妮搭档，获得+20%的物理和击退抗性。"
   }
 ]

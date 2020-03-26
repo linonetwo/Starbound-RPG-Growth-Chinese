@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/0/value/0",
+    "op": "replace",
+    "source": "linear",
+    "value": "线性的"
+  },
+  {
+    "path": "/0/value/1",
+    "op": "replace",
+    "source": "clamp",
+    "value": "夹紧"
+  }
+]

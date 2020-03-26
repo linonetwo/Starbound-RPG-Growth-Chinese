@@ -82,5 +82,23 @@
     "op": "replace",
     "source": "Enables Katanas",
     "value": "启用片假名"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: A long chain of quick swings.",
+    "value": "主要攻击：一长串快速摆动。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Secondary Fire: Parry and counterattack if hit. Suffer a brief period of physical weakness after a failed parry.",
+    "value": "次要攻击：招架，击中后反击。招架失败后短暂的身体虚弱。"
+  },
+  {
+    "path": "/weapon/text/2",
+    "op": "replace",
+    "source": "Passive: Kills with this weapon increase swing-rate for a short period.",
+    "value": "被动的：用这种武器杀死会在短时间内增加摆动率。"
   }
 ]

@@ -3,7 +3,7 @@
     "path": "/title",
     "op": "replace",
     "source": "^green;Ether Experiment",
-    "value": "^green;乙醚实验"
+    "value": "^green;以太实验"
   },
   {
     "path": "/text",

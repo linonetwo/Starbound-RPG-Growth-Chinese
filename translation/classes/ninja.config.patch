@@ -124,5 +124,11 @@
     "op": "replace",
     "source": "An upgrade to Flash Jump. Cling to walls by moving against them during a jump, and refresh your jumps upon doing so. Press [S] to slide down while clinging. Press [Space] while clinging or sliding to jump. Move away from the wall to get off.",
     "value": "Flash Jump的升级版。在跳跃过程中靠近墙壁可以紧贴墙壁，之后你就能再次跳跃。按住[S]可向下滑动。按住[空格键]再次跳跃。离开墙后技能结束。"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "The Aether is a tantō that always causes Bleed. Shadow Aether's final swing forms an energy kunai. Blood Aether increases Power as you hit enemies, and uses more energy to make the kunai phase through walls!",
+    "value": "以太是一种常引起流血的物质。影以太的最后一次挥舞形成了一个能量库奈。血之以太在你攻击敌人时增加力量，并使用更多的能量使库奈相位穿过墙壁！"
   }
 ]

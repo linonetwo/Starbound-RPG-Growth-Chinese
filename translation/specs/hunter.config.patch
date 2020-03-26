@@ -88,5 +88,35 @@
     "op": "replace",
     "source": "Mida",
     "value": "点物成金"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Deadfall: Long Draw, Low Damage, 50 Energy. Tethers. Tethered foes slow and share damage.",
+    "value": "死亡：长抽，低伤害，50点能量。系绳。被拴住的敌人减速并分担伤害。"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Mida: 30 Energy. Fires powerful arrows.",
+    "value": "迈达：30能量。发射强大的箭。"
+  },
+  {
+    "path": "/weapon/text/2",
+    "op": "replace",
+    "source": "Pulsar: Medium Draw, Medium Damage, 40 Energy. Fires three shocking arrows. Bursts on activation.",
+    "value": "脉冲星：中等伤害，40点能量。射出三支令人震惊的箭。激活时爆发。"
+  },
+  {
+    "path": "/weapon/text/3",
+    "op": "replace",
+    "source": "Sunshot: Short Draw, High Damage, 20 Energy. Pierces. Kills cause explosions and refund Energy.",
+    "value": "太阳热：短抽，高伤害，20能量。皮尔斯。杀戮会引起爆炸并释放能量。"
+  },
+  {
+    "path": "/weapon/text/4",
+    "op": "replace",
+    "source": "Passive: Perfect Release halves Energy Cost.",
+    "value": "被动：完全释放一半的能源成本。"
   }
 ]

@@ -82,5 +82,17 @@
     "op": "replace",
     "source": "-20% Holy Resistance",
     "value": "-20%神圣抵抗力"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: A large arching slash that deals Demonic Damage and causes Bleed.",
+    "value": "主要攻击：一个巨大的弓形斜线，造成恶魔伤害并导致流血。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Secondary Fire: Hold to charge, and release to release Demonic Energy. The longer you hold the more Demonic Energy is released.",
+    "value": "次要攻击：保持冲锋，释放恶魔能量。你持有的时间越长，释放的恶魔能量就越多。"
   }
 ]

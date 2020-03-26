@@ -70,5 +70,11 @@
     "op": "replace",
     "source": "115% Base Power with Wands: Scales with Dex.",
     "value": "使用魔杖时享有 115% 基本攻击力：基于 DEX 缩放。"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: Hold to create a point of collapse that shoots volatile matter at nearby enemies. The collapse can also target allies, and provided short invulnerability and energy regen when it does. The longer fire is held, the longer the collapse lasts.",
+    "value": "主要攻击：按住以产生一个崩塌点，向附近的敌人发射挥发性物质。崩溃也可以针对盟友，并提供短暂的不可攻击性和能量再生。火越盛，崩塌持续的时间就越长。"
   }
 ]

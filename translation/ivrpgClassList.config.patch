@@ -1,0 +1,44 @@
+[
+  {
+    "path": "/0",
+    "op": "replace",
+    "source": "knight",
+    "value": "骑士"
+  },
+  {
+    "path": "/1",
+    "op": "replace",
+    "source": "wizard",
+    "value": "向导"
+  },
+  {
+    "path": "/2",
+    "op": "replace",
+    "source": "ninja",
+    "value": "忍者"
+  },
+  {
+    "path": "/3",
+    "op": "replace",
+    "source": "soldier",
+    "value": "士兵"
+  },
+  {
+    "path": "/4",
+    "op": "replace",
+    "source": "rogue",
+    "value": "流氓"
+  },
+  {
+    "path": "/5",
+    "op": "replace",
+    "source": "explorer",
+    "value": "探险家"
+  },
+  {
+    "path": "/6",
+    "op": "replace",
+    "source": "default",
+    "value": "违约"
+  }
+]

@@ -76,5 +76,17 @@
     "op": "replace",
     "source": "Can Dual-Wield Ranged Weapons and Wands.",
     "value": "可以双持远程武器和魔杖。"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: Fire a stream of elemental energy.",
+    "value": "主要攻击：发射一股元素能量流。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Secondary Fire: Switch Elements. Omnia-Thrower can switch between Nova, Fire, Electric, Ice, and Poison. Using Secondary Fire while holding Shift switches between Nova and the last used Element.",
+    "value": "次要攻击：开关元件。Omnia投掷者可以在新星、火、电、冰和毒药之间切换。在新星和最后一个使用的元素之间按住转换开关时使用次要攻击。"
   }
 ]

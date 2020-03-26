@@ -94,5 +94,17 @@
     "op": "replace",
     "source": "-50% Physical Resistance",
     "value": "-50%物理抗性"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: a short stab that does minimal Demonic Damage.",
+    "value": "主要攻击：一种造成最小恶魔伤害的短刺。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Combo Finisher: uses Energy to slash towards your aiming direction. Causes the 'Cursed' status, which afflicts enemies with random ailments, like the inability to move or a health debuff.",
+    "value": "组合终结者：使用能量向你的瞄准方向猛击。造成“诅咒”状态，使敌人遭受随机疾病的折磨，如无法移动或健康下降。"
   }
 ]

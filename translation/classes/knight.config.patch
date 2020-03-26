@@ -124,5 +124,17 @@
     "op": "replace",
     "source": "An upgrade to Bash. While sprinting, the player receives physical resistance. While damage remains the same, enemies are stunned on hit. Damage scales with Strength and Run Speed. Energy Cost decreases with higher Agility.",
     "value": "重击的升级版。冲刺时时，玩家提升物理抵抗。虽然伤害保持不变，但敌人被击中时会眩晕。攻击力随着力量和奔跑速度而提升。能量消耗随着敏捷值的提高而降低。"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "The Aegis is a broadsword that can be used as a shield. Perfect Blocking triggers the Knight's class ability. Perfect Blocking with the Vital Aegis restores health.",
+    "value": "宙斯盾是一把可以用作盾牌的大刀。完美的阻挡触发骑士的等级能力。完美封锁与至关重要的宙斯盾恢复健康。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Attack Animations by ^blue;Ribs^reset;. Check out ^blue;Project Blade Dance^reset; if you haven't already!",
+    "value": "通过^blue；肋骨^reset；攻击动画；。签出^blue；项目刀锋舞^reset；如果你还没有！"
   }
 ]

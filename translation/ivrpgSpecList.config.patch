@@ -544,5 +544,545 @@
     "op": "replace",
     "source": "Cleric",
     "value": "神职人员"
+  },
+  {
+    "path": "/0/1/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Crushing Meteor, a Hammer that can crush even obsidian beneath its hefty weight.",
+    "value": "获得粉碎流星，一个锤子，可以粉碎甚至黑曜石在其沉重的重量。"
+  },
+  {
+    "path": "/0/1/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Limit Break, a Tech that makes you unstoppable for a short period, letting you even break walls moving fast enough.",
+    "value": "获得极限突破，这项技术可以让你在短时间内保持不可阻挡的状态，甚至可以让你突破移动速度足够快的墙壁。"
+  },
+  {
+    "path": "/0/2/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Iaijutsu, a Tech that allows you to use Energy to quickly slash forwards.",
+    "value": "访问Iaijutsu，这是一种可以让你使用能量快速向前砍的技术。"
+  },
+  {
+    "path": "/0/3/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Einherjar, a Tech that allows you to grant invulnerability to a nearby ally.",
+    "value": "获得艾因哈尔，一种技术，允许你授予附近的盟友无懈可击。"
+  },
+  {
+    "path": "/0/4/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Oathkeeper, a Broadsword with a lengthy combo and the ability to fire Holy Energy.",
+    "value": "获得奥特凯普，一把长时间连击的大刀，以及发射神圣能量的能力。"
+  },
+  {
+    "path": "/0/0/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to True Aegis, a Two-Handed Shield with Holy Powers. True Aegis can channel Holy Energy outwards, dealing constant damage and debuffing all enemies it hits.",
+    "value": "获得真正的宙斯盾，一个拥有神圣力量的双手盾牌。真正的宙斯盾可以向外传送神圣能量，造成持续的伤害，并清除所有敌人的攻击。"
+  },
+  {
+    "path": "/0/4/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Resurgence, a Tech that modifies sprint and allows you to come back from certain death.",
+    "value": "获得“复活”的权限，这是一种修改sprint的技术，可以让你从死亡中复活。"
+  },
+  {
+    "path": "/0/5/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to The Cavalry's Here, a Tech that summons a horse you can ride.",
+    "value": "进入骑兵队，一种召唤你可以骑的马的技术。"
+  },
+  {
+    "path": "/0/5/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Arquebus, a Crossbow that shoots exploding bolts.",
+    "value": "进入Arquebus，一种射出爆炸性箭的弩。"
+  },
+  {
+    "path": "/0/7/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Dragon's Leap, a Tech that upgrades Knight's Slam with phenomenal Jump Height and a better Slam explosion.",
+    "value": "获得龙跃，一个技术升级骑士的大满贯与惊人的跳跃高度和更好的大满贯爆炸。"
+  },
+  {
+    "path": "/0/7/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Dragon's Bane, a Two-handed Spear with excellent range and elemental capabilities.",
+    "value": "获得龙之祸害，一个双手长矛，具有出色的射程和元素能力。"
+  },
+  {
+    "path": "/0/3/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Gungnir, a Spear that turns enemies into a healing ray of light.",
+    "value": "进入冈尼尔，一种能将敌人转化为治愈之光的长矛。"
+  },
+  {
+    "path": "/0/2/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Samurai Heart, a Katana that can be used to deftly counter enemies.",
+    "value": "进入武士之心，一个可以用来巧妙对抗敌人的武士刀。"
+  },
+  {
+    "path": "/1/0/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Reap, a Tech that allows you to instantly kill low health enemies or spawn a friendly monster.",
+    "value": "获取获取收割，这项技术可以让你立即杀死低生命值的敌人或产生一个友好的怪物。"
+  },
+  {
+    "path": "/1/1/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Solstice, a Melee Staff that can be empowered with Nova Energy.",
+    "value": "获得进入至日的权限，这是一个可以获得新星能量的近战杖。"
+  },
+  {
+    "path": "/0/8/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Heartless, a Halberd with far-reaching swings that can cause massive explosions.",
+    "value": "接触无情的戟，这种戟有着深远的摆动，可以引起巨大的爆炸。"
+  },
+  {
+    "path": "/0/6/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/1/3/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Eclipse, a Wand that spawns seeking shards of Nova Energy.",
+    "value": "获得日食，一根产生寻找新星能量碎片的魔杖。"
+  },
+  {
+    "path": "/0/0/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Immaculate Shield, a Tech that provides team support but requires a skillful defense.",
+    "value": "获得无瑕盾牌，一种提供团队支持但需要熟练防御的技术。"
+  },
+  {
+    "path": "/1/3/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Attune, a Tech that provides an amplitude of elemental abilities.",
+    "value": "获得调谐，一种提供基本能力幅度的技术。"
+  },
+  {
+    "path": "/0/8/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Abounding Darkness, a Tech that drains Health but damages nearby enemies and drains their lifeforce.",
+    "value": "获得大量的黑暗，这是一个技术，消耗健康，但损害附近的敌人和他们的生命力量。"
+  },
+  {
+    "path": "/1/2/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Orbital, a Staff that can summon Nova crystals and pull space apart.",
+    "value": "进入轨道，一根可以召唤新星晶体并拉开空间的棍子。"
+  },
+  {
+    "path": "/1/5/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Dark Phase, a Tech that replaces jumping with the ability to hover through walls.",
+    "value": "进入黑暗阶段，这是一种技术，它可以代替跳跃，让你在墙壁上悬停。"
+  },
+  {
+    "path": "/1/6/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Omnia-Thrower, a Flamethrower that can switch between Nova, Fire, Electric, Ice, and Poison Energy.",
+    "value": "获得一个可以在新星，火，电，冰和毒药能量之间切换的火焰喷射器。"
+  },
+  {
+    "path": "/1/6/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Elemental Overcharge, a Tech that upgrades Magic Shield with improved Element Resistance and Increased Power.",
+    "value": "获得元素过充，一项技术，升级魔法盾与提高元素电阻和功率。"
+  },
+  {
+    "path": "/1/7/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Shapeshift, a Head Tech that enables transformation between Poptop, Wisper, and Orbide, each with unique attacks, movement, and passive abilities.",
+    "value": "获得Shapeshift，这是一种头部技术，可以在Poptop、Wisper和Orbide之间进行转换，每个人都有独特的攻击、移动和被动能力。"
+  },
+  {
+    "path": "/1/2/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Nova Step, a Tech that allows you to walk midir by creating viscous clouds of Nova energy.",
+    "value": "进入Nova Step，这项技术可以让你通过创建Nova能量的粘性云来行走midir。"
+  },
+  {
+    "path": "/2/0/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Quasar, a Dagger that causes darkness when killing ememies.",
+    "value": "获得类星体，一种在杀死峨眉时会导致黑暗的匕首。"
+  },
+  {
+    "path": "/1/4/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Resurgence, a Tech that modifies sprint and allows you to come back from certain death.",
+    "value": "获得“复活”的权限，这是一种修改sprint的技术，可以让你从死亡中复活。"
+  },
+  {
+    "path": "/2/1/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Fear, a Bow that can shoot deadly mines and piercing arrows.",
+    "value": "获得恐惧，一种可以射出致命地雷和箭的弓。"
+  },
+  {
+    "path": "/2/0/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Hidden Dragon, a Tech that enables camouflage on command.",
+    "value": "获得对隐藏龙的访问权，这是一种可以在命令下伪装的技术。"
+  },
+  {
+    "path": "/1/4/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Oathkeeper, a Broadsword with a crazy combo and the ability to fire Holy Energy.",
+    "value": "获得奥特凯普，一把带有疯狂连击的大刀，以及发射神圣能量的能力。"
+  },
+  {
+    "path": "/2/3/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Phase Shift, a One-Handed Wand with phenomenal AoE damage against enemies and fantastic AoE ally support.",
+    "value": "获得相移，一个单手魔杖，对敌人造成显著的AoE伤害，并提供极好的AoE盟友支援。"
+  },
+  {
+    "path": "/2/3/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Flash Step, a Tech that replaces jumping with unstable, directional teleportation.",
+    "value": "获得进入闪光步，一种技术，取代跳跃与不稳定，定向传送。"
+  },
+  {
+    "path": "/2/5/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/2/4/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/2/6/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/1/8/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/2/8/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Heartless, a Halberd with far-reaching swings that can cause massive explosions.",
+    "value": "接触无情的戟，这种戟有着深远的摆动，可以引起巨大的爆炸。"
+  },
+  {
+    "path": "/2/7/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Shapeshift, a Head Tech that enables transformation between Poptop, Wisper, and Orbide, each with unique attacks, movement, and passive abilities.",
+    "value": "获得Shapeshift，这是一种头部技术，可以在Poptop、Wisper和Orbide之间进行转换，每个人都有独特的攻击、移动和被动能力。"
+  },
+  {
+    "path": "/2/2/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Luxuria, a One-handed War Fan with phenomenal speed and graceful combos.",
+    "value": "获得卢克苏里亚，一个单手的球迷与惊人的速度和优雅的组合。"
+  },
+  {
+    "path": "/2/2/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Swirling Petal, a Tech that allows for quick backwards movement and provides great crowd control via dazing gas.",
+    "value": "获得旋转花瓣，一项技术，允许快速向后移动，并通过眩晕气体提供了巨大的人群控制。"
+  },
+  {
+    "path": "/1/1/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Battle Aura, a Tech that empowers you and nearby allies with various physical buffs.",
+    "value": "获得战斗光环，这是一种能让你和周围盟友获得各种物理增益的技术。"
+  },
+  {
+    "path": "/2/8/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Abounding Darkness, a Tech that drains Health but damages nearby enemies and drains their lifeforce.",
+    "value": "获得大量的黑暗，这是一个技术，消耗健康，但损害附近的敌人和他们的生命力量。"
+  },
+  {
+    "path": "/2/1/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Entrapment, a Tech that captures enemies in deadly traps.",
+    "value": "获得诱捕，一种在致命陷阱中捕获敌人的技术。"
+  },
+  {
+    "path": "/3/0/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Ex-Mechina, a One-Handed Rocket Launcher that leaves behind arc energy pulses.",
+    "value": "进入前机械手，一个留下电弧能量脉冲的单手火箭发射器。"
+  },
+  {
+    "path": "/3/1/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Ideal Shot, a Tech that upgrades Marksman to greatly increase Power.",
+    "value": "获得理想射击的机会，这是一种技术，可以升级神射手，从而大大增加力量。"
+  },
+  {
+    "path": "/3/2/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Anne and Marie, a pair of unique and powerful pistols that syngerize well together.",
+    "value": "获得安妮和玛丽，一对独特和强大的手枪，很好地结合在一起。"
+  },
+  {
+    "path": "/3/2/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Desperado, a Tech that grants infinite Energy and ramps up power when used.",
+    "value": "获得对亡命之徒的访问权，这是一种在使用时提供无限能量和提升能量的技术。"
+  },
+  {
+    "path": "/3/3/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Epimetheus, a one-handed Submachine Gun with average stats that provides defensive bonuses upon killing enemies.",
+    "value": "获得Epimetheus，一种单手冲锋枪，具有平均属性，在杀死敌人时提供防御奖励。"
+  },
+  {
+    "path": "/3/3/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Atlas' Burden, a Tech that increases the offensive and defensive capabilities of you and nearby allies.",
+    "value": "获得阿特拉斯的负担，一种增加你和附近盟友进攻和防御能力的技术。"
+  },
+  {
+    "path": "/3/4/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Danger Close, a One-Handed Submachine Gun that has terrible accuracy but shreds while near enemies.",
+    "value": "接近危险，一种单手冲锋枪，精度很差，但在接近敌人时会碎裂。"
+  },
+  {
+    "path": "/1/5/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Soulless Whisper, a cursed Claw whose combo finisher allows for travel in any direction.",
+    "value": "获得进入无灵魂低语，一个诅咒的爪，其组合终结者允许在任何方向旅行。"
+  },
+  {
+    "path": "/3/1/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Lotus, a Sniper Rifle that can create clouds of deadly gas upon defeating enemies.",
+    "value": "获得莲花，一个狙击步枪，可以创造致命的气体云击败敌人。"
+  },
+  {
+    "path": "/3/5/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/3/4/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly.",
+    "value": "使用Rush，这是一种可以让你快速接近并攻击敌人的技术。"
+  },
+  {
+    "path": "/3/6/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Omnia-Thrower, a Flamethrower that can switch between Nova, Fire, Electric, Ice, and Poison Energy.",
+    "value": "获得一个可以在新星，火，电，冰和毒药能量之间切换的火焰喷射器。"
+  },
+  {
+    "path": "/3/7/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Dragon's Leap, a Tech that upgrades Knight's Slam with phenomenal Jump Height and a better Slam explosion.",
+    "value": "获得龙跃，一个技术升级骑士的大满贯与惊人的跳跃高度和更好的大满贯爆炸。"
+  },
+  {
+    "path": "/3/8/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/4/0/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Bombs Away, a Tech that provides the ability to shoot cannonballs in multiple directions.",
+    "value": "获得远离炸弹的机会，这项技术提供了向多个方向发射炮弹的能力。"
+  },
+  {
+    "path": "/4/0/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Outburst and Stormhowl, a Grenade Launcher and Shortsword pair that devastates enemies up close.",
+    "value": "获得爆发和风暴吼，一个手榴弹发射器和短剑对，摧毁敌人近距离。"
+  },
+  {
+    "path": "/4/1/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Sarin, a Dagger that releases a special chemical substance that can cause poisonous explosions.",
+    "value": "获得沙林，一把匕首，释放一种特殊的化学物质，可以引起有毒的爆炸。"
+  },
+  {
+    "path": "/4/1/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Shrapnel Mine, a tech that places mines that can vary in effect depending on weapon loadout.",
+    "value": "获得弹片地雷，一种放置地雷的技术，根据武器装载量的不同，地雷的效果也会有所不同。"
+  },
+  {
+    "path": "/4/2/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Chrysantha, a Vine Whip that can root enemies in place.",
+    "value": "获得金菊，一种可以在原地扎根敌人的藤鞭。"
+  },
+  {
+    "path": "/3/6/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Elemental Overcharge, a Tech that upgrades Magic Shield with improved Element Resistance and Increased Power.",
+    "value": "获得元素过充，一项技术，升级魔法盾与提高元素电阻和功率。"
+  },
+  {
+    "path": "/4/2/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Natural Aura, a Tech that pacifies nearby natural monsters.",
+    "value": "获得自然光环，一种可以安抚附近自然怪物的技术。"
+  },
+  {
+    "path": "/4/3/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Multitool, a Tech that enables a variety of functions, such as dodging, throwing elemental grenades, and enhancing Mida.",
+    "value": "使用Multitool，这项技术可以实现多种功能，比如躲避、投掷元素手榴弹和增强Mida。"
+  },
+  {
+    "path": "/4/3/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Mida, an accurate Sniper Rifle that can be cloaked in various elements using Multitool.",
+    "value": "进入Mida，一种精确的狙击步枪，可以用Multitool隐藏在各种元素中。"
+  },
+  {
+    "path": "/3/7/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Dragon's Bane, a Two-handed Spear with excellent range and elemental capabilities.",
+    "value": "获得龙之祸害，一个双手长矛，具有出色的射程和元素能力。"
+  },
+  {
+    "path": "/4/5/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Soulless Whisper, a cursed Claw whose combo finisher allows for travel in any direction.",
+    "value": "获得进入无灵魂低语，一个诅咒的爪，其组合终结者允许在任何方向旅行。"
+  },
+  {
+    "path": "/4/5/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Dark Phase, a Tech that replaces jumping with the ability to hover through walls.",
+    "value": "进入黑暗阶段，这是一种技术，它可以代替跳跃，让你在墙壁上悬停。"
+  },
+  {
+    "path": "/3/0/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Skynet, a Tech that can spawn multiple friendly drones, or a heavy, automatic turret.",
+    "value": "进入天网，这是一种可以制造多架友军无人机的技术，或者重型自动炮塔。"
+  },
+  {
+    "path": "/4/6/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/4/7/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/5/0/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Nautilus, a One-handed Tool that can be used to nullify all environmental damage as well as ease movement in all liquids.",
+    "value": "获得鹦鹉螺，一个单手工具，可以用来消除所有的环境损害，并缓解在所有液体中的移动。"
+  },
+  {
+    "path": "/4/8/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/1/0/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to For Us All, a demonic Scythe that can unleash unstable Demonic Energy.",
+    "value": "为我们所有人获得一把可以释放不稳定恶魔能量的恶魔镰刀。"
+  },
+  {
+    "path": "/5/0/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Colonize, a Tech that allows you to place down a Colony Flag on any planet.",
+    "value": "进入殖民地，这项技术可以让你在任何星球上放置殖民地旗帜。"
+  },
+  {
+    "path": "/5/1/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Heartbeat Sensor, a Tech that highlights nearby hostiles, friendlies, and ores.",
+    "value": "获取心跳传感器，这是一项突出显示附近敌对分子、友军和矿石的技术。"
+  },
+  {
+    "path": "/5/1/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Third Eye, a Grappling Hook with increased range and a built-in weak-spot detector.",
+    "value": "进入第三只眼，增加射程的钩钩和内置的弱点探测器。"
+  },
+  {
+    "path": "/5/2/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to the Leader's Rally, a flag that is able to send a wave of inspiration out to your comrades.",
+    "value": "进入领袖集会，这面旗帜能给你的同志们带来灵感。"
+  },
+  {
+    "path": "/5/2/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Ally Stance, a Tech that functions primarily as a Stat-boost for your team that comes at a downside as well.",
+    "value": "获得Ally Stance，这项技术主要是为你的团队提供数据支持，同时也会带来负面影响。"
+  },
+  {
+    "path": "/5/3/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Transformer Matrix, a Vehicle Spawner that can spawn various types of vehicles.",
+    "value": "获得对Transformer Matrix的访问权，Transformer Matrix是一个可以生成各种类型车辆的车辆产卵器。"
+  },
+  {
+    "path": "/5/3/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Nanobot Overcharge, a Tech that fully repairs damaged vehicles.",
+    "value": "获得Nanobot过充服务，这是一项全面修复受损车辆的技术。"
+  },
+  {
+    "path": "/5/4/weaponText/0",
+    "op": "replace",
+    "source": "Gain access to Danger Close, a One-Handed Submachine Gun that has terrible accuracy but shreds while near enemies.",
+    "value": "接近危险，一种单手冲锋枪，精度很差，但在接近敌人时会碎裂。"
+  },
+  {
+    "path": "/5/4/weaponText/1",
+    "op": "replace",
+    "source": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly.",
+    "value": "使用Rush，这是一种可以让你快速接近并攻击敌人的技术。"
+  },
+  {
+    "path": "/5/5/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/5/6/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/5/7/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
+  },
+  {
+    "path": "/5/8/weaponText/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
   }
 ]

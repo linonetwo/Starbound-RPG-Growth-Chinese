@@ -112,5 +112,11 @@
     "op": "replace",
     "source": "An upgrade to Glide. Gain another three midair jumps and a wall jump. Midair jumps are 85% as effective. You cling to walls slightly longer than the normal Wall Jump and slide down slower as well. Glide energy cost decreases with higher Agility.",
     "value": "滑翔的升级版。可以做三次额外的空中跳和一次墙壁跳。空中跳的效果是85%。你贴着墙壁的时间可以比正常的时间稍长，跳跃和下滑速度也较慢。滑翔能量消耗随敏捷值的提高而降低。"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "The Spira is a one-handed drill with increased speed and infinite use. Hungry Spira draws items closer. Pressing shift while using Ravenous Spira causes no blocks to drop, but fills energy while breaking them.",
+    "value": "Spira是一种单手钻，速度更快，使用范围更广。饥饿的斯皮拉拉近了物品。使用贪吃的Spira时按下shift键不会导致阻塞物掉落，但会在破坏阻塞物时充满能量。"
   }
 ]

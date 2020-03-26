@@ -16,5 +16,11 @@
     "op": "replace",
     "source": "Crushing Meteor",
     "value": "破碎流星"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: ",
+    "value": "主要攻击："
   }
 ]

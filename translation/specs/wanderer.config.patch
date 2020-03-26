@@ -16,5 +16,11 @@
     "op": "replace",
     "source": "Nomadic Soul",
     "value": "游牧灵魂"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: ",
+    "value": "主要攻击："
   }
 ]

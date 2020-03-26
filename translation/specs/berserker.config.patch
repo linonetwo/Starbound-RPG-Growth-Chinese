@@ -16,5 +16,11 @@
     "op": "replace",
     "source": "Murderstick",
     "value": "杀人犯"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: ",
+    "value": "主要攻击："
   }
 ]

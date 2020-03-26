@@ -304,5 +304,11 @@
     "op": "replace",
     "source": "-25% Max Health",
     "value": "-生命上限25%"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "-",
+    "value": "-"
   }
 ]

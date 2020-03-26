@@ -16,5 +16,11 @@
     "op": "replace",
     "source": "Siphon Prime",
     "value": "虹吸素数"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: ",
+    "value": "主要攻击："
   }
 ]

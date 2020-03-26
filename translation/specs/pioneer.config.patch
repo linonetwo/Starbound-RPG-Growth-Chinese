@@ -58,5 +58,17 @@
     "op": "replace",
     "source": "+0.5% Hunger Rate",
     "value": "+0.5%饥饿率"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: Surrounds you in a bubble that eases traversal through liquids, increases Jump Height, and decreases Gravity. The bubble's health is your Max Health. Press [Shift] to descend while in liquid.",
+    "value": "主要攻击：包围在一个气泡中，可以使你轻松地穿越液体，增加跳跃高度，降低重力。泡泡的健康是你最大的健康。在液体中按[Shift]下降。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Passive: Nautilus greatly increases Power and Fire Resistance while held, and its bubble nullifies status and environmental damage.",
+    "value": "被动式：鹦鹉螺在保持状态时会大大增加能量和防火能力，其气泡会抵消状态和环境损害。"
   }
 ]

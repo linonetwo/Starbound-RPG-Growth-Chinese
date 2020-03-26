@@ -112,5 +112,11 @@
     "op": "replace",
     "source": "Press [G] (Bind [G] in your Controls) to toggle a toxic field that inflicts enemies with a weakening poison. These enemies take more poison and bleed damage. Drains energy while active, and is toggled off when no energy remains.",
     "value": "按[G]（在你的控制中绑定[G]以切换一个毒气场，该毒气场以一种减弱的毒力对敌人造成伤害。这些敌人会受到更多的毒属性伤害和流血伤害。当激活时消耗能量，当没有能量时关闭。"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "The Siphon is a claw that uses energy to deal massive damage for its finisher. Finishers: Critical Slice causes bleed and fills hunger. Venom Slice causes poison and fills health. Lightning Slice causes static and fills energy.",
+    "value": "虹吸管是一个爪子，它利用能量为它的修整器造成巨大的伤害。精轧机：关键切片导致流血和充饥。毒液片能使人中毒并充满健康。闪电片产生静电并充满能量。"
   }
 ]

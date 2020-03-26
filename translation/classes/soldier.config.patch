@@ -124,5 +124,17 @@
     "op": "replace",
     "source": "Press [F] to switch to a slow-moving Spike Sphere. Left click to shoot a missile using some energy. Hold right click to drain your energy in order to shield yourself from damage.\nCreated by SushiSquid!",
     "value": "按[F]切换到缓慢移动的荆刺球。左键消耗能量发射导弹。按住鼠标右键消耗能量避免自己受到伤害。"
+  },
+  {
+    "path": "/techs/0/title",
+    "op": "replace",
+    "source": "MRE+",
+    "value": "生存食品包+"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "The Versa is a gun that can fire in two modes. Versa Impact and Ricochet's shotgun blast can be held to increase damage and snipe enemies. Versa Ricochet's bullets bounce and increase in power everytime they do.",
+    "value": "反之亦然是一种可以在两种模式下开火的枪。反过来冲击和弹跳的猎枪爆炸可以举行增加伤害和狙击敌人。反弹弓的子弹每次弹射都会反弹并增加威力。"
   }
 ]

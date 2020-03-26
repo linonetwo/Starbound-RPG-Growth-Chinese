@@ -94,5 +94,23 @@
     "op": "replace",
     "source": "Vitality x2",
     "value": "活力x2"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: A combo of far-reaching swings.\nThe first swing can be chained into Secondary Fire.",
+    "value": "主要攻击：一系列影响深远的挥杆。\n第一个秋千可以用链子拴成二次火。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Secondary Fire: A powerful lunging jab.\nCan be chained into Primary Fire's upwards swing.\nIncreased Armor while lunging.",
+    "value": "次要攻击：一次有力的弓刺。\n可以被锁在主要攻击的向上摆动中。"
+  },
+  {
+    "path": "/weapon/text/2",
+    "op": "replace",
+    "source": "Passive: Getting kills builds Demonic Energy. Reaching a certain point unleashes this energy, causing Demonic explosions with each swing.",
+    "value": "被动：被杀死会产生恶魔的能量。到达某一点会释放这种能量，每次挥杆都会引起恶魔般的爆炸。"
   }
 ]

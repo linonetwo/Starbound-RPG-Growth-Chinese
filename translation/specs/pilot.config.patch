@@ -16,5 +16,11 @@
     "op": "replace",
     "source": "drunk transformer",
     "value": "醉变压器"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: ",
+    "value": "主要攻击："
   }
 ]

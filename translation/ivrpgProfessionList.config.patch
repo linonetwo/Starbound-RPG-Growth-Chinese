@@ -1,0 +1,68 @@
+[
+  {
+    "path": "/0",
+    "op": "replace",
+    "source": "medic",
+    "value": "医生"
+  },
+  {
+    "path": "/1",
+    "op": "replace",
+    "source": "tamer",
+    "value": "驯服者"
+  },
+  {
+    "path": "/2",
+    "op": "replace",
+    "source": "alchemist",
+    "value": "炼金术士"
+  },
+  {
+    "path": "/3",
+    "op": "replace",
+    "source": "bard",
+    "value": "吟游诗人"
+  },
+  {
+    "path": "/4",
+    "op": "replace",
+    "source": "chef",
+    "value": "厨师"
+  },
+  {
+    "path": "/5",
+    "op": "replace",
+    "source": "miner",
+    "value": "矿工"
+  },
+  {
+    "path": "/6",
+    "op": "replace",
+    "source": "engineer",
+    "value": "工程师"
+  },
+  {
+    "path": "/7",
+    "op": "replace",
+    "source": "botanist",
+    "value": "植物学家"
+  },
+  {
+    "path": "/8",
+    "op": "replace",
+    "source": "jeweler",
+    "value": "珠宝商"
+  },
+  {
+    "path": "/9",
+    "op": "replace",
+    "source": "smith",
+    "value": "史密斯"
+  },
+  {
+    "path": "/10",
+    "op": "replace",
+    "source": "default",
+    "value": "违约"
+  }
+]

@@ -76,5 +76,23 @@
     "op": "replace",
     "source": "115% Base Power with Shortswords.",
     "value": "持有短剑时有 115% 的基础攻击力。"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: A three-hit combo that ends with an explosion that causes Judgement.",
+    "value": "主要攻击：三击连击，以引起判断的爆炸结束。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Secondary Fire: Charge a throw that marks enemies with Holy Light. Charging longer adds tracking and causes Gungnir to bounce.",
+    "value": "次要攻击：用圣光标记敌人。充电时间越长，跟踪效果就越强，并会导致炮弹反弹。"
+  },
+  {
+    "path": "/weapon/text/2",
+    "op": "replace",
+    "source": "Passive: Enemies marked then defeated by Gungnir burst and grant Health Regeneration and 133% Power with Wands and Staves to nearby allies.",
+    "value": "被动：被冈尼击垮的敌人爆发，并用魔杖和棍棒给予附近的盟友生命回复和133%的能量。"
   }
 ]

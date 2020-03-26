@@ -76,5 +76,23 @@
     "op": "replace",
     "source": "+10% Elemental Resistance",
     "value": "+10%元素抗性"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: Hold to fire a beam that causes Judgement, a status that increases Gravity and lowers Holy Resistance. Max hold time: 2 seconds.",
+    "value": "主要攻击：持续发射一束能引起判断的光束，一种增加重力并降低神圣抵抗力的状态。最大保持时间：2秒。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Secondary Fire: Defend against incoming attacks.",
+    "value": "次要攻击：防御来袭。"
+  },
+  {
+    "path": "/weapon/text/2",
+    "op": "replace",
+    "source": "Passive: Successive Perfect Shields increase Damage and Beam Length. Normal Shield Hits (not while firing) lower this bonus, and Shield Breaks reset it.",
+    "value": "被动：连续完美护盾增加伤害和光束长度。普通盾牌命中（不是在射击时）降低这个加成，盾牌打断^reset;它。"
   }
 ]

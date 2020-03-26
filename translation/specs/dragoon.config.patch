@@ -100,5 +100,17 @@
     "op": "replace",
     "source": "+33% Energy\nRecharge Delay",
     "value": "+33%能量回复延迟"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: A stab with more range than normal Spears that Sears whatever it hits. Hold to shoot flames.",
+    "value": "主要攻击：比普通矛射程更大的一次刺伤，它会灼伤任何击中的东西。坚持开枪。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Secondary Fire: Hold to charge a high-damage lunge. Release to lunge while cloaked in lightning, greatly protecting you from damage. Lightning follows your lunging path.",
+    "value": "次要攻击：保持高伤害冲刺。在闪电中隐身时释放弓箭步，极大地保护你免受伤害。闪电跟随你的弓箭步。"
   }
 ]

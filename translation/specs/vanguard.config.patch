@@ -100,5 +100,17 @@
     "op": "replace",
     "source": "75% Jump Height",
     "value": "75%跳跃高度"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: Hold to quickly fire bullets but with terrible accuracy.",
+    "value": "主要攻击：保持快速射击，但精确性很差。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Passive: Rate of fire increases the closer you are to enemies. Getting a kill with this weapon gives back a small percentage of Health and Energy over time. This weapon warns you when your Health goes below 30% and changes color upon nearing enemies or approaching low Health.",
+    "value": "被动：你越接近敌人，火的速度就越快。随着时间的推移，用这种武器杀人会恢复一小部分的健康和能量。当你的生命值低于30%时，此武器会警告你，并在接近敌人或接近低生命值时改变颜色。"
   }
 ]

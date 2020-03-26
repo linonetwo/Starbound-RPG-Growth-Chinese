@@ -76,5 +76,17 @@
     "op": "replace",
     "source": "110% Shield Stamina",
     "value": "110%盾耐久"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: Hold to fire bullets with an average rate of fire and accuracy.",
+    "value": "主要攻击：以平均射速和准确度射击子弹。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Passive: Getting kills with this weapon increases Max Health by 2.5% for 20 seconds, up to 120% Max Health. Perfect Shielding while this weapon is equipped increases Max Energy by 3% for 10 seconds, up to 130% Max Energy. These effects disappear upon switching off of Epimetheus.",
+    "value": "被动：使用此武器杀死敌人，20秒内生命上限提高2.5%，生命上限提高120%。装备此武器时，完美的防护可以在10秒内增加3%的最大能量，最多130%的最大能量。这些影响在关闭依匹美妥斯后消失。"
   }
 ]

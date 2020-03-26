@@ -76,5 +76,17 @@
     "op": "replace",
     "source": "Eclipse",
     "value": "日食"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: Create shards of Nova Energy that shoot towards enemies after a short time. If there are no enemies nearby, shards follow your cursor.",
+    "value": "主要攻击：制造新星能量碎片，在短时间后射向敌人。如果附近没有敌人，碎片会跟随你的光标。"
+  },
+  {
+    "path": "/weapon/text/1",
+    "op": "replace",
+    "source": "Passive: During Daytime, shards leave small flames after breaking. During Nighttime, shards leave trails of icicles after breaking.",
+    "value": "被动：白天，碎片破碎后会留下小火焰。在夜间，碎片破碎后留下冰柱的痕迹。"
   }
 ]

@@ -16,5 +16,11 @@
     "op": "replace",
     "source": "Ex Mechina",
     "value": "前机械师"
+  },
+  {
+    "path": "/weapon/text/0",
+    "op": "replace",
+    "source": "Primary Fire: ",
+    "value": "主要攻击："
   }
 ]
