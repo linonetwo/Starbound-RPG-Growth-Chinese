@@ -80,6 +80,11 @@ async function appendMissingTranslationItem(report: string[], outputDir: string)
       await delay(DELAY_BEFORE_START * index);
       if (!source) {
         console.warn('!source in appendMissingTranslationItem', source, keyPath, sourceFilePath, translationFilePath);
+        return;
+      }
+      // 不需要翻译的数字
+      if (source === '0' || source === 0) {
+        return;
       }
       let value = '';
       try {
