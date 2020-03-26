@@ -21,6 +21,12 @@ TRANSLATION_APP_ID=20190429000292817
 TRANSLATION_SECRET=zEah9krJpPiesWKhfSJG
 ```
 
+### 误翻
+
+可以在 scripts/tryTranslation.js 里纠正误翻
+
+可以在 scripts/constants.js 里设定不需要翻译的 key
+
 ## Contribute
 
 如果你在游戏过程中发现不当的翻译，或者有未翻译的内容，可以在 issue 里提出，或顺手作出修改：
