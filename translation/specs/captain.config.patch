@@ -51,7 +51,7 @@
     "path": "/effects/3/text",
     "op": "replace",
     "source": "90% Power Multiplier",
-    "value": "90%功率倍增"
+    "value": "90%攻击力增加"
   },
   {
     "path": "/weapon/text/0",

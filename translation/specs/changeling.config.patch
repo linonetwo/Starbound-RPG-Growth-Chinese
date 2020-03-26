@@ -171,7 +171,7 @@
     "path": "/tech/transformBonusText/giant/6/text",
     "op": "replace",
     "source": "1.5x Power Multiplier",
-    "value": "1.5倍功率倍增器"
+    "value": "1.5倍攻击力增加器"
   },
   {
     "path": "/tech/transformBonusText/poptop/6/text",

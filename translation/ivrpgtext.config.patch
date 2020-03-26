@@ -543,7 +543,7 @@
     "path": "/skill/children/body/children/adrenalinerush/children",
     "op": "replace",
     "source": "Increased Power Multiplier when Health is below a certain percentage.",
-    "value": "当生命值低于某个百分比时，功率倍增。"
+    "value": "当生命值低于某个百分比时，攻击力增加。"
   },
   {
     "path": "/skill/children/body/children/adrenalinerush/title",
@@ -561,7 +561,7 @@
     "path": "/skill/children/body/children/momentum/children",
     "op": "replace",
     "source": "Increased Power Multiplier, but Decreased Fall Damage Resistance.",
-    "value": "增加了功率倍增，但降低了坠落伤害抗力。"
+    "value": "增加了攻击力增加，但降低了坠落伤害抗力。"
   },
   {
     "path": "/skill/children/body/children/armorup-reaction/title",
@@ -621,7 +621,7 @@
     "path": "/skill/children/body/children/unstoppable/children",
     "op": "replace",
     "source": "Under basic negative status effects, Speed and Power Multiplier.",
-    "value": "在基本的负面状态影响下，速度和功率倍增。"
+    "value": "在基本的负面状态影响下，速度和攻击力增加。"
   },
   {
     "path": "/skill/children/mind/children/keeneye/title",

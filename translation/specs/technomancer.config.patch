@@ -51,7 +51,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "An upgrade to Wizard's Magic Shield: provides the same effect as Magic Shield, using up Energy to halve damage taken. However, while Elemental Overcharge is active, Element Resistances are maxed and Power Multiplier Increases up to +20% as Energy Decreases. Elemental Overcharge fires a bolt of pure Nova Energy in retaliation whenever you are damaged. Energy Regeneration is 75% as effective when compared to regular Magic Shield.",
-    "value": "巫师魔法盾的升级：提供与魔法盾相同的效果，消耗能量使受到的伤害减半。然而，当元素过充激活时，元素豁免最大，功率倍增率随着能量的减少而增加到+20%。当你受到伤害时，元素过充会发射一道纯新星能量之箭作为报复。能量再生比普通魔法盾有效75%。"
+    "value": "巫师魔法盾的升级：提供与魔法盾相同的效果，消耗能量使受到的伤害减半。然而，当元素过充激活时，元素豁免最大，攻击力增加率随着能量的减少而增加到+20%。当你受到伤害时，元素过充会发射一道纯新星能量之箭作为报复。能量再生比普通魔法盾有效75%。"
   },
   {
     "path": "/effects/2/text",

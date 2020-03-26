@@ -33,6 +33,7 @@ function fixMistranslation(text: string) {
     .replace('乙醚', '以太') // Aether
     .replace('核磁共振', '生存食品包') // MRE+
     .replace('电阻', '豁免') // Physical Resistance
+    .replace('功率倍增', '攻击力增加') // Increased Power Multiplier
 }
 
 function replaceNto1111(text: string) {
