@@ -23,6 +23,15 @@ function fixMistranslation(text: string) {
     .replace(/关键机会/g, '暴击几率')
 }
 
+function replaceNto1111(text: string) {
+  // 防止 \n 影响了翻译
+  return text.replace('\n', ' 1111 ')
+}
+function replace1111toN(text: string) {
+  // 防止 \n 影响了翻译
+  return text.replace('1111', '\n')
+}
+
 export default function tryTranslation(value: string | Object): Promise<string | Object> {
   if (typeof value !== 'string') return Promise.resolve(value);
   if (!value) return Promise.resolve('');
@@ -30,11 +39,11 @@ export default function tryTranslation(value: string | Object): Promise<string |
   let retryCount = 0;
   return promiseRetry(
     (retry, number) =>
-      translate(value)
+      translate(replaceNto1111(value))
         .then(({ trans_result: result }) => {
           if (result && result.length > 0) {
             const [{ dst }] = result;
-            return fixMistranslation(dst);
+            return fixMistranslation(replace1111toN(dst));
           }
           lastResult = result;
           retryCount = number;
