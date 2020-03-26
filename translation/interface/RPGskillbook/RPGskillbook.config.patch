@@ -571,12 +571,12 @@
   },
   {
     "op": "replace",
-    "value": "XP",
+    "value": "经验值",
     "path": "/gui/xpLabel/value"
   },
   {
     "op": "replace",
-    "value": "XP To Go",
+    "value": "升级所需 经验值",
     "path": "/gui/overviewlayout/children/xptglabel/value"
   },
   {
@@ -994,7 +994,7 @@
     "path": "/gui/lorelayout/children/creditsbutton/caption",
     "op": "replace",
     "source": "Credits",
-    "value": "信用"
+    "value": "鸣谢"
   },
   {
     "path": "/gui/skillslayout/children/soulbutton/caption",

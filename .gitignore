@@ -6,3 +6,4 @@ translation-test/
 .env
 dist/
 RPG_Growth_Chinese.vdf
+steamcmd/

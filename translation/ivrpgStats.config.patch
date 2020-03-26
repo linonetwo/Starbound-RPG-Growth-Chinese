@@ -27,7 +27,7 @@
     "path": "/strength/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons.",
-    "value": "^green;从20级开始：^reset\n双手近战武器的经典模式惩罚降低至-50％，单人近战近战武器降低至-25％。;"
+    "value": "^green;从20级开始：^reset;\n双手近战武器的经典模式惩罚降低至-50％，单人近战武器惩罚降低至-25％。"
   },
   {
     "path": "/agility/0/text",
@@ -75,7 +75,7 @@
     "path": "/vitality/2/text",
     "op": "replace",
     "source": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved.",
-    "value": "^green;从20质开始：^reset;经典模式的最大生命值惩罚和饱腹变化率惩罚减半\n由专精带来的最大生命值惩罚和饱腹变化率惩罚减半"
+    "value": "^green;从20体质开始：^reset;经典模式的最大生命值惩罚和饱腹变化率惩罚减半\n由专精带来的最大生命值惩罚和饱腹变化率惩罚减半"
   },
   {
     "path": "/vigor/0/text",
@@ -165,7 +165,7 @@
     "path": "/dexterity/1/text",
     "op": "replace",
     "source": "Slightly Increases One-Handed Weapon Damage.^red; Doesn't stack with Strength!^reset;",
-    "value": "稍微增加单手武器伤害。^red;没有力量叠加！^reset;"
+    "value": "稍微增加单手武器伤害。^red;不与力量叠加！^reset;"
   },
   {
     "path": "/dexterity/2/text",

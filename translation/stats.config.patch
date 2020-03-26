@@ -27,7 +27,7 @@
     "path": "/strength/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons.",
-    "value": "^green;从20力量开始：^reset;\n双手近战武器的经典模式惩罚降低至-50％，单人近战近战武器降低至-25％。"
+    "value": "^green;从20力量开始：^reset;\n双手近战武器的经典模式惩罚降低至-50％，单人近战武器惩罚降低至-25％。"
   },
   {
     "path": "/agility/0/text",
