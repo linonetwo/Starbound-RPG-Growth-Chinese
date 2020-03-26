@@ -85,7 +85,7 @@ export async function sanitizeJSON(filePath: string) {
     (badMultilineLineString: string) => {
       return badMultilineLineString
         .split('\n')
-        .join('\\n')
+        .join('\\n ')
         .replace(/:\\n"/g, ': "');
     },
   );
