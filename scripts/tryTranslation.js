@@ -16,8 +16,11 @@ function fixMistranslation(text: string) {
     .replace(/\^?灰色(：|:|；)?/g, '^gray;')
     .replace(/\^?蓝色(：|:|；)?/g, '^blue;')
     .replace(/\^?(品|洋)红色?(：|:|；)?/g, '^magenta;')
-    .replace(/\^?重置(：|:|；)?/g, '^reset;')
-    .replace(/\^?暗影(：|:|；)?/g, '^shadow;');
+    .replace(/\^?(重置|复位)(：|:|；)?/g, '^reset;')
+    .replace(/\^?暗影(：|:|；)?/g, '^shadow;')
+    // 奇怪的翻译
+    .replace(/功率倍增/g, '增加攻击力乘数')
+    .replace(/关键机会/g, '暴击几率')
 }
 
 export default function tryTranslation(value: string | Object): Promise<string | Object> {
