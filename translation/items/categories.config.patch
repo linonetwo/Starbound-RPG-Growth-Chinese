@@ -3,7 +3,7 @@
     "path": "/labels/scroll",
     "op": "replace",
     "source": "Scroll",
-    "value": "纸卷"
+    "value": "卷轴"
   },
   {
     "path": "/labels/useScroll",
