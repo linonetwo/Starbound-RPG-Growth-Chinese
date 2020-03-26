@@ -84,12 +84,6 @@
     "value": "+有10%的几率击昏怪物。特技长度取决于造成的伤害。"
   },
   {
-    "path": "/techs/0/title",
-    "op": "replace",
-    "source": "MRE",
-    "value": "MRE"
-  },
-  {
     "path": "/techs/0/text",
     "op": "replace",
     "source": "Press [F] to eat an MRE (Meal Ready to Eat), gaining a bit of food and all your energy. There is a cooldown of 90 seconds before you can do this again. While the cooldown is active, you gain slight health regen, but your overall speed is decreased.",

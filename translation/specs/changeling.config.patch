@@ -12,9 +12,297 @@
     "value": "变形术"
   },
   {
-    "path": "/weapon/title",
+    "path": "/effects/2/text",
     "op": "replace",
-    "source": "N_A",
-    "value": "恩雅"
+    "source": "+10% Physical Resistance",
+    "value": "+10%物理电阻"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/tech/transformBonusText/wisper/2/text",
+    "op": "replace",
+    "source": "Drowning Immunity",
+    "value": "溺水免疫"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "-20% Fire, Electric, Ice, and Poison Resistance",
+    "value": "-抗火、电、冰、毒20%"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Press [F], [Shift], or [S] to shapeshift into one of three monsters: [F] for Wisper; [F] + [Shift] for Poptop; [F] + [S] for Orbide. Each transformation has a Passive and 4 Actions via Left Click, Right Click, [G], and [H]. While transformed, check the Unique Weapon box above for more info. After getting many kills, you may notice a bright flash: if so, press [Shift], [S], and [F] to ???.",
+    "value": "按[F]、[Shift]或[S]可变形为三个怪物之一：[F]表示Wisper；[F]+[Shift]表示Poptop；[F]+[S]表示Orbide。每个转换都有一个被动操作和通过左键单击、右键单击[G]和[H]执行的4个操作。转换后，查看上面的独特武器框以获取更多信息。在杀死很多人之后，你可能会注意到一道亮光：如果是，请按[Shift]、[S]和[F]来？？？。"
+  },
+  {
+    "path": "/tech/transformBonusText/wisper/3/text",
+    "op": "replace",
+    "source": "+50% Max Energy",
+    "value": "+最大能量50%"
+  },
+  {
+    "path": "/tech/transformBonusText/wisper/5/text",
+    "op": "replace",
+    "source": "-20% Electric and Poison Resistance",
+    "value": "-20%抗电、抗毒"
+  },
+  {
+    "path": "/tech/transformBonusText/poptop/5/text",
+    "op": "replace",
+    "source": "Vitality x3",
+    "value": "活力x3"
+  },
+  {
+    "path": "/tech/transformBonusText/wisper/7/text",
+    "op": "replace",
+    "source": "Vigor x2",
+    "value": "活力x2"
+  },
+  {
+    "path": "/tech/transformBonusText/adultpoptop/0/text",
+    "op": "replace",
+    "source": "+10% Physical Resistance",
+    "value": "+10%物理电阻"
+  },
+  {
+    "path": "/tech/transformBonusText/poptop/2/text",
+    "op": "replace",
+    "source": "-20% Fire, Electric, Ice, and Poison Resistance",
+    "value": "-抗火、电、冰、毒20%"
+  },
+  {
+    "path": "/tech/transformBonusText/poptop/0/text",
+    "op": "replace",
+    "source": "+10% Physical Resistance",
+    "value": "+10%物理电阻"
+  },
+  {
+    "path": "/tech/transformBonusText/poptop/7/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/tech/transformBonusText/orbide/4/text",
+    "op": "replace",
+    "source": "Dexterity x2",
+    "value": "灵巧度x2"
+  },
+  {
+    "path": "/tech/transformBonusText/adultpoptop/5/text",
+    "op": "replace",
+    "source": "Vitality x5",
+    "value": "活力x5"
+  },
+  {
+    "path": "/tech/transformBonusText/adultpoptop/2/text",
+    "op": "replace",
+    "source": "-20% Fire, Electric, Ice, and Poison Resistance",
+    "value": "-抗火、电、冰、毒20%"
+  },
+  {
+    "path": "/tech/transformBonusText//2/text",
+    "op": "replace",
+    "source": "+10% Physical Resistance",
+    "value": "+10%物理电阻"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/tech/transformBonusText//3/text",
+    "op": "replace",
+    "source": "-20% Fire, Electric, Ice, and Poison Resistance",
+    "value": "-抗火、电、冰、毒20%"
+  },
+  {
+    "path": "/tech/transformBonusText/wisper/4/text",
+    "op": "replace",
+    "source": "-70% Fire Resistance",
+    "value": "-70%耐火性"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/tech/transformBonusText//1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/tech/transformBonusText//0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/5/text",
+    "op": "replace",
+    "source": "+200% Max Health",
+    "value": "+生命上限200%"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/4/text",
+    "op": "replace",
+    "source": "+50 Armor",
+    "value": "+50盔甲"
+  },
+  {
+    "path": "/tech/transformBonusText/poptop/1/text",
+    "op": "replace",
+    "source": "+5 Armor",
+    "value": "+5装甲"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/6/text",
+    "op": "replace",
+    "source": "1.5x Power Multiplier",
+    "value": "1.5倍功率倍增器"
+  },
+  {
+    "path": "/tech/transformBonusText/poptop/6/text",
+    "op": "replace",
+    "source": "Endurance",
+    "value": "耐力"
+  },
+  {
+    "path": "/tech/transformBonusText/adultpoptop/1/text",
+    "op": "replace",
+    "source": "+15 Armor",
+    "value": "+15装甲"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/2/text",
+    "op": "replace",
+    "source": "Agility x3",
+    "value": "敏捷性x3"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/3/text",
+    "op": "replace",
+    "source": "+10% Physical Resistance",
+    "value": "+10%物理电阻"
+  },
+  {
+    "path": "/tech/transformBonusText/adultpoptop/4/text",
+    "op": "replace",
+    "source": "Vigor x3",
+    "value": "活力x3"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "If Shapeshift is equipped, shrink and gain +50% Physical Resistance when Health drops below 15%. Item usage is disabled while shrunken.",
+    "value": "如果装备了变形术，当生命值低于15%时收缩并获得+50%的物理抗性。收缩时禁用项使用。"
+  },
+  {
+    "path": "/tech/transformBonusText/orbide/0/text",
+    "op": "replace",
+    "source": "+10% Physical Resistance",
+    "value": "+10%物理电阻"
+  },
+  {
+    "path": "/tech/transformBonusText/orbide/5/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/tech/transformBonusText/orbide/1/text",
+    "op": "replace",
+    "source": "+50% Ice, Fire, and Electric Resistance",
+    "value": "+50%冰、火和电阻"
+  },
+  {
+    "path": "/tech/transformBonusText/adultpoptop/6/text",
+    "op": "replace",
+    "source": "Endurance x3",
+    "value": "耐久性x3"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/8/text",
+    "op": "replace",
+    "source": "-20% Fire, Electric, Ice, and Poison Resistance",
+    "value": "-抗火、电、冰、毒20%"
+  },
+  {
+    "path": "/tech/transformBonusText/giant/7/text",
+    "op": "replace",
+    "source": "Non-Status Damage Immunity",
+    "value": "无状态伤害豁免"
+  },
+  {
+    "path": "/tech/transformBonusText/wisper/1/text",
+    "op": "replace",
+    "source": "Ice Immunity",
+    "value": "抗冰性"
+  },
+  {
+    "path": "/tech/transformBonusText/wisper/0/text",
+    "op": "replace",
+    "source": "+10% Physical Resistance",
+    "value": "+10%物理电阻"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "All Weapons Disabled.",
+    "value": "所有武器都失效。"
+  },
+  {
+    "path": "/tech/transformBonusText/poptop/4/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/tech/transformBonusText/adultpoptop/3/text",
+    "op": "replace",
+    "source": "Strength x5",
+    "value": "强度x5"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/tech/transformBonusText/poptop/3/text",
+    "op": "replace",
+    "source": "Strength x2",
+    "value": "强度x2"
+  },
+  {
+    "path": "/tech/transformBonusText/wisper/6/text",
+    "op": "replace",
+    "source": "-50% Max Health",
+    "value": "-生命上限50%"
+  },
+  {
+    "path": "/tech/transformBonusText/orbide/2/text",
+    "op": "replace",
+    "source": "-70% Poison Resistance",
+    "value": "-70%抗毒性"
+  },
+  {
+    "path": "/tech/transformBonusText/orbide/3/text",
+    "op": "replace",
+    "source": "-25% Max Health",
+    "value": "-生命上限25%"
   }
 ]

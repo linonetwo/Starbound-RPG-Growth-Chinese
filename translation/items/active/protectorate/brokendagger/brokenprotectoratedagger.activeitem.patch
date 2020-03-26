@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A very nice dagger in very poor condition.",
+    "value": "一把很好的匕首，品质很差。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Broken Dagger",
+    "value": "断剑"
+  }
+]

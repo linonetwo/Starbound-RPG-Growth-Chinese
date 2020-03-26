@@ -22,5 +22,35 @@
     "op": "replace",
     "source": "Leader’s Rally",
     "value": "领袖集会"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "125% Power Multiplier to nearby allies.",
+    "value": "125%的力量倍增到附近的盟友。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "115% Base Power with One-Handed Weapons.",
+    "value": "单手武器的115%基础能量。"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "+15 Armor to nearby allies.",
+    "value": "+给附近的盟友15件盔甲。"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Press [F] to change stances, making nearby allies behave differently.\nNo Stance: No Change.\nPower Stance: 125% Power Multplier but -15 Armor.\nArmor Stance: +15 Armor but 75% Speed and Jump Height.\nSpeed Stance: 125% Speed and Jump Height but 75% Power Multiplier.",
+    "value": "按[F]键改变姿态，使附近的盟友行为不同。"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "90% Power Multiplier",
+    "value": "90%功率倍增"
   }
 ]

@@ -1,0 +1,548 @@
+[
+  {
+    "path": "/0/0/title",
+    "op": "replace",
+    "source": "Paladin",
+    "value": "圣骑士"
+  },
+  {
+    "path": "/0/0/description",
+    "op": "replace",
+    "source": "Paladins are holy defenders who block attacks from every angle with a sturdy grip. Paladins are masters with shields, and have slight magical affinity, moreso than most other Knights.",
+    "value": "圣骑士是神圣的防御者，他们用有力的抓地力从各个角度阻挡攻击。圣骑士是带盾牌的大师，与其他大多数骑士相比，有着轻微的魔法亲和力。"
+  },
+  {
+    "path": "/0/1/title",
+    "op": "replace",
+    "source": "Juggernaut",
+    "value": "神像"
+  },
+  {
+    "path": "/0/1/description",
+    "op": "replace",
+    "source": "Juggernauts shrug off damage as they plow through enemies, wielding heavy weapons with ease. Their large frames make it hard for them to stop moving, but sometimes it doesn't really matter. With thunderous footsteps, they pound enemies down, flattening them with mighty hammers.",
+    "value": "重甲战士们挥舞着重型武器轻松地冲破敌人，对伤害不屑一顾。他们的大框架使他们很难停止移动，但有时这并不重要。随着雷鸣般的脚步声，他们击倒敌人，用强大的锤子将他们击倒。"
+  },
+  {
+    "path": "/0/2/title",
+    "op": "replace",
+    "source": "Samurai",
+    "value": "武士"
+  },
+  {
+    "path": "/0/2/description",
+    "op": "replace",
+    "source": "Following a strict code called bushido, Samurai are masters of quick, agile, yet honorable swordplay. Taking enemies straight on without playing dirty, they train hard to hone their movement and ability. While very proficient with many weapons, like Spears and Bows, the Samurai fight best with Katanas.",
+    "value": "武士遵循严格的武士道准则，擅长快速、敏捷、但又令人尊敬的剑术。带着敌人径直向前，不玩肮脏的游戏，他们努力训练，以磨练他们的动作和能力。虽然武士精通很多武器，如矛和弓，但他们最擅长与武士刀战斗。"
+  },
+  {
+    "path": "/0/3/title",
+    "op": "replace",
+    "source": "Valkyrie",
+    "value": "女武神"
+  },
+  {
+    "path": "/0/3/description",
+    "op": "replace",
+    "source": "Valkyries are angels with dominion over life that grant unlimited power to worthy allies. Phenomenal with spears and shortswords, Valkyries use their holy powers to gracefully glide across the battlefield smiting enemies.",
+    "value": "女武神是对生命有统治权的天使，给予有价值的盟友无限的力量。凭借长矛和短剑的非凡表现，女武神使用他们的神圣力量优雅地滑过战场，击打敌人。"
+  },
+  {
+    "path": "/0/4/title",
+    "op": "replace",
+    "source": "Crusader",
+    "value": "十字军"
+  },
+  {
+    "path": "/0/4/description",
+    "op": "replace",
+    "source": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield other two-handed melee weapons.",
+    "value": "十字军战士是神圣的战士谁粉碎与贬值的组合敌人。狂热者不能忍受异教徒，十字军在被敌人触碰时表现很差，但擅长迅速杀死敌人。十字军战士只会真正使用大刀，但仍然很难使用其他双手近战武器。"
+  },
+  {
+    "path": "/0/5/title",
+    "op": "replace",
+    "source": "Conquistador",
+    "value": "征服者"
+  },
+  {
+    "path": "/0/6/title",
+    "op": "replace",
+    "source": "Berserker",
+    "value": "狂暴者"
+  },
+  {
+    "path": "/0/7/title",
+    "op": "replace",
+    "source": "Dragoon",
+    "value": "龙骑兵"
+  },
+  {
+    "path": "/0/7/description",
+    "op": "replace",
+    "source": "Dragoons wield lances and spears. Coupled with their light armor, they are a force meant to quickly and decisively pierce through all opposition - no matter how durable, or how high in the sky.",
+    "value": "龙骑兵挥舞着长矛和长矛。再加上他们的轻甲，他们是一种能迅速而果断地穿透所有敌人的力量——无论多么持久，或是在多高的天空中。"
+  },
+  {
+    "path": "/0/8/title",
+    "op": "replace",
+    "source": "Dark Templar",
+    "value": "黑暗圣堂"
+  },
+  {
+    "path": "/0/8/description",
+    "op": "replace",
+    "source": "Dark Templars excel with various Melee Weapons, but prefer Halberds and Scythes. Able to dextrously wield large weapons, Dark Templars ruthlessly slaughter foes and revel in bloodshed, allowing the darkness within to overtake them, and corrupting everything and everyone they come in contact with.",
+    "value": "黑暗圣堂武士擅长各种近战武器，但更喜欢戟和镰刀。黑暗圣堂武士能够灵巧地使用大型武器，残忍地屠杀敌人并纵情流血，让内心的黑暗超越他们，腐蚀他们接触的一切和每个人。"
+  },
+  {
+    "path": "/1/0/title",
+    "op": "replace",
+    "source": "Necromancer",
+    "value": "巫师"
+  },
+  {
+    "path": "/1/0/description",
+    "op": "replace",
+    "source": "Necromancers fight using demonic magic and can raise the dead, and handle close-range combat much better than most Wizards. Because of their close attunement to death, Necromancers can efficiently wield scythes and daggers, and are often able to drain life from enemies to heal allies.",
+    "value": "亡灵巫师使用恶魔魔法战斗，可以复活死者，并且比大多数巫师更好地处理近距离战斗。由于他们与死亡的密切协调，亡灵巫师能够有效地使用镰刀和匕首，并且经常能够从敌人身上吸取生命来治疗盟友。"
+  },
+  {
+    "path": "/1/1/title",
+    "op": "replace",
+    "source": "Battle Mage",
+    "value": "战斗法师"
+  },
+  {
+    "path": "/1/1/description",
+    "op": "replace",
+    "source": "Battle Mages give up on pure magic to focus on their physique, learning to fight proficiently with all kinds of melee weapons. However, even though they no longer really use magical wands or staffs, they still use rudimentary magic to strengthen their body and sharpen their mind.",
+    "value": "战斗法师放弃纯粹的魔法，专注于自己的体格，学会用各种近战武器熟练地战斗。然而，即使他们不再真正使用魔杖或魔杖，他们仍然使用基本的魔法来加强他们的身体和磨砺他们的思想。"
+  },
+  {
+    "path": "/1/2/title",
+    "op": "replace",
+    "source": "Warlock",
+    "value": "术士"
+  },
+  {
+    "path": "/1/2/description",
+    "op": "replace",
+    "source": "Highly intelligent Wizards who have mastered the art of manipulating Nova energy, Warlocks pride themselves on their massive storage of near limitless power. Able to change and shift the universe in subtle, and often not-so-subtle, ways, Warlocks truly have the universe in the palm of their hands. Almost.",
+    "value": "高智商的巫师们掌握了操控新星能量的艺术，术士们以他们巨大的几乎无限的能量储备而自豪。能够以微妙的方式改变和改变宇宙，而且往往不是那么微妙，术士们真正掌握了宇宙。几乎。"
+  },
+  {
+    "path": "/1/3/title",
+    "op": "replace",
+    "source": "Elementress",
+    "value": "元素女"
+  },
+  {
+    "path": "/1/3/description",
+    "op": "replace",
+    "source": "A sweet voice calls out to you, tempting you: will you break your physical form and become a concentrated vessel of pure elemental energy? If so, harness the raw power that only an Elementress can, and revel in your new ability to throw magic around.",
+    "value": "一个甜美的声音向你召唤，诱惑你：你会打破你的物理形态，成为一个纯净元素能量的集中容器吗？如果是这样的话，利用只有一个女元素才能拥有的原始力量，并陶醉在你的新能力中，在周围施展魔法。"
+  },
+  {
+    "path": "/1/4/title",
+    "op": "replace",
+    "source": "Crusader",
+    "value": "十字军"
+  },
+  {
+    "path": "/1/4/description",
+    "op": "replace",
+    "source": "Crusaders are holy fighters who crush enemies with devasting combos. Zealots who are unable to stomach heathens, Crusaders do poorly when touched by foes, but excel at killing enemies quickly. Crusaders only really use broadswords, but can still poorly wield other two-handed melee weapons.",
+    "value": "十字军战士是神圣的战士谁粉碎与贬值的组合敌人。狂热者不能忍受异教徒，十字军在被敌人触碰时表现很差，但擅长迅速杀死敌人。十字军战士只会真正使用大刀，但仍然很难使用其他双手近战武器。"
+  },
+  {
+    "path": "/1/5/title",
+    "op": "replace",
+    "source": "Wraith",
+    "value": "幽灵"
+  },
+  {
+    "path": "/1/5/description",
+    "op": "replace",
+    "source": "Wraiths are spirits, no longer corporeal. Because of this, Wraiths are barely affected by gravity and can phase through matter when threatened. Wraiths are unable to wield large weapons and can no longer use magic.",
+    "value": "幽灵是灵魂，不再是物质的。因此，幽灵几乎不受重力的影响，在受到威胁时可以通过物质的相位。幽灵不能使用大型武器，也不能使用魔法。"
+  },
+  {
+    "path": "/1/6/title",
+    "op": "replace",
+    "source": "Technomancer",
+    "value": "技术员"
+  },
+  {
+    "path": "/1/6/description",
+    "op": "replace",
+    "source": "Combining Science with Magic, the Technomancer dons elemental armor and uses both Wands and Ranged Weapons to get the job done. Technomancers enhance mundane weaponry with magic energy to increase damage output, making even weaker guns hit like trucks.",
+    "value": "将科学与魔法结合起来，技术法师穿上元素盔甲，同时使用魔杖和远程武器完成任务。技术人员用魔法能量增强普通武器以增加伤害输出，使更弱的枪支像卡车一样受到攻击。"
+  },
+  {
+    "path": "/1/7/title",
+    "op": "replace",
+    "source": "Changeling",
+    "value": "换生灵"
+  },
+  {
+    "path": "/1/7/description",
+    "op": "replace",
+    "source": "Changelings utilize a unique magic to shapeshift between various creatures that they have studied. Able to morph their bodies to an extreme, Changelings can shrink in size to become incredibly resilient, or feed on matter to grow larger, allowing them to get the upper hand in battles.",
+    "value": "换生灵利用一种独特的魔法在他们研究过的各种生物之间变形。能够将他们的身体变形到一个极端，换生灵可以缩小体积，变得难以置信的有弹性，或者以物质为食，变得更大，让他们在战斗中占上风。"
+  },
+  {
+    "path": "/1/8/title",
+    "op": "replace",
+    "source": "Cleric",
+    "value": "神职人员"
+  },
+  {
+    "path": "/2/0/title",
+    "op": "replace",
+    "source": "Shade",
+    "value": "阴影"
+  },
+  {
+    "path": "/2/0/description",
+    "op": "replace",
+    "source": "Silent killers, Shades viciously dismantle enemies in a shroud of darkness. Utilizing Demonic energy, Shades can warp reality around them, causing them to vanish without a trace, even becoming immune to the most deadly of elements. Using Daggers and Fist Weapons with great skill, if you've managed to spot one, it's still already too late.",
+    "value": "无声的杀手，在黑暗的笼罩下邪恶地摧毁敌人。利用恶魔的能量，阴影可以扭曲周围的现实，导致他们消失无踪，甚至成为免疫最致命的元素。使用匕首和拳头武器的高超技巧，如果你已经找到了一个，这已经太晚了。"
+  },
+  {
+    "path": "/2/1/title",
+    "op": "replace",
+    "source": "Stalker",
+    "value": "潜行者"
+  },
+  {
+    "path": "/2/1/description",
+    "op": "replace",
+    "source": "The Stalker patiently waits far in the distance, eyes focused on one target. When they've finally decided the method they'd like to use, they strike, letting their arrow fly true. If necessary, Stalkers aren't too picky, and will close in to ensnare their prey, and God know what they do with it. Because of this, there is quite a stigma against them.",
+    "value": "跟踪者耐心地在远处等待，眼睛盯着一个目标。当他们最终决定了他们想用的方法，他们罢工，让他们的箭飞真。如果有必要的话，跟踪者不会太挑剔，会靠近诱捕他们的猎物，上帝知道他们用它做什么。因此，人们对他们颇有微词。"
+  },
+  {
+    "path": "/2/2/title",
+    "op": "replace",
+    "source": "Kunoichi",
+    "value": "库诺基"
+  },
+  {
+    "path": "/2/2/description",
+    "op": "replace",
+    "source": "Despite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases.",
+    "value": "尽管健康状况稍差"
+  },
+  {
+    "path": "/2/3/title",
+    "op": "replace",
+    "source": "Adept",
+    "value": "熟练的"
+  },
+  {
+    "path": "/2/3/description",
+    "op": "replace",
+    "source": "Adepts are Ninjas who have harnessed chaotic energy, so much so that they have become unstable. Because of this, Adepts can utilize wands and can lighten themselves and nearby matter. However, the price for such power is costly...",
+    "value": "能手是利用混乱能量的忍者，以至于他们变得不稳定。因此，能手可以利用魔杖，并可以减轻自己和附近的物质。然而，这种电力的价格是昂贵的。。。"
+  },
+  {
+    "path": "/2/4/title",
+    "op": "replace",
+    "source": "Thief",
+    "value": "小偷"
+  },
+  {
+    "path": "/2/5/title",
+    "op": "replace",
+    "source": "Operative",
+    "value": "手术的"
+  },
+  {
+    "path": "/2/6/title",
+    "op": "replace",
+    "source": "Wanderer",
+    "value": "流浪者"
+  },
+  {
+    "path": "/2/7/title",
+    "op": "replace",
+    "source": "Changeling",
+    "value": "换生灵"
+  },
+  {
+    "path": "/2/7/description",
+    "op": "replace",
+    "source": "Changelings utilize a unique magic to shapeshift between various creatures that they have studied. Able to morph their bodies to an extreme, Changelings can shrink in size to become incredibly resilient, or feed on matter to grow larger, allowing them to get the upper hand in battles.",
+    "value": "换生灵利用一种独特的魔法在他们研究过的各种生物之间变形。能够将他们的身体变形到一个极端，换生灵可以缩小体积，变得难以置信的有弹性，或者以物质为食，变得更大，让他们在战斗中占上风。"
+  },
+  {
+    "path": "/2/8/title",
+    "op": "replace",
+    "source": "Dark Templar",
+    "value": "黑暗圣堂"
+  },
+  {
+    "path": "/2/8/description",
+    "op": "replace",
+    "source": "Dark Templars excel with various Melee Weapons, but prefer Halberds and Scythes. Able to dextrously wield large weapons, Dark Templars ruthlessly slaughter foes and revel in bloodshed, allowing the darkness within to overtake them, and corrupting everything and everyone they come in contact with.",
+    "value": "黑暗圣堂武士擅长各种近战武器，但更喜欢戟和镰刀。黑暗圣堂武士能够灵巧地使用大型武器，残忍地屠杀敌人并纵情流血，让内心的黑暗超越他们，腐蚀他们接触的一切和每个人。"
+  },
+  {
+    "path": "/3/0/title",
+    "op": "replace",
+    "source": "Mechanist",
+    "value": "机械师"
+  },
+  {
+    "path": "/3/0/description",
+    "op": "replace",
+    "source": "Mechanists are pros with everything mechanical, capable of repairing and upgrading all kinds of machinery in order to do their bidding. With turrets and drones by their sides, Technicians are like a one-man army.",
+    "value": "机械师擅长各种机械设备，能够维修和升级各种机械设备，以便完成他们的投标。在炮塔和无人机的旁边，技术人员就像一个人的军队。"
+  },
+  {
+    "path": "/3/1/title",
+    "op": "replace",
+    "source": "Deadshot",
+    "value": "致命的"
+  },
+  {
+    "path": "/3/1/description",
+    "op": "replace",
+    "source": "Masters with Sniper Rifles, Deadshots can shoot targets from unfathomable distances, before their enemies even have a chance to see them. Their patience allows them to sit still for hours, adjusting their scope and breathing quietly.",
+    "value": "拥有狙击步枪的大师们，在敌人还没来得及看到目标之前，死枪就可以从深不可测的距离射出目标。他们的耐心让他们可以静坐数小时，调整自己的范围，安静地呼吸。"
+  },
+  {
+    "path": "/3/2/title",
+    "op": "replace",
+    "source": "Vigilante",
+    "value": "义务警员"
+  },
+  {
+    "path": "/3/2/description",
+    "op": "replace",
+    "source": "Vigilantes use their own moral system to enact justice as they see fit. Due to their love of pistols, they can easily dual-wield ranged weapons. When fighting villains, Vigilantes get a rush of power and energy to take matters into their own hands.",
+    "value": "义务警员利用他们自己的道德体系来实施他们认为合适的正义。由于他们喜欢手枪，他们可以很容易地双持远程武器。当与恶棍战斗时，义务警员们获得了一股力量和能量，将事情掌握在自己手中。"
+  },
+  {
+    "path": "/3/3/title",
+    "op": "replace",
+    "source": "Titan",
+    "value": "泰坦"
+  },
+  {
+    "path": "/3/3/description",
+    "op": "replace",
+    "source": "Titans are frontline bastions who help hold the line steadfast with their shield. Their weapon of choice is a One-handed Pistol or Machine Pistol with a Shield. While capable fighters at all ranges, they also inspire nearby allies with a protective aura.",
+    "value": "泰坦是前线堡垒，他们用盾牌帮助守住防线。他们选择的武器是单手手枪或带盾牌的机枪。虽然有能力的战斗机在所有的范围内，他们也激励附近的盟友与保护光环。"
+  },
+  {
+    "path": "/3/4/title",
+    "op": "replace",
+    "source": "Vanguard",
+    "value": "先锋"
+  },
+  {
+    "path": "/3/4/description",
+    "op": "replace",
+    "source": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
+    "value": "在前线战斗！先锋队最早尝到流血的滋味，擅长近距离作战，但对远距离作战的处理能力较差。前锋擅长机枪，当他们精疲力竭时经常使用近战武器。"
+  },
+  {
+    "path": "/3/5/title",
+    "op": "replace",
+    "source": "Operative",
+    "value": "手术的"
+  },
+  {
+    "path": "/3/6/title",
+    "op": "replace",
+    "source": "Technomancer",
+    "value": "技术员"
+  },
+  {
+    "path": "/3/6/description",
+    "op": "replace",
+    "source": "Combining Science with Magic, the Technomancer dons elemental armor and uses both Wands and Ranged Weapons to get the job done. Technomancers enhance mundane weaponry with magic energy to increase damage output, making even weaker guns hit like trucks.",
+    "value": "将科学与魔法结合起来，技术员穿上元素盔甲，同时使用魔杖和远程武器完成任务。技术人员用魔法能量增强普通武器以增加伤害输出，使更弱的枪支像卡车一样受到攻击。"
+  },
+  {
+    "path": "/3/7/title",
+    "op": "replace",
+    "source": "Dragoon",
+    "value": "龙骑兵"
+  },
+  {
+    "path": "/3/7/description",
+    "op": "replace",
+    "source": "Dragoons wield lances and spears. Coupled with their light armor, they are a force meant to quickly and decisively pierce through all opposition - no matter how durable, or how high in the sky.",
+    "value": "龙骑兵挥舞着长矛和长矛。再加上他们的轻甲，他们是一种能迅速而果断地穿透所有敌人的力量——无论多么持久，或是在多高的天空中。"
+  },
+  {
+    "path": "/3/8/title",
+    "op": "replace",
+    "source": "Mercenary",
+    "value": "雇佣兵"
+  },
+  {
+    "path": "/4/0/title",
+    "op": "replace",
+    "source": "Cannoneer",
+    "value": "炮手"
+  },
+  {
+    "path": "/4/0/description",
+    "op": "replace",
+    "source": "Blow'em away! Cannoneers are rogues that specialize in explosive weaponry. Normally utilizing Shortswords and Grenade Launchers, Cannoneers can get up close and personal to slice up enemies or stay back and blow them all to bits.",
+    "value": "把他们吹走！炮手是专门制造爆炸性武器的流氓。通常使用短剑和手榴弹发射器，炮手可以近距离和个人的切碎敌人或留在后面，把他们全部炸成碎片。"
+  },
+  {
+    "path": "/4/1/title",
+    "op": "replace",
+    "source": "Saboteur",
+    "value": "破坏者"
+  },
+  {
+    "path": "/4/1/description",
+    "op": "replace",
+    "source": "Sabotaging whatever they can find is in their nature. Saboteurs look for vulnerabilities in any system and summarily exploit them. Great with a variety of weapons, like Daggers, Pistols, Whips, and Fists/Claws, Saboteurs are prepared for any encounter.",
+    "value": "破坏他们能找到的东西是他们的天性。破坏者寻找任何系统中的漏洞，并立即利用它们进行攻击。破坏者拥有各种各样的武器，如匕首、手枪、鞭子和拳头/爪子，他们随时准备迎接任何遭遇。"
+  },
+  {
+    "path": "/4/2/title",
+    "op": "replace",
+    "source": "Vinetender",
+    "value": "藤蔓植物"
+  },
+  {
+    "path": "/4/2/description",
+    "op": "replace",
+    "source": "Vinetenders can slightly alter the chemical components in plants and use a special magic to move nitrogen around at will. Using Plant-Based Weapons enables them to deal the most damage, but they are also proficient with Whips and Bows as well.",
+    "value": "藤蔓植物可以稍微改变植物的化学成分，并使用一种特殊的魔法来随意移动氮。使用基于植物的武器可以造成最大的伤害，但他们也精通鞭子和弓。"
+  },
+  {
+    "path": "/4/3/title",
+    "op": "replace",
+    "source": "Hunter",
+    "value": "猎人"
+  },
+  {
+    "path": "/4/3/description",
+    "op": "replace",
+    "source": "The Hunter is stealthy and cunning, using cloaking technology to surprise enemies. With deadly precision, the Hunter can accurately fire a variety of long-range weapons and deftly handle daggers at close ranges.",
+    "value": "猎人很狡猾，用隐形技术给敌人惊喜。以致命的精准，猎人可以准确地发射各种远程武器，并熟练地处理近距匕首。"
+  },
+  {
+    "path": "/4/4/title",
+    "op": "replace",
+    "source": "Thief",
+    "value": "小偷"
+  },
+  {
+    "path": "/4/5/title",
+    "op": "replace",
+    "source": "Wraith",
+    "value": "幽灵"
+  },
+  {
+    "path": "/4/5/description",
+    "op": "replace",
+    "source": "Wraiths are spirits, no longer corporeal. Because of this, Wraiths are barely affected by gravity and can phase through matter when threatened. Wraiths are unable to wield large weapons and can no longer use magic.",
+    "value": "幽灵是灵魂，不再是物质的。因此，幽灵几乎不受重力的影响，在受到威胁时可以通过物质的相位。幽灵不能使用大型武器，也不能使用魔法。"
+  },
+  {
+    "path": "/4/6/title",
+    "op": "replace",
+    "source": "Berserker",
+    "value": "狂暴者"
+  },
+  {
+    "path": "/4/7/title",
+    "op": "replace",
+    "source": "Trapper",
+    "value": "捕捉器"
+  },
+  {
+    "path": "/4/8/title",
+    "op": "replace",
+    "source": "Mercenary",
+    "value": "雇佣兵"
+  },
+  {
+    "path": "/5/0/title",
+    "op": "replace",
+    "source": "Pioneer",
+    "value": "开拓者"
+  },
+  {
+    "path": "/5/0/description",
+    "op": "replace",
+    "source": "Searching new lands to discover hidden treasures, Pioneers are the first to colonize new planets. Able to quickly navigate colonized planets and claim new planets for themselves, Pioneers excel in blazing a trail through the galaxy.",
+    "value": "开拓者寻找新的土地来发现隐藏的宝藏，他们是第一批拓殖新行星的人。拓荒者能够快速导航殖民地的行星，并为自己宣称新的行星，他们擅长在银河系中开辟一条道路。"
+  },
+  {
+    "path": "/5/1/title",
+    "op": "replace",
+    "source": "Scout",
+    "value": "侦察兵"
+  },
+  {
+    "path": "/5/1/description",
+    "op": "replace",
+    "source": "Mapping out areas and finding the best paths, Scouts are truly courageous. No matter the terrain, a Scout will properly look around to ensure a safe route in order for others to follow along.",
+    "value": "侦察兵在划定区域和寻找最佳路径时，真的很勇敢。无论地形如何，侦察员都会适当地四处寻找，以确保路线安全，以便其他人跟随。"
+  },
+  {
+    "path": "/5/2/title",
+    "op": "replace",
+    "source": "Captain",
+    "value": "船长"
+  },
+  {
+    "path": "/5/2/description",
+    "op": "replace",
+    "source": "Captains are known for their ability to lead and rally their comrades in battle. While alone, they are nothing to write home about, but with their comrades in battle they are a force to be reckoned with. They analyze the situations help support their teams in being offensive, defensive or even speedy.",
+    "value": "上尉以领导和召集战友的能力而闻名。独自一人时，他们没有什么可写的，但在战友们面前，他们是一支不可忽视的力量。他们分析这些情况有助于支持他们的球队进攻，防守甚至快速。"
+  },
+  {
+    "path": "/5/3/title",
+    "op": "replace",
+    "source": "Pilot",
+    "value": "飞行员"
+  },
+  {
+    "path": "/5/4/title",
+    "op": "replace",
+    "source": "Vanguard",
+    "value": "先锋"
+  },
+  {
+    "path": "/5/4/description",
+    "op": "replace",
+    "source": "Fight at the front lines! Vanguards are the first to taste bloodshed, excelling at close-range combat, but handling long-range combat poorly. Vanguards excel with Machine Pistols and often utilize melee weapons when they run out of energy.",
+    "value": "在前线战斗！先锋队最早尝到流血的滋味，擅长近距离作战，但对远距离作战的处理能力较差。前锋擅长机枪，当他们精疲力竭时经常使用近战武器。"
+  },
+  {
+    "path": "/5/5/title",
+    "op": "replace",
+    "source": "Conquistador",
+    "value": "征服者"
+  },
+  {
+    "path": "/5/6/title",
+    "op": "replace",
+    "source": "Wanderer",
+    "value": "流浪者"
+  },
+  {
+    "path": "/5/7/title",
+    "op": "replace",
+    "source": "Trapper",
+    "value": "捕捉器"
+  },
+  {
+    "path": "/5/8/title",
+    "op": "replace",
+    "source": "Cleric",
+    "value": "神职人员"
+  }
+]

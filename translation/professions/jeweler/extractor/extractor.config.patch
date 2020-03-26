@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/gui/lblText/value",
+    "op": "replace",
+    "source": "^#b9b5b2;Place Armor in the left slot.",
+    "value": "^#b9b5b2；把装甲放在左边的槽里。"
+  }
+]

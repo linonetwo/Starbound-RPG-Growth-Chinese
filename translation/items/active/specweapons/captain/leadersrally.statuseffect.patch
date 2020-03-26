@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Leader's Rally",
+    "value": "领袖集会"
+  }
+]

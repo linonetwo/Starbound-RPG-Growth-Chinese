@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "By The People",
+    "value": "由人民"
+  }
+]

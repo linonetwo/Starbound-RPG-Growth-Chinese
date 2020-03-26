@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Power Stance",
+    "value": "力量姿态"
+  }
+]

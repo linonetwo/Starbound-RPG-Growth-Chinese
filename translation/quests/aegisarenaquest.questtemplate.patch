@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^green;Meteoric Metal",
+    "value": "^green;大气金属"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "My databanks show that your physical strength is nearly unmatched! I have run a diagnostic and it suggests you would be unrivaled using a normally unwieldable, incredibly heavy metal as the base for a sword. Try fighting ^green;living meteorites^reset; to see if their hard carapace can be used.^white;",
+    "value": "我的数据库显示你的体力几乎是无与伦比的！我做了一个诊断，它表明你将是无与伦比的使用通常难以处理，难以置信的重金属作为剑的基础。尝试战斗^green；活陨石^reset；看看它们坚硬的外壳是否可以使用。^white；"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "path": "/0/value/title",
+    "op": "replace",
+    "source": "Teleport Confirmation",
+    "value": "传送确认"
+  },
+  {
+    "path": "/0/value/subtitle",
+    "op": "replace",
+    "source": "Arena Battle : Ether Experiement",
+    "value": "竞技场战斗：乙醚体验"
+  },
+  {
+    "path": "/0/value/labels/name",
+    "op": "replace",
+    "source": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "path": "/1/value/title",
+    "op": "replace",
+    "source": "Teleport Confirmation",
+    "value": "传送确认"
+  },
+  {
+    "path": "/1/value/subtitle",
+    "op": "replace",
+    "source": "Arena Battle : Shattered Stars",
+    "value": "竞技场之战：碎星"
+  },
+  {
+    "path": "/1/value/labels/name",
+    "op": "replace",
+    "source": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "path": "/2/value/title",
+    "op": "replace",
+    "source": "Teleport Confirmation",
+    "value": "传送确认"
+  },
+  {
+    "path": "/2/value/subtitle",
+    "op": "replace",
+    "source": "Arena Battle : Meteoric Metal",
+    "value": "竞技场之战：流星金属"
+  },
+  {
+    "path": "/2/value/labels/name",
+    "op": "replace",
+    "source": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "path": "/3/value/title",
+    "op": "replace",
+    "source": "Teleport Confirmation",
+    "value": "传送确认"
+  },
+  {
+    "path": "/3/value/subtitle",
+    "op": "replace",
+    "source": "Arena Battle : Worthy Weaponry",
+    "value": "竞技场战斗：有价值的武器"
+  },
+  {
+    "path": "/3/value/labels/name",
+    "op": "replace",
+    "source": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "path": "/4/value/title",
+    "op": "replace",
+    "source": "Teleport Confirmation",
+    "value": "传送确认"
+  },
+  {
+    "path": "/4/value/subtitle",
+    "op": "replace",
+    "source": "Arena Battle : Spectacular Spin",
+    "value": "竞技场战斗：壮观的旋转"
+  },
+  {
+    "path": "/4/value/labels/name",
+    "op": "replace",
+    "source": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "path": "/5/value/title",
+    "op": "replace",
+    "source": "Teleport Confirmation",
+    "value": "传送确认"
+  },
+  {
+    "path": "/5/value/subtitle",
+    "op": "replace",
+    "source": "Arena Battle : Parasitic Poison",
+    "value": "竞技场战：寄生毒药"
+  },
+  {
+    "path": "/5/value/labels/name",
+    "op": "replace",
+    "source": "Nuru",
+    "value": "努鲁"
+  }
+]

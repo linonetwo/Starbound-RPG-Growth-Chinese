@@ -165,13 +165,13 @@
     "path": "/2/2/title",
     "op": "replace",
     "source": "Kunoichi",
-    "value": "国一"
+    "value": "くのいち（女忍者）"
   },
   {
     "path": "/2/2/description",
     "op": "replace",
     "source": "^red;Female Only^white;\nDespite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases.",
-    "value": "^red;仅限女性^white;"
+    "value": "^red;仅限女性^white;尽管最大生命值较低\n而且造成的伤害较少\n^#ffaafa;女忍者\n优美地舞于\n她的战迷的鲜血上\n^white;让她关注的人永远沉寂."
   },
   {
     "path": "/2/3/title",

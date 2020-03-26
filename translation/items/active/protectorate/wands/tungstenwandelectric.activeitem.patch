@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A Tungsten Wand with an Static Core.",
+    "value": "一种带有稳定核心的钨棒。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Tungsten Wand - Static",
+    "value": "钨棒-静态"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Magic Pillar",
+    "value": "魔柱"
+  }
+]

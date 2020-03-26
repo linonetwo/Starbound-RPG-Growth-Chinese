@@ -1,0 +1,38 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Botanist",
+    "value": "植物学家"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "+20% Poison Resistance",
+    "value": "+20%抗毒性"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Intelligence",
+    "value": "智力"
+  },
+  {
+    "path": "/passive/text",
+    "op": "replace",
+    "source": "As long as you have energy, walking over dirt automatically tills and waters it.",
+    "value": "只要你有精力，在泥土上行走就会自动耕耘和浇水。"
+  },
+  {
+    "path": "/crafting/text",
+    "op": "replace",
+    "source": "The Botanist Station allows you to synthesize various seeds!",
+    "value": "植物学家站允许你合成各种种子！"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Biohazardous",
+    "value": "生物危害"
+  }
+]

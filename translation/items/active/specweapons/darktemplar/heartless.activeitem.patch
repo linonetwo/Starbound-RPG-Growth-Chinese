@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "I forgot what I was supposed to feel: now it's always hunger.",
+    "value": "我忘记了我应该有的感觉：现在总是饥饿。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#77acc3;Heartless^white;",
+    "value": "^#77acc3；无情的^white;"
+  }
+]

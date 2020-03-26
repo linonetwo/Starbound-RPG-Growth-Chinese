@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^green;Ether Experiment",
+    "value": "^green;乙醚实验"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "Due to your abilities, my scanners have often been unable to locate you: this issue has lent itself to a new hypothesis! It seems certain inhabitants of this universe are... not really here. This should mean they cannot interact with anything, but this is not the case. Fighting these ^green;ghosts^reset; should lead to an uncanny discovery.^white;",
+    "value": "由于你的能力，我的扫描器经常找不到你：这个问题有了一个新的假设！似乎这个宇宙的某些居民。。。不是真的在这里。这应该意味着它们不能与任何东西交互，但事实并非如此。与这些^green；鬼魂^reset；战斗会导致一个不可思议的发现。^white；"
+  }
+]

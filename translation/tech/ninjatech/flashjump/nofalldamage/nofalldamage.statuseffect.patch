@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Flash Jump Safe Fall",
+    "value": "跳伞安全降落"
+  }
+]

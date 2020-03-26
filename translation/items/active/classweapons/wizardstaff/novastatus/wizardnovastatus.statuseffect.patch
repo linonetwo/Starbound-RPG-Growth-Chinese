@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Starfall",
+    "value": "群星坠落"
+  }
+]

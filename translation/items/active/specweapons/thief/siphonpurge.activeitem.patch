@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Crackling with energy!",
+    "value": "活力四射！"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^yellow;Siphon Purge",
+    "value": "^yellow;虹吸清洗"
+  }
+]

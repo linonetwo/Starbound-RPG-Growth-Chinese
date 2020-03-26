@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A cluttered desk covered in various bubbling liquids and strange materials.",
+    "value": "一张凌乱的桌子，上面堆满了各种冒泡的液体和奇怪的材料。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Alchemist Station",
+    "value": "炼金术士站"
+  }
+]

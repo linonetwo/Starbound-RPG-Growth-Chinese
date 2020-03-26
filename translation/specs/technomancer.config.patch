@@ -16,5 +16,65 @@
     "op": "replace",
     "source": "OmniaThrower",
     "value": "全能运动员"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Can Wield Two-Handed Ranged Weapons.",
+    "value": "可以挥舞双手远程武器。"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "-10% Physical Resistance",
+    "value": "-10%物理电阻"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "+20% Fire, Ice, Electric, Poison, and Nova Resistance",
+    "value": "+20%抗火、抗冰、抗电、抗毒素和抗新星"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "An upgrade to Wizard's Magic Shield: provides the same effect as Magic Shield, using up Energy to halve damage taken. However, while Elemental Overcharge is active, Element Resistances are maxed and Power Multiplier Increases up to +20% as Energy Decreases. Elemental Overcharge fires a bolt of pure Nova Energy in retaliation whenever you are damaged. Energy Regeneration is 75% as effective when compared to regular Magic Shield.",
+    "value": "巫师魔法盾的升级：提供与魔法盾相同的效果，消耗能量使受到的伤害减半。然而，当元素过充激活时，元素电阻最大，功率倍增率随着能量的减少而增加到+20%。当你受到伤害时，元素过充会发射一道纯新星能量之箭作为报复。能量再生比普通魔法盾有效75%。"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "110% Base Power with Ranged Weapons: Scales with Int.",
+    "value": "110%的远程武器基础能量：国际音阶。"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Dealing damage has a 1% chance to inflict Overload, Sear, Toxify, and Embrittle. These debuffs can occur simultaneously.",
+    "value": "造成伤害有1%的几率造成过载，灼伤，中毒和脆化。这些减益可以同时发生。"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can Dual-Wield Ranged Weapons and Wands.",
+    "value": "可以双持远程武器和魔杖。"
   }
 ]

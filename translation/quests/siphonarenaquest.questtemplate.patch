@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^green;Parasitic Poison",
+    "value": "^green;寄生毒药"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "Your uncanny desire to poison everything has apparently poisoned my circuits as well. In my brief state of corruption, schematics for a dubious weapon were created. I believe the research shows that the required materials may drop from ^green;parasitic or gooey monsters.^reset; Go fight a whole bunch to make sure I am correct.^white;",
+    "value": "你想毒害一切的奇异欲望显然也毒害了我的电路。在我短暂的腐败状态下，一个可疑武器的示意图被创造出来。我相信研究表明，所需的材料可能会从^green;寄生或粘性怪物。^reset;去打一大堆，以确保我是正确的。^white;"
+  }
+]

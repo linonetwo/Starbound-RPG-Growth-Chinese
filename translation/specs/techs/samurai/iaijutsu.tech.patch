@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Samurai Only",
+    "value": "只有武士"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Iaijutsu",
+    "value": "雅居图"
+  }
+]

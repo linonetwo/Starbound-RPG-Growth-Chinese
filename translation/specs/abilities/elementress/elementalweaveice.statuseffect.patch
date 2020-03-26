@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Elemental Weave: Ice",
+    "value": "元素编织：冰"
+  }
+]

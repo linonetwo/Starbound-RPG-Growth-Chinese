@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "No Stance",
+    "value": "没有立场"
+  }
+]

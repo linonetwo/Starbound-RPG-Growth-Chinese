@@ -16,5 +16,83 @@
     "op": "replace",
     "source": "Heartless",
     "value": "无情的"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Hitting enemies with Demonic Damage has a 30% chance to corrupt them. Corrupted enemies radiate Demonic Damage to nearby enemies.",
+    "value": "用恶魔伤害打击敌人有30%的几率腐蚀他们。腐化的敌人向附近的敌人放射恶魔般的伤害。"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can Dual-Wield Melee Weapons and Wield Two-Handed Melee Weapons.",
+    "value": "可以双持近战武器和双手近战武器。"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Bleed Chance and Length scales with Strength.",
+    "value": "流血的机会和长度尺度与力量。"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Press [H] (Bind [H] in your Controls) to toggle, immediately sacrificing 33% Max Health, dealing Demonic Damage to nearby enemies, and gaining +15% Power. While active: Health drains at a rate of 0.5% Max Health + 2 Health per Second; Power increases steadily up to 100% in 30 seconds; Bleed Damage dealt regens Health at a rate of 3 Damage to 1 Health; and you are immune to Healing Status.",
+    "value": "按[H]（在你的控制中绑定[H]）切换，立即牺牲33%的生命上限，对附近的敌人造成恶魔伤害，获得+15%的力量。活动时：生命值以每秒0.5%最大生命值+2生命值的速率流失；30秒内能量稳定增加到100%；造成的流血伤害以3点对1点的速率回复生命值；并且你对治疗状态免疫。"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "Demonic Immunity",
+    "value": "恶魔豁免"
+  },
+  {
+    "path": "/effects/9/text",
+    "op": "replace",
+    "source": "-20% Electric Resistance",
+    "value": "-20%电阻"
+  },
+  {
+    "path": "/effects/7/text",
+    "op": "replace",
+    "source": "75% Max Energy",
+    "value": "最大能量75%"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "150% Max Health",
+    "value": "生命上限150%"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "115% Base Power with Spear or Axe-like Weapons.",
+    "value": "使用长矛或斧头类武器的基础威力为115%。"
+  },
+  {
+    "path": "/effects/8/text",
+    "op": "replace",
+    "source": "-50% Holy Resistance",
+    "value": "-50%神圣抵抗"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Vitality x2",
+    "value": "活力x2"
   }
 ]

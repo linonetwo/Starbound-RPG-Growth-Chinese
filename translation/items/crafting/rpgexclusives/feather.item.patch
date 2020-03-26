@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A soft feather. Used by RPG Growth.",
+    "value": "柔软的羽毛。用于RPG增长。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Feather",
+    "value": "羽毛"
+  }
+]

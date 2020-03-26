@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A very nice pistol in very poor condition.",
+    "value": "一把非常好的手枪，状况很差。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Broken Pistol",
+    "value": "破手枪"
+  }
+]

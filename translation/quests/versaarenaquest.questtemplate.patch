@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^green;Worthy Weaponry",
+    "value": "^green;有价值的武器"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "I don't mean to interrupt your training regimen, but I have noticed the weapons you employ could be made more versatile. I have calculated that reverse engineering illegal weapons may yield much needed results. Go 'persuade' some captured Bandits and Space-Faring Robots and see if anything illegal turns up.^white;",
+    "value": "我不想打断你的训练计划，但我注意到你使用的武器可以变得更加多才多艺。我计算过，反向工程非法武器可能会产生非常需要的结果。去“说服”一些被抓获的强盗和太空机器人，看看有没有什么非法的东西出现。^white；"
+  }
+]

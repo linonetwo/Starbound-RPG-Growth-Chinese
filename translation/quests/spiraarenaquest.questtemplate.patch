@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "^green;Spectacular Spin",
+    "value": "^green;壮观的旋转"
+  },
+  {
+    "path": "/text",
+    "op": "replace",
+    "source": "You plan to visit many places it seems, and I only realized now that your travels would be made easier if your mining tools were improved. I have begun working on a prototype that I need your help to build: if you can defeat ^green;monsters that can spin,^reset; I may be able to figure something out.^white;",
+    "value": "你似乎计划去很多地方，我现在才意识到，如果你的采矿工具得到改进，你的旅行会变得更容易。我已经开始制作一个我需要你帮助制作的原型：如果你能打败^green；会旋转的怪物，^reset；我也许能想出办法。^white；"
+  }
+]

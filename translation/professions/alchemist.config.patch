@@ -1,0 +1,50 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Alchemist",
+    "value": "炼金术士"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Can use Wands.",
+    "value": "可以用魔杖。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "+7% Fire, Electric, Ice, and Poison Resistance",
+    "value": "+7%抗火、电、冰、毒"
+  },
+  {
+    "path": "/scaling/0/text",
+    "op": "replace",
+    "source": "Intelligence",
+    "value": "智力"
+  },
+  {
+    "path": "/scaling/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/passive/text",
+    "op": "replace",
+    "source": "As long as you have enough Energy, drain 1 Energy/Pixel to transmute half of all Pixels you gain into Experience. Pixels are converted with 50% efficiency, for a rate of 1 XP per 2 Pixels. This ability will not affect Pixels you already have, but will affect pixels gained from selling items.",
+    "value": "只要你有足够的能量，每像素消耗1点能量，将你获得的所有像素的一半转化为经验。像素转换效率为50%，每2个像素转换1 XP。此功能不会影响您已经拥有的像素，但会影响从销售项目中获得的像素。"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Doing Elemental Damage provides +50% Resistance to that element for 10 seconds.",
+    "value": "对元素造成伤害会使其在10秒内获得+50%的抗性。"
+  },
+  {
+    "path": "/crafting/text",
+    "op": "replace",
+    "source": "The Alchemist Station allows you craft throwable potions!",
+    "value": "炼金术士站允许你制造一次性药剂！"
+  }
+]

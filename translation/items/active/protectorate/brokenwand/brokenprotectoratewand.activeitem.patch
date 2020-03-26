@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A very nice wand in very poor condition.",
+    "value": "一根很好的魔杖，快用坏了。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Broken Wand",
+    "value": "破裂的魔术棒"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Magic Pillar",
+    "value": "魔柱"
+  }
+]

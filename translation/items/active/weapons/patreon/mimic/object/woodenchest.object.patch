@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Don't put valuables in this: it reminds you of something... bad. Don't lose sight of it.",
+    "value": "不要把贵重物品放在这里面：它会让你想起。。。很糟糕。别忘了。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Caine's Chest",
+    "value": "凯恩的胸部"
+  }
+]

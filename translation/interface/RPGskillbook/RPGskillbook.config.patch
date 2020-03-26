@@ -829,18 +829,6 @@
     "value": "武器"
   },
   {
-    "path": "/gui/specializationslayout/children/loretitle/value",
-    "op": "replace",
-    "source": "Lore",
-    "value": "学识"
-  },
-  {
-    "path": "/gui/specializationslayout/children/loretext/value",
-    "op": "replace",
-    "source": "Unlocked Via",
-    "value": "解锁方式："
-  },
-  {
     "path": "/gui/specializationslayout/children/unlocktext/value",
     "op": "replace",
     "source": "Unlocked Via",
@@ -961,12 +949,6 @@
     "value": "已解锁"
   },
   {
-    "path": "/gui/skillslayout/children/locked/value",
-    "op": "replace",
-    "source": "Skills Tab. Currently Unavailable!",
-    "value": "技能选项卡。目前不可用！"
-  },
-  {
     "path": "/gui/lorelayout/children/changelogbutton/caption",
     "op": "replace",
     "source": "Changelog",
@@ -977,5 +959,47 @@
     "op": "replace",
     "source": "Lore",
     "value": "学识"
+  },
+  {
+    "path": "/gui/skillslayout/children/skilltitle/value",
+    "op": "replace",
+    "source": "Skill Overview",
+    "value": "技能概述"
+  },
+  {
+    "path": "/gui/skillslayout/children/skilltext/value",
+    "op": "replace",
+    "source": "Every Level Up, gain 1 Skill Point that can be spent here.\n^red;More Skills will be added in future updates.^reset;",
+    "value": "每升一级，获得1点可在此使用的技能点。\n^red;更多技能会在未来的更新中加入^reset;"
+  },
+  {
+    "path": "/gui/floatinglevellabel/value",
+    "op": "replace",
+    "source": "Toggle Floating XP Bar",
+    "value": "开关浮动经验值栏"
+  },
+  {
+    "path": "/gui/skillslayout/children/bodybutton/caption",
+    "op": "replace",
+    "source": "Body",
+    "value": "身体"
+  },
+  {
+    "path": "/gui/skillslayout/children/mindbutton/caption",
+    "op": "replace",
+    "source": "Mind",
+    "value": "头脑"
+  },
+  {
+    "path": "/gui/lorelayout/children/creditsbutton/caption",
+    "op": "replace",
+    "source": "Credits",
+    "value": "信用"
+  },
+  {
+    "path": "/gui/skillslayout/children/soulbutton/caption",
+    "op": "replace",
+    "source": "Soul",
+    "value": "灵魂"
   }
 ]

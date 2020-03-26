@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Changeling Only",
+    "value": "仅换生灵"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Shapeshift",
+    "value": "变形"
+  }
+]

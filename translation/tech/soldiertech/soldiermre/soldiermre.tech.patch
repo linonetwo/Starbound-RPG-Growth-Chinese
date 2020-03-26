@@ -8,5 +8,11 @@
     "op": "replace",
     "value": "MRE",
     "path": "/shortDescription"
+  },
+  {
+    "path": "/validGrenades/bomb/name",
+    "op": "replace",
+    "source": "zbomb",
+    "value": "兹博姆"
   }
 ]

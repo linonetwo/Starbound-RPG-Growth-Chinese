@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Technomancer Only",
+    "value": "仅限技术人员"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Elemental Overcharge",
+    "value": "元素过充"
+  }
+]

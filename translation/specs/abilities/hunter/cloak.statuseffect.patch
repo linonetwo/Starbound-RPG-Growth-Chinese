@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Cloak",
+    "value": "斗篷"
+  }
+]

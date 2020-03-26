@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Armor Stance",
+    "value": "护甲姿态"
+  }
+]

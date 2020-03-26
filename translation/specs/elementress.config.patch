@@ -1,0 +1,80 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Elementress",
+    "value": "元素女"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Randomly weave between Fire, Ice, and Electricity, gaining immunity to that element and causing its status on every hit.",
+    "value": "在火、冰和电之间随机编织，获得对该元素的免疫，并在每次命中时造成其状态。"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Cannot use Staffs.",
+    "value": "不能使用职员。"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Vigor x2",
+    "value": "活力x2"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Intelligence",
+    "value": "智力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "+50% Nova, Electric, Ice, and Fire Resistance",
+    "value": "+50%新星、电、冰和耐火性"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "+20% Cosmic, Holy and Demonic Resistance",
+    "value": "+20%的宇宙、圣魔抵抗力"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "120% Base Power with Wands.",
+    "value": "120%的基础力量与魔杖。"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "75% Max Health",
+    "value": "生命上限75%"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "-10% Physical Resistance",
+    "value": "-10%物理电阻"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Attune",
+    "value": "调音"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Press [H] to swap Attunement between Fire, Ice, and Electric. Gain Immunity to that Element. Use Primary/Alt Fire, [G], [Shift]+[G] to use abilities based on your current Attunement and Weave. When Attunement and Weave match, costs are halved. ^red;Further details will be added at a later date.",
+    "value": "按[H]在火、冰和电之间切换调谐，获得对该元素的豁免。[G] 使用主/副火力，[Shift]+[G]根据你当前的调谐和编织使用能力。当调音和编织匹配时，成本减半。^red;稍后将添加更多详细信息。"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Eclipse",
+    "value": "日食"
+  }
+]

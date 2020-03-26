@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Elementress Only",
+    "value": "仅限女士"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Attune",
+    "value": "调音"
+  }
+]

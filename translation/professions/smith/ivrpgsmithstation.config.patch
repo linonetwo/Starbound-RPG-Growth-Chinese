@@ -6,9 +6,33 @@
     "value": "铁匠"
   },
   {
-    "path": "/gui/lblText/value",
+    "path": "/gui/lblText4/value",
     "op": "replace",
-    "source": "^gray;Place Electrum Bars in Yellow Slot. Requires 2 for Upgrades and 4 for Creation.\n      ^white;Place 5 Bars in Grey Slot to determine Weapon Level. Accepts the following:\n      Copper, Iron, Tungsten, Titanium, Durasteel, Violium/Aegisalt/Ferozium, Solarium\n      ^gray;Place 1 Item in Red Slot to determine Element. Accepts the following:\n      Venom Sample, Scorched Core, Cryonic Extract, Static Cell, Glass (Keeps Element)\n      ^white;Place desired Items in Blue Slot. Accepts the following:\n      Diamond (+ Base Damage), Battery (- Energy Cost), 3 Coal (Same Stats)\n      ^red;Except for Coal, other modifiers only ever work once and only for upgrades!\n      ^gray;To upgrade an existing weapon, simply place the weapon in the Purple Slot.\n      ^white;To create a new weapon, place an item in the Purple Slot. Accepts the following:\n      2 Sharpened Claw (Spear), 2 Hardened Carapace (Hammer), 6 Steel Bar (Broadsword),\n      1 Sharpened Claw (Dagger), 1 Hardened Carapace (Axe), 3 Steel Bar (Shortsword)",
-    "value": "^gray;将电子棒置于黄色槽中。升级需要2，创建需要4个。\n ^white;在灰色槽中放置5个条以确定武器等级。接受以下内容：\n铜，铁，钨，钛，Durasteel，Violium / Aegisalt / Ferozium，日光浴\n ^gray;在红色插槽中放置1项以确定元素。接受以下内容：\n毒液样品，焦化核心，冷冻提取物，静电池，玻璃（保持元素）\n ^white;将所需物品放入蓝色槽中。接受以下内容：\n钻石（+基础损坏），电池（ - 能量消耗），3煤（相同属性）\n ^red;除煤炭外，其他修改器仅工作一次且仅用于升级！\n ^gray;要升级现有武器，只需将武器放入紫色插槽。\n ^white;要创建新武器，请将项目放入紫色插槽。接受以下内容：\n 2尖刃（长矛），2硬化甲壳（锤），6钢筋（大刀），\n 1尖刃（匕首），1硬化甲壳（斧），3钢筋（短剑）"
+    "source": "When creating a new weapon, place ^red;3 Coal^reset; in the Blue Slot.\n      ^gray;Otherwise, place desired Items in Blue Slot. Accepts the following:\n      ^white;Diamond (Increases Base Damage), Battery (Decreases Energy Cost), 3 Coal (No Stat Change)\n      ^gray;Some Weapons do not accept these modifications,^red; so try using 3 Coal if your weapon is not being upgraded.^reset;\n      ^white;You can only use Diamonds and Batteries once. Batteries can be crafted in a Furnace: ^red;don't use AA Batteries.",
+    "value": "创建新武器时，放置^red; 3煤 ^reset; \n ^gray; 否则，将所需的物品放在蓝色插槽中。 接受以下条件：\n ^white; 钻石（增加基本伤害），电池（降低能源成本），3煤（无统计更改）\n ^gray; 某些武器不接受这些修改，^red;  因此，如果您的武器没有升级，请尝试使用3煤。^reset;  \n ^white; 您只能使用钻石和电池一次。 电池可以在熔炉中制成：^red; 请勿使用AA电池。"
+  },
+  {
+    "path": "/gui/lblText5/value",
+    "op": "replace",
+    "source": "To upgrade an existing weapon, place it in the Purple Slot.\n      ^gray;Otherwise, to create a new weapon, place an item in the Purple Slot. Accepts the following:^reset;\n      Exactly 2 Sharpened Claw (Spear), Exactly 2 Hardened Carapace (Hammer), Exactly 6 Steel Bar (Broadsword),\n      ^gray;Exactly 1 Sharpened Claw (Dagger), Exactly 1 Hardened Carapace (Axe), Exactly 3 Steel Bar (Shortsword)\n      ^red;More Weapon Types will be introduced at a later date; Mod Weapon Types, like Katanas, will be included as well.",
+    "value": "要升级现有武器，请将其放置在紫色插槽中。\n ^gray；否则，要创建新武器，请将一个物品放置在紫色插槽中。 接受以下操作：^reset； \n恰好2个尖锐的爪子（长矛），恰好2个硬化的甲壳（锤），恰好6个钢筋（大剑），\n ^灰色；恰好1个尖锐的爪子（匕首），恰好1个坚硬的甲壳 （斧头），正好是3根钢筋（短剑）\n ^red;稍后会引入更多武器类型； Mod武器类型（如Katanas）也将包括在内。"
+  },
+  {
+    "path": "/gui/lblText2/value",
+    "op": "replace",
+    "source": "Place 5 Bars in Grey Slot to determine Weapon Level, from 1 to 6. Accepts the following:\n      ^gray;Iron, Tungsten, Titanium, Durasteel, Violium/Aegisalt/Ferozium, Solarium\n      ^red;A higher tier will be introduced at a later date.^reset;",
+    "value": "在灰色插槽中放置5条，以确定武器等级，从1到6。接受以下条件：\n      ^gray;铁，钨，钛，杜拉，Violium / Aegisalt / Ferozium，Solarium \n      ^red; 未来将会引入更高的等级。^reset；"
+  },
+  {
+    "path": "/gui/lblText1/value",
+    "op": "replace",
+    "source": "Place Electrum Bars in Yellow Slot. Requires ^red;exactly 2^reset; for Upgrades and ^red;exactly 4^reset; for Creation.",
+    "value": "将Electrum Bars放在黄色槽中。需要^red；2^reset；用于升级，^red；4^reset；用于创建。"
+  },
+  {
+    "path": "/gui/lblText3/value",
+    "op": "replace",
+    "source": "Place 1 Item in Red Slot to determine Element. Accepts the following:\n      ^gray;Venom Sample, Scorched Core, Cryonic Extract, Static Cell, Glass (Keeps Element)\n      ^white;Glass can be created using Sand in a Furnace. ^red;Do not use Glass Blocks.^reset;\n      ^magenta;Legendary^gray; and ^yellow;Essential^gray; Weapons can not change element: either use Glass or their element's related Item.",
+    "value": "将1物品放置在红色插槽中以确定元素。 接受以下条件：\n ^gray；毒液样本，焦烧芯，冷冻冷冻提取物，静态细胞，玻璃（保持元素）\n ^白色；可以在炉子中使用沙子创建玻璃。 ^red;请勿使用Glass Blocks。^reset; \n ^magenta; Legendary ^gray; 和^yellow; Essential ^gray; 武器不能更改元素：使用Glass或其元素的相关物品。"
   }
 ]

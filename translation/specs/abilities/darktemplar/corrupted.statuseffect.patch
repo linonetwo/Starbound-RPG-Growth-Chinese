@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Corrupted",
+    "value": "腐败的"
+  }
+]

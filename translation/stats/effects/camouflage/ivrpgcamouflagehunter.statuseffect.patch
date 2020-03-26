@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Hunter's Camouflage",
+    "value": "猎人的伪装"
+  }
+]

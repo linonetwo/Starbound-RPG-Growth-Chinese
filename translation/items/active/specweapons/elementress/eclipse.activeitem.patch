@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Sweltering heat and cool serenity overtake one another.",
+    "value": "闷热和凉爽的宁静相互取代。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^magenta;Eclipse",
+    "value": "^magenta;日食"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Eclipse",
+    "value": "日食"
+  }
+]

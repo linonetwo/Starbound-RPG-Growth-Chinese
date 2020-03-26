@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Elemental Weave: Fire",
+    "value": "元素编织：火"
+  }
+]

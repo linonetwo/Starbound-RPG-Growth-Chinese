@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A corrosive-resistant Bronze Alloy made primarily from Copper and Silicon. From RPG Growth.",
+    "value": "一种主要由铜和硅制成的耐腐蚀青铜合金。从RPG增长。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Silicon Bronze Bar",
+    "value": "硅青铜棒"
+  }
+]

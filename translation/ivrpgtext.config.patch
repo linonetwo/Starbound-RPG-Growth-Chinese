@@ -538,5 +538,299 @@
     "op": "replace",
     "value": "溜之大吉",
     "path": "/upgrades/tech/ivrpgucwavedash/title"
+  },
+  {
+    "path": "/skill/children/body/children/adrenalinerush/children",
+    "op": "replace",
+    "source": "Increased Power Multiplier when Health is below a certain percentage.",
+    "value": "当生命值低于某个百分比时，功率倍增。"
+  },
+  {
+    "path": "/skill/children/body/children/adrenalinerush/title",
+    "op": "replace",
+    "source": "Adrenaline Rush",
+    "value": "肾上腺素激增"
+  },
+  {
+    "path": "/skill/children/body/children/momentum/title",
+    "op": "replace",
+    "source": "Momentum",
+    "value": "动量"
+  },
+  {
+    "path": "/skill/children/body/children/momentum/children",
+    "op": "replace",
+    "source": "Increased Power Multiplier, but Decreased Fall Damage Resistance.",
+    "value": "增加了功率倍增，但降低了坠落伤害抗力。"
+  },
+  {
+    "path": "/skill/children/body/children/armorup-reaction/title",
+    "op": "replace",
+    "source": "Armor Up - Reaction",
+    "value": "装甲上升反应"
+  },
+  {
+    "path": "/skill/children/body/children/bolsterspeed-muscle/children",
+    "op": "replace",
+    "source": "Increased Speed and Jump Height, but Decreased Energy Regen Rate.",
+    "value": "增加速度和跳跃高度，但降低能量再生率。"
+  },
+  {
+    "path": "/skill/children/body/children/vitalblow/title",
+    "op": "replace",
+    "source": "Vital Blow",
+    "value": "致命一击"
+  },
+  {
+    "path": "/skill/children/body/children/unstoppable/title",
+    "op": "replace",
+    "source": "Unstoppable",
+    "value": "势不可挡"
+  },
+  {
+    "path": "/skill/children/body/children/vitalblow/children",
+    "op": "replace",
+    "source": "Increased Power while near Full Health, but decreased Max Health.",
+    "value": "在接近完全生命值时增加能量，但降低最大生命值。"
+  },
+  {
+    "path": "/skill/children/mind/children/adrenalinerush/title",
+    "op": "replace",
+    "source": "Adrenaline Rush",
+    "value": "肾上腺素激增"
+  },
+  {
+    "path": "/skill/children/body/children/bolsterspeed-stride/children",
+    "op": "replace",
+    "source": "Increased Speed and Jump Height, but Decreased Critical Chance.",
+    "value": "增加速度和跳跃高度，但降低临界机会。"
+  },
+  {
+    "path": "/skill/children/body/children/bruteforce/children",
+    "op": "replace",
+    "source": "Increased Critical Chance, but decreased Speed and Jump Height.",
+    "value": "增加了临界机会，但降低了速度和跳跃高度。"
+  },
+  {
+    "path": "/skill/children/mind/children/bolsterspeed-form/children",
+    "op": "replace",
+    "source": "Increased Speed and Jump Height, but Decreased Max Energy.",
+    "value": "增加速度和跳跃高度，但降低最大能量。"
+  },
+  {
+    "path": "/skill/children/body/children/unstoppable/children",
+    "op": "replace",
+    "source": "Under basic negative status effects, Speed and Power Multiplier.",
+    "value": "在基本的负面状态影响下，速度和功率倍增。"
+  },
+  {
+    "path": "/skill/children/mind/children/keeneye/title",
+    "op": "replace",
+    "source": "Keen Eye",
+    "value": "敏锐的眼睛"
+  },
+  {
+    "path": "/skill/children/body/children/trueunderstanding/children",
+    "op": "replace",
+    "source": "Understand the physique of the opposite gender. Progresses the ability to equip Specializations of the opposite gender by one-third.\nIn order to equip Specializations of the opposite gender, 'Mind - True Understanding' and 'Soul - True Understanding' must also be equipped.\n\nIf any 'True Understanding' Skills are unequipped while a Specialization of the opposite gender is equipped, that Specialization is unequipped.",
+    "value": "了解异性的体格。提高装备异性专长的能力三分之一。"
+  },
+  {
+    "path": "/skill/children/body/children/armorup-function/title",
+    "op": "replace",
+    "source": "Armor Up - Function",
+    "value": "装甲升级-功能"
+  },
+  {
+    "path": "/skill/children/mind/children/adrenalinerush/children",
+    "op": "replace",
+    "source": "Increased Max Energy when Health is below a certain percentage.",
+    "value": "当生命值低于一定百分比时增加最大能量。"
+  },
+  {
+    "path": "/skill/children/mind/children/nightowl/children",
+    "op": "replace",
+    "source": "Speed and Jump Height are increased during the Night (Evening to Dawn).",
+    "value": "速度和跳跃高度在夜间（从晚上到黎明）增加。"
+  },
+  {
+    "path": "/skill/children/mind/children/nightowl/title",
+    "op": "replace",
+    "source": "Night Owl",
+    "value": "夜猫子"
+  },
+  {
+    "path": "/skill/children/soul/title",
+    "op": "replace",
+    "source": "^#c82828;Soul^reset;",
+    "value": "^#c82828;灵魂^reset;"
+  },
+  {
+    "path": "/skill/children/body/children/armorup-reaction/children",
+    "op": "replace",
+    "source": "Increased Armor, but Decreased Power Multiplier.",
+    "value": "增加护甲，但降低力量倍增。"
+  },
+  {
+    "path": "/skill/children/soul/children/adrenalinerush/title",
+    "op": "replace",
+    "source": "Adrenaline Rush",
+    "value": "肾上腺素激增"
+  },
+  {
+    "path": "/skill/children/soul/children/criticalluck/title",
+    "op": "replace",
+    "source": "Critical Luck",
+    "value": "关键运气"
+  },
+  {
+    "path": "/skill/children/mind/children/trueunderstanding/title",
+    "op": "replace",
+    "source": "True Understanding",
+    "value": "真正的理解"
+  },
+  {
+    "path": "/skill/children/body/children/armorup-function/children",
+    "op": "replace",
+    "source": "Increased Armor, but Decreased Power Multiplier.",
+    "value": "增加护甲，但降低力量倍增。"
+  },
+  {
+    "path": "/skill/children/soul/children/truesight/children",
+    "op": "replace",
+    "source": "Enemies you defeat sometimes drop Health and Energy Orbs.\nHealth Orbs always instantly heal 10 Health, while Energy Orbs instantly recharge 20 Energy.",
+    "value": "你击败的敌人有时会掉落生命和能量球。"
+  },
+  {
+    "path": "/skill/children/soul/children/adrenalinerush/children",
+    "op": "replace",
+    "source": "When Health hits below a certain percentage, summon an Attack Orb that fires at enemies.",
+    "value": "当生命值低于一定百分比时，召唤一个攻击球向敌人开火。"
+  },
+  {
+    "path": "/skill/children/soul/children/trueunderstanding/title",
+    "op": "replace",
+    "source": "True Understanding",
+    "value": "真正的理解"
+  },
+  {
+    "path": "/skill/children/soul/children/criticalluck/children",
+    "op": "replace",
+    "source": "Increased Critical Chance.",
+    "value": "增加了关键机会。"
+  },
+  {
+    "path": "/skill/children/soul/children/trueunderstanding/children",
+    "op": "replace",
+    "source": "Understand the heart of the opposite gender. Progresses the ability to equip Specializations of the opposite gender by one-third.\nIn order to equip Specializations of the opposite gender, 'Mind - True Understanding' and 'Body - True Understanding' must also be equipped.\n\nIf any 'True Understanding' Skills are unequipped while a Specialization of the opposite gender is equipped, that Specialization is unequipped.",
+    "value": "了解异性的内心。将装备异性专长的能力提高三分之一。\n为了装备异性专长，还必须装备“心灵-真实理解”和“身体-真实理解”。\n\n如果在装备异性专长时未装备任何“真实理解”技能，这种专业化是没有装备的。"
+  },
+  {
+    "path": "/skill/children/body/children/bolsterspeed-stride/title",
+    "op": "replace",
+    "source": "Bolster Speed - Stride",
+    "value": "支撑速度-跨步"
+  },
+  {
+    "path": "/skill/children/mind/children/trueunderstanding/children",
+    "op": "replace",
+    "source": "Understand the mentality of the opposite gender. Progresses the ability to equip Specializations of the opposite gender by one-third.\nIn order to equip Specializations of the opposite gender, 'Body - True Understanding' and 'Soul - True Understanding' must also be equipped.\n\nIf any 'True Understanding' Skills are unequipped while a Specialization of the opposite gender is equipped, that Specialization is unequipped.",
+    "value": "了解异性的心态。提高装备异性专长的能力三分之一。"
+  },
+  {
+    "path": "/skill/children/soul/children/truesight/title",
+    "op": "replace",
+    "source": "Truesight",
+    "value": "真视力"
+  },
+  {
+    "path": "/skill/children/body/children/trueunderstanding/title",
+    "op": "replace",
+    "source": "True Understanding",
+    "value": "真正的理解"
+  },
+  {
+    "path": "/skill/children/mind/children/keeneye/children",
+    "op": "replace",
+    "source": "Increased Critical Chance, but decreased Energy Regen Rate.",
+    "value": "增加了临界几率，但降低了能量再生率。"
+  },
+  {
+    "path": "/skill/children/soul/children/armorup-determination/children",
+    "op": "replace",
+    "source": "Increased Armor, but Decreased Power Multiplier.",
+    "value": "增加护甲，但降低力量倍增。"
+  },
+  {
+    "path": "/skill/children/soul/children/synthesis/children",
+    "op": "replace",
+    "source": "While above-ground, and only during the day, slowly regenerate Health.",
+    "value": "在地面上，只有白天，才能慢慢恢复生命。"
+  },
+  {
+    "path": "/skill/children/mind/children/armorup-anticipation/title",
+    "op": "replace",
+    "source": "Armor Up - Anticipation",
+    "value": "装甲准备"
+  },
+  {
+    "path": "/skill/children/body/children/bolsterspeed-muscle/title",
+    "op": "replace",
+    "source": "Bolster Speed - Muscle",
+    "value": "支撑速度-肌肉"
+  },
+  {
+    "path": "/skill/children/mind/children/earlybird/children",
+    "op": "replace",
+    "source": "Speed and Jump Height are increased during the Day (Dawn to Evening).",
+    "value": "速度和跳跃高度在白天（从黎明到傍晚）增加。"
+  },
+  {
+    "path": "/skill/children/soul/children/synthesis/title",
+    "op": "replace",
+    "source": "Synthesis",
+    "value": "合成"
+  },
+  {
+    "path": "/skill/children/body/children/bruteforce/title",
+    "op": "replace",
+    "source": "Brute Force",
+    "value": "蛮力"
+  },
+  {
+    "path": "/skill/children/body/title",
+    "op": "replace",
+    "source": "^#3c4fdc;Body^reset;",
+    "value": "^#3c4fdc；主体^reset;"
+  },
+  {
+    "path": "/skill/children/mind/children/bolsterspeed-form/title",
+    "op": "replace",
+    "source": "Bolster Speed - Form",
+    "value": "摇枕速度-形式"
+  },
+  {
+    "path": "/skill/children/mind/children/earlybird/title",
+    "op": "replace",
+    "source": "Early Bird",
+    "value": "早起的鸟儿"
+  },
+  {
+    "path": "/skill/children/mind/children/armorup-anticipation/children",
+    "op": "replace",
+    "source": "Increased Armor, but Decreased Power Multiplier.",
+    "value": "增加护甲，但降低力量倍增。"
+  },
+  {
+    "path": "/skill/children/mind/title",
+    "op": "replace",
+    "source": "^#c828c8;Mind^reset;",
+    "value": "^#c828c8；思维^reset;"
+  },
+  {
+    "path": "/skill/children/soul/children/armorup-determination/title",
+    "op": "replace",
+    "source": "Armor Up - Determination",
+    "value": "装甲-测定"
   }
 ]

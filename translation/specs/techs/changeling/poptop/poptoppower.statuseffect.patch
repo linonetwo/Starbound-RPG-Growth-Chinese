@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Poptop Power",
+    "value": "Poptop电源"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A Tungsten Wand with a Cryonic Core.",
+    "value": "一种带有低温核心的钨棒。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Tungsten Wand - Cryo",
+    "value": "低温钨棒"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Magic Pillar",
+    "value": "魔柱"
+  }
+]

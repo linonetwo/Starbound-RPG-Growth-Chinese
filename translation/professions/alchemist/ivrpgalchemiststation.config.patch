@@ -1,0 +1,50 @@
+[
+  {
+    "path": "/paneLayout/windowtitle/title",
+    "op": "replace",
+    "source": " Alchemist's Crafting Station",
+    "value": "炼金术士手工艺站"
+  },
+  {
+    "path": "/paneLayout/windowtitle/subtitle",
+    "op": "replace",
+    "source": " ^#b9b5b2;Only experienced Alchemists know what to do with these tools!",
+    "value": "^#b9b5b2;只有经验丰富的炼金术士才知道如何使用这些工具！"
+  },
+  {
+    "path": "/paneLayout/lblSchematics/value",
+    "op": "replace",
+    "source": "^#b9b5b2;BLUEPRINT",
+    "value": "^#b9b5b2；蓝图"
+  },
+  {
+    "path": "/paneLayout/lblProducttitle/value",
+    "op": "replace",
+    "source": "^#b9b5b2;PRODUCT",
+    "value": "^#b9b5b2；产品"
+  },
+  {
+    "path": "/paneLayout/btnCraft/caption",
+    "op": "replace",
+    "source": "Craft",
+    "value": "制造"
+  },
+  {
+    "path": "/paneLayout/btnStopCraft/caption",
+    "op": "replace",
+    "source": "Stop",
+    "value": "停止"
+  },
+  {
+    "path": "/paneLayout/lblProduct/value",
+    "op": "replace",
+    "source": "MATERIALS AVAILABLE",
+    "value": "可用材料"
+  },
+  {
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/itemName/value",
+    "op": "replace",
+    "source": "Replace Me",
+    "value": "代替我"
+  }
+]

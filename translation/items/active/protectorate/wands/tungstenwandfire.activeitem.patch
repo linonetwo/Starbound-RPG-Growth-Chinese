@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A Tungsten Wand with a Scorched Core.",
+    "value": "有烧焦的芯的钨棒。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Tungsten Wand - Scorched",
+    "value": "钨棒-烧焦"
+  },
+  {
+    "path": "/primaryAbility/name",
+    "op": "replace",
+    "source": "Magic Pillar",
+    "value": "魔柱"
+  }
+]

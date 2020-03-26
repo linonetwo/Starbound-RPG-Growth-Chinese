@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Dark Templar Only",
+    "value": "只有黑暗圣堂武士"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Abounding Darkness",
+    "value": "无尽的黑暗"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Caution: Hazardous Materials. Recommended Course of Action: Torch Enemies.",
+    "value": "注意：危险品。推荐行动方案：火把敌人。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Omnia-Thrower",
+    "value": "全能投掷者"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Alchemist",
+    "value": "炼金术士"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Do note that while this weapon has many functionalities, creating ziplines is strictly prohibited under Protectorate Law.",
+    "value": "请注意，虽然这种武器有许多功能，但根据守护者法律，创建滑索是严格禁止的。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^green;Mida",
+    "value": "^green;点物成金"
+  }
+]

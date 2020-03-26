@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "So, what? Do I just... bludgeon people with her?",
+    "value": "那么，什么？我只是。。。和她一起殴打别人？"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^#876543;Caine's Chest",
+    "value": "^#876543;凯恩的胸部"
+  }
+]

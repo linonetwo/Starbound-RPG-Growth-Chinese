@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A beautiful silken flag attached to a shining metal pole.",
+    "value": "一面漂亮的丝质旗帜，挂在闪闪发光的金属杆上。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^yellow;Leader's Rally",
+    "value": "^yellow;领袖集会"
+  }
+]

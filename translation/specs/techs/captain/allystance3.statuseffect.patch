@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Speed Stance",
+    "value": "速度站姿"
+  }
+]

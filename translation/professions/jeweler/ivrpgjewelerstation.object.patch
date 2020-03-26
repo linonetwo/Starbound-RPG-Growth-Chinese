@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "A large desk displaying magnificently cut gems. It has many large drawers to fill with jewelry.",
+    "value": "一张大桌子，上面陈列着切割得非常华丽的宝石。它有许多大抽屉可以装满珠宝。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Jeweler Station",
+    "value": "珠宝店"
+  }
+]

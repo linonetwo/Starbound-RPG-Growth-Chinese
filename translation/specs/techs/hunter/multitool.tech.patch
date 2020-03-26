@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Hunter Only",
+    "value": "仅限猎人"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Multitool",
+    "value": "多工具"
+  }
+]

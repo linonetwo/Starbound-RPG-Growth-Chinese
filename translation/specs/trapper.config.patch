@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Trapper",
+    "value": "捕捉器"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Dead Or Alive",
+    "value": "死或活"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Headhunter",
+    "value": "猎头"
+  }
+]

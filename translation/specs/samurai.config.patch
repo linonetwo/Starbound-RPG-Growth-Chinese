@@ -16,5 +16,71 @@
     "op": "replace",
     "source": "Samurai Heart",
     "value": "武士之心"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Dexterity x2",
+    "value": "灵巧度x2"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Strength x2",
+    "value": "强度x2"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Disables Shields, Broadswords, and Hammers",
+    "value": "禁用盾牌、大刀和锤子"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "-25% Ice Resistance",
+    "value": "-25%抗冰性"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "-0.2 Seconds Energy Regen Delay",
+    "value": "-0.2秒能量再生延迟"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Getting kills with Katanas grants a brief bout of Increased Speed and Jump Height, as well as Energy Regeneration.",
+    "value": "与卡塔纳一起获得杀戮，可以获得短暂的速度和跳跃高度提升，以及能量再生。"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "125% Base Power with Spears and Bows.",
+    "value": "125%的基础力量与矛和弓。"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Double-Tap Left or Right to dash in that direction, using all your remaining Energy to conjure a sharp slash of air along your path. The damage of the slash scales with how much Energy remained upon use along with Dexterity, and the duration of the dash scales with Agility. You are immune to damage while dashing.",
+    "value": "双击左边或右边向那个方向冲去，用你所有剩余的能量在你的路径上召唤出一道锐利的空气。斜线鳞片的伤害与使用时剩余的能量、灵巧度和敏捷冲刺鳞片的持续时间有关。你在冲刺时对伤害免疫。"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "150% Base Power with Katanas.",
+    "value": "150%的基础力量与卡塔纳。"
+  },
+  {
+    "path": "/classic/1/text",
+    "op": "replace",
+    "source": "Enables Katanas",
+    "value": "启用片假名"
   }
 ]

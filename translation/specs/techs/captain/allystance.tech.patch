@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Captain Only",
+    "value": "只有船长"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "Ally Stance",
+    "value": "盟友立场"
+  }
+]

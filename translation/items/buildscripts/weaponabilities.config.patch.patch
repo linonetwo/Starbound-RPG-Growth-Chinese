@@ -1,0 +1,80 @@
+[
+  {
+    "path": "/0/value",
+    "op": "replace",
+    "source": "/items/active/classweapons/knightsword/parryshield.weaponability",
+    "value": "/物品/现役/类武器/骑士剑/防身武器"
+  },
+  {
+    "path": "/1/value",
+    "op": "replace",
+    "source": "/items/active/classweapons/knightsword/aegisswordcombo.weaponability",
+    "value": "/物品/主动/类武器/骑士剑/盾字组合武器"
+  },
+  {
+    "path": "/2/value",
+    "op": "replace",
+    "source": "/items/active/classweapons/wizardstaff/novastaffexplosion.weaponability",
+    "value": "/物品/主动/类武器/巫师/新星爆炸武器"
+  },
+  {
+    "path": "/3/value",
+    "op": "replace",
+    "source": "/items/active/classweapons/wizardstaff/novastaffswitch.weaponability",
+    "value": "/物品/主动/类武器/巫师/新星交换武器"
+  },
+  {
+    "path": "/4/value",
+    "op": "replace",
+    "source": "/items/active/classweapons/soldiergun/versaarfire.weaponability",
+    "value": "/物项/现役/类武器/士兵/通用火力。武器性"
+  },
+  {
+    "path": "/5/value",
+    "op": "replace",
+    "source": "/items/active/weapons/melee/abilities/hammer/demonsword/giantsword.weaponability",
+    "value": "/物品/主动/武器/近战/能力/锤子/恶魔/长剑。武器性"
+  },
+  {
+    "path": "/6/value",
+    "op": "replace",
+    "source": "/items/active/weapons/melee/abilities/broadsword/acidspew/flamethrowersword.weaponability",
+    "value": "/物品/活动/武器/近战/能力/大刀/喷火/火焰喷射剑。武器性"
+  },
+  {
+    "path": "/7/value",
+    "op": "replace",
+    "source": "/items/active/weapons/melee/abilities/broadsword/obsidianShards/obsidianShards.weaponability",
+    "value": "/物品/主动/武器/近战/能力/大刀/黑曜石/黑曜石武器"
+  },
+  {
+    "path": "/8/value",
+    "op": "replace",
+    "source": "/items/active/weapons/melee/abilities/broadsword/obsidianShardsWeak/obsidianShardsWeak.weaponability",
+    "value": "/物品/主动/武器/近战/异能/大刀/黑曜石/黑曜石武器"
+  },
+  {
+    "path": "/10/value",
+    "op": "replace",
+    "source": "/items/active/weapons/melee/abilities/spear/telsaspin/elementalspin.weaponability",
+    "value": "/物品/主动/武器/近战/能力/矛/telsaspin/元素alspin.武器性"
+  },
+  {
+    "path": "/11/value",
+    "op": "replace",
+    "source": "/items/active/specweapons/adept/phaseshift.weaponability",
+    "value": "/物品/现役/特种武器/熟练/阶段性武器"
+  },
+  {
+    "path": "/12/value",
+    "op": "replace",
+    "source": "/items/active/specweapons/valkyrie/mark/valkyriemark.weaponability",
+    "value": "/物品/现役/特种武器/武凯里/马克/武凯里马克。武器性"
+  },
+  {
+    "path": "/13/value",
+    "op": "replace",
+    "source": "/items/active/specweapons/dragoon/charge/dragooncharge.weaponability",
+    "value": "/物品/现役/特种武器/龙骑兵/冲锋/龙骑兵。武器性"
+  }
+]

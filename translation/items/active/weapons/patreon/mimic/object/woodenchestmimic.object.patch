@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "This chest reminds you of something... bad. Try not to lose sight of it.",
+    "value": "这个箱子让你想起了。。。很糟糕。尽量不要忘记它。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Caine's Chest",
+    "value": "凯恩的胸部"
+  }
+]

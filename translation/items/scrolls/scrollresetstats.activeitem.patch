@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Looks like even ancient civilizations had self-help magazines...",
+    "value": "好像古代文明也有自助杂志。。。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "Stat Reset Scroll",
+    "value": "状态重置卷轴"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/description",
+    "op": "replace",
+    "source": "Jewelry get stuck to your clothes? Losing it when you take it off? No problem.",
+    "value": "首饰粘在衣服上了？当你把它脱下来的时候会掉吗？没问题。"
+  },
+  {
+    "path": "/shortdescription",
+    "op": "replace",
+    "source": "^blue;Jewelry 'Extractor'^white;",
+    "value": "^blue;珠宝“提取器”^white;"
+  },
+  {
+    "path": "/subtitle",
+    "op": "replace",
+    "source": "For Jewelry",
+    "value": "珠宝"
+  }
+]

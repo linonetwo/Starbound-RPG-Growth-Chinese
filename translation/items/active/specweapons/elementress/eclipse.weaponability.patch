@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/ability/name",
+    "op": "replace",
+    "source": "Eclipse",
+    "value": "日食"
+  }
+]

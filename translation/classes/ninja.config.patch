@@ -87,7 +87,7 @@
     "path": "/techs/0/text",
     "op": "replace",
     "source": "Press [Space] while midair to burst forward. For a short time after jumping, you are invulnerable to damage. As long as you remain in the air with energy remaining, you are invulnerable to fall damage. You may do this twice while midair.",
-    "value": "按[空格]键，同时中空爆炸式前进。在跳跃后的短时间内，你不会受到伤害。只要你在空中保持能量充足，你就不会受到跌落伤害。你可以在半空中使用两次这个技能。"
+    "value": "按[Space]键，同时中空爆炸式前进。在跳跃后的短时间内，你不会受到伤害。只要你在空中保持能量充足，你就不会受到跌落伤害。你可以在半空中使用两次这个技能。"
   },
   {
     "path": "/techs/1/title",

@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Stunned",
+    "value": "震惊的"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/title",
+    "op": "replace",
+    "source": "Hunter",
+    "value": "猎人"
+  },
+  {
+    "path": "/ability/text",
+    "op": "replace",
+    "source": "Crouch for 2 seconds for 5 seconds of Invisibility. Use Energy or do Damage to dispel this and gain +33% Bleed Chance for 0.5 seconds.",
+    "value": "蹲下2秒5秒隐身。使用能量或造成伤害来驱散它并获得+33%的流血几率，持续0.5秒。"
+  },
+  {
+    "path": "/classic/0/text",
+    "op": "replace",
+    "source": "Enables Two-Handed Ranged Weapons",
+    "value": "启用双手远程武器"
+  },
+  {
+    "path": "/effects/0/text",
+    "op": "replace",
+    "source": "Dexterity",
+    "value": "灵巧"
+  },
+  {
+    "path": "/effects/1/text",
+    "op": "replace",
+    "source": "Vigor",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/2/text",
+    "op": "replace",
+    "source": "Agility",
+    "value": "敏捷性"
+  },
+  {
+    "path": "/effects/3/text",
+    "op": "replace",
+    "source": "Vitality",
+    "value": "活力"
+  },
+  {
+    "path": "/effects/4/text",
+    "op": "replace",
+    "source": "+25% Electric, Fire, and Nova Resistance.",
+    "value": "+25%的电、火和新星电阻。"
+  },
+  {
+    "path": "/effects/5/text",
+    "op": "replace",
+    "source": "120% Base Power with Bows and Sniper Rifles.",
+    "value": "120%的基础力量与弓和狙击步枪。"
+  },
+  {
+    "path": "/effects/6/text",
+    "op": "replace",
+    "source": "115% Base Power with Pistols and Daggers.",
+    "value": "使用手枪和匕首时，基础能量为115%。"
+  },
+  {
+    "path": "/effects/7/text",
+    "op": "replace",
+    "source": "90% Max Health",
+    "value": "生命上限90%"
+  },
+  {
+    "path": "/effects/8/text",
+    "op": "replace",
+    "source": "-5 Protection",
+    "value": "-5保护"
+  },
+  {
+    "path": "/tech/title",
+    "op": "replace",
+    "source": "Multitool",
+    "value": "多工具"
+  },
+  {
+    "path": "/tech/text",
+    "op": "replace",
+    "source": "Press [Shift] + [G] to switch between Fire, Electric, and Nova.\nPress [G] to lob a Smokebomb towards your cursor (50 Energy, 6 Second Cooldown). Double-tap [A] or [D] to Dodge (No Energy, 3 Second Cooldown).\nUse Alt Fire when Energy is full to Energize Mida (Nova -> Deadfall, Electric -> Pulsar, Fire -> Sunshot): this effect drains Energy and then dissipates.\nGrenade, Dodge, and Energize effects depend on Multitool Element.",
+    "value": "按[Shift]+[G]在火、电和新星之间切换。\n按[G]向光标投掷烟雾弹（50能量，6秒冷却）。双击[A]或[D]闪避（无能量，3秒冷却）。\n在能量充足时使用Alt Fire激活Mida（新星->死亡，电->脉冲星，火->太阳热）：此效果消耗能量，然后消散。\n手榴弹，闪避和激活效果依赖于多工具元素。"
+  },
+  {
+    "path": "/weapon/title",
+    "op": "replace",
+    "source": "Mida",
+    "value": "点物成金"
+  }
+]

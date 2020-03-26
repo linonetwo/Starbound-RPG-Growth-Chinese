@@ -1,0 +1,8 @@
+[
+  {
+    "path": "/label",
+    "op": "replace",
+    "source": "Slammed",
+    "value": "砰的一声"
+  }
+]
