@@ -8,19 +8,26 @@ const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env
 
 function fixMistranslation(text: string) {
   return text
-    .replace(/\^?红色(：|:|；)?/g, '^red;')
-    .replace(/\^?绿色(：|:|；)?/g, '^green;')
-    .replace(/\^?白色(：|:|；)?/g, '^white;')
-    .replace(/\^?黄色(：|:|；)?/g, '^yellow;')
-    .replace(/\^?(橘|橙)色(：|:|；)?/g, '^orange;')
-    .replace(/\^?灰色(：|:|；)?/g, '^gray;')
-    .replace(/\^?蓝色(：|:|；)?/g, '^blue;')
-    .replace(/\^?(品|洋)红色?(：|:|；)?/g, '^magenta;')
+    .replace(/\^?(品|洋)红(色|的)?(：|:|；)?/g, '^magenta;')
+    .replace(/\^?红(色|的)(：|:|；)?/g, '^red;')
+    .replace(/\^?绿(色|的)(：|:|；)?/g, '^green;')
+    .replace(/\^?白(色|的)(：|:|；)?/g, '^white;')
+    .replace(/\^?黄(色|的)(：|:|；)?/g, '^yellow;')
+    .replace(/\^?(橘|橙)(色|的)(：|:|；)?/g, '^orange;')
+    .replace(/\^?灰(色|的)(：|:|；)?/g, '^gray;')
+    .replace(/\^?蓝(色|的)(：|:|；)?/g, '^blue;')
     .replace(/\^?(重置|复位)(：|:|；)?/g, '^reset;')
     .replace(/\^?暗影(：|:|；)?/g, '^shadow;')
+    .replace(/\^?黑(色|的)(：|:|；)?/g, '^black;')
+    .replace(/(\^#[a-z0-9]{6})；/g, '$1;')
     // 奇怪的翻译
     .replace(/功率倍增/g, '增加攻击力乘数')
     .replace(/关键机会/g, '暴击几率')
+    .replace(/纸卷/g, '卷轴')
+    .replace(/身体形态/g, '物理形态') // physical form
+    .replace(/魔术师们/g, '重甲战士们') // Juggernauts
+    .replace(/技术员/g, '重甲战士们') // Technomancer
+    .replace('\n个', '\n')
 }
 
 function replaceNto1111(text: string) {

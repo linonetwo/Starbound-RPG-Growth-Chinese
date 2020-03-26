@@ -3,7 +3,7 @@
     "path": "/title",
     "op": "replace",
     "source": "Technomancer",
-    "value": "技术员"
+    "value": "技术法师"
   },
   {
     "path": "/tech/title",

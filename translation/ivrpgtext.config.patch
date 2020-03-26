@@ -832,5 +832,1073 @@
     "op": "replace",
     "source": "Armor Up - Determination",
     "value": "装甲-测定"
+  },
+  {
+    "path": "/lore/title",
+    "op": "replace",
+    "source": "Lore",
+    "value": "传说"
+  },
+  {
+    "path": "/lore/children/universe/title",
+    "op": "replace",
+    "source": "^magenta;Universe",
+    "value": "^magenta;宇宙"
+  },
+  {
+    "path": "/lore/children/universe/children/truth/title",
+    "op": "replace",
+    "source": "Truth",
+    "value": "真理"
+  },
+  {
+    "path": "/lore/children/universe/children/forgranted/title",
+    "op": "replace",
+    "source": "For Granted",
+    "value": "理所当然"
+  },
+  {
+    "path": "/lore/children/universe/children/truth/children",
+    "op": "replace",
+    "source": "There are immutable truths. This, in and of itself, is one of them: it must be, for if it were not, there would not be any other.\n\nAnother is the immovable march of time. That man who refutes it, passing his corrupted will unto his disciples, may pretend to impossibly shape existence, but his understanding is limited. A Warlock at heart, he believes the gift granted to him, the inconceivable crack in his annihilation, is something controllable. But he will find that perhaps the time he ignores will not hold fast, and just like Zia did, will slip from his grasp.\n\nAnd of course, this universe engraves a familiar - albeit casually exploited - marking in stone: the third truth. \"You who would take life will receive power\": to kill, and within the blend of incomprehensible contraints, absorb strength. This is irrefutable. But for those who take it for granted, I ask: with all the essence you obtain, is there not something you lose?",
+    "value": "有不变的真理。这本身就是其中之一：它必须是，因为如果不是，就不会有其他的。\n\n另一个是不可移动的时间行进。驳斥它的人，把他败坏的意志传给他的门徒，可能会假装不可能塑造存在，但他的理解是有限的。作为一个内心的术士，他相信给予他的天赋，在他的毁灭中不可思议的裂缝，是可以控制的。但他会发现，也许他忽略的时间不会紧紧抓住，就像齐亚那样，会从他的掌握中溜走。\n当然，这个宇宙在石头上刻下了一个熟悉的——尽管是偶然发现的——标记：第三个真理。”夺去生命的人将获得力量：杀戮，在无法理解的禁忌中吸收力量。这是无可辩驳的。但对于那些想当然的人，我要问：用你所获得的一切精华，难道没有什么东西是你失去的吗？"
+  },
+  {
+    "path": "/lore/children/universe/children/forgranted/children",
+    "op": "replace",
+    "source": "Taking without giving, a constant push against the pressure driving you into the ground. . Deeper, I press: what do you lose?",
+    "value": "不屈不挠地承受，不断地顶着压力把你推到地上。更深一层，我按：你失去了什么？"
+  },
+  {
+    "path": "/lore/children/people/title",
+    "op": "replace",
+    "source": "^orange;People",
+    "value": "^orange;人"
+  },
+  {
+    "path": "/lore/children/people/children/winter/title",
+    "op": "replace",
+    "source": "^#ffaafa;Winter",
+    "value": "^#ffaafa;冬季"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/comprehension/title",
+    "op": "replace",
+    "source": "Comprehension",
+    "value": "理解力"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/comprehension/children",
+    "op": "replace",
+    "source": "Ah. Of course. Why hadn't she realized? How foolish of her.",
+    "value": "啊。当然。为什么她没有意识到？她真傻。"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/whoareyoureally/title",
+    "op": "replace",
+    "source": "Who are you, really?",
+    "value": "你到底是谁？"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/whoareyoureally/children",
+    "op": "replace",
+    "source": "Who are you? No, no. This isn't a question for you, so calm down, and keep your lips shut: after all, it's a question for me. Who are you? The reason I ask is simple. Have you changed? Are you no longer that wretched season necessitating death? Are you alive, or dead? Where are you, why, and when? Who are you?\n\n",
+    "value": "你是谁？不，不。这不是你的问题，所以冷静下来，闭上你的嘴：毕竟，这是我的问题。你是谁？我问的原因很简单。你换衣服了吗？你不再是那个需要死亡的悲惨季节了吗？你是活着，还是死了？你在哪里，为什么，什么时候？你是谁？\n\n"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/whennothingstaredback/children",
+    "op": "replace",
+    "source": "It wasn't supposed to be like this. It never was. But even so, it seemed, a miniscule, primal segment of her conscience had known all along. Her thoughts flickered to Soliste. Perhaps it was better this way.\n\nShe stared. Nothing stared back. It was strange, this 'nothingness', because 'nothingness' didn't exist: it couldn't, because even nothing was something. How ridiculous...\n\nShe listened as the words Egoen spoke reflected in the spaces between. She reciprocated, pointlessly, slowly edging her fingertips around the kunai strapped to her thigh. She knew he would not choose to depart, clutching on to life fruitlessly, spitting words of power at the emptiness surrounding: cursing this reality for snatching Zia from his grasp. So she would choose for him. There was no blood: there could not be; even so, he died. Glad, at first, her emotions turned sour: without a doubt, this was the only way. She knew it as such; the nothingness told her - not through whispers, not through images, not through thoughts, but through reality. The endless-featureless-emptiness was existence: the only definite, the only absolute, the only truth. Despite this, she could not help but feel overwhelmed as his soul escaped and only hers remained: ensnared, forever. The moment was gone: he had taken it from her, not via his own actions, but by hers. She panicked, as there was nearly nothing left for her to do.\n\nSoliste, she cried. Soliste! Was she waiting? Would she ever know? The nothing encroached and squeezed tightly, despite pulling her apart. Soliste: that was all she could think about, 'laughing' incredulously until there was nothing left to think.\n\nAnd just like that, she was nothing too.",
+    "value": "不应该是这样的。从来没有。但即便如此，她的良心中似乎也有一小部分人是一直知道的。她的思绪忽闪忽现。也许这样更好。\n\n她凝视着。什么也没有回头看。很奇怪，这种“虚无”，因为“虚无”不存在：它不可能，因为即使什么都不是。真可笑。。。\n她倾听着埃戈恩所说的话，这些话反映在两人之间的空隙中。她回应，毫无意义，慢慢地用指尖绕着绑在大腿上的库奈。她知道他不会选择离开，毫无结果地抓住生活，向周围的空虚吐出充满力量的话语：诅咒这个现实，因为他把齐亚从手中夺走了。所以她会为他选择。没有血，也不可能有；即使如此，他还是死了。很高兴，一开始，她的情绪变酸了：毫无疑问，这是唯一的办法。她是这样知道的；虚无告诉她——不是通过耳语，不是通过图像，不是通过思想，而是通过现实。无休止的虚无是存在：唯一确定的，唯一绝对的，唯一的真理。尽管如此，她还是忍不住感到不知所措，因为他的灵魂逃走了，只剩下她的灵魂：永远被诱捕。那一刻已经过去了：他不是通过自己的行动，而是通过她的行动，从她那里夺走了它。她惊慌失措，因为她几乎没有什么可做的了。\n\n索利斯特，她哭了。索利斯！她在等吗？她会知道吗？尽管把她拉开了，但什么也没有侵犯，紧紧地挤在一起。索利斯特：那是她唯一能想到的，“笑”得让人难以置信，直到没有什么可想的了。\n"
+  },
+  {
+    "path": "/lore/children/people/children/zia/title",
+    "op": "replace",
+    "source": "^#c16bff;Zia",
+    "value": "^#c16bff;齐亚"
+  },
+  {
+    "path": "/lore/children/universe/children/dontfearthereaper/children",
+    "op": "replace",
+    "source": "There is no escape. Life comes. Death comes. It isn't a cycle. It is a line. A path to follow. No deviation. Of course, this scares us. We have only one place to go, but we are never prepared. We fear death, not because of the pain, but because we have no choice. We cannot alter our course. We live for as long as we can, but in the end, we die. We always die.\n\nThe Reaper, it is said, is the one who takes us. But if the Reaper decides, then what happens when you are the Reaper.",
+    "value": "无路可逃。生活来了。死亡来临。这不是一个循环。这是一条线。要走的路。没有偏差。当然，这让我们害怕。我们只有一个地方可去，但我们从来没有准备好。我们害怕死亡，不是因为痛苦，而是因为我们别无选择。我们不能改变路线。我们能活多久就活多久，但最后，我们会死。我们总是死。\n\n据说，是收割者把我们带走的。但如果收割者决定，那么当你是收割者时会发生什么。"
+  },
+  {
+    "path": "/lore/children/universe/children/dontfearthereaper/title",
+    "op": "replace",
+    "source": "Don't Fear the Reaper",
+    "value": "别害怕收割者"
+  },
+  {
+    "path": "/lore/children/people/children/zia/children/forceofnature/title",
+    "op": "replace",
+    "source": "Force of Nature",
+    "value": "自然力"
+  },
+  {
+    "path": "/lore/children/people/children/egoen/title",
+    "op": "replace",
+    "source": "^#6d577c;Egoen",
+    "value": "^#6d577c;埃贡"
+  },
+  {
+    "path": "/lore/children/people/children/egoen/children/againstallodds/title",
+    "op": "replace",
+    "source": "Against All Odds",
+    "value": "不顾一切"
+  },
+  {
+    "path": "/lore/children/people/children/winter/children/whennothingstaredback/title",
+    "op": "replace",
+    "source": "When Nothing Stared Back",
+    "value": "当什么都没有回头看的时候"
+  },
+  {
+    "path": "/lore/children/people/children/egoen/children/againstallodds/children",
+    "op": "replace",
+    "source": "He hadn't meant it: it was, obviously, an impossibility, and he knew it as such. However, despite the infinitesimal chances, what was to be zero turned to one. And curiously, he thought he knew why. Nevermind the definite inconsistencies or supposed betrayals, this was new territory, a chance to recoup losses and begin anew. Or so he thought. But alas, his soul now split was not the Egoen he knew, nor the Egoen the universe knew. Egoen, whoever he had been, was no longer: an anomaly.\n\nThe timelines diverged. All of them, weaving off into calculated paths.",
+    "value": "他不是故意的：这显然是不可能的，他也知道这一点。然而，尽管机会微乎其微，原本是零的却变成了一。奇怪的是，他认为他知道为什么。尽管有明显的不一致或被认为是背叛，这是一个新的领域，一个弥补损失和重新开始的机会。或者他是这么想的。但是，唉，他现在分裂的灵魂不是他所认识的自我，也不是宇宙所认识的自我。不管他是谁，埃戈恩已经不再是一个反常的人了。\n\n时间线出现分歧。所有这些，交织成计算出的路径。"
+  },
+  {
+    "path": "/lore/children/people/children/bahn/title",
+    "op": "replace",
+    "source": "^orange;Bahn",
+    "value": "^orange;巴赫"
+  },
+  {
+    "path": "/lore/children/people/children/bahn/children",
+    "op": "replace",
+    "source": "A heavy-handed silence pressed against her as she gauged the distance: around 80 meters, approaching fast. Normally, this type of task was meant for someone like Sen, and she knew as much. But even so, that wouldn't stop her. It never had: she was a Titan first, and a Soldier second.\n\nShe smirked. 50 meters. \"Cover! Now!\" She didn't have to yell twice as their formation tightened before her sentence had even finished. 20 meters. Her shield held steady, and her fingers wrapped tightly around the pistol in her hand. There would only be a few seconds, but she would make those seconds count. 1 meter. A screeching sound rang as the bolt slammed against metal, nearly breaking their guard. Nearly. But a Titan's shield, albeit lighter than a Paladin's, wasn't just for show. The blast deflected, slamming the ground with a force that staggered the two besides her. But without a word, her hand moved from defensive to offensive, and as the shots rang out, victory was decided.",
+    "value": "当她测量距离时，沉重的沉默压在她身上：大约80米，快速接近。通常，这类任务是为森这样的人准备的，她也知道很多。但即便如此，这也不能阻止她。从来没有过：她先是泰坦，后是士兵。她笑了。50米。”掩护！现在！”在刑期还没结束时，他们的队形就收紧了，她不必大喊大叫。20米。她的盾牌握得很稳，她的手指紧紧地缠在手里的手枪上。只有几秒钟的时间，但她会把这些时间计算在内。1米。当门闩砰的一声撞到金属上时，一声尖叫声响起，几乎把他们的防护罩都打破了。差不多了。但泰坦之盾，虽然比圣骑士的轻，但并不仅仅是用来作秀的。爆炸偏斜了，用一种使她旁边的两个人摇晃的力量猛击地面。但一言不发，她的手从防守转为进攻，随着枪声响起，胜利已定。"
+  },
+  {
+    "path": "/lore/children/people/children/sen/title",
+    "op": "replace",
+    "source": "Sen",
+    "value": "森"
+  },
+  {
+    "path": "/lore/children/people/children/zia/children/apprenticesfolly/children",
+    "op": "replace",
+    "source": "She couldn't do it. She just couldn't do it. No matter how hard she tried, no matter how much effort, how much time, how much anything... She just couldn't. And at some point, perhaps, she gave up: grew spiteful. Ha.\n\nEgoen made excuses. Said that perhaps it was her physiology. Her mind. Her hormones. He could not accept that his apprentice would not be able to acquire his knowledge. He was, after all, the greatest teacher. The most intelligent scholar. The most impressive Warlock. It was, as he put it, an impossibility.\n\nThen that mission came. Experience was the best teacher, he said. So she came along, and unfortunately, or possibly not, she was erased. She did not die. No, because there was no death. Not with what they had found. She was the third one. Of course she was: because her master had been there all along, wielding magic greater than comprehension. But even so, she was erased...\n\nExcept she wasn't. That maniacal wizard had attempted something meta-universal. But you couldn't call that a success. No: she was livid. To be brought back because that man could not accept failure. Ridiculous. Ridiculous. Absolutely ridiculous. And just as he could not accept her 'death', she did not accept her 'return'. And maybe there was bitterness, and maybe there was fury, but she did not care. And with her newfound knowledge, she thought, perhaps she could do her own teaching. To become a being higher than that foolish master of hers. And well...\n\nShe certainly had the power to do so.",
+    "value": "她做不到。她就是做不到。不管她多么努力，不管她付出了多少努力，多少时间，多少事情。。。她就是做不到。也许在某个时候，她放弃了：变得怀恨在心。哈。\n\n艾根找借口。说可能是她的生理原因。她的思想。她的荷尔蒙。他不能接受他的徒弟不能获得他的知识。他毕竟是最伟大的老师。最聪明的学者。最令人印象深刻的术士。正如他所说，这是不可能的。\n然后任务来了。经验是最好的老师，他说。所以她来了，不幸的是，也许不是，她被抹去了。她没有死。不，因为没有死亡。不是因为他们发现了什么。她是第三个。她当然是：因为她的主人一直在那里，施展着比理解力更大的魔法。但即便如此，她还是被抹去了。。。\n\n但她不是。那个疯狂的巫师尝试了某种超宇宙的东西。但你不能称之为成功。不：她脸色发青。因为那个人不能接受失败而被带回来。可笑。可笑。太荒谬了。正如他不能接受她的“死亡”，她也不能接受她的“回归”。也许有痛苦，也许有愤怒，但她不在乎。有了新知识，她想，也许她可以自己教书了。成为一个比她那愚蠢的主人还要高的人。好吧。。。\n"
+  },
+  {
+    "path": "/lore/children/people/children/egoen/children/expectation/title",
+    "op": "replace",
+    "source": "Expectation",
+    "value": "期望值"
+  },
+  {
+    "path": "/lore/children/people/children/sen/children/whatwasntthere/title",
+    "op": "replace",
+    "source": "What Wasn't There",
+    "value": "什么不存在"
+  },
+  {
+    "path": "/lore/children/people/children/sen/children/thelightattheendofthetunnel/title",
+    "op": "replace",
+    "source": "The Light at the End of the Tunnel",
+    "value": "隧道尽头的灯光"
+  },
+  {
+    "path": "/lore/children/people/children/sen/children/whatwasntthere/children",
+    "op": "replace",
+    "source": "Grabbing the device, his burly hands did not fumble. There was no time to waste flailing about. Speaking clearly, the man's deep voice could not be drowned by the surrounding chaos: Request; Situation; Location; Details; Threat; Request; Pause; Resolution. A supply pipe running within the mainframe imploded, likely as the shuttle broke apart and was exposed to the vacuum outside. Or, what should have been vacuum: he could not tell if that was the truth; he could not tell what was there. Even so, he gripped his Shield with determination, as light enveloped his surroundings. There may not have been anything out there, or perhaps there was -- something too deranged to understand -- but it did not change his mind. There were times when he had dropped his guard: it hadn't happened often, and it certainly hadn't happened trivially, but regardless, it had happened. This would not be one of those times.",
+    "value": "他抓起装置，粗壮的手没有摸索。没有时间浪费在挥舞。清楚地说，这个人深沉的声音不能被周围的混乱所淹没：请求；情况；位置；细节；威胁；请求；暂停；解决。主机内部的一个供应管爆裂，很可能是航天飞机解体，暴露在外面的真空中。或者，什么应该是真空的：他不知道那是不是真的；他不知道那里有什么。即便如此，当光线笼罩着周围的环境时，他仍坚定地握紧盾牌。也许外面什么都没有，或者也许有什么——有些东西太疯狂了，无法理解——但这并没有改变他的想法。他有时会放松警惕：这种事不常发生，当然也不是小事，但不管怎样，它还是发生了。现在不是那种时候。"
+  },
+  {
+    "path": "/lore/children/people/children/mellou/title",
+    "op": "replace",
+    "source": "Mellou",
+    "value": "梅洛"
+  },
+  {
+    "path": "/lore/children/people/children/sen/children/thelightattheendofthetunnel/children",
+    "op": "replace",
+    "source": "Sector I5-T had been relatively peaceful for quite some time. Of course, there were times when bandits tried to stake claim, or perhaps a local fight broke out in a town on one of the lusher planets. Besides that, however, peaceful.\n\nIt hadn't always been that way: back then, there were ferocious monsters and ruthless pirates about. But the light that they brought with them was brighter than that, and with it came rapid growth and new settlements. Tenre said it was because of that man and his wife: the Paladin and the Valkyrie; Sen and Mellou. A pair that even the fearless feared, devout in their belief and kind in their creed. With the magic they used, even plants could grow in the roughest of conditions, and the Sector was without a doubt, tamed... Or so it was said.\n\nTenre was rather joyful, of course, as any Pioneer would be: rough conditions meant better resources, as was common for most planets. He hadn't asked them to come along for nothing either: the pirates in the sector had made it quite clear that no one would be passing through, and as one of the leading commanders in Winter's rather large coalition -- greater in size to even the Protectorate -- Sen would gladly remove their presence from the Sector.\n\nAnd thus, with Tenre's guidance, and Sen and Mellou's rather impressive intervention, the Sector came to be what it was, again, for quite some time.\n\nBlack. Suddenly. Intensely. A 'fog' seemingly removed Sector I5-T from radar, but it was there. Probably. They say 'probably' because it wasn't possible to enter, but not because of some sort of barricade: no, just... not possible. Nothing came out, nothing came in: a whole sector, gone. Egoen, the master Warlock, recognized universally as the most intelligent Wizard (and in that case, being), studied it for quite some time and came to quite a rather shocking conclusion: \"If, by chance, anything or anyone were still alive within the darkness,\" he said, \"they would be dead. Unfortunate,\" he said, almost matter of fact, \"because Sen was patrolling that region: a menial task, of course, for someone of his caliber, but one he insisted must be done by everyone regardless of their status. What a waste.\" And with that, the Sector and its nearest surroundings were quarantined and abandoned, leaving only the brave to venture near...\n\nWhite. Suddenly. Intensely. Years had passed, and while the 'darkness' did not spread, it had not vanished; but just like that, one spark, and the entire Sector reappeared. Cautiously explored, nothing remained: not a shred of life, not a planet nor sun nor spec of debree, not a single thing... Except one chunk of a seemingly gold shuttle with blue highlights, a message within -- Sen's message -- and a barely dented magnificent shield floating, undisturbed, as if it had just been held not moments before.",
+    "value": "一段时间以来，I5-T区一直相对平静。当然，有时匪徒试图以自己的权利为赌注，或是在一个更为繁茂的星球上的小镇爆发了一场局部战斗。不过，除此之外，还是和平的。\n\n年的情况并非总是这样：那时，到处都是凶猛的怪物和残忍的海盗。但他们带来的光比那更明亮，随之而来的是快速的增长和新的定居点。丹瑞说是因为那个男人和他的妻子：圣骑士和女武神；森和梅洛。即使是无畏的人也害怕的一对，他们的信仰是虔诚的，信仰是善良的。有了他们使用的魔法，即使是植物也能在最恶劣的条件下生长，毫无疑问，这个部门已经被驯服。。。或者说是这样。\n"
+  },
+  {
+    "path": "/lore/children/people/children/soliste/title",
+    "op": "replace",
+    "source": "^#75ff75;Soliste",
+    "value": "^#75ff75;索利斯特"
+  },
+  {
+    "path": "/lore/children/people/children/soliste/children/partners/title",
+    "op": "replace",
+    "source": "Partners",
+    "value": "合作伙伴"
+  },
+  {
+    "path": "/lore/children/people/children/soliste/children/promisemethis/title",
+    "op": "replace",
+    "source": "Promise Me This",
+    "value": "答应我这个"
+  },
+  {
+    "path": "/lore/children/people/children/soliste/children/partners/children",
+    "op": "replace",
+    "source": "Amidst the trees she waited, bow in hand, searching for a sound. When one graced her ear, her mind turned instantly, forming connections. Almost immediately, she knew where it was and what it was, and before it had even ended, a quiet 'thwip' erased it... Another meal.\n\nBeneath the murky clouds, she took residence in a nearby delapidated bunker: essentially ruins at this point. But it gave her cover from the howling winds, pounding rain into the metal. She heard every drop. Flames lighting up the darkness, with occasional flashes from lightning outside, she cooked the beast, salivating. Another night.\n\nMorning came and she woke calmly, nudged gently by someone familiar. Normally, she would have noticed a presence much sooner, knife brandished, but with the Floran in front of her, it was rather difficult. The Floran smirked, before offering up a canteen. The nectarine water relieved her parched throat. Another morning.\n\nThe two continued along a tangled path, relying on her ears and eyes for guidance. Approaching the unknown entrance, they stopped to investigate - and summarily dismantle - the various contraptions meant to brutally dismember intruders. With the two of them quite astute and dextrous, it was child's play. The Ancient Tomb now exposed forever, the two searched inside, longing for an answer. Despite the Floran's perfect translations, the text was seemingly nonsensical, but not quite. Another clue.\n\nNow back in vicious wilderness, the two took shelter once more. Despite the situation, the Floran's hand grazed her neck. \"Will you help me recharge?\" The Floran teased: her actions set the context. \"Ha!\" The Hunter giggled. \"That's just like you. All alone for only three days and you're already like this.\" Even so, she reciprocated: Hunter or not, a little levity never hurt. Another day... a peaceful day.",
+    "value": "她在树林里等着，手挽手鞠躬，寻找一个声音。当有人给她的耳朵增色时，她的思想立刻转向，形成了联系。几乎立刻，她知道它在哪里，是什么，甚至在它结束之前，一个安静的“挫败”抹去了它。。。再来一顿。\n\n在阴暗的云层下，她住在附近一个破旧的碉堡里：这里基本上是一片废墟。但它给了她掩护，使她免受狂风暴雨的侵袭。她听到每一滴。火焰照亮了黑暗，外面偶尔有闪电闪过，她煮好了野兽，垂涎欲滴。又一个晚上。\n"
+  },
+  {
+    "path": "/lore/children/people/children/sen/children/abittoolate/children",
+    "op": "replace",
+    "source": "A pop. His gaze did not waver, nor did he flinch. His body unmoving and his breath steady, he slowly backed up. A 'black eye' turned to look at him as a piece of flesh sopped down from its 'jaw'. Plop. The disgusting, bloody mess hit the floor, scattering little red droplets in every direction: one nearly stained the pristine sheen of his adorned boots, but a flash of light boiled it before it could. The 'creature' recoiled, seemingly irritated by the flash. He took this brief moment of 'shock' as a blessing, and slammed a heavy metal grate -- one normally operated electrically -- shut with one hand. An alarm stuttered, as if stifled by something sinsister, attempting to warn the crew of immenent hull collapse. A bit too late... Just a bit too late.\n\nThere was no longer a crew.",
+    "value": "流行音乐。他的目光没有动摇，也没有退缩。他的身体一动不动，呼吸平稳，他慢慢地后退。一只“黑眼睛”转过来看着他，一块肉从它的“下巴”上湿透了。扑通一声。令人恶心的血淋淋的烂摊子砸在地板上，向四面八方散落着^red;的小水滴：其中一个几乎弄脏了他那双装饰靴子的原始光泽，但一道亮光却把它烧开了。这个“生物”退缩了，似乎被闪电激怒了。他把这短暂的“震惊”当作一件幸事，用一只手砰的一声关上了一个重金属炉排——一个通常是电动的。警报断断续续地响着，好像被什么东西压得喘不过气来似的，试图警告船员船体立即坍塌。有点太晚了。。。只是有点晚了。\n\n已经没有船员了。"
+  },
+  {
+    "path": "/lore/children/people/children/sen/children/abittoolate/title",
+    "op": "replace",
+    "source": "A Bit too Late",
+    "value": "有点太晚了"
+  },
+  {
+    "path": "/lore/children/people/children/soliste/children/promisemethis/children",
+    "op": "replace",
+    "source": "A Floran and Telvakian fill the frame. Winter and Soliste: this much is obvious, and is made such via scribbling in the corner, congratulating the two for an unknown reason. However, the image itself is not as important as the emptiness behind it, or at least, the lack thereof. Text written hastily completely envelops the back of it, like a note begging to be found:\n\n\"\"",
+    "value": "一个弗洛兰人和特尔瓦基人填满了画面。温特和索利斯特：这是显而易见的，而且是通过在角落里乱涂乱画，以一个未知的原因来祝贺两人。然而，图像本身并没有它背后的空虚那么重要，或者至少是它的缺乏。匆忙写下的文字完全包围了它的背面，就像一张乞求被发现的纸条：\n\n“"
+  },
+  {
+    "path": "/lore/children/class/title",
+    "op": "replace",
+    "source": "^gray;Class",
+    "value": "^gray;类"
+  },
+  {
+    "path": "/lore/children/class/children/knight/title",
+    "op": "replace",
+    "source": "^blue;Knight",
+    "value": "^blue;骑士"
+  },
+  {
+    "path": "/lore/children/class/children/knight/children/basicknight1/title",
+    "op": "replace",
+    "source": "The Knight",
+    "value": "骑士"
+  },
+  {
+    "path": "/lore/children/class/children/knight/children/keepingthepeace/title",
+    "op": "replace",
+    "source": "Keeping the Peace",
+    "value": "维护和平"
+  },
+  {
+    "path": "/lore/children/class/children/wizard/title",
+    "op": "replace",
+    "source": "^magenta;Wizard",
+    "value": "^magenta;向导"
+  },
+  {
+    "path": "/lore/children/people/children/zia/children/apprenticesfolly/title",
+    "op": "replace",
+    "source": "^#c16bff;The Apprentice's Folly",
+    "value": "^#学徒的愚蠢"
+  },
+  {
+    "path": "/lore/children/class/children/wizard/children/basicwizard1/title",
+    "op": "replace",
+    "source": "The Wizard",
+    "value": "巫师"
+  },
+  {
+    "path": "/lore/children/class/children/wizard/children/harnessingmagic/title",
+    "op": "replace",
+    "source": "Harnessing Magic",
+    "value": "利用魔法"
+  },
+  {
+    "path": "/lore/children/class/children/ninja/title",
+    "op": "replace",
+    "source": "^red;Ninja",
+    "value": "^red;忍者"
+  },
+  {
+    "path": "/lore/children/class/children/ninja/children/withintheshadows/title",
+    "op": "replace",
+    "source": "Within the Shadows",
+    "value": "在黑暗中"
+  },
+  {
+    "path": "/lore/children/class/children/ninja/children/basicninja1/title",
+    "op": "replace",
+    "source": "The Ninja",
+    "value": "忍者"
+  },
+  {
+    "path": "/lore/children/class/children/soldier/title",
+    "op": "replace",
+    "source": "^orange;Soldier",
+    "value": "^orange;士兵"
+  },
+  {
+    "path": "/lore/children/class/children/soldier/children/basicsoldier1/title",
+    "op": "replace",
+    "source": "The Soldier",
+    "value": "士兵"
+  },
+  {
+    "path": "/lore/children/class/children/soldier/children/countingbullets/title",
+    "op": "replace",
+    "source": "Counting Bullets",
+    "value": "数子弹"
+  },
+  {
+    "path": "/lore/children/class/children/rogue/title",
+    "op": "replace",
+    "source": "^green;Rogue",
+    "value": "^green;流氓"
+  },
+  {
+    "path": "/lore/children/class/children/rogue/children/basicrogue1/title",
+    "op": "replace",
+    "source": "The Rogue",
+    "value": "流氓"
+  },
+  {
+    "path": "/lore/children/class/children/rogue/children/aroguesway/title",
+    "op": "replace",
+    "source": "A Rogue's Way",
+    "value": "流氓的方式"
+  },
+  {
+    "path": "/lore/children/class/children/explorer/title",
+    "op": "replace",
+    "source": "^yellow;Explorer",
+    "value": "^yellow;探险家"
+  },
+  {
+    "path": "/lore/children/class/children/explorer/children/basicexplorer1/title",
+    "op": "replace",
+    "source": "The Explorer",
+    "value": "探险家"
+  },
+  {
+    "path": "/lore/children/specialization/title",
+    "op": "replace",
+    "source": "Specialization",
+    "value": "专业化"
+  },
+  {
+    "path": "/lore/children/specialization/children/adept/title",
+    "op": "replace",
+    "source": "^red;Adept",
+    "value": "^red;熟练的"
+  },
+  {
+    "path": "/lore/children/specialization/children/adept/children",
+    "op": "replace",
+    "source": "She found there was no where left to go. Crushing pressure caused matter to simply collapse around her. Ruinous creatures reached out from the darkness behind her. And then, in front: nothing. Nothing at all.\n\n^red;And she shuddered, for it was impossible.^reset;\n\nDeath around and death behind, yet in front, there was nothing. Nothing that edged into her muscle and skin and chitin and bone. Nothing that clawed at her vision and ate at her brain. And she felt fear and joy and hatred and grief and disdain and arousal and pain, and it never stopped.\n\n^red;And then, even the death became nothing.^reset;\n\nIt was not there from the beginning.\nAnd it would not be there at the end.\nAnd she knew, and she laughed:\n\n^red;For there was nothing left for her to feel.",
+    "value": "她发现没有地方可去了。巨大的压力使她周围的物质完全崩溃。毁灭性的生物从她身后的黑暗中伸出手来。然后，在前面：没什么。什么都没有。\n\n^red;她颤抖着，因为这是不可能的。^reset;\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/berserker/title",
+    "op": "replace",
+    "source": "^red;Berserker",
+    "value": "^red;狂暴者"
+  },
+  {
+    "path": "/lore/children/specialization/children/cannoneer/title",
+    "op": "replace",
+    "source": "^green;Cannoneer",
+    "value": "^green;炮手"
+  },
+  {
+    "path": "/lore/children/specialization/children/berserker/children",
+    "op": "replace",
+    "source": "WHY IS IT STILL BREATHING!\nMASH IT INTO MEAT PASTE!\n\nThere, it's dead. You happy?\n\nI'M ANGRY! I'M ANGRY, AND YOU'RE ANGRY,\nAND WE SHOULD GO KILL MORE!\n\nMhm, and we will. We will.\n\n\"Hey, what the hell is going on in here?\nOh, God! What the hell did you do?\"\n\n\"I had to, or I SMUSHED THEM ALL!\nHAHAHA, THEY EXPLODED!\"\n\n^blue;Tsk. Never lets me get in a damn word.",
+    "value": "为什么它还在呼吸！把它捣成肉酱！\n\n，它死了。你高兴吗？"
+  },
+  {
+    "path": "/lore/children/specialization/children/cannoneer/children",
+    "op": "replace",
+    "source": "\"That lassy has conquered many an ocean planet, but I think we can handle'er.\"\n\n\"You sure about that boss? She's apparently way tougher than she looks.\"\n\n\"Don't go playing with me now, ye'hear? What kind of pirates shy away from treasure like this. We'll whoop her real good, so quit yer yappin'.\"\n\n\"Whatever ye say, boss.\"\n\n-A recording from a damaged blackbox found in a sunken pirate ship.^green;\nSeems to be one of the only things that hasn't been blown to smithereens.",
+    "value": "“那个老太婆征服了许多海洋星球，但我想我们能应付得了。”\n\n“你确定那个老板吗？她显然比看上去坚强得多"
+  },
+  {
+    "path": "/lore/children/specialization/children/captain/title",
+    "op": "replace",
+    "source": "^yellow;Captain",
+    "value": "^yellow;船长"
+  },
+  {
+    "path": "/lore/children/specialization/children/captain/children",
+    "op": "replace",
+    "source": "While Colonies flourish, so do the militia. However compared to the threats of the observable universe, everyone must be ready to handle whatever trials and tribulations come their way. When an empire falls, it's often due to its leaders falling, and the masses giving in. However if a leader is felled in battle... chances are he or she was reckless. A Captain is no monarch, they aren't dictators, they aren't fearsome warmongering warlords. A Captain is a leader whom others stand behind through hell. They are the ones that ensure victory. It is a Captain's duty to ensure the safety of their people, their comrades, peers, family and loved ones...",
+    "value": "殖民地繁荣的同时，民兵也繁荣起来。然而，与可观测宇宙的威胁相比，每个人都必须做好准备，以应对任何考验和磨难。当一个帝国垮台的时候，往往是因为它的领导人垮台，而大众屈服。但是如果一个领袖在战斗中被击倒。。。他或她很可能是鲁莽的。上尉不是君主，他们不是独裁者，他们也不怕好战的军阀。上尉是一个领袖，其他人都站在他身后。他们是确保胜利的人。确保人民、同志、同龄人、家人和亲人的安全是船长的职责。。。"
+  },
+  {
+    "path": "/lore/children/specialization/children/changeling/title",
+    "op": "replace",
+    "source": "^red;Changeling",
+    "value": "^red;换生灵"
+  },
+  {
+    "path": "/lore/children/specialization/children/changeling/children",
+    "op": "replace",
+    "source": "There's something about that woman: I don't know how to put my finger on it, but she almost doesn't seem human. And yes, I know she's a Hylotl, but you know what I mean. I just... I don't know. How do I approach her? How can I approach her? Sometimes I wonder if she's really the same person, despite how different she becomes. But whenever she catches my eye, she winks at me like she knows.\n\n^red;Except for today.^reset;\n\nAnd because of that, I fear I'll miss my chance: she's on that mission organized by the Kunoichi-Hunter couple, and I know what they're like, so I'm sure it'll all work out, and the mission'll be a huge success...\n\n^red;But with how much I know that woman...\nI fear something just isn't right.",
+    "value": "那个女人有一点：我不知道该怎么说，但她几乎不像人。是的，我知道她是个男子汉，但你知道我的意思。我只是。。。我不知道。我该怎么接近她？我怎样才能接近她？有时我怀疑她是否真的是同一个人，尽管她变得多么不同。但每当她吸引我的目光，她就会像知道的那样对我眨眼。\n\n^red;今天除外。^reset;\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/crusader/title",
+    "op": "replace",
+    "source": "^blue;Crusader",
+    "value": "^blue;十字军"
+  },
+  {
+    "path": "/lore/children/specialization/children/crusader/children",
+    "op": "replace",
+    "source": "Responsible for the death of thousands, the Crusaders took it upon themselves to annihilate the unfaithful, the aftermath of which was a festering reputation.\nAnd it continued to fester: impossible to remove. A connotation so great, even the mere name could send some into rage. It was, in all senses, ^blue;a word of power.\nHowever, despite this, the mantle is once again ready to be worn. The looming threat of the unclean, of the Ruin, and the creatures like it, cannot be left unchecked. And thus, with history behind them, the Crusaders will rise again.\n\n^blue;Deus Vult!",
+    "value": "十字军对成千上万的人的死亡负有责任，他们自作主张消灭不忠的人，其后果是名誉的败坏。它继续溃烂：无法移除。一个如此伟大的内涵，即使仅仅是一个名字也会让一些人勃然大怒。从任何意义上说，它都是蓝色的；一个有力量的词。\n然而，尽管如此，斗篷再次准备好佩戴。不洁之物、败坏之物，以及诸如此类的生物，都是迫在眉睫的威胁。因此，有了历史的支持，十字军将再次崛起。\n\n^blue;该死的瓦尔特！"
+  },
+  {
+    "path": "/lore/children/specialization/children/darktemplar/title",
+    "op": "replace",
+    "source": "^black;Dark Templar",
+    "value": "^black;黑暗圣堂武士"
+  },
+  {
+    "path": "/lore/children/specialization/children/dragoon/title",
+    "op": "replace",
+    "source": "^orange;Dragoon",
+    "value": "^orange;龙骑兵"
+  },
+  {
+    "path": "/lore/children/specialization/children/darktemplar/children",
+    "op": "replace",
+    "source": "Sudden pressure bending metal -\nForcing bothered dust to settle.\n^red;Shhh: do you hear that?^reset;\n\nFervid death erupts from ashes,\nStealing thought and tearing gashes.\n^blue;Shhhh: do you hear that?^reset;\n\nSpreading out and creeping in:\nA sentient husk entrenched in sin.\n^red;Shhhhh: do you hear that?^reset;\n\nRunes engrave in ruined flesh;\nWhispers clash: a garbled mesh.\n^blue;Shhhhhh: do you hear that?^reset;\n\nWell...\n!.5@3^red;d^reset;:6=;1,^blue;o^reset;@7#*6(^red;y^reset;}&6-_[5^blue;o^reset;2*?0^red;u^reset;,5@!5!^blue;?^reset;+7]3#",
+    "value": "突然的压力弯曲金属-\n迫使烦人的尘埃沉降。"
+  },
+  {
+    "path": "/lore/children/specialization/children/dragoon/children",
+    "op": "replace",
+    "source": "Eviscerate your enemies with volcanic passion, mauling them with burning stabs and shocking strikes as you bound from foe to foe. Crush them with tremendous pressure as you leap and land, trembling the earth beneath. Take to the skies using incredible force in order to smite even those that dare try and stand above you.\nYou are vain and prideful, yet rage is not above you: you annihilate armies that seek to trample you. But you cannot be trampled, because you are a Dragon, and Dragons are Gods, and Gods cannot be slain.\nBut that's a lie, isn't it? You are no Dragon.\n^orange;You are a Dragon Slayer.",
+    "value": "用火山般的激情将你的敌人剔骨，用燃烧的刀刺和令人震惊的打击来伤害他们。当你跳跃着降落时，用巨大的压力压碎它们，震动着下面的大地。用不可思议的力量冲向天空，以打击那些敢于尝试并站在你之上的人。你们是虚荣骄傲的，怒气却不在你们以上。你们要灭绝那些想要践踏你们的军兵。但你们不能被践踏，因为你们是龙，龙是神，神不能被杀。"
+  },
+  {
+    "path": "/lore/children/specialization/children/elementress/title",
+    "op": "replace",
+    "source": "^magenta;Elementress",
+    "value": "^magenta;"
+  },
+  {
+    "path": "/lore/children/specialization/children/elementress/children",
+    "op": "replace",
+    "source": "^#c16bff;I'm sorry.\n^white;The words she breathlessly uttered\nechoed as ^black;it^white; took her: only two remained.\n^#ffaafa;Though reasonable, your anger is stifling. Even you will not survive if you do not calm.\n^#6d577c;What, and you will?\n^#ffaafa;Don't be ridiculous.\n^#6d577c;Hmph, very like you. But for her to vanish as if I had taught her nothing... Foolish!\n^white;She chuckled a meaningless laugh. ^#ffaafa;Perhaps you will be less transparent in the next life.\n^#6d577c;There is no 'next life': my 'soul' will scatter! And if, against impossible odds, it were to reappear, I would impose my will upon this emptiness and force hers to as well.\n^#ffaafa;Hmm. ^white;Silence burgeoned as his orbitals shattered. ^#ffaafa;I sssuppose you would.",
+    "value": "^#对不起。^white;她气喘吁吁地说的话"
+  },
+  {
+    "path": "/lore/children/specialization/children/hunter/title",
+    "op": "replace",
+    "source": "^green;Hunter",
+    "value": "^green;猎人"
+  },
+  {
+    "path": "/lore/children/specialization/children/juggernaut/title",
+    "op": "replace",
+    "source": "^blue;Juggernaut",
+    "value": "^blue;神像"
+  },
+  {
+    "path": "/lore/children/specialization/children/kunoichi/title",
+    "op": "replace",
+    "source": "^#FFAAAA;Kunoichi",
+    "value": "^#库诺基"
+  },
+  {
+    "path": "/lore/children/specialization/children/hunter/children",
+    "op": "replace",
+    "source": "From the smoke, the Hunter emerged, blood spattered along her slender body. She picked up an arrow lodged in the ground, one that had sliced clean through her prey; of course, of course: she never missed... Her Bow hummed as it scanned the ammunition, a mist of liquid spraying from the bottom canister. These weren't normal arrows, and definitely not an average bow, but she was no ordinary predator.\n\nPlacing the now cleansed arrow in her quiver, she quickly searched for any other enemies as the smoke behind her dissipated, showing only red remains. She wasn't psychopathic, but rather ^red;efficient^reset;, and with each new target killed, her worries shrank. Her ears picked up a sound that only an animal would hear, and so she took off, deftly weaving through thickets of spiny branches. Despite her rapid movement, she barely made a sound as she approached what she could only assume was an enemy camp. Sure enough, she found a camp occupied by several soldiers.\n\nShe crouched: time to get to it. Drawing the string, a radiant magenta emanated from within her, spreading throughout the components of her bow and slowly enveloping her body. But before the light could shine bright enough to alert the guards of her presence, she released. The arrow flew true, landing dead center of the encampment, embedding within a wooden post before imploding. She smirked, brandishing her dagger and vanishing from sight.\n\nNear or Far; Quick or Flashy; Wrong or Right...\n^green;Ha! Didn't matter to a Hunter.",
+    "value": "从烟雾中，猎人出现了，血沿着她纤细的身体飞溅。她捡起一支插在地上的箭，一支箭划破了她的猎物；当然，她从未错过。。。她的弓在扫瞄弹药时发出嗡嗡声，一团液体从底部的罐子里喷出来。这不是普通的箭，也绝对不是普通的弓，但她不是普通的掠食者。\n\n她把现在洁净的箭放在箭袋里，当身后的烟雾消散时，她迅速寻找其他敌人，只露出^red;的残余。她不是精神病患者，而是^red;有效的^reset;每杀死一个新目标，她的担心都会减少。她的耳朵听到了一种只有动物才能听到的声音，于是她就走了，灵巧地在一丛丛带刺的树枝间穿梭。尽管她的动作很快，但当她接近她只能假设是敌人的营地时，她几乎没有发出一点声音。果然，她发现一个营地被几个士兵占领了。\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/juggernaut/children",
+    "op": "replace",
+    "source": "There is no shield; no armor; no wall.\n\nAs you tower above puny fools that dare walk your path, you sense them quiver. They are not scared: no, they are terrified. The quivering stops with each swing of your hammer, and your steps continue, like meteors blasting craters in the ground. There is nothing that can stop you.\n\nNo shield; no armor; no wall.\n\nBut you? Your skin, the shield; your muscle, the armor: you are the wall.\n\n^blue;And nothing gets past you alive.",
+    "value": "没有盾牌；没有盔甲；没有墙。\n\n当你高耸在那些胆敢走你这条路的小傻瓜之上时，你感觉到他们在颤抖。他们不害怕：不，他们害怕。每次挥动你的锤子，颤抖都会停止，你的脚步也会继续，就像流星在地上炸出弹坑一样。没有什么能阻止你。\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/necromancer/title",
+    "op": "replace",
+    "source": "^black;Necromancer",
+    "value": "^黑巫师"
+  },
+  {
+    "path": "/lore/children/specialization/children/kunoichi/children",
+    "op": "replace",
+    "source": "\"She was a ssweet flower: a deadly lure. Of coursse, that was before her dissapearance. Has she wilted? Or is she sstill sspreading her toxins.\n\nSometimes, I hear her voice calling out to me, as if reaching from the void. But it never sseems ssad, the voice. If she ssstill lives, I know she's sstill as dangerous as ever: more dangerous than usssss...\n\n^red;More dangerous than anyone.^reset;\"\n\n-Operative Vinella, when asked about her Commander (MIA), Winter",
+    "value": "“她是一朵小花，一个致命的诱饵。当然，那是在她消失之前。她枯萎了吗？或者她在传播毒素。\n\n有时，我听到她的声音在呼唤我，仿佛从虚空中伸手。但它从来没听过ssad，那个声音。如果她还活着，我知道她和以前一样危险：比苏联更危险。。。\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/paladin/title",
+    "op": "replace",
+    "source": "^blue;Paladin",
+    "value": "^blue;圣骑士"
+  },
+  {
+    "path": "/lore/children/specialization/children/necromancer/children",
+    "op": "replace",
+    "source": "Within the swirling darkness, a single drop of light remains.\n\n^magenta;Smother it.^reset;\n\nAs the light fades, blackened embers spark, crossing out lines in history. Time is not absolute: no, of course not.\n\n^magenta;But you are.^reset;\n\nDisgust. Fear. Horror. Hatred. Ignore them. Ignore the stares and shudders. Ignore them all. For they do not understand: despite their cries, pleas, and hopes; you will snuff their life and replace it. After all:\n\n^magenta;Death comes for us all...",
+    "value": "在旋转的黑暗中，只剩下一滴亮光。\n\n^magenta;遮住它。^reset;\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/paladin/children",
+    "op": "replace",
+    "source": "\"Requesting support. I repeat, requesting support! Vessel is stranded and under attack in Sector I5-T, Quadrant 3.\n\nVessel is a Falcon S6: gold with blue highlights; stationary. Vessel is carrying 200 liters additional fuel and 3 tons of cargo. Auxillary power is low; oxygen supply fading fast. Vessel has been breached by an unknown lifeform.\n\nI repeat, an unknown lifeform has breached the vessel and slain all crew members. Please, for the love of God, I request immediate support from all nearby vessels.\n^blue;I will not let this Falcon fall!^reset;\"\n\n- Paladin Sen, last known contact",
+    "value": "“请求支持。我重复一遍，请求支持！船只搁浅，在第三象限15-T区受到攻击。\n\n船是一只猎鹰S6：金色，^blue;高光；静止不动。这艘船正装载200升额外燃料和3吨货物。辅助电源低，氧气供应衰减快。船被一个未知的生命体冲破了。\n我重复一遍，一个未知的生命体冲破了船，杀死了所有船员。为了上帝的爱，我请求附近所有船只立即支援。^blue;我不会让这只猎鹰坠落！^reset;“\n\n-圣骑士森，最后一个已知接触者"
+  },
+  {
+    "path": "/lore/children/specialization/children/pioneer/title",
+    "op": "replace",
+    "source": "^yellow;Pioneer",
+    "value": "^yellow;先锋"
+  },
+  {
+    "path": "/lore/children/specialization/children/pioneer/children",
+    "op": "replace",
+    "source": "Spreading as far as the eye can see, your colonies are a welcome sight for weary travelers. Take pride in the vast expansion of cities and towns, discovered and claimed by you, and a safe haven for all. There is no planet you cannot tame; whether bubbling with magma or sulfuric acid; or frigid and teeming with dangerous creatures.\n\nDo not shy away from deadly radiation or inpenatrable darkness or strange mutations in the far reaches of the universe. No, make them all yours: testaments to your empire. So keep on finding new frontiers and settling distant lands.\n\nIf they exist, ^yellow;they're yours for the taking!",
+    "value": "你的殖民地在目所能及的范围内蔓延，对疲倦的旅行者来说是一个受欢迎的景象。为你发现并声称拥有的城市和城镇的巨大扩张而自豪，为所有人提供一个安全的避难所。没有一个星球是你无法驯服的；无论是冒着岩浆或硫酸的气泡；还是寒冷而充满危险的生物。\n\n不要回避致命的辐射，或在宇宙遥远的地方可能出现的黑暗或奇怪的突变。不，让它们都成为你的：你帝国的见证。所以继续寻找新的边界，定居遥远的土地。\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/technomancer/title",
+    "op": "replace",
+    "source": "^magenta;Technomancer",
+    "value": "^magenta;技术法师"
+  },
+  {
+    "path": "/lore/children/specialization/children/technomancer/children",
+    "op": "replace",
+    "source": "A wise man once said that Magic is just Science we don't understand. Well, he wasn't very wise in the end, since the two are entirely different. Magic is a force; Science is a process. But combine the two, and you get a scientific magic: Technomagic. By utilizing the forces of Magic we can command, and the scientific process by which Science gets its name, you can do so much more. You start to understand what Magic is and how it can be pushed to its limits. Magic isn't Science, no, but it can become quantified by Science, and in doing so, its potential becomes limitless. And the same goes for Technology: Science is constantly used to improve it, but Magic can improve it just as well, and in the end, with both Magic and Science building its foundations, the Technology you create dwarves everything by comparison.",
+    "value": "一位智者曾经说过魔法只是我们不懂的科学。好吧，他最后不是很聪明，因为两者完全不同。魔法是一种力量，科学是一个过程。但是把两者结合起来，你就会得到一个科学魔法：技术魔法。通过利用我们可以掌握的魔法力量，以及科学得名的科学过程，你可以做得更多。你开始明白什么是魔法，以及如何把它推到极限。魔法不是科学，不是，但它可以被科学量化，这样做，它的潜力就变得无限。技术也是如此：科学不断地被用来改进它，但是魔法也能同样地改进它，最后，随着魔法和科学都建立了它的基础，你创造的技术比任何东西都要小。"
+  },
+  {
+    "path": "/lore/children/specialization/children/thief/title",
+    "op": "replace",
+    "source": "^yellow;Thief",
+    "value": "^yellow;小偷"
+  },
+  {
+    "path": "/lore/children/specialization/children/titan/title",
+    "op": "replace",
+    "source": "^orange;Titan",
+    "value": "^orange;泰坦"
+  },
+  {
+    "path": "/lore/children/specialization/children/thief/children",
+    "op": "replace",
+    "source": "All along the watchtower, guards shine light with weary eyes, searching for the two that hide with night as their disguise.\n\n\"There must be some way out of here:\", says the Stalker to the Thief. \"Let's plan our escape while trapped together, but keep the discussion brief.\"\n\nAll along the watchtower, guards look down upon the court, searching for the thieving pair that stole riches from their fort.\n\n\"No reason to get excited:\", says the Thief without delay. \"I'm sure, despite sunrise encroaching, we'll leave 'fore the break of day.\"\n\nAnd sure enough, the Thief and Stalker fled with stars above,\nholding on to precious gems that they'd been dreaming of.\n\nAll along the watchtower, guards curse with ragged breath,\nwhile both the cunning criminals escape avoiding death.",
+    "value": "在整个望塔上，守卫们用疲惫的眼睛发出光芒，寻找那两个以黑夜为伪装的人。\n\n“一定有办法离开这里：”，跟踪者对小偷说让我们一起计划逃跑，但要简短地讨论\n沿着望塔，卫兵们低头看着法庭，寻找从他们的堡垒偷走财富的那对窃贼。\n\n“没有理由激动：”小偷毫不迟疑地说我敢肯定，尽管有日出，我们还是会在天亮前离开\n果然，小偷和跟踪者带着天上的星星逃走了，\n年他们抓住了梦寐以求的珍贵宝石。\n\n在整个望塔上，卫兵们气喘吁吁地咒骂，"
+  },
+  {
+    "path": "/lore/children/specialization/children/valkyrie/title",
+    "op": "replace",
+    "source": "Valkyrie",
+    "value": "女武神"
+  },
+  {
+    "path": "/lore/children/specialization/children/titan/children",
+    "op": "replace",
+    "source": "\"The Paladins are humble, sure, but that doesn't mean their fans are. The comparison gets made quite often, I assure you:\n\n< Well, you use a shield, so doesn't that mean you're just a wannabe Paladin? >\n\nI can't tell you how many times I've heard that. But the thing is, there's a huge difference between us Titans and the Paladins. You see, while Paladins defend and defend and defend, us Titans do things with a bit more... pizazz. And you know why?\n\n^orange;Because we have guns.^reset;\"\n\n- Titan Bahn, on Paladins vs. Titans",
+    "value": "“当然，圣骑士是谦虚的，但这并不意味着他们的球迷是谦虚的。我向你保证，这种比较经常发生：\n\n<好吧，你用的是盾牌，那不意味着你只是一个想要的圣骑士吗？>\n我不能告诉你我听过多少次了。但问题是，我们泰坦和圣骑士之间有很大的不同。你看，当圣骑士们防守，防守，防守的时候，美国的泰坦们做的事情就多一点。。。皮萨兹。你知道为什么吗？\n\n^orange;因为我们有枪。^reset;“\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/valkyrie/children",
+    "op": "replace",
+    "source": "\"You know, Sen's disciples told me about her. Said she was an angel. I didn't believe them - thought they were crazy. After all, Sen's been long gone, so it figures they'd make up stories. Besides, it took my team a bout of 5 hours 26 minutes to break his defense, so if she really could do what they said, nothing in the world would even stand a chance.\"\n\n\"And what exactly was it she could do?\"\n\n\"Well, I'm sure you wouldn't believe it, being the logical fellow you are.\"\n\n\"Try me.\"\n\n^blue;\"Prevent death.\"",
+    "value": "“你知道，森的门徒告诉我关于她的事。说她是天使。我不相信他们-以为他们疯了。毕竟，森早就不在了，所以看来他们会编故事。另外，我的团队花了大约5小时26分钟才突破他的防守，所以如果她真的能做到他们说的话，世界上没有任何东西会有机会。“\n\n”她到底能做什么\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/vanguard/title",
+    "op": "replace",
+    "source": "^orange;Vanguard",
+    "value": "^orange;先锋"
+  },
+  {
+    "path": "/lore/children/specialization/children/vanguard/children",
+    "op": "replace",
+    "source": "She did what?\n\n^orange;You heard me the first time.^reset;\n\nYea, but we're talking nearly 1000 enemy soldiers. With high-tech armor. And, you know... deadly weapons and what not.\n\n^orange;Right. Well: they're gone now.^reset;\n\nOk, but is she alright?\n\n^orange;Funny you should ask.^reset;\n\nUh-oh.\n\n^orange;No, you misunderstand...\nShe's never been better.",
+    "value": "她做了什么？\n\n^orange;您第一次听到我的声音。^reset;\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/vigilante/title",
+    "op": "replace",
+    "source": "^orange;Vigilante",
+    "value": "^orange;义务警员"
+  },
+  {
+    "path": "/lore/children/specialization/children/wanderer/title",
+    "op": "replace",
+    "source": "^magenta;Wanderer",
+    "value": "^magenta;"
+  },
+  {
+    "path": "/lore/children/specialization/children/vigilante/children",
+    "op": "replace",
+    "source": "Laws are forged in fires of fear and corruption; cast in iron to control and manipulate. But when the law is broken and action fails, what then? When retribution is in order, or revenge is needed? When peace cannot be kept, and villains arise without restraints? When morality is taken for granted, and fools erupt brazenly with uncontrolled conniptions?\n\n^orange;What then?^reset;\n\nWell, you don't need text in yellowed paper; or signatures in white boxes; or some haughty sheriff's permission; to decide. You enact your own laws. You control your own jurisdiction. And no matter what, no matter who, you uphold justice in your own name.\n\n^orange;And trust me: they will remember it.",
+    "value": "法律是在恐惧和腐败的火焰中锻造的；铸在铁器中控制和操纵。但当法律被破坏而行动失败时，那又如何呢？当报应已成定局，还是需要报复？当和平无法维持，恶人无拘无束地出现时？当道德被认为是理所当然的，而愚人却肆无忌惮地与人发生不可控制的默契时？\n\n^orange;那又怎样？^reset;\n"
+  },
+  {
+    "path": "/lore/children/specialization/children/wanderer/children",
+    "op": "replace",
+    "source": "Alone. The serene peace of quiet days brings ponderance.",
+    "value": "一个人。宁静的日子带来宁静和沉闷。"
+  },
+  {
+    "path": "/lore/children/specialization/children/warlock/title",
+    "op": "replace",
+    "source": "^magenta;Warlock",
+    "value": "^magenta;术士"
+  },
+  {
+    "path": "/lore/children/specialization/children/warlock/children",
+    "op": "replace",
+    "source": "It's no good to reminisce. You'll remember things that would be best left untouched. But suppose you do?",
+    "value": "回忆起来不好。你会记得最好不要碰的东西。但假设你是？"
+  },
+  {
+    "path": "/lore/children/specialization/children/wraith/title",
+    "op": "replace",
+    "source": "^green;Wraith",
+    "value": "^green;幽灵"
+  },
+  {
+    "path": "/lore/children/specialization/children/wraith/children",
+    "op": "replace",
+    "source": "\"^green;You no longer belong: a soulless puppet.^reset;\"\n\n\"No. I never belonged.\"\n\n\"^green;You are nothing: a shell of humanity.^reset;\"\n\n\"No. I was never human.\"\n\n\"^green;You. Are. Empty.^reset;\"\n\n\"Yea?\"\n\n\"^green;...^reset;\"\n\n\"And?\"\n\n- A passing conversation.",
+    "value": "“^green;你不再属于：一个没有灵魂的木偶。^reset;”\n\n“不，我从来都不属于。”\n"
+  },
+  {
+    "path": "/lore/children/mechanics/title",
+    "op": "replace",
+    "source": "^blue;Mechanics",
+    "value": "^blue;机械"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/title",
+    "op": "replace",
+    "source": "Enemies",
+    "value": "敌人"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyintelligence/title",
+    "op": "replace",
+    "source": "Enemy Intelligence",
+    "value": "敌方情报"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyintelligence/children",
+    "op": "replace",
+    "source": "New Monsters may be surprisingly intelligent. Be careful when approaching them.",
+    "value": "新的怪物可能出奇的聪明。靠近时要小心。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemycorrupted/title",
+    "op": "replace",
+    "source": "Corrupted Enemies",
+    "value": "腐化的敌人"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemycorrupted/children/enemycorruptedgeneral/title",
+    "op": "replace",
+    "source": "General Info",
+    "value": "一般信息"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemycorrupted/children/enemycorruptedgeneral/children",
+    "op": "replace",
+    "source": "Corrupted Enemies are... well... corrupted. There's not much to say about them, mostly because there isn't really any information in the databanks about these... things. They seem to understand basic strategy against ranged and melee weapons, and something is off about them. Just... be careful.",
+    "value": "堕落的敌人是。。。好。。。已损坏。关于他们没什么好说的，主要是因为数据库里没有关于这些的任何信息。。。东西。他们似乎了解对付远程和近战武器的基本策略，但他们有些不对劲。只是。。。小心。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemydemonic/title",
+    "op": "replace",
+    "source": "Demonic Enemies",
+    "value": "恶魔的敌人"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemydemonic/children/enemydemonicgeneral/title",
+    "op": "replace",
+    "source": "General Info",
+    "value": "一般信息"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemydemonic/children/demonicspookit/title",
+    "op": "replace",
+    "source": "Demonic Spookit",
+    "value": "恶魔恶作剧"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemydemonic/children/enemydemonicgeneral/children",
+    "op": "replace",
+    "source": "Demonic Enemies are tainted by something long forgotten, and most definitely evil. These creatures are more intelligent than most creatures, and will choose to stay back or come in for the kill depending on the circumstances. Demonic Enemies leak a very potent energy that can transform dying enemies into strong, undead variants, belying common sense and affecting even ghosts and mechanical creatures. Try to kill them first, either by using ranged weapons, high mobility to close in, or luring them in by sheathing your weapons.",
+    "value": "恶魔的敌人被一些早已被遗忘的东西所玷污，而且最明显的是邪恶。这些生物比大多数生物更聪明，会根据情况选择留下来或是进来杀人。恶魔的敌人泄露了一种非常强大的能量，可以将垂死的敌人转化为强大的不死生物变种，扰乱常识，甚至影响鬼魂和机械生物。尝试先杀死他们，要么使用远程武器，高机动性接近，或者用你的武器套引诱他们。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemydemonic/children/demonicspookit/children",
+    "op": "replace",
+    "source": "Demonic Spookit are rather intelligent and choose to stay back, rather than outright attacking, floating nearby and silencing abilities using Demonic Energy. Regardless, try not to get hit by one, as doing so will curse you, slowly draining away your life force. The Demonic Energy tears away at them, slightly hindering their ability to move, and making them incredibly weak to Holy Damage. These Spookit also do not approach, as their goal is to simply hinder your ability, and let other enemies do their dirty work, rather than do it themselves.",
+    "value": "恶魔幽灵相当聪明，选择退后，而不是直接攻击，漂浮在附近和使用恶魔能量的沉默能力。无论如何，尽量不要被一个击中，因为这样做会诅咒你，慢慢耗尽你的生命力。恶魔的能量撕裂他们，稍微阻碍了他们的移动能力，使他们难以置信地虚弱到神圣的伤害。这些恶作剧也不会接近，因为他们的目标只是阻碍你的能力，让其他敌人做他们的肮脏工作，而不是自己做。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyholy/title",
+    "op": "replace",
+    "source": "Holy Enemies",
+    "value": "神圣的敌人"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyholy/children/enemyholygeneral/title",
+    "op": "replace",
+    "source": "General Info",
+    "value": "一般信息"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyholy/children/holywisper/title",
+    "op": "replace",
+    "source": "Holy Wisper",
+    "value": "神圣的祈祷者"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyholy/children/enemyholygeneral/children",
+    "op": "replace",
+    "source": "Holy Enemies are blessed by an extraordinary power. These creatures are more intelligent than most creatures, and will choose to stay back or come in for the kill depending on the circumstances. Holy Enemies leak a very potent energy that is beneficial to most lifeforms, other than you, that is. Try to kill them first, either by using ranged weapons, high mobility to close in, or luring them in by sheathing your weapons.",
+    "value": "神圣的敌人被一种非凡的力量所祝福。这些生物比大多数生物更聪明，会根据情况选择留下来或是进来杀人。神圣的敌人泄露了一种非常强大的能量，对大多数生命体都是有益的，除了你，也就是说。尝试先杀死他们，要么使用远程武器，高机动性接近，或者用你的武器套引诱他们。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyholy/children/holywisper/children",
+    "op": "replace",
+    "source": "Holy Wisper grant nearby creatures Health Regeneration, Glow, and Harmful Status Immunity. Knowing they fare best from a distance, they do not normally approach, even if weapons are sheathed. However, getting close to them can still prove fatal, as unlike normal Wisper, they can quickly expel Holy Energy when their enemies get close.",
+    "value": "神圣的祝福者给予附近生物健康再生，发光和有害状态免疫。他们知道自己在远处的表现最好，所以通常不会靠近，即使武器被覆盖。然而，接近他们仍然会被证明是致命的，因为不像普通的祈祷者，当他们的敌人接近他们时，他们可以迅速排出神圣能量。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/title",
+    "op": "replace",
+    "source": "Mini-Bosses",
+    "value": "迷你老板"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossgeneral/title",
+    "op": "replace",
+    "source": "General Info",
+    "value": "一般信息"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossshield/title",
+    "op": "replace",
+    "source": "Element Shield",
+    "value": "元件屏蔽"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossgeneral/children",
+    "op": "replace",
+    "source": "Mini-bosses are enhanced versions of existing monsters. Either due to their environment, or perhaps actions outside of their own, these monsters have grown in power. Different mini-bosses have different mechanics, and they're increased power make them an immense threat that should be dealt with. Killing these monsters normally grants increased XP yields and a high chance for unique items.",
+    "value": "迷你老板是现有怪物的增强版。无论是由于他们的环境，或是他们自己以外的行为，这些怪物的力量已经增长。不同的小老板有不同的机制，他们的权力增加，使他们成为一个巨大的威胁，应该处理。杀死这些怪物通常会增加经验值和获得独特物品的几率。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossburst/title",
+    "op": "replace",
+    "source": "BURST",
+    "value": "爆发"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossshield/children",
+    "op": "replace",
+    "source": "Certain enemies may have an elemental shield that essentially makes them invulnerable. In order to properly damage these enemies, try to make sure your damage matches the shield's element type. Doing enough damage of the same element will strip the shield. Upon stripping a shield completely, the enemy in question will be vulnerable for a short period, so do your best damage then.\n\nThere are shields for every element, and the only true distinction is their color, so be aware and try to remember each one as you come across it. Although most elemental shields must be hit by the same element type to break, there are some elements that bypass this rule and deal ^red;half damage^reset; to certain shield types:\n\nNova Damage can break Fire, Electric, and Ice Shields.\nHoly Damage can break Demonic and Poison Shields.\nDemonic Damage can break Holy and Poison Shields.\nIce Damage can break Fire Shields.\nFire Damage can break Ice Shields.",
+    "value": "某些敌人可能有一个元素盾牌，基本上使他们无懈可击。为了正确地伤害这些敌人，试着确保你的伤害与盾牌的元素类型相匹配。对同一个元件造成足够的损坏会剥去防护罩。当你完全剥去盾牌时，敌人会在短时间内受到攻击，所以你要尽最大的努力。\n\n每一个元素都有盾牌，唯一真正的区别是它们的颜色，所以当你遇到它们的时候，要意识到并试着记住每一个。尽管大多数元素护盾必须被相同的元素类型击中才能被打破，但有些元素会绕过此规则并对某些护盾类型造成^red;半伤害^reset;\n"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossburst/children",
+    "op": "replace",
+    "source": "Denoted by the BURST UI above them, these enemies are essentially immune to damage until their BURST Armor is broken. In order to break BURST Armor, weapons that deal great damage all at once must be used. For example, Hammers or Sniper Rifles are recommended, but Machine Pistols and Daggers are not.",
+    "value": "由上面的爆裂UI表示，这些敌人基本上对伤害免疫，直到他们的爆裂装甲被打破。为了击破破甲，必须使用同时造成巨大伤害的武器。例如，建议使用锤子或狙击步枪，但不建议使用机枪和匕首。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossrapid/title",
+    "op": "replace",
+    "source": "RAPID",
+    "value": "快速"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossblood/title",
+    "op": "replace",
+    "source": "BLOOD",
+    "value": "血"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossrapid/children",
+    "op": "replace",
+    "source": "Denoted by the RAPID UI above them, these enemies are essentially immune to damage until their RAPID Armor is broken. In order to break RAPID Armor, weapons that hit often must be used. For example, Machine Pistols or Daggers are recommended, but Sniper Rifles and Hammers are not.\n\nUpon breaking RAPID Armor, high-damage Electric shocks will hurt nearby enemies.",
+    "value": "由上面的快速UI表示，这些敌人基本上对伤害免疫，直到他们的快速盔甲被打破。为了打破快速装甲，必须使用经常击中的武器。例如，推荐使用机枪或匕首，但不推荐使用狙击步枪和锤子。\n\n快速破甲时，高伤害的电击会伤害附近的敌人。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossblood/children",
+    "op": "replace",
+    "source": "Denoted by the BLOOD UI above them, these enemies are massive killers, targeting other enemies first in order to grow in size and heal. Normally rather tanky, these enemies will grow once their BLOOD Bar maximizes, gaining increased Power, Health, and Protection. While the BLOOD Bar is full, these enemies lose some of their Protection, meaning if you haven't yet, you should really try to finish them off: otherwise they will heal back to full Health and grow ever more powerful.",
+    "value": "上面的血UI表示，这些敌人是大量的杀手，首先瞄准其他敌人是为了扩大规模和治疗。通常情况下，这些敌人会在血棒最大化后成长，获得更多的力量、健康和保护。当血栏满了，这些敌人就会失去一些保护，也就是说，如果你还没有做到，你就应该努力消灭他们：否则他们会恢复健康，变得更加强大。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossbreed/title",
+    "op": "replace",
+    "source": "BREED",
+    "value": "繁殖"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossbreed/children",
+    "op": "replace",
+    "source": "Denoted by the BREED UI above them, these enemies are normally passive until attacked. When attacked, their BREED Bar begins to count down, and when it finishes doing so, they will spawn a number of smaller monsters that will attack you. While their BREED Bar refills, they lose some Protection, making then the best time to deal damage. If swamped by many of their bred monsters, try to kill the BREED Mini-Boss quickly, as any monsters they created will die instantly without energy supplied to them from their parent.",
+    "value": "由上面的繁殖UI表示，这些敌人通常是被动的，直到受到攻击。当受到攻击时，它们的繁殖栏开始倒数，当它倒数结束时，它们将产生一些较小的怪物来攻击你。当他们的品种酒吧补充，他们失去了一些保护，使当时的最佳时间造成损害。如果被他们繁殖的怪物淹没，试着快速杀死这个迷你首领，因为他们创造的任何怪物都会在没有父母提供能量的情况下瞬间死亡。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/enemybossnpc/title",
+    "op": "replace",
+    "source": "NPCs",
+    "value": "核电站"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/title",
+    "op": "replace",
+    "source": "Mini-Boss Dictionary",
+    "value": "迷你老板字典"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/enemybossnpc/children",
+    "op": "replace",
+    "source": "NPC Mini-Bosses will normally be elementally shielded (see 'Mini-Bosses - Element Shield' for more info). In addition to this, they will occasionally summon in RAPID Mini-Bosses to try and defeat you.\n\nUnlike Element Shield Monsters, NPCs will still be slightly damageable by every element, as their Element Shields are man-made, rather than natural. However, their Element Shield will quickly replenish their Health back to where it was when it re-filled, meaning you'd have to really overkill them to bypass their Element Shield.",
+    "value": "NPC迷你盾通常是电子盾（更多信息见“迷你盾-元素盾”）。除此之外，他们偶尔会召集快速的小老板来打败你。\n\n不同于元素盾怪物，NPC仍然会受到每个元素的轻微伤害，因为它们的元素盾是人造的，而不是自然的。然而，他们的元素盾会很快补充他们的健康回到它被填满时的状态，这意味着你必须真的杀死他们才能绕过他们的元素盾。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantmandraflora/title",
+    "op": "replace",
+    "source": "Giant Mandraflora",
+    "value": "巨型曼陀罗"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantmandraflora/children",
+    "op": "replace",
+    "source": "Giant Mandraflora are larger, mature Mandraflora that have spent years growing. Their time spent absorbing nutrients makes them a much larger threat than smaller Mandraflora, but they aren't hostile until provoked. When provoked, Mandraflora will use up nutrients to create smaller Mandraflora and Bulbop in order to defeat attackers.",
+    "value": "巨大的曼陀罗是更大的，成熟的曼陀罗花已经花了多年的生长。它们吸收营养的时间使它们比较小的曼陀罗面临更大的威胁，但它们在被激怒之前并不怀有敌意。当被激怒时，曼陀罗将消耗养分来制造更小的曼陀罗和球茎，以击败攻击者。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/hardenedmasteroid/title",
+    "op": "replace",
+    "source": "Hardened Masteroid",
+    "value": "硬化母粒"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/hardenedmasteroid/children",
+    "op": "replace",
+    "source": "Hardened Masteroids have succumbed to immense pressure, and in turn become incredibly tough to crack. Heavy hits should do the job, but be careful, as these bad boys will split in two when killed.",
+    "value": "硬化的大师级已经屈服于巨大的压力，并反过来变得难以置信的难以破解。重击应该可以完成任务，但要小心，因为这些坏小子被杀后会一分为二。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/hardenedmasteroidmid/title",
+    "op": "replace",
+    "source": "Hardened Masteroid (Mid)",
+    "value": "硬化母粒（中）"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/hardenedmasteroidmid/children",
+    "op": "replace",
+    "source": "Hardened Masteroids (Mid) have succumbed to immense pressure, and in turn become incredibly tough to crack. Heavy hits should do the job, but be careful, as these bad boys will split in two when killed. Luckily, due to the incredibly hard material that they are now made of, they are unable to split again.",
+    "value": "硬化的大师级（Mid）屈服于巨大的压力，进而变得难以置信的难以破解。重击应该可以完成任务，但要小心，因为这些坏小子被杀后会一分为二。幸运的是，由于它们现在是由难以置信的坚硬材料制成的，它们无法再分裂。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/hungryparasprite/title",
+    "op": "replace",
+    "source": "Hungry Parasprite",
+    "value": "饥饿的寄生蜂"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/hungryparasprite/children",
+    "op": "replace",
+    "source": "Hungry Parasprite search for other creatures to devour. Their aggressive nature and thirst for blood has increased their size and tinted them red. Try not to let them eat too much, as they can become incredibly difficult to deal with.",
+    "value": "饥肠辘辘的副普里特寻找其他生物来吞食。它们好斗的天性和对血液的渴望增加了它们的体型，使它们染成^red;。尽量不要让他们吃得太多，因为他们会变得异常难以对付。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/shieldedtrifangle/title",
+    "op": "replace",
+    "source": "Shielded Trifangle",
+    "value": "屏蔽三尖牙"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/shieldedtrifangle/children",
+    "op": "replace",
+    "source": "Shielded Trifangle are smaller, slower variants of their larger counterparts, as their shielding does require a smaller body and more energy. However, this doesn't reduce from their overall threat, as they can quickly overwhelm you if you can't hit them enough to deplete the energy reserves in their shield.",
+    "value": "屏蔽三尖牙是其较大的对应物的更小、更慢的变体，因为它们的屏蔽需要更小的身体和更多的能量。然而，这并不能减少他们的整体威胁，因为如果你不能击中他们足够消耗他们盾牌中的能量储备，他们会很快压倒你。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/shieldedchiropterror/title",
+    "op": "replace",
+    "source": "Shielded Chiropterror",
+    "value": "手盾"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/shieldedchiropterror/children",
+    "op": "replace",
+    "source": "Shielded Chiropterror are smaller, slower variants of their larger counterparts, as their shielding does require a smaller body and more energy. However, this doesn't reduce from their overall threat, as they can quickly overwhelm you if you can't hit them enough to deplete the energy reserves in their shield. Their decreased size and shield usage greatly decreases the lethality of the poison that leaks from within them.",
+    "value": "护盾翼手龙是体型较大的翼手龙中体型较小、速度较慢的变种，因为它们的护盾确实需要较小的身体和更多的能量。然而，这并不能减少他们的整体威胁，因为如果你不能击中他们足够消耗他们盾牌中的能量储备，他们会很快压倒你。它们的尺寸和盾牌的使用大大降低了从它们内部泄漏的毒药的杀伤力。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/gianticenarfin/title",
+    "op": "replace",
+    "source": "Giant Ice Narfin",
+    "value": "巨冰雀"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/gianticenarfin/children",
+    "op": "replace",
+    "source": "Giant Ice Narfin are attuned to the Ice element, giving them strength against most other elements. Using Fire, Ice, or Nova damage can make quick work of their energy shield.",
+    "value": "巨大的冰鳍与冰元素相协调，赋予它们对抗大多数其他元素的力量。使用火、冰或新星伤害可以使他们的能量护盾快速工作。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantfirelumoth/title",
+    "op": "replace",
+    "source": "Giant Fire Lumoth",
+    "value": "大火蛾"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantfirelumoth/children",
+    "op": "replace",
+    "source": "Giant Fire Lumoth are attuned to the Fire element, giving them strength against most other elements. Using Fire, Ice, or Nova damage can make quick work of their energy shield.",
+    "value": "巨大的火蛾与火元素相协调，给予它们对抗其他元素的力量。使用火、冰或新星伤害可以使他们的能量护盾快速工作。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantelectricpetricub/title",
+    "op": "replace",
+    "source": "Giant Electric Petricub",
+    "value": "巨型电动直升机"
+  },
+  {
+    "path": "/lore/children/mechanics/children/enemies/children/enemyboss/children/enemybossspecific/children/giantelectricpetricub/children",
+    "op": "replace",
+    "source": "Giant Electric Petricub are attuned to the Electric element, giving them strength against most other elements. Using Electric or Nova damage can make quick work of their energy shield.",
+    "value": "巨大的电石斑与电元素相协调，赋予它们对抗大多数其他元素的力量。使用电或新星伤害可以使他们的能量护盾快速工作。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/title",
+    "op": "replace",
+    "source": "Statuses",
+    "value": "状态"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/starfallstatus/title",
+    "op": "replace",
+    "source": "^magenta;Starfall",
+    "value": "^magenta;星辰陨落"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/starfallstatus/children",
+    "op": "replace",
+    "source": "Nova rends physical objects apart, slowly but surely. This strain decreases resistance to Electric, Fire, and Ice Damage. Also known as 'Nova Status'.",
+    "value": "诺瓦将物理物体撕裂，缓慢但肯定。这种应变降低了对电、火和冰损伤的抵抗力。也被称为“新星状态”。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/stunstatus/title",
+    "op": "replace",
+    "source": "^orange;Stun",
+    "value": "^orange;眩晕"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/stunstatus/children",
+    "op": "replace",
+    "source": "Stunned creatures cannot move, fly, float, go invisible, or do anything else for that matter, making them easy targets. In addition, they cannot deal damage just by being touched.",
+    "value": "受惊吓的生物不能移动，飞行，漂浮，隐身，或做任何其他事情，使他们容易成为目标。此外，它们不能仅仅被触摸就造成损害。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/disorientstatus/title",
+    "op": "replace",
+    "source": "^gray;Disorient",
+    "value": "^gray;迷失方向"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/disorientstatus/children",
+    "op": "replace",
+    "source": "Normally caused my excessive smoke inhalation, disoriented creatures move slower and jump lower.",
+    "value": "正常情况下会导致我吸入过多的烟雾，迷失方向的生物移动得更慢，跳得更低。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/dazestatus/title",
+    "op": "replace",
+    "source": "^magenta;Daze",
+    "value": "^magenta;"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/dazestatus/children",
+    "op": "replace",
+    "source": "The sweet smell leaves creatures confused, making them a lot slower.",
+    "value": "这股甜味让生物们感到困惑，让它们慢了很多。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/searstatus/title",
+    "op": "replace",
+    "source": "^red;Sear",
+    "value": "^red;灼热"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/embrittlestatus/title",
+    "op": "replace",
+    "source": "^blue;Embrittle",
+    "value": "^blue;脆"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/searstatus/children",
+    "op": "replace",
+    "source": "A lot more painful than simply burning, seared entities not only take fire damage, but they also do 25% less damage.",
+    "value": "比简单的燃烧更痛苦的是，被烧焦的实体不仅受到火的伤害，而且它们的伤害也减少了25%。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/embrittlestatus/children",
+    "op": "replace",
+    "source": "Almost frozen, creatures afflicted by this status burst when killed, and have -25% Physical Resistance. Embrittled creatures can be thawed while burning.",
+    "value": "几乎冻结，受此状态影响的生物在被杀时会爆裂，并有-25%的物理抵抗力。脆化的生物可以在燃烧时解冻。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/overloadstatus/title",
+    "op": "replace",
+    "source": "^yellow;Overload",
+    "value": "^yellow;超载"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/overloadstatus/children",
+    "op": "replace",
+    "source": "Much more potent than simply being electrified, overloaded creatures move 25% slower, and the lightning they chain causes the electrified status.",
+    "value": "超负荷的生物移动速度慢了25%，它们所连锁的闪电导致了带电状态。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/toxifystatus/title",
+    "op": "replace",
+    "source": "^green;Toxify",
+    "value": "^green;有毒"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/bleedstatus/title",
+    "op": "replace",
+    "source": "^red;Bleed",
+    "value": "^red;出血"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/toxifystatus/children",
+    "op": "replace",
+    "source": "Unlike regular poison, this status also reduces health by 25%.",
+    "value": "与普通毒药不同，这种状态也会降低25%的健康。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/camouflagestatus/title",
+    "op": "replace",
+    "source": "^gray;Camouflage",
+    "value": "^gray;伪装"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/bleedstatus/children",
+    "op": "replace",
+    "source": "Bleeding is caused by a critical hit. Resulting in an instant health loss relative to the damage taken, enemies inflicted by bleed also take more damage from Ice and Poison (Shadow, Cosmic, and Radioactive, as well). Also know as 'Weakened'.",
+    "value": "出血是由重击引起的。与所受伤害相比，流血造成的敌人会立即失去健康，同时也会受到冰和毒药（阴影、宇宙和放射性物质）的更多伤害。也被称为“虚弱”。"
+  },
+  {
+    "path": "/lore/children/mechanics/children/statuses/children/camouflagestatus/children",
+    "op": "replace",
+    "source": "Camouflage is a great way to remain in stealth, ensuring enemies can't attack you.",
+    "value": "伪装是一个很好的保持隐形的方法，确保敌人不能攻击你。"
   }
 ]

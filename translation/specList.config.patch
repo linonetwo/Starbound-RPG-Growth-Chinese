@@ -135,7 +135,7 @@
     "path": "/1/6/title",
     "op": "replace",
     "source": "Technomancer",
-    "value": "技术员"
+    "value": "技术法师"
   },
   {
     "path": "/1/7/title",
@@ -273,7 +273,7 @@
     "path": "/3/6/title",
     "op": "replace",
     "source": "Technomancer",
-    "value": "技术员"
+    "value": "技术法师"
   },
   {
     "path": "/3/7/title",

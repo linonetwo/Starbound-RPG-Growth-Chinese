@@ -171,7 +171,7 @@
     "path": "/1/6/title",
     "op": "replace",
     "source": "Technomancer",
-    "value": "技术员"
+    "value": "技术法师"
   },
   {
     "path": "/1/6/description",
@@ -231,7 +231,7 @@
     "path": "/2/2/description",
     "op": "replace",
     "source": "Despite having slightly lower Health\nand dealing a bit less Damage\n^#ffaafa;The Kunoichi\nGracfully Dances Among\nSnaps Of Her War-Fan\n^white;silencing whomever she pleases.",
-    "value": "尽管健康状况稍差"
+    "value": "尽管生命值略低\n并且伤害较小"
   },
   {
     "path": "/2/3/title",
@@ -357,13 +357,13 @@
     "path": "/3/6/title",
     "op": "replace",
     "source": "Technomancer",
-    "value": "技术员"
+    "value": "技术法师"
   },
   {
     "path": "/3/6/description",
     "op": "replace",
     "source": "Combining Science with Magic, the Technomancer dons elemental armor and uses both Wands and Ranged Weapons to get the job done. Technomancers enhance mundane weaponry with magic energy to increase damage output, making even weaker guns hit like trucks.",
-    "value": "将科学与魔法结合起来，技术员穿上元素盔甲，同时使用魔杖和远程武器完成任务。技术人员用魔法能量增强普通武器以增加伤害输出，使更弱的枪支像卡车一样受到攻击。"
+    "value": "将科学与魔法结合起来，技术法师穿上元素盔甲，同时使用魔杖和远程武器完成任务。技术人员用魔法能量增强普通武器以增加伤害输出，使更弱的枪支像卡车一样受到攻击。"
   },
   {
     "path": "/3/7/title",
