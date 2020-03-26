@@ -50,6 +50,7 @@ export default function tryTranslation(value: string | Object): Promise<string |
   if (!value) return Promise.resolve('');
   let lastResult = 'null';
   let retryCount = 0;
+  
   return promiseRetry(
     (retry, number) =>
       translate(replaceNto1111(value))
