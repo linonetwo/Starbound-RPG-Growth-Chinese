@@ -8,16 +8,16 @@ const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env
 
 function fixMistranslation(text: string) {
   return text
-    .replace(/\^?红色(：|:)/g, '^red;')
-    .replace(/\^?绿色(：|:)/g, '^green;')
-    .replace(/\^?白色(：|:)/g, '^white;')
-    .replace(/\^?黄色(：|:)/g, '^yellow;')
-    .replace(/\^?(橘|橙)色(：|:)/g, '^orange;')
-    .replace(/\^?灰色(：|:)/g, '^gray;')
-    .replace(/\^?蓝色(：|:)/g, '^blue;')
-    .replace(/\^?(品|洋)红色(：|:)/g, '^magenta;')
-    .replace(/\^?重置(：|:)/g, '^reset;')
-    .replace(/\^?暗影(：|:)/g, '^shadow;');
+    .replace(/\^?红色(：|:|；)?/g, '^red;')
+    .replace(/\^?绿色(：|:|；)?/g, '^green;')
+    .replace(/\^?白色(：|:|；)?/g, '^white;')
+    .replace(/\^?黄色(：|:|；)?/g, '^yellow;')
+    .replace(/\^?(橘|橙)色(：|:|；)?/g, '^orange;')
+    .replace(/\^?灰色(：|:|；)?/g, '^gray;')
+    .replace(/\^?蓝色(：|:|；)?/g, '^blue;')
+    .replace(/\^?(品|洋)红色?(：|:|；)?/g, '^magenta;')
+    .replace(/\^?重置(：|:|；)?/g, '^reset;')
+    .replace(/\^?暗影(：|:|；)?/g, '^shadow;');
 }
 
 export default function tryTranslation(value: string | Object): Promise<string | Object> {
