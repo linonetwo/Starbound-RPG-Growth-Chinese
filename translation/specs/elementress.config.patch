@@ -39,13 +39,13 @@
     "path": "/effects/3/text",
     "op": "replace",
     "source": "+20% Cosmic, Holy and Demonic Resistance",
-    "value": "+20%的宇宙、圣魔抵抗力"
+    "value": "+20%的宇宙、圣、魔抵抗力"
   },
   {
     "path": "/effects/4/text",
     "op": "replace",
     "source": "120% Base Power with Wands.",
-    "value": "120%的基础力量与魔杖。"
+    "value": "120%的基础力量在使用魔杖时。"
   },
   {
     "path": "/effects/5/text",

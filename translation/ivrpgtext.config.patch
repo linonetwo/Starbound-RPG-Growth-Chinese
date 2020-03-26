@@ -801,7 +801,7 @@
     "path": "/skill/children/body/title",
     "op": "replace",
     "source": "^#3c4fdc;Body^reset;",
-    "value": "^#3c4fdc；主体^reset;"
+    "value": "^#3c4fdc;身体^reset;"
   },
   {
     "path": "/skill/children/mind/children/bolsterspeed-form/title",
@@ -825,7 +825,7 @@
     "path": "/skill/children/mind/title",
     "op": "replace",
     "source": "^#c828c8;Mind^reset;",
-    "value": "^#c828c8；思维^reset;"
+    "value": "^#c828c8;思维^reset;"
   },
   {
     "path": "/skill/children/soul/children/armorup-determination/title",

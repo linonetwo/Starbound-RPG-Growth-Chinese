@@ -69,13 +69,13 @@
     "path": "/effects/5/text",
     "op": "replace",
     "source": "120% Base Power with Spears and Assault Rifles",
-    "value": "120%的基础力量，带长矛和突击步枪"
+    "value": "120%的基础力量，在使用长矛和突击步枪时"
   },
   {
     "path": "/effects/6/text",
     "op": "replace",
     "source": "110% Base Power with Quarterstaves",
-    "value": "110%基本攻击力，四分位"
+    "value": "110%基本攻击力，在使用铁头木棍时"
   },
   {
     "path": "/effects/4/text",
@@ -93,12 +93,12 @@
     "path": "/effects/8/text",
     "op": "replace",
     "source": "-33% Energy\nRecharge Rate",
-    "value": "- 33%能量"
+    "value": "-33%能量回复率"
   },
   {
     "path": "/effects/9/text",
     "op": "replace",
     "source": "+33% Energy\nRecharge Delay",
-    "value": "+33%能量"
+    "value": "+33%能量回复延迟"
   }
 ]

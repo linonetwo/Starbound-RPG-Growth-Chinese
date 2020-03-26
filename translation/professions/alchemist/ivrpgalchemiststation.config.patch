@@ -15,13 +15,13 @@
     "path": "/paneLayout/lblSchematics/value",
     "op": "replace",
     "source": "^#b9b5b2;BLUEPRINT",
-    "value": "^#b9b5b2；蓝图"
+    "value": "^#b9b5b2;蓝图"
   },
   {
     "path": "/paneLayout/lblProducttitle/value",
     "op": "replace",
     "source": "^#b9b5b2;PRODUCT",
-    "value": "^#b9b5b2；产品"
+    "value": "^#b9b5b2;产品"
   },
   {
     "path": "/paneLayout/btnCraft/caption",

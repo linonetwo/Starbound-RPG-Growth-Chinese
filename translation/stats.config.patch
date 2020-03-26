@@ -99,7 +99,7 @@
     "path": "/vigor/3/text",
     "op": "replace",
     "source": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved.",
-    "value": "^green;从20开始：^reset;\n经典模式的最大能量值惩罚减半\n由专精带来的最大能量值惩罚减半"
+    "value": "^green;从20活力开始：^reset;\n经典模式的最大能量值惩罚减半\n由专精带来的最大能量值惩罚减半"
   },
   {
     "path": "/intelligence/0/text",
@@ -129,7 +129,7 @@
     "path": "/intelligence/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Intelligence:^reset;\nClassic Mode penalty lowered to -50% for Staffs,\nand lowered to -25% for Mono-Wielded Wands.",
-    "value": "^green;从20个智力开始：^reset;\n经典模式的法杖相关惩罚 -50%\n单手法杖相关惩罚 -25%"
+    "value": "^green;从20智力开始：^reset;\n经典模式的法杖相关惩罚 -50%\n单手法杖相关惩罚 -25%"
   },
   {
     "path": "/endurance/0/text",

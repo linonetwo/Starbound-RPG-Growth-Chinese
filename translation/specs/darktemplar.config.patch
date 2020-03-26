@@ -51,7 +51,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "Press [H] (Bind [H] in your Controls) to toggle, immediately sacrificing 33% Max Health, dealing Demonic Damage to nearby enemies, and gaining +15% Power. While active: Health drains at a rate of 0.5% Max Health + 2 Health per Second; Power increases steadily up to 100% in 30 seconds; Bleed Damage dealt regens Health at a rate of 3 Damage to 1 Health; and you are immune to Healing Status.",
-    "value": "按[H]（在你的控制中绑定[H]）切换，立即牺牲33%的生命上限，对附近的敌人造成恶魔伤害，获得+15%的力量。活动时：生命值以每秒0.5%最大生命值+2生命值的速率流失；30秒内能量稳定增加到100%；造成的流血伤害以3点对1点的速率回复生命值；并且你对治疗状态免疫。"
+    "value": "按[H]（在你的控制中绑定[H]）切换，立即牺牲33%的生命上限，对附近的敌人造成恶魔伤害，获得+15%的力量。活动时：生命值以每秒0.5%最大生命值+2生命值的速率流失;30秒内能量稳定增加到100%;造成的流血伤害以3点对1点的速率回复生命值;并且你对治疗状态免疫。"
   },
   {
     "path": "/effects/6/text",

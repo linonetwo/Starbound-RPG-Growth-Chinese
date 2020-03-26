@@ -15,7 +15,7 @@
     "path": "/strength/2/text",
     "op": "replace",
     "source": "Slightly Increases One-Handed Melee Weapon Damage.^red; Doesn't stack with Dex.!^reset;",
-    "value": "稍微增加单手近战武器伤害。^red；不与Dex叠加。！^reset;"
+    "value": "稍微增加单手近战武器伤害。^red;不与Dex叠加。！^reset;"
   },
   {
     "path": "/strength/3/text",
@@ -27,7 +27,7 @@
     "path": "/strength/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Strength:^reset;\nClassic Mode penalty lowered to -50% for Two-Handed Melee Weapons,\nand lowered to -25% for Mono-Wielded One-Handed Melee Weapons.",
-    "value": "^green;从20级开始：^reset；"
+    "value": "^green;从20级开始：^reset\n双手近战武器的经典模式惩罚降低至-50％，单人近战近战武器降低至-25％。;"
   },
   {
     "path": "/agility/0/text",
@@ -57,7 +57,7 @@
     "path": "/agility/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Agility:^reset;\nClassic Mode penalty for Movement Speed and Jump Height halved.\nSpecialization penalty for Movement Speed and Jump Height halved.",
-    "value": "^green;从20敏捷开始：^reset；"
+    "value": "^green;从20敏捷开始：^reset;经典模式的移动速度惩罚和跳跃高度惩罚减半。\n移动速度和跳跃高度的专精惩罚减半。"
   },
   {
     "path": "/vitality/0/text",
@@ -75,7 +75,7 @@
     "path": "/vitality/2/text",
     "op": "replace",
     "source": "^green;Starting From 20 Vitality:^reset;\nClassic Mode penalty for Max Health and Food Delta halved.\nSpecialization penalty for Max Health and Food Delta halved.",
-    "value": "^green;从20开始活力：^reset；"
+    "value": "^green;从20质开始：^reset;经典模式的最大生命值惩罚和饱腹变化率惩罚减半\n由专精带来的最大生命值惩罚和饱腹变化率惩罚减半"
   },
   {
     "path": "/vigor/0/text",
@@ -99,13 +99,13 @@
     "path": "/vigor/3/text",
     "op": "replace",
     "source": "^green;Starting From 20 Vigor:^reset;\nClassic Mode penalties for Energy halved.\nSpecialization penalties for Energy halved.",
-    "value": "^green;从20开始活力：^reset;"
+    "value": "^green;从20活力开始：^reset;\n经典模式的最大能量值惩罚减半\n由专精带来的最大能量值惩罚减半"
   },
   {
     "path": "/intelligence/0/text",
     "op": "replace",
     "source": "Greatly Increases Staff Damage.",
-    "value": "极大的增加员工伤害。"
+    "value": "极大的增加法杖伤害。"
   },
   {
     "path": "/intelligence/1/text",
@@ -129,7 +129,7 @@
     "path": "/intelligence/4/text",
     "op": "replace",
     "source": "^green;Starting From 20 Intelligence:^reset;\nClassic Mode penalty lowered to -50% for Staffs,\nand lowered to -25% for Mono-Wielded Wands.",
-    "value": "^green;从20个智力开始：^reset；\n经典模式对法杖的惩罚降低到-50%\n-25% 对单持的法杖"
+    "value": "^green;从20智力开始：^reset;\n经典模式的法杖相关惩罚 -50%\n单手法杖相关惩罚 -25%"
   },
   {
     "path": "/endurance/0/text",
@@ -141,7 +141,7 @@
     "path": "/endurance/1/text",
     "op": "replace",
     "source": "Increases Knockback Resistance.",
-    "value": "增加击退阻力。"
+    "value": "增加击退免疫。"
   },
   {
     "path": "/endurance/2/text",
@@ -153,7 +153,7 @@
     "path": "/endurance/3/text",
     "op": "replace",
     "source": "^green;Starting From 20 Endurance:^reset;\nClassic Mode penalty for Armor and all Resistances halved.\nSpecialization penalty for Armor and all Resistances halved.",
-    "value": "^green;从20耐力开始：^reset；"
+    "value": "^green;从20耐力开始：^reset;\n经典模式的护甲惩罚和所有抗性惩罚减半\n由专精带来的护甲惩罚和所有抗性惩罚减半"
   },
   {
     "path": "/dexterity/0/text",
@@ -165,7 +165,7 @@
     "path": "/dexterity/1/text",
     "op": "replace",
     "source": "Slightly Increases One-Handed Weapon Damage.^red; Doesn't stack with Strength!^reset;",
-    "value": "稍微增加单手武器伤害。^red；没有力量叠加！^复位；"
+    "value": "稍微增加单手武器伤害。^red;没有力量叠加！^reset;"
   },
   {
     "path": "/dexterity/2/text",
@@ -183,6 +183,6 @@
     "path": "/default/0/text",
     "op": "replace",
     "source": "Click a stat's icon to see what occurs\nwhen that stat is raised.",
-    "value": "点击统计图标查看发生了什么"
+    "value": "点击统计图标查看提升该属性时会发生什么"
   }
 ]

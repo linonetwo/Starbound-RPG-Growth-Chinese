@@ -39,7 +39,7 @@
     "path": "/tech/text",
     "op": "replace",
     "source": "Press [F], [Shift], or [S] to shapeshift into one of three monsters: [F] for Wisper; [F] + [Shift] for Poptop; [F] + [S] for Orbide. Each transformation has a Passive and 4 Actions via Left Click, Right Click, [G], and [H]. While transformed, check the Unique Weapon box above for more info. After getting many kills, you may notice a bright flash: if so, press [Shift], [S], and [F] to ???.",
-    "value": "按[F]、[Shift]或[S]可变形为三个怪物之一：[F]表示Wisper；[F]+[Shift]表示Poptop；[F]+[S]表示Orbide。每个转换都有一个被动操作和通过左键单击、右键单击[G]和[H]执行的4个操作。转换后，查看上面的独特武器框以获取更多信息。在杀死很多人之后，你可能会注意到一道亮光：如果是，请按[Shift]、[S]和[F]来？？？。"
+    "value": "按[F]、[Shift]或[S]可变形为三个怪物之一：[F]表示Wisper;[F]+[Shift]表示Poptop;[F]+[S]表示Orbide。每个转换都有一个被动操作和通过左键单击、右键单击[G]和[H]执行的4个操作。转换后，查看上面的独特武器框以获取更多信息。在杀死很多人之后，你可能会注意到一道亮光：如果是，请按[Shift]、[S]和[F]来？？？。"
   },
   {
     "path": "/tech/transformBonusText/wisper/3/text",
