@@ -4,7 +4,7 @@ import { dirname } from 'path';
 import { it, _ } from 'param.macro';
 import { get, memoize, remove } from 'lodash';
 
-import { keysNeedTranslation } from './constants';
+import { keysNeedTranslation, textDonTNeedToTranslate } from './constants';
 import { keyPathInObject, delay } from './utils';
 import tryTranslation from './tryTranslation';
 
@@ -83,7 +83,7 @@ async function appendMissingTranslationItem(report: string[], outputDir: string)
         return;
       }
       // 不需要翻译的数字
-      if (source === '0' || source === 0) {
+      if (textDonTNeedToTranslate.includes(source)) {
         return;
       }
       let value = '';

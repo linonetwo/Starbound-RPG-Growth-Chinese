@@ -28,6 +28,10 @@ function fixMistranslation(text: string) {
     .replace(/魔术师们/g, '重甲战士们') // Juggernauts
     .replace(/技术员/g, '重甲战士们') // Technomancer
     .replace('\n个', '\n')
+    .replace(/(一次火灾|初级射击|主火|一次射击|初级火|一级火)/, '主要攻击') // Primary Fire
+    .replace(/(次要攻击|次要攻击)/, '次要攻击') // Secondary Fire
+    .replace('乙醚', '以太') // Aether
+    .replace('核磁共振', '生存食品包') // MRE+
 }
 
 function replaceNto1111(text: string) {

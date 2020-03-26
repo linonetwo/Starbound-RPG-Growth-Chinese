@@ -47,3 +47,4 @@ export const pathStopWordsForPatchFromSource = [
   'primaryScriptSources',
 ];
 export const opDoNotScan = ['test'];
+export const textDonTNeedToTranslate = ['0', 0, '-'];
