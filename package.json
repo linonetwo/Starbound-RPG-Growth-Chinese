@@ -5,12 +5,12 @@
   "author": "linonetwo",
   "license": "UNLICENSED",
   "scripts": {
-    "pack:mac": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_packer ./translation ./RPGGrowthChinese.pak && rimraf ./dist && mkdir ./dist && cp ./RPGGrowthChinese.pak ./dist/contents.pak",
-    "scan": "node ./scripts/index.js --scan",
-    "generate:test": "node ./scripts/index.js --generate test",
-    "try": "node ./scripts/index.js --try",
     "download:source": "rm -rf ./source && curl -LOk https://github.com/IcyVines/Starbound-RPG-Growth/archive/master.zip  && unzip ./master.zip && mv ./Starbound-RPG-Growth-master ./source && rm ./master.zip",
+    "scan": "node ./scripts/index.js --scan",
     "generate:overwrite-missing": "node ./scripts/index.js --generate overwrite-missing",
+    "pack:mac": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_packer ./translation ./RPGGrowthChinese.pak && rimraf ./dist && mkdir ./dist && cp ./RPGGrowthChinese.pak ./dist/contents.pak",
+    "try": "node ./scripts/index.js --try",
+    "generate:test": "node ./scripts/index.js --generate test",
     "unpack:mac": "~/Library/'Application Support'/Steam/SteamApps/common/Starbound/osx/asset_unpacker ./RPGGrowthChinese.pak ./translation.from.pak"
   },
   "dependencies": {

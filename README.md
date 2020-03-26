@@ -4,6 +4,23 @@
 
 下载地址：[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=1727230748) [非 Steam 直接下载](https://github.com/linonetwo/Starbound-RPG-Growth-Chinese/releases)
 
+## 自动化翻译
+
+在 clone 到本地后，装好 nodejs 环境，并在此文件夹里 `npm i` 过之后：
+
+```shell
+npm run download:source # 下载原版英文内容
+npm run scan # 扫描当前翻译结果有哪些需要补充、哪些需要新增、哪些需要删除
+npm run generate:overwrite-missing # 开始自动翻译
+```
+
+主要，需要创建一个 `.env` 文件，内写上百度翻译后台注册得到的两个值：
+
+```env
+TRANSLATION_APP_ID=20190429000292817
+TRANSLATION_SECRET=zEah9krJpPiesWKhfSJG
+```
+
 ## Contribute
 
 如果你在游戏过程中发现不当的翻译，或者有未翻译的内容，可以在 issue 里提出，或顺手作出修改：
