@@ -633,7 +633,7 @@
     "path": "/skill/children/body/children/trueunderstanding/children",
     "op": "replace",
     "source": "Understand the physique of the opposite gender. Progresses the ability to equip Specializations of the opposite gender by one-third.\nIn order to equip Specializations of the opposite gender, 'Mind - True Understanding' and 'Soul - True Understanding' must also be equipped.\n\nIf any 'True Understanding' Skills are unequipped while a Specialization of the opposite gender is equipped, that Specialization is unequipped.",
-    "value": "了解异性的体格。提高装备异性专长的能力三分之一。"
+    "value": "了解异性的体格。提高装备异性专长的能力三分之一。\n为了装备异性专长，“心灵-真实理解”和“灵魂-真实理解”也必须装备。\n\n如果任何“真正的理解”技能是未装备的，而另一性别的专业化是装备的，则该专业化是未装备的。"
   },
   {
     "path": "/skill/children/body/children/armorup-function/title",
@@ -735,7 +735,7 @@
     "path": "/skill/children/mind/children/trueunderstanding/children",
     "op": "replace",
     "source": "Understand the mentality of the opposite gender. Progresses the ability to equip Specializations of the opposite gender by one-third.\nIn order to equip Specializations of the opposite gender, 'Body - True Understanding' and 'Soul - True Understanding' must also be equipped.\n\nIf any 'True Understanding' Skills are unequipped while a Specialization of the opposite gender is equipped, that Specialization is unequipped.",
-    "value": "了解异性的心态。提高装备异性专长的能力三分之一。"
+    "value": "了解异性的心态。提高装备异性专长的能力三分之一。\n为了装备异性专长，“身体-真实理解”和“灵魂-真实理解”也必须装备。\n\n如果任何“真正的理解”技能是未装备的，而另一性别的专业化是装备的，则该专业化是未装备的。"
   },
   {
     "path": "/skill/children/soul/children/truesight/title",

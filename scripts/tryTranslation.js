@@ -25,11 +25,11 @@ function fixMistranslation(text: string) {
 
 function replaceNto1111(text: string) {
   // 防止 \n 影响了翻译
-  return text.replace('\n', ' 1111 ')
+  return text.replace('\n\n', ' 2222 ').replace('\n', ' 1111 ')
 }
 function replace1111toN(text: string) {
   // 防止 \n 影响了翻译
-  return text.replace('1111', '\n')
+  return text.replace('1111', '\n').replace('2222', '\n\n')
 }
 
 export default function tryTranslation(value: string | Object): Promise<string | Object> {
