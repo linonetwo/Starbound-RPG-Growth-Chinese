@@ -2,36 +2,14 @@
 import { read, readAsync, writeAsync, dirAsync } from 'fs-jetpack';
 import { dirname } from 'path';
 import { it, _ } from 'param.macro';
-import BaiduTranslate from 'baidu-translate';
-import promiseRetry from 'promise-retry';
 import { get, memoize, remove } from 'lodash';
-import dotenv from 'dotenv';
 
 import { keysNeedTranslation } from './constants';
 import { keyPathInObject, delay } from './utils';
+import tryTranslation from './tryTranslation';
 
-dotenv.config();
-const translate = new BaiduTranslate(process.env.TRANSLATION_APP_ID, process.env.TRANSLATION_SECRET, 'zh', 'en');
-function tryTranslation(value: string | Object): Promise<string | Object> {
-  if (typeof value !== 'string') return Promise.resolve(value);
-  if (!value) return Promise.resolve('');
-  return promiseRetry((retry, number) =>
-    translate(value)
-      .then(({ trans_result: result }) => {
-        if (result && result.length > 0) {
-          const [{ dst }] = result;
-          return dst;
-        }
-        console.log('Translation Error: ', result, 'From: ', value.substring(0, 15));
-        retry();
-      })
-      .catch(error => {
-        console.error('Translation Error: ', error, 'Retry: ', number);
-        retry();
-      }),
-      { retries: 100, maxTimeout: 10000, randomize: true },
-  );
-}
+const DELAY_BEFORE_START = 200;
+const DELAY_BETWEEN_EACH = 500;
 
 /** 补齐翻译文件缺失 */
 async function generateMissingTranslationFiles(report: string[], outputDir: string) {
@@ -47,14 +25,14 @@ async function generateMissingTranslationFiles(report: string[], outputDir: stri
       readAsync(`source/${aPath}`, 'json')
         .then(fileJSON => keyPathInObject(fileJSON, keysNeedTranslation))
         .then(async itt => {
-          await delay(50 * fileIndex);
+          await delay(DELAY_BEFORE_START * fileIndex);
           return itt;
         })
         .then(places =>
           Promise.all(
             places.map(async ({ value, path }, index) => {
               // 自动翻译
-              await delay(250 * index);
+              await delay(DELAY_BETWEEN_EACH * index);
               let translationResult = '';
               try {
                 translationResult = await tryTranslation(value);
@@ -99,7 +77,7 @@ async function appendMissingTranslationItem(report: string[], outputDir: string)
       const dotBasedKeyPath = keyPath.substring(1).split('/');
       const source = get(sourceJSON, dotBasedKeyPath);
 
-      await delay(50 * index);
+      await delay(DELAY_BEFORE_START * index);
       if (!source) {
         console.warn('!source in appendMissingTranslationItem', source, keyPath, sourceFilePath, translationFilePath);
       }
