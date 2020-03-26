@@ -25,6 +25,7 @@ export const keysNeedTranslation = [
   'shortdescription',
   'label',
   'weaponText',
+  'unlockText',
 ];
 export const keyMaybeDatabaseID = ['name'];
 /** 如果这些 key 和 keyMaybeDatabaseID 一同出现，就实锤了 keyMaybeDatabaseID 是 databaseID */

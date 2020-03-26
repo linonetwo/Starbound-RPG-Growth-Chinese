@@ -642,12 +642,6 @@
     "value": "接触无情的戟，这种戟有着深远的摆动，可以引起巨大的爆炸。"
   },
   {
-    "path": "/0/6/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/1/3/weaponText/0",
     "op": "replace",
     "source": "Gain access to Eclipse, a Wand that spawns seeking shards of Nova Energy.",
@@ -750,30 +744,6 @@
     "value": "获得进入闪光步，一种技术，取代跳跃与不稳定，定向传送。"
   },
   {
-    "path": "/2/5/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
-    "path": "/2/4/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
-    "path": "/2/6/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
-    "path": "/1/8/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/2/8/weaponText/0",
     "op": "replace",
     "source": "Gain access to Heartless, a Halberd with far-reaching swings that can cause massive explosions.",
@@ -870,12 +840,6 @@
     "value": "获得莲花，一个狙击步枪，可以创造致命的气体云击败敌人。"
   },
   {
-    "path": "/3/5/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/3/4/weaponText/1",
     "op": "replace",
     "source": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly.",
@@ -892,12 +856,6 @@
     "op": "replace",
     "source": "Gain access to Dragon's Leap, a Tech that upgrades Knight's Slam with phenomenal Jump Height and a better Slam explosion.",
     "value": "获得龙跃，一个技术升级骑士的大满贯与惊人的跳跃高度和更好的大满贯爆炸。"
-  },
-  {
-    "path": "/3/8/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/4/0/weaponText/1",
@@ -978,28 +936,10 @@
     "value": "进入天网，这是一种可以制造多架友军无人机的技术，或者重型自动炮塔。"
   },
   {
-    "path": "/4/6/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
-    "path": "/4/7/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
     "path": "/5/0/weaponText/0",
     "op": "replace",
     "source": "Gain access to Nautilus, a One-handed Tool that can be used to nullify all environmental damage as well as ease movement in all liquids.",
     "value": "获得鹦鹉螺，一个单手工具，可以用来消除所有的环境损害，并缓解在所有液体中的移动。"
-  },
-  {
-    "path": "/4/8/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   },
   {
     "path": "/1/0/weaponText/0",
@@ -1060,5 +1000,329 @@
     "op": "replace",
     "source": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly.",
     "value": "使用Rush，这是一种可以让你快速接近并攻击敌人的技术。"
+  },
+  {
+    "path": "/0/0/unlockText",
+    "op": "replace",
+    "source": "Perfect Shield the Heart of Ruin's tentacles one time.",
+    "value": "完美的盾牌毁灭之心的触手一次。"
+  },
+  {
+    "path": "/0/1/unlockText",
+    "op": "replace",
+    "source": "Use a Hammer to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "value": "用锤子打败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/0/4/unlockText",
+    "op": "replace",
+    "source": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards. Unlocked faster by defeating higher tier enemies.",
+    "value": "用大刀打败敌人。通过击败邪教或鸟类寺庙守卫解锁更快。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/0/5/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/0/7/unlockText",
+    "op": "replace",
+    "source": "Use a Spear to defeat enemies, or take fall damage. Unlocked faster by defeating higher tier enemies, or the Bone Dragon.",
+    "value": "使用长矛击败敌人，或受到坠落伤害。通过击败更高等级的敌人，或骨龙，解锁更快。"
+  },
+  {
+    "path": "/1/1/unlockText",
+    "op": "replace",
+    "source": "Defeat enemies with Two-Handed Melee Weapons while Strength, Vitality, and Intelligence are at least 20. Unlocked faster by defeating higher tier enemies.",
+    "value": "用双手近战武器击败敌人，力量，活力和智力至少为20。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/1/2/unlockText",
+    "op": "replace",
+    "source": "Defeat enemies while Intelligence is 50. Unlocked faster by defeating higher tier enemies.",
+    "value": "在智力为50时击败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/1/0/unlockText",
+    "op": "replace",
+    "source": "Defeat enemies while your current health is lower than 30% of your max health. Gain more progress the lower your Health. Unlocked faster by defeating higher tier enemies.",
+    "value": "在当前生命值低于最大生命值30%时击败敌人。健康越差，进步越大。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/0/2/unlockText",
+    "op": "replace",
+    "source": "Use Spears, Katanas, or Bows to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "value": "使用长矛、武士刀或弓箭来击败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/0/6/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/1/7/unlockText",
+    "op": "replace",
+    "source": "Defeat enemies. Wisper, Poptop, and Orbide give more progress. Unlocked faster by defeating higher tier enemies.",
+    "value": "击败敌人。Wisper、Poptop和Orbide提供了更多的进度。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/0/8/unlockText",
+    "op": "replace",
+    "source": "Slaughter enemies. Unlocked faster by defeating higher tier enemies, or by killing enemies via Critical Hits.",
+    "value": "屠杀敌人。通过击败更高等级的敌人或通过重击杀死敌人，解锁速度更快。"
+  },
+  {
+    "path": "/2/1/unlockText",
+    "op": "replace",
+    "source": "Use Bows to defeat enemies. Unlocked faster by defeating higher tier enemies or by defeating enemies from a distance.",
+    "value": "用弓击败敌人。通过击败更高等级的敌人或从远处击败敌人，解锁速度更快。"
+  },
+  {
+    "path": "/1/3/unlockText",
+    "op": "replace",
+    "source": "Defeat enemies with Nova, Fire, Ice, or Electric Damage. Unlocked faster by defeating higher tier enemies.",
+    "value": "用新星、火、冰或电伤害击败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/2/2/unlockText",
+    "op": "replace",
+    "source": "Using a Dagger, Kunai, Shuriken, or War-Fan, defeat enemies while Agility is higher than 30. Unlocked faster by defeating higher tier enemies.",
+    "value": "使用匕首，库奈，舒利肯，或者战机，在敏捷度超过30的时候击败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/2/8/unlockText",
+    "op": "replace",
+    "source": "Slaughter enemies. Unlocked faster by defeating higher tier enemies, or by killing enemies via Critical Hits.",
+    "value": "屠杀敌人。通过击败更高等级的敌人或通过重击杀死敌人，解锁速度更快。"
+  },
+  {
+    "path": "/2/7/unlockText",
+    "op": "replace",
+    "source": "Defeat enemies. Wisper, Poptop, and Orbide give more progress. Unlocked faster by defeating higher tier enemies.",
+    "value": "击败敌人。Wisper、Poptop和Orbide提供了更多的进度。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/1/5/unlockText",
+    "op": "replace",
+    "source": "Defeat Gosmet, Skimbus, Spookit, Wisper, Squeem, or Tentacle Ghosts while Intelligence is greater than 40. Unlocked faster by defeating higher tier enemies.",
+    "value": "当智力大于40时，击败格斯米特、斯基布、斯普基特、威斯珀、斯奎姆或触手鬼。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/3/0/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/3/2/unlockText",
+    "op": "replace",
+    "source": "Use ranged weapons to defeat bandits, outlaws, cultists, and prisoners. Unlocked faster by defeating higher tier enemies.",
+    "value": "使用远程武器击败土匪、不法分子、邪教分子和囚犯。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/2/3/unlockText",
+    "op": "replace",
+    "source": "Survive for 30 seconds right underneath the Heart of Ruin while both Intelligence and Agility are greater than 40.",
+    "value": "在废墟的心脏下存活30秒，同时智力和敏捷都大于40。"
+  },
+  {
+    "path": "/3/3/unlockText",
+    "op": "replace",
+    "source": "Use ranged weapons to deal damage quickly after Perfect Shielding. Damage that deals a final blow is tripled.",
+    "value": "使用远程武器在完美掩护后迅速造成伤害。造成最后一击的伤害是原来的三倍。"
+  },
+  {
+    "path": "/3/5/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/3/4/unlockText",
+    "op": "replace",
+    "source": "Use ranged weapons to defeat enemies within 7 blocks. Unlocked faster by defeating higher tier enemies.",
+    "value": "使用远程武器在7个街区内击败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/3/8/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/1/8/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/3/1/unlockText",
+    "op": "replace",
+    "source": "Use Ranged Weapons to defeat enemies from a distance. Unlocked faster by defeating higher tier enemies.",
+    "value": "使用远程武器从远处击败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/4/0/unlockText",
+    "op": "replace",
+    "source": "Defeat enemies while wielding a Shortsword in one hand and a Grenade Launcher in the other. Unlocked faster by defeating higher tier enemies.",
+    "value": "一手拿短剑，一手拿榴弹发射器，打败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/4/2/unlockText",
+    "op": "replace",
+    "source": "Use the Vine Whip to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "value": "用藤鞭打败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/4/1/unlockText",
+    "op": "replace",
+    "source": "Use Ranged Weapons, Daggers, Fists/Claws, or Whips to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "value": "使用远程武器、匕首、拳头/爪子或鞭子打败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/4/4/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/3/7/unlockText",
+    "op": "replace",
+    "source": "Use a Spear to defeat enemies, or take fall damage. Unlocked faster by defeating higher tier enemies, or the Bone Dragon.",
+    "value": "使用长矛击败敌人，或受到坠落伤害。通过击败更高等级的敌人，或骨龙，解锁更快。"
+  },
+  {
+    "path": "/4/5/unlockText",
+    "op": "replace",
+    "source": "Defeat Gosmet, Skimbus, Spookit, Wisper, Squeem, or Tentacle Ghosts while Intelligence is greater than 40. Unlocked faster by defeating higher tier enemies.",
+    "value": "当智力大于40时，击败格斯米特、斯基布、斯普基特、威斯珀、斯奎姆或触手鬼。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/4/6/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/3/6/unlockText",
+    "op": "replace",
+    "source": "Defeat enemied with Nova, Fire, Ice, Electric, or Poison Damage. Defeating enemies with the Flamethrower grants bonus progress. Unlocked faster by defeating higher tier enemies.",
+    "value": "用新星、火、冰、电或毒药伤害击败敌人。用火焰喷射器击败敌人可以获得额外的进步。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/4/7/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/4/8/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/5/0/unlockText",
+    "op": "replace",
+    "source": "Explore various planets for more than 3 minutes each.",
+    "value": "探索不同的行星，每次超过3分钟。"
+  },
+  {
+    "path": "/2/4/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/5/1/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/2/0/unlockText",
+    "op": "replace",
+    "source": "Use Daggers or Fist Weapons to defeat enemies. Unlocked faster by defeating higher tier enemies.",
+    "value": "使用匕首或拳头武器击败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/5/3/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/5/2/unlockText",
+    "op": "replace",
+    "source": "Have a current Crew Complement of 4 or more.",
+    "value": "现有4人或4人以上。"
+  },
+  {
+    "path": "/5/4/unlockText",
+    "op": "replace",
+    "source": "Use ranged weapons to defeat enemies within 7 blocks. Unlocked faster by defeating higher tier enemies.",
+    "value": "使用远程武器在7个街区内击败敌人。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/5/5/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/5/6/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/2/5/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/5/7/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/5/8/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/0/3/unlockText",
+    "op": "replace",
+    "source": "Use Spears or Shortswords to defeat enemies. Unlocked faster by defeating higher tier enemies. Take damage from a 250-block high fall without dying to unlock immediately.",
+    "value": "用长矛或短剑打败敌人。通过击败更高等级的敌人解锁更快。从一个250块高的坠落中吸取伤害，不要急于立即解锁。"
+  },
+  {
+    "path": "/4/3/unlockText",
+    "op": "replace",
+    "source": "Defeat enemies from behind. Doing so with Ranged Weapons, Bows, or Daggers grants bonus progress.",
+    "value": "从背后打败敌人。使用远程武器、弓或匕首可以获得额外的进步。"
+  },
+  {
+    "path": "/1/4/unlockText",
+    "op": "replace",
+    "source": "Use a Broadsword to defeat enemies. Unlocked faster by defeating Cultists or Avian Temple Guards. Unlocked faster by defeating higher tier enemies.",
+    "value": "用大刀打败敌人。通过击败邪教或鸟类寺庙守卫解锁更快。通过击败更高等级的敌人解锁更快。"
+  },
+  {
+    "path": "/2/6/unlockText",
+    "op": "replace",
+    "source": "Currently unavailable. Unlock requirements will be added soon.",
+    "value": "当前不可用。解锁要求将很快添加。"
+  },
+  {
+    "path": "/1/6/unlockText",
+    "op": "replace",
+    "source": "Defeat enemied with Nova, Fire, Ice, Electric, or Poison Damage. Defeating enemies with the Flamethrower grants bonus progress. Unlocked faster by defeating higher tier enemies.",
+    "value": "用新星、火、冰、电或毒药伤害击败敌人。用火焰喷射器击败敌人可以获得额外的进步。通过击败更高等级的敌人解锁更快。"
   }
 ]

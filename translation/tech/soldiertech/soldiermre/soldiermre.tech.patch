@@ -9,5 +9,11 @@
     "op": "replace",
     "source": "zbomb",
     "value": "Z炸弹"
+  },
+  {
+    "path": "/shortDescription",
+    "op": "replace",
+    "source": "MRE",
+    "value": "生存食品包"
   }
 ]

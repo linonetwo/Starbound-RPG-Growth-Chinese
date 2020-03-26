@@ -175,6 +175,8 @@ https://github.com/IcyVines/Starbound-RPG-Growth/issues/6
 
 ### 翻译了数据库中的索引 ID
 
+注意不要翻译 source 都是小写的，它们很有可能是游戏内使用的物品 ID、技能 ID 等，翻译了游戏就找不到它们了。
+
 比如不小心把这个东西翻译了加到 `translation/specList.config.patch` 里：
 
 ```json
