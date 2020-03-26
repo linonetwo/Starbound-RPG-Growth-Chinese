@@ -27,7 +27,7 @@
     "path": "/effects/2/text",
     "op": "replace",
     "source": "Strength x2",
-    "value": "强度x2"
+    "value": "力量x2"
   },
   {
     "path": "/effects/1/text",

@@ -32,6 +32,7 @@ function fixMistranslation(text: string) {
     .replace(/(次要攻击|次要攻击)/, '次要攻击') // Secondary Fire
     .replace('乙醚', '以太') // Aether
     .replace('核磁共振', '生存食品包') // MRE+
+    .replace('电阻', '豁免') // Physical Resistance
 }
 
 function replaceNto1111(text: string) {

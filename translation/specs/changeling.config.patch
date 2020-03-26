@@ -15,7 +15,7 @@
     "path": "/effects/2/text",
     "op": "replace",
     "source": "+10% Physical Resistance",
-    "value": "+10%物理电阻"
+    "value": "+10%物理豁免"
   },
   {
     "path": "/effects/1/text",
@@ -69,7 +69,7 @@
     "path": "/tech/transformBonusText/adultpoptop/0/text",
     "op": "replace",
     "source": "+10% Physical Resistance",
-    "value": "+10%物理电阻"
+    "value": "+10%物理豁免"
   },
   {
     "path": "/tech/transformBonusText/poptop/2/text",
@@ -81,7 +81,7 @@
     "path": "/tech/transformBonusText/poptop/0/text",
     "op": "replace",
     "source": "+10% Physical Resistance",
-    "value": "+10%物理电阻"
+    "value": "+10%物理豁免"
   },
   {
     "path": "/tech/transformBonusText/poptop/7/text",
@@ -111,7 +111,7 @@
     "path": "/tech/transformBonusText//2/text",
     "op": "replace",
     "source": "+10% Physical Resistance",
-    "value": "+10%物理电阻"
+    "value": "+10%物理豁免"
   },
   {
     "path": "/tech/transformBonusText/giant/0/text",
@@ -195,7 +195,7 @@
     "path": "/tech/transformBonusText/giant/3/text",
     "op": "replace",
     "source": "+10% Physical Resistance",
-    "value": "+10%物理电阻"
+    "value": "+10%物理豁免"
   },
   {
     "path": "/tech/transformBonusText/adultpoptop/4/text",
@@ -213,7 +213,7 @@
     "path": "/tech/transformBonusText/orbide/0/text",
     "op": "replace",
     "source": "+10% Physical Resistance",
-    "value": "+10%物理电阻"
+    "value": "+10%物理豁免"
   },
   {
     "path": "/tech/transformBonusText/orbide/5/text",
@@ -225,7 +225,7 @@
     "path": "/tech/transformBonusText/orbide/1/text",
     "op": "replace",
     "source": "+50% Ice, Fire, and Electric Resistance",
-    "value": "+50%冰、火和电阻"
+    "value": "+50%冰、火和豁免"
   },
   {
     "path": "/tech/transformBonusText/adultpoptop/6/text",
@@ -255,7 +255,7 @@
     "path": "/tech/transformBonusText/wisper/0/text",
     "op": "replace",
     "source": "+10% Physical Resistance",
-    "value": "+10%物理电阻"
+    "value": "+10%物理豁免"
   },
   {
     "path": "/classic/0/text",
@@ -273,7 +273,7 @@
     "path": "/tech/transformBonusText/adultpoptop/3/text",
     "op": "replace",
     "source": "Strength x5",
-    "value": "强度x5"
+    "value": "力量x5"
   },
   {
     "path": "/effects/0/text",
@@ -285,13 +285,13 @@
     "path": "/tech/transformBonusText/poptop/3/text",
     "op": "replace",
     "source": "Strength x2",
-    "value": "强度x2"
+    "value": "力量x2"
   },
   {
     "path": "/tech/transformBonusText/wisper/6/text",
     "op": "replace",
     "source": "-50% Max Health",
-    "value": "-生命上限50%"
+    "value": "-50%生命上限"
   },
   {
     "path": "/tech/transformBonusText/orbide/2/text",
@@ -303,12 +303,6 @@
     "path": "/tech/transformBonusText/orbide/3/text",
     "op": "replace",
     "source": "-25% Max Health",
-    "value": "-生命上限25%"
-  },
-  {
-    "path": "/weapon/text/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
+    "value": "-25%生命上限"
   }
 ]

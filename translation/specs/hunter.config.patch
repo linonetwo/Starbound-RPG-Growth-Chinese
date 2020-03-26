@@ -45,7 +45,7 @@
     "path": "/effects/4/text",
     "op": "replace",
     "source": "+25% Electric, Fire, and Nova Resistance.",
-    "value": "+25%的电、火和新星电阻。"
+    "value": "+25%的电、火和新星豁免。"
   },
   {
     "path": "/effects/5/text",

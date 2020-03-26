@@ -693,7 +693,7 @@
     "path": "/1/6/weaponText/1",
     "op": "replace",
     "source": "Gain access to Elemental Overcharge, a Tech that upgrades Magic Shield with improved Element Resistance and Increased Power.",
-    "value": "获得元素过充，一项技术，升级魔法盾与提高元素电阻和功率。"
+    "value": "获得元素过充，一项技术，升级魔法盾与提高元素豁免和功率。"
   },
   {
     "path": "/1/7/weaponText/0",
@@ -933,7 +933,7 @@
     "path": "/3/6/weaponText/1",
     "op": "replace",
     "source": "Gain access to Elemental Overcharge, a Tech that upgrades Magic Shield with improved Element Resistance and Increased Power.",
-    "value": "获得元素过充，一项技术，升级魔法盾与提高元素电阻和功率。"
+    "value": "获得元素过充，一项技术，升级魔法盾与提高元素豁免和功率。"
   },
   {
     "path": "/4/2/weaponText/1",
@@ -1060,29 +1060,5 @@
     "op": "replace",
     "source": "Gain access to Rush, a Tech that lets you travel towards and attack enemies near instantly.",
     "value": "使用Rush，这是一种可以让你快速接近并攻击敌人的技术。"
-  },
-  {
-    "path": "/5/5/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
-    "path": "/5/6/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
-    "path": "/5/7/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
-  },
-  {
-    "path": "/5/8/weaponText/0",
-    "op": "replace",
-    "source": "-",
-    "value": "-"
   }
 ]

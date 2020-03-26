@@ -57,7 +57,7 @@
     "path": "/effects/6/text",
     "op": "replace",
     "source": "-10% Physical Resistance",
-    "value": "-10%物理电阻"
+    "value": "-10%物理豁免"
   },
   {
     "path": "/tech/title",

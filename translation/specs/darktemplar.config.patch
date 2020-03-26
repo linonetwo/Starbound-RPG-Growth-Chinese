@@ -63,7 +63,7 @@
     "path": "/effects/9/text",
     "op": "replace",
     "source": "-20% Electric Resistance",
-    "value": "-20%电阻"
+    "value": "-20%豁免"
   },
   {
     "path": "/effects/7/text",
