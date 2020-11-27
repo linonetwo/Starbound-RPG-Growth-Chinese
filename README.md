@@ -1,3 +1,7 @@
+已弃坑，请采用 https://steamcommunity.com/sharedfiles/filedetails/?id=1929019607  ， Github 反馈地址 https://github.com/diskrubbish/Starbound-RPG-Growth-Chinese/commits
+
+我最近精力集中在 https://github.com/tiddly-gittly/TiddlyGit-Desktop 和 https://github.com/linonetwo/Eternity-Foundation 上，精力有限不再维护此翻译脚本，如果有空我也会去上述新的翻译 Mod 里做贡献，希望大家跟着我一起过去！谢谢
+
 # Starbound-RPG-Growth-Chinese
 
 [Starbound Mod RPG Growth](https://github.com/IcyVines/Starbound-RPG-Growth) 汉化
